@@ -37,7 +37,7 @@
   {"id": "vt-035", "ww": "dansen", "slot": "vt.ev", "zin": "Op de bruiloft van vorige week ___ opa de hele avond met oma.", "sleutel": "opa", "tijd": "vorige week"},
   {"id": "vt-036", "ww": "leren", "slot": "vt.ev", "zin": "Vroeger ___ ik de tafels met een liedje.", "sleutel": "ik", "tijd": "Vroeger"},
   {"id": "vt-037", "ww": "hoesten", "slot": "vt.ev", "zin": "Vannacht ___ mijn buurman de hele nacht door.", "sleutel": "mijn buurman", "tijd": "Vannacht"},
-  {"id": "vt-038", "ww": "branden", "slot": "vt.ev", "zin": "Gisteravond ___ er de hele avond een kaars op tafel.", "sleutel": "een kaars", "tijd": "Gisteravond"},
+  {"id": "vt-038", "ww": "branden", "slot": "vt.ev", "zin": "Gisteravond ___ er een kaars op tafel.", "sleutel": "een kaars", "tijd": "Gisteravond"},
   {"id": "vt-039", "ww": "bloeden", "slot": "vt.ev", "zin": "Na de val van gisteren ___ mijn knie flink.", "sleutel": "mijn knie", "tijd": "gisteren"},
   {"id": "vt-040", "ww": "lachen", "slot": "vt.mv", "zin": "Op het feest van gisteren ___ de kinderen om de grappige clown.", "sleutel": "de kinderen", "tijd": "gisteren"},
   {"id": "vt-041", "ww": "bakken", "slot": "vt.ev", "zin": "Vorig jaar ___ mijn oom voor mijn verjaardag een appeltaart.", "sleutel": "mijn oom", "tijd": "Vorig jaar"},

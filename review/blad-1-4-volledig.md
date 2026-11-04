@@ -34,19 +34,19 @@ Bij reisen: reisen: het hele werkwoord schrijf je met een z. De s hoort alleen b
 **Hint 3:** Na een werkwoord als willen, moeten, kunnen, mogen, gaan, zullen of laten, of na te en om te, komt het hele werkwoord (de infinitief). / Voorbeeld: Ik moet morgen tot vijf uur werken.  
 
 ## eng-032 (toets 1, Engelse werkwoorden)
-**Zin:** Zaterdag ___ de spits in de laatste minuut het winnende doelpunt.  
+**Zin:** Afgelopen zaterdag ___ de spits in de laatste minuut het winnende doelpunt.  
 **Opties:** 1. scoorte   2. scoorde   3. scoorden  
 **Sleutel:** 2. scoorde  
 **Regel:** vt-de  
 **Uitleg:** De laatste letter van de stam is een r. Die zit niet in 't kofschip, dus -de. Zo krijg je: scoorde.  
-Stap 1: Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘Zaterdag’). Het onderwerp is ‘de spits’.  
+Stap 1: Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘Afgelopen zaterdag’). Het onderwerp is ‘de spits’.  
 Stap 2: De stam: ik scoor.  
 Stap 3: De regel: Verleden tijd van een zwak werkwoord: zit de laatste letter van de stam niet in 't kofschip? Dan stam + de.  
 Bij scoorte: scoorte: kijk nog eens naar 't kofschip. De laatste letter van de stam is een r. Die zit niet in 't kofschip, dus -de.  
 Bij scoorden: scoorden is de vorm voor meervoud. ‘de spits’ is enkelvoud.  
 **Onthoud:** Stam + de als de laatste letter niet in 't kofschip zit.  
 **Hint 1:** Welke vorm of tijd is dit? Let op de woorden om de open plek heen.  
-**Hint 2:** Stap 1: Speelt het zich nu af of in het verleden? Let op ‘Zaterdag’. / Stap 2: Hoort er -te of -de achter? Dan is het een zwak werkwoord. / Stap 3: Wat is de stam, en zit de laatste letter in 't kofschip? Is het onderwerp meervoud? Dan komt er nog een -n achter.  
+**Hint 2:** Stap 1: Speelt het zich nu af of in het verleden? Let op ‘Afgelopen zaterdag’. / Stap 2: Hoort er -te of -de achter? Dan is het een zwak werkwoord. / Stap 3: Wat is de stam, en zit de laatste letter in 't kofschip? Is het onderwerp meervoud? Dan komt er nog een -n achter.  
 **Hint 3:** Verleden tijd van een zwak werkwoord: zit de laatste letter van de stam niet in 't kofschip? Dan stam + de. / Voorbeeld: De baby huilde de hele nacht.  
 
 ## vt-044 (toets 1, Verleden tijd, instinker)
@@ -685,7 +685,7 @@ Bij verhuisde: verhuisde is de vorm voor één persoon of ding. ‘wij’ is mee
 **Hint 3:** Eindigt het hele werkwoord op -ven of -zen (leven, reizen)? Haal -en eraf en kijk naar die v of z. Die zitten niet in 't kofschip, dus -de. / Voorbeeld: Mijn overgrootvader leefde op een boerderij.  
 
 ## vt-038 (toets 1 (reserve), Verleden tijd, instinker)
-**Zin:** Gisteravond ___ er de hele avond een kaars op tafel.  
+**Zin:** Gisteravond ___ er een kaars op tafel.  
 **Opties:** 1. brandde   2. brandte   3. brande  
 **Sleutel:** 1. brandde  
 **Regel:** vt-stam-d  
@@ -1254,18 +1254,18 @@ Bij zing: zing is de stam. Bij meervoud gebruik je het hele werkwoord.
 **Hint 3:** Is het onderwerp meervoud (wij, jullie, zij, de kinderen)? Dan gebruik je het hele werkwoord. / Voorbeeld: Mijn ouders werken allebei in de zorg.  
 
 ## od-034 (toets 2, Onvoltooid deelwoord, instinker)
-**Zin:** Er stond een ___ publiek voor de deur.  
+**Zin:** Bij de halte stond een ___ meisje met een grote koffer.  
 **Opties:** 1. wachtende   2. wachtent   3. wachtend  
 **Sleutel:** 3. wachtend  
 **Regel:** od-een-het  
-**Uitleg:** Het hoort bij een het-woord met ‘een’ ervoor (‘een publiek’). Dan komt er geen -e achter: wachtend.  
-Stap 1: Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij ‘een publiek’.  
+**Uitleg:** Het hoort bij een het-woord met ‘een’ ervoor (‘een meisje’). Dan komt er geen -e achter: wachtend.  
+Stap 1: Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij ‘een meisje’.  
 Stap 2: De regel: Onvoltooid deelwoord bij een het-woord in het enkelvoud met een, geen of zo'n ervoor (een lachend kind): geen -e. Met het ervoor wel (het lachende kind).  
 Bij wachtende: wachtende: na ‘een’ met een het-woord komt er geen -e achter.  
 Bij wachtent: wachtent: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent.  
 **Onthoud:** Een + het-woord: geen -e erachter.  
 **Hint 1:** Welke vorm of tijd is dit? Let op de woorden om de open plek heen.  
-**Hint 2:** Stap 1: Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord. / Stap 2: Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘publiek’. / Stap 3: Moet er een -e achter? Let op het woordje ervoor (de, het, een).  
+**Hint 2:** Stap 1: Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord. / Stap 2: Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘meisje’. / Stap 3: Moet er een -e achter? Let op het woordje ervoor (de, het, een).  
 **Hint 3:** Onvoltooid deelwoord bij een het-woord in het enkelvoud met een, geen of zo'n ervoor (een lachend kind): geen -e. Met het ervoor wel (het lachende kind). / Voorbeeld: Ik hoorde een huilend kind in de trein.  
 
 ## vd-071 (toets 2, Voltooid deelwoord)

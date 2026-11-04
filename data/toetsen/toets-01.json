@@ -100,7 +100,7 @@
    "slot": "vt.ev",
    "regel": "vt-de",
    "instinker": false,
-   "zin": "Zaterdag ___ de spits in de laatste minuut het winnende doelpunt.",
+   "zin": "Afgelopen zaterdag ___ de spits in de laatste minuut het winnende doelpunt.",
    "antwoord": "scoorde",
    "afleiders": [
     {
@@ -117,7 +117,7 @@
    "uitleg": {
     "kort": "De laatste letter van de stam is een r. Die zit niet in 't kofschip, dus -de. Zo krijg je: scoorde.",
     "stappen": [
-     "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘Zaterdag’). Het onderwerp is ‘de spits’.",
+     "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘Afgelopen zaterdag’). Het onderwerp is ‘de spits’.",
      "De stam: ik scoor.",
      "De regel: Verleden tijd van een zwak werkwoord: zit de laatste letter van de stam niet in 't kofschip? Dan stam + de."
     ],
@@ -129,7 +129,7 @@
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "Stap 1: Speelt het zich nu af of in het verleden? Let op ‘Zaterdag’.\nStap 2: Hoort er -te of -de achter? Dan is het een zwak werkwoord.\nStap 3: Wat is de stam, en zit de laatste letter in 't kofschip? Is het onderwerp meervoud? Dan komt er nog een -n achter.",
+    "Stap 1: Speelt het zich nu af of in het verleden? Let op ‘Afgelopen zaterdag’.\nStap 2: Hoort er -te of -de achter? Dan is het een zwak werkwoord.\nStap 3: Wat is de stam, en zit de laatste letter in 't kofschip? Is het onderwerp meervoud? Dan komt er nog een -n achter.",
     "Verleden tijd van een zwak werkwoord: zit de laatste letter van de stam niet in 't kofschip? Dan stam + de.\nVoorbeeld: De baby huilde de hele nacht."
    ],
    "opties": [
@@ -1983,7 +1983,7 @@
    "slot": "vt.ev",
    "regel": "vt-stam-d",
    "instinker": true,
-   "zin": "Gisteravond ___ er de hele avond een kaars op tafel.",
+   "zin": "Gisteravond ___ er een kaars op tafel.",
    "antwoord": "brandde",
    "afleiders": [
     {
@@ -2571,5 +2571,5 @@
    "goed": 1
   }
  ],
- "hash": "401f1ac8d99d6073"
+ "hash": "6135c6cbc06997fb"
 }

@@ -31,7 +31,7 @@
   {"id": "eng-029", "ww": "sprinten", "slot": "vt.ev", "zin": "Vanochtend ___ mijn moeder naar de bus.", "sleutel": "mijn moeder", "tijd": "Vanochtend"},
   {"id": "eng-030", "ww": "smashen", "slot": "vt.ev", "zin": "Gisteren ___ mijn tennisleraar de bal keihard over het net.", "sleutel": "mijn tennisleraar", "tijd": "Gisteren"},
   {"id": "eng-031", "ww": "saven", "slot": "vd", "zin": "Heb je het document wel ___?", "sleutel": "Heb"},
-  {"id": "eng-032", "ww": "scoren", "slot": "vt.ev", "zin": "Zaterdag ___ de spits in de laatste minuut het winnende doelpunt.", "sleutel": "de spits", "tijd": "Zaterdag"},
+  {"id": "eng-032", "ww": "scoren", "slot": "vt.ev", "zin": "Afgelopen zaterdag ___ de spits in de laatste minuut het winnende doelpunt.", "sleutel": "de spits", "tijd": "Afgelopen zaterdag"},
   {"id": "eng-033", "ww": "uploaden", "slot": "vt.ev", "zin": "Gisteravond ___ hij de foto's meteen naar zijn computer.", "sleutel": "hij", "tijd": "Gisteravond"},
   {"id": "eng-034", "ww": "uploaden", "slot": "tt.hij", "zin": "Mijn zus ___ elke week een nieuwe video.", "sleutel": "Mijn zus"},
   {"id": "eng-035", "ww": "deleten", "slot": "vd", "zin": "Ik heb die oude foto's allemaal ___.", "sleutel": "heb"},

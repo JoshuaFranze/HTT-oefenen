@@ -33,6 +33,6 @@
   {"id": "od-031", "ww": "fluiten", "slot": "od.e", "zin": "Ik werd wakker van de ___ ketel in de keuken.", "sleutel": "ketel"},
   {"id": "od-032", "ww": "hangen", "slot": "od.e", "zin": "Pas op voor de ___ takken boven het pad.", "sleutel": "takken"},
   {"id": "od-033", "ww": "zingen", "slot": "od.kaal", "zin": "Ze liep ___ door de gang."},
-  {"id": "od-034", "ww": "wachten", "slot": "od.kaal", "zin": "Er stond een ___ publiek voor de deur.", "sleutel": "publiek", "eenHet": true}
+  {"id": "od-034", "ww": "wachten", "slot": "od.kaal", "zin": "Bij de halte stond een ___ meisje met een grote koffer.", "sleutel": "meisje", "eenHet": true}
  ]
 }

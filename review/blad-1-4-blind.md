@@ -8,7 +8,7 @@ Kies bij elke zin de juist gespelde werkwoordsvorm (1, 2 of 3). Er is steeds pre
 **inf-004** — Na mijn studie ga ik een jaar ___.  
 1. reizen   2. reist   3. reisen
 
-**eng-032** — Zaterdag ___ de spits in de laatste minuut het winnende doelpunt.  
+**eng-032** — Afgelopen zaterdag ___ de spits in de laatste minuut het winnende doelpunt.  
 1. scoorte   2. scoorde   3. scoorden
 
 **vt-044** — Hoe lang ___ jij gisteren nog op het feest?  
@@ -131,7 +131,7 @@ Kies bij elke zin de juist gespelde werkwoordsvorm (1, 2 of 3). Er is steeds pre
 **vt-008** — Twee jaar geleden ___ wij van Arnhem naar Zwolle.  
 1. verhuisten   2. verhuisden   3. verhuisde
 
-**vt-038** — Gisteravond ___ er de hele avond een kaars op tafel.  
+**vt-038** — Gisteravond ___ er een kaars op tafel.  
 1. brandde   2. brandte   3. brande
 
 **vd-007** — Wie heeft deze dozen in de gang ___?  
@@ -239,7 +239,7 @@ Kies bij elke zin de juist gespelde werkwoordsvorm (1, 2 of 3). Er is steeds pre
 **tt-071** — In de kerk ___ de mensen samen een lied.  
 1. zingen   2. zingt   3. zing
 
-**od-034** — Er stond een ___ publiek voor de deur.  
+**od-034** — Bij de halte stond een ___ meisje met een grote koffer.  
 1. wachtende   2. wachtent   3. wachtend
 
 **vd-071** — Ik heb je net een berichtje ___.  

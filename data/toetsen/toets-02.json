@@ -1064,7 +1064,7 @@
    "slot": "od.kaal",
    "regel": "od-een-het",
    "instinker": true,
-   "zin": "Er stond een ___ publiek voor de deur.",
+   "zin": "Bij de halte stond een ___ meisje met een grote koffer.",
    "antwoord": "wachtend",
    "afleiders": [
     {
@@ -1079,9 +1079,9 @@
     }
    ],
    "uitleg": {
-    "kort": "Het hoort bij een het-woord met ‘een’ ervoor (‘een publiek’). Dan komt er geen -e achter: wachtend.",
+    "kort": "Het hoort bij een het-woord met ‘een’ ervoor (‘een meisje’). Dan komt er geen -e achter: wachtend.",
     "stappen": [
-     "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij ‘een publiek’.",
+     "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij ‘een meisje’.",
      "De regel: Onvoltooid deelwoord bij een het-woord in het enkelvoud met een, geen of zo'n ervoor (een lachend kind): geen -e. Met het ervoor wel (het lachende kind)."
     ],
     "perAfleider": {
@@ -1092,7 +1092,7 @@
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "Stap 1: Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\nStap 2: Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘publiek’.\nStap 3: Moet er een -e achter? Let op het woordje ervoor (de, het, een).",
+    "Stap 1: Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\nStap 2: Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘meisje’.\nStap 3: Moet er een -e achter? Let op het woordje ervoor (de, het, een).",
     "Onvoltooid deelwoord bij een het-woord in het enkelvoud met een, geen of zo'n ervoor (een lachend kind): geen -e. Met het ervoor wel (het lachende kind).\nVoorbeeld: Ik hoorde een huilend kind in de trein."
    ],
    "opties": [
@@ -2571,5 +2571,5 @@
    "goed": 1
   }
  ],
- "hash": "f82edefe9b92d89d"
+ "hash": "1b691d89282e08c5"
 }
