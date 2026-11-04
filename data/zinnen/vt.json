@@ -32,7 +32,7 @@
   {"id": "vt-030", "ww": "bellen", "slot": "vt.ev", "zin": "Mijn oma ___ gisteren drie keer naar de huisarts.", "sleutel": "Mijn oma", "tijd": "gisteren"},
   {"id": "vt-031", "ww": "stoppen", "slot": "vt.ev", "zin": "Gisteren ___ de trein onverwacht midden in het weiland.", "sleutel": "de trein", "tijd": "Gisteren"},
   {"id": "vt-032", "ww": "kloppen", "slot": "vt.ev", "zin": "Gisteravond ___ er iemand op de voordeur.", "sleutel": "iemand", "tijd": "Gisteravond"},
-  {"id": "vt-033", "ww": "huilen", "slot": "vt.mv", "zin": "Vannacht ___ beide baby's tegelijk toen de bel ging.", "sleutel": "beide baby's", "tijd": "Vannacht"},
+  {"id": "vt-033", "ww": "huilen", "slot": "vt.mv", "zin": "Afgelopen nacht ___ beide baby's tegelijk toen de bel ging.", "sleutel": "beide baby's", "tijd": "Afgelopen nacht"},
   {"id": "vt-034", "ww": "spelen", "slot": "vt.mv", "zin": "Vroeger ___ wij elke zomer in het bos achter ons huis.", "sleutel": "wij", "tijd": "Vroeger"},
   {"id": "vt-035", "ww": "dansen", "slot": "vt.ev", "zin": "Op de bruiloft van vorige week ___ opa de hele avond met oma.", "sleutel": "opa", "tijd": "vorige week"},
   {"id": "vt-036", "ww": "leren", "slot": "vt.ev", "zin": "Vroeger ___ ik de tafels met een liedje.", "sleutel": "ik", "tijd": "Vroeger"},

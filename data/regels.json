@@ -10,7 +10,7 @@
      "Is het een opdracht zonder onderwerp (Pak het boek.)? Dan is het een gebiedende wijs.",
      "Is het de persoonsvorm? Zet de zin in een andere tijd (nu of vroeger), maak hem meervoud of maak er een vraag van. Het werkwoord dat dan van vorm of plek verandert, is de persoonsvorm.",
      "Persoonsvorm? Bepaal de tijd met tijdwoorden (gisteren, vorig jaar, vroeger, nu, morgen) en met de tijd van de andere werkwoorden. Zoek het onderwerp: wie of wat doet het? Is het enkelvoud of meervoud? Is jij, je of u het onderwerp, en staat het voor of achter de persoonsvorm? Betekent je hier jouw?",
-     "Geen persoonsvorm? Gebruik de vervangtruc: zet er een sterk werkwoord in, bijvoorbeeld schrijven. Past schrijft of schreef? Dan is het een persoonsvorm. Past schrijven (ik wil schrijven)? Dan is het het hele werkwoord. Past geschreven (ik heb geschreven, de geschreven brief)? Dan is het een voltooid deelwoord. Past schrijvend(e)? Dan is het een onvoltooid deelwoord.",
+     "Twijfel je welke vorm het is? Gebruik de vervangtruc: zet er een sterk werkwoord in, bijvoorbeeld schrijven. Past schrijft of schreef? Dan is het een persoonsvorm. Past schrijven (ik wil schrijven)? Dan is het het hele werkwoord. Past geschreven (ik heb geschreven, de geschreven brief)? Dan is het een voltooid deelwoord. Past schrijvend(e)? Dan is het een onvoltooid deelwoord.",
      "Klinken twee opties hetzelfde (verhuist en verhuisd, verbrandde en verbrande)? Bepaal dan eerst met de vervangtruc welke vorm het is. Daarna weet je welke spelling hoort.",
      "Hoort het voltooid of onvoltooid deelwoord bij een zelfstandig naamwoord (de geschreven brief, de huilende peuter)? Dan moet je straks nog kijken of er een -e achter komt."
     ]
@@ -20,24 +20,25 @@
     "tekst": "De stam is meestal de ik-vorm: ik werk, ik word, ik leef, ik reis. Werkt dat niet (het regent), haal dan -en van het hele werkwoord af en pas de spelling aan.",
     "punten": [
      "Eindigt een Nederlands werkwoord op -ven of -zen (leven, reizen)? In de stam wordt dat een f of s: ik leef, ik reis.",
-     "In de stam schrijf je een lange aa, ee, oo of uu dubbel (ik loop). In het hele werkwoord staat die klank aan het eind van een lettergreep (lo-pen), en dan schrijf je één klinker. Bij ie, oe, eu en ui verandert er niets: kiezen, ik kies.",
+     "Staat er een lange aa, ee, oo of uu vlak voor de laatste medeklinker? Dan schrijf je die in de stam dubbel (lopen, ik loop; spelen, ik speel). In het hele werkwoord staat die klank aan het eind van een lettergreep (lo-pen), en dan schrijf je één klinker. Bij tekenen en openen blijft het ik teken, ik open. Bij ie, oe, eu en ui verandert er niets: kiezen, ik kies.",
      "Een dubbele medeklinker wordt enkel: zetten, ik zet.",
-     "Engelse werkwoorden: de stam is het Engelse woord (race, update, crash). Een e blijft staan."
+     "Engelse werkwoorden: de stam is het Engelse woord (race, update, crash). Een e blijft staan. Wordt het werkwoord al op z'n Nederlands geschreven (scoren, googelen)? Dan is de stam gewoon de ik-vorm (ik scoor, ik googel)."
     ]
    },
    {
     "titel": "Stap 3: Welke regel hoort erbij?",
     "tekst": "Kies de regel die bij de vorm van stap 1 hoort.",
     "punten": [
-     "Tegenwoordige tijd: ik + stam. Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud? Dan stam + t. Eindigt de stam al op t? Dan geen extra t. Is jij of je het onderwerp en staat het achter het werkwoord? Dan komt er geen t bij. Is u het onderwerp? Dan wel een t, ook achteraan. Meervoud: het hele werkwoord.",
+     "Tegenwoordige tijd: ik + stam. Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud? Dan stam + t. Eindigt de stam al op t? Dan geen extra t. Is jij of je het onderwerp en staat het achter het werkwoord? Dan komt er geen t bij. Is u het onderwerp? Dan wel een t, ook achteraan. Meervoud: het hele werkwoord. Een paar werkwoorden zijn onregelmatig (hij heeft, hij kan, hij is).",
+     "Hele werkwoord (infinitief): na willen, moeten, kunnen, mogen, gaan, zullen of laten, of na te, schrijf je het werkwoord zoals in het woordenboek (verhuizen, antwoorden).",
      "Zwak of sterk? Zeg: gisteren … ik. Hoor je -te of -de (werkte, woonde)? Dan is het zwak. Verandert de klinker en hoor je geen -te of -de (liep, schreef)? Dan is het sterk. Een paar werkwoorden zijn onregelmatig en leer je los (kocht, dacht, bracht). Voor het voltooid deelwoord zeg je: ik heb ge… en luister of het op -en eindigt (gevraagd, gelachen).",
      "Verleden tijd, zwak werkwoord: eindigt de stam op t, k, f, s, ch, p of x (de letters van 't kofschip)? Dan stam + te(n). Anders stam + de(n). Eindigt het hele werkwoord op -ven of -zen? Kijk dan naar de v of z: -de(n). Eindigt de stam al op t of d? Dan krijg je tt of dd (zette, landde).",
      "Verleden tijd, sterk werkwoord: de klinker verandert (lopen, liep). Er komt geen extra t bij, ook niet bij jij. Voor het meervoud zeg je het hardop met wij (wij liepen, wij schreven, wij zaten).",
      "Voltooid deelwoord, zwak werkwoord: ge + stam + t of d, met dezelfde regel van 't kofschip en dezelfde -ven/-zen-regel (geleefd, gereisd). Eindigt de stam al op t of d? Dan komt er niets meer achter (gezet, geland).",
      "Voltooid deelwoord, sterk werkwoord: ge + … + en, soms met een andere klinker (gelopen, geschreven, gebroken). Sommige werkwoorden zijn gemengd (lachen, lachte, gelachen).",
      "Geen ge-: bij het voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon (betaald, verteld), en bij samengestelde werkwoorden met voor-, over-, door-, onder-, om- of mis- die je niet kunt splitsen (voorspeld, overlegd). Scheidbaar werkwoord (opbellen: ik bel op)? Dan komt de ge- in het midden (opgebeld).",
-     "Voltooid deelwoord bij een zelfstandig naamwoord: + e (de gemaakte afspraak), en schrijf het dan volgens de gewone spellingregels (de gezette koffie). Geen -e als het op -en eindigt (het gebroken glas), en ook niet bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een gekookt ei, gekookt water).",
-     "Onvoltooid deelwoord: hele werkwoord + d (lachend). Bij een zelfstandig naamwoord + e (een lachende baby), behalve bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een lachend kind, kokend water).",
+     "Voltooid deelwoord bij een zelfstandig naamwoord: + e (de gemaakte afspraak), en schrijf het dan volgens de gewone spellingregels (de gezette koffie). Geen -e als het op -en eindigt (het gebroken glas), en ook niet bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor of zonder lidwoord (een gekookt ei, gekookt water).",
+     "Onvoltooid deelwoord: hele werkwoord + d (lachend). Bij een zelfstandig naamwoord + e (een lachende baby), behalve bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor of zonder lidwoord (een lachend kind, kokend water).",
      "Gebiedende wijs: de stam, zonder extra t (Word niet boos.).",
      "Engelse werkwoorden: dezelfde regels, maar je luistert naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (ra-cen: s, dus racete). Is die stemloos, zoals de klanken van 't kofschip of sj (je keel trilt niet)? Dan -te of -t."
     ]
@@ -63,7 +64,7 @@
    ]
   },
   "tt-t": {
-   "regel": "Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud (hij, zij, het, mijn broer, de trein, iemand, dat)? Dan stam + t.",
+   "regel": "Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud (hij, zij, het, mijn broer, de trein, iemand, dat)? Dan stam + t. Een paar veelgebruikte werkwoorden zijn onregelmatig (hij heeft, hij kan, hij wil, hij is).",
    "voorbeelden": [
     {
      "ww": "werken",
@@ -409,7 +410,7 @@
    ]
   },
   "vd-leen-klank": {
-   "regel": "Bij een Engels werkwoord is de stam het Engelse woord (race, like, time). Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort. Is die stemloos (je keel trilt niet)? Dan ge + stam + t, anders ge + stam + d. Eindigt de stam al op t of d? Dan komt er niets meer achter (geprint, gedownload).",
+   "regel": "Bij een Engels werkwoord is de stam het Engelse woord, met de e (update, like, time). Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort. Is die stemloos (je keel trilt niet)? Dan ge + stam + t, anders ge + stam + d (geüpdatet, getimed). Alleen als de stam zelf op een t of d eindigt (print, download), komt er niets meer achter.",
    "voorbeelden": [
     {
      "ww": "racen",
@@ -517,7 +518,7 @@
    ]
   },
   "vd-sterk": {
-   "regel": "Een sterk werkwoord heeft een voltooid deelwoord met ge + … + en, soms met een andere klinker (gelopen, geschreven, gebroken).",
+   "regel": "Een sterk werkwoord heeft een voltooid deelwoord met ge + … + en, soms met een andere klinker (gelopen, geschreven, gebroken). Een paar korte werkwoorden doen anders (gedaan, gezien).",
    "voorbeelden": [
     {
      "ww": "lopen",
@@ -619,7 +620,7 @@
    ]
   },
   "inf": {
-   "regel": "Na een werkwoord als willen, moeten, kunnen, mogen, gaan, zullen of laten, of na te en om te, komt het hele werkwoord (de infinitief). Staat er achteraan nog hebben, zijn of worden (het moet geverfd worden)? Dan is het een voltooid deelwoord.",
+   "regel": "Na een werkwoord als willen, moeten, kunnen, mogen, gaan, zullen of laten, of na te en om te, komt meestal het hele werkwoord (de infinitief). Staat er achteraan nog hebben, zijn of worden (het moet geverfd worden)? Dan is het een voltooid deelwoord.",
    "voorbeelden": [
     {
      "ww": "werken",
@@ -636,7 +637,7 @@
    ]
   },
   "gw": {
-   "regel": "Een gebiedende wijs is een opdracht zonder onderwerp. Het is de stam. Eindigt de stam op t, dan staat die t er gewoon (Zet de stoel neer). Staat er u bij (Komt u binnen), dan is het een persoonsvorm met u als onderwerp.",
+   "regel": "Een gebiedende wijs is een opdracht zonder onderwerp. Het is de stam (bij zijn: wees). Eindigt de stam op t, dan staat die t er gewoon (Zet de stoel neer). Staat er u bij (Komt u binnen), dan is het geen gebiedende wijs met alleen de stam, maar een vorm met t.",
    "voorbeelden": [
     {
      "ww": "werken",
