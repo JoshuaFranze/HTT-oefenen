@@ -66,19 +66,19 @@ Bij deze afleider: reisen: het hele werkwoord schrijf je met een z. De s hoort a
 **Hint 3:** Na een werkwoord als willen, moeten, kunnen, mogen, gaan, zullen of laten, of na te en om te, komt meestal het hele werkwoord (de infinitief). Staat er achteraan nog hebben, zijn of worden (het moet geverfd worden)? Dan is het een voltooid deelwoord. / Voorbeeld: Ik moet morgen tot vijf uur werken.  
 
 ## eng-009 (toets 1, Engelse werkwoorden, instinker)
-**Zin:** Die auto heeft veel te hard door de straat ___.  
+**Zin:** Heb jij wel eens op een echt circuit ___?  
 **Opties:** 1. geraced   2. geracet   3. geracetd  
 **Sleutel:** 2. geracet  
 **Regel:** vd-leen-klank  
 **Uitleg:** racen is een Engels werkwoord. De stam is het Engelse woord: race. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (ra-cen): een s. De s is stemloos, net als de klanken van 't kofschip, dus een t. Het wordt ge + race + t: geracet.  
-Stap 1: Welke vorm? Er staat al een vorm van hebben, zijn of worden in de zin (‘heeft’), en het werkwoord hoort daarbij. Dus dit is een voltooid deelwoord.  
+Stap 1: Welke vorm? Er staat al een vorm van hebben, zijn of worden in de zin (‘Heb’), en het werkwoord hoort daarbij. Dus dit is een voltooid deelwoord.  
 Stap 2: De stam: ik race (het Engelse woord, met de e).  
 Stap 3: De regel: Bij een Engels werkwoord is de stam het Engelse woord, met de e (update, like, time). Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort. Is die stemloos (je keel trilt niet)? Dan ge + stam + t, anders ge + stam + d (geüpdatet, getimed). Alleen als de stam zelf op een t of d eindigt (print, download), komt er niets meer achter.  
 Bij deze afleider: geraced: kijk nog eens naar 't kofschip. racen is een Engels werkwoord. De stam is het Engelse woord: race. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (ra-cen): een s. De s is stemloos, net als de klanken van 't kofschip, dus een t.  
 Bij deze afleider: geracetd: er komt maar één letter achter de stam, een t óf een d. Niet allebei.  
 **Onthoud:** Bij Engelse werkwoorden luister je naar de laatste klank van de stam.  
 **Hint 1:** Welke vorm of tijd is dit? Let op de woorden om de open plek heen.  
-**Hint 2:** • Staat er een hulpwerkwoord (hebben, zijn of worden) in de zin, en hoort het werkwoord daarbij? Let op ‘heeft’. / • Is het een Engels werkwoord? De stam is dan het Engelse woord. / • Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort. Is die stemloos (trilt je keel niet)? Dan een t.  
+**Hint 2:** • Staat er een hulpwerkwoord (hebben, zijn of worden) in de zin, en hoort het werkwoord daarbij? Let op ‘Heb’. / • Is het een Engels werkwoord? De stam is dan het Engelse woord. / • Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort. Is die stemloos (trilt je keel niet)? Dan een t.  
 **Hint 3:** Bij een Engels werkwoord is de stam het Engelse woord, met de e (update, like, time). Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort. Is die stemloos (je keel trilt niet)? Dan ge + stam + t, anders ge + stam + d (geüpdatet, getimed). Alleen als de stam zelf op een t of d eindigt (print, download), komt er niets meer achter. / Voorbeeld: Mijn computer is weer gecrasht.  
 
 ## tt-032 (toets 1, Tegenwoordige tijd, instinker)
@@ -4632,7 +4632,7 @@ Bij deze afleider: downloade: hier mist een d. De stam download eindigt al op ee
 **Hint 3:** Zwak werkwoord met een stam op d? Dan stam + de. Zo krijg je twee d's. / Voorbeeld: Het vliegtuig landde precies op tijd.  
 
 ## bvd-029 (trainer, Bijvoeglijk gebruikt voltooid deelwoord, instinker)
-**Zin:** De kinderen kwamen binnen in een feestelijk ___ lokaal.  
+**Zin:** De kinderen kwamen een feestelijk ___ lokaal binnen.  
 **Opties:** 1. versierde   2. versierd   3. versiert  
 **Sleutel:** 2. versierd  
 **Regel:** bvd-een-het  
@@ -4776,7 +4776,7 @@ Bij deze afleider: gebruikten: er komt alleen een -e achter, geen -en.
 **Hint 3:** Voltooid deelwoord bij een zelfstandig naamwoord: + e (de gemaakte afspraak). Geen -e als het op -en eindigt (het gebroken glas), en ook niet bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een gekookt ei, gekookt water). / Voorbeeld: De gemaakte afspraken staan in mijn agenda.  
 
 ## bvd-001 (trainer, Bijvoeglijk gebruikt voltooid deelwoord)
-**Zin:** Het pas ___ gezin moest nog wennen aan de nieuwe buurt.  
+**Zin:** Het net ___ gezin moest nog wennen aan de nieuwe buurt.  
 **Opties:** 1. verhuisdte   2. verhuisde   3. verhuisden  
 **Sleutel:** 2. verhuisde  
 **Regel:** bvd-e  

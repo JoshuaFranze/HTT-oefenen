@@ -3163,7 +3163,7 @@
    "slot": "bvd.kaal",
    "regel": "bvd-een-het",
    "instinker": true,
-   "zin": "De kinderen kwamen binnen in een feestelijk ___ lokaal.",
+   "zin": "De kinderen kwamen een feestelijk ___ lokaal binnen.",
    "antwoord": "versierd",
    "afleiders": [
     {
@@ -3577,7 +3577,7 @@
    "slot": "bvd.e",
    "regel": "bvd-e",
    "instinker": false,
-   "zin": "Het pas ___ gezin moest nog wennen aan de nieuwe buurt.",
+   "zin": "Het net ___ gezin moest nog wennen aan de nieuwe buurt.",
    "antwoord": "verhuisde",
    "afleiders": [
     {
@@ -3617,5 +3617,5 @@
    "goed": 1
   }
  ],
- "hash": "fdd6c22cdb659d02"
+ "hash": "8949412e3b91c8ed"
 }

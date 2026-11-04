@@ -1,6 +1,6 @@
 {
  "zinnen": [
-  {"id": "bvd-001", "ww": "verhuizen", "slot": "bvd.e", "zin": "Het pas ___ gezin moest nog wennen aan de nieuwe buurt.", "sleutel": "gezin"},
+  {"id": "bvd-001", "ww": "verhuizen", "slot": "bvd.e", "zin": "Het net ___ gezin moest nog wennen aan de nieuwe buurt.", "sleutel": "gezin"},
   {"id": "bvd-002", "ww": "betalen", "slot": "bvd.e", "zin": "De ___ bedragen staan op je afschrift.", "sleutel": "bedragen"},
   {"id": "bvd-003", "ww": "maken", "slot": "bvd.e", "zin": "De ___ afspraken staan in de agenda.", "sleutel": "afspraken"},
   {"id": "bvd-004", "ww": "koken", "slot": "bvd.e", "zin": "De ___ aardappels moeten nog even afkoelen.", "sleutel": "aardappels"},
@@ -28,7 +28,7 @@
   {"id": "bvd-026", "ww": "inpakken", "slot": "bvd.kaal", "zin": "Op tafel lag een mooi ___ cadeau.", "sleutel": "cadeau", "eenHet": true},
   {"id": "bvd-027", "ww": "opruimen", "slot": "bvd.kaal", "zin": "Ik word blij van een ___ huis.", "sleutel": "huis", "eenHet": true},
   {"id": "bvd-028", "ww": "verbouwen", "slot": "bvd.kaal", "zin": "Het café zit nu in een ___ pand aan de gracht.", "sleutel": "pand", "eenHet": true},
-  {"id": "bvd-029", "ww": "versieren", "slot": "bvd.kaal", "zin": "De kinderen kwamen binnen in een feestelijk ___ lokaal.", "sleutel": "lokaal", "eenHet": true},
+  {"id": "bvd-029", "ww": "versieren", "slot": "bvd.kaal", "zin": "De kinderen kwamen een feestelijk ___ lokaal binnen.", "sleutel": "lokaal", "eenHet": true},
   {"id": "bvd-030", "ww": "verhuren", "slot": "bvd.e", "zin": "Het ___ huisje lag vlak bij het strand.", "sleutel": "huisje"},
   {"id": "bvd-031", "ww": "verdienen", "slot": "bvd.e", "zin": "De ploeg vierde de ___ overwinning.", "sleutel": "overwinning"},
   {"id": "bvd-032", "ww": "veranderen", "slot": "bvd.e", "zin": "Door het ___ rooster ben ik later vrij.", "sleutel": "rooster"},

@@ -14,7 +14,7 @@ Kies bij elke zin de juist gespelde werkwoordsvorm (1, 2 of 3). Er is steeds pre
 **inf-004** — Na mijn studie ga ik een jaar ___.  
 1. reist   2. reisen   3. reizen
 
-**eng-009** — Die auto heeft veel te hard door de straat ___.  
+**eng-009** — Heb jij wel eens op een echt circuit ___?  
 1. geraced   2. geracet   3. geracetd
 
 **tt-032** — De docent ___ alle vragen na de les.  
@@ -881,7 +881,7 @@ Kies bij elke zin de juist gespelde werkwoordsvorm (1, 2 of 3). Er is steeds pre
 **eng-003** — Gisteren ___ ik de nieuwste versie van het spel.  
 1. downloadte   2. downloade   3. downloadde
 
-**bvd-029** — De kinderen kwamen binnen in een feestelijk ___ lokaal.  
+**bvd-029** — De kinderen kwamen een feestelijk ___ lokaal binnen.  
 1. versierde   2. versierd   3. versiert
 
 **bvd-025** — We zwommen in een ___ zwembad.  
@@ -908,5 +908,5 @@ Kies bij elke zin de juist gespelde werkwoordsvorm (1, 2 of 3). Er is steeds pre
 **bvd-021** — De ___ bekers mogen in de vaatwasser.  
 1. gebruikte   2. gebruiktte   3. gebruikten
 
-**bvd-001** — Het pas ___ gezin moest nog wennen aan de nieuwe buurt.  
+**bvd-001** — Het net ___ gezin moest nog wennen aan de nieuwe buurt.  
 1. verhuisdte   2. verhuisde   3. verhuisden

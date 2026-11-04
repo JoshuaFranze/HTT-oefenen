@@ -8,7 +8,7 @@
   {"id": "eng-006", "ww": "mailen", "slot": "vd", "zin": "Ik heb het verslag gisteren naar mijn docent ___.", "sleutel": "heb"},
   {"id": "eng-007", "ww": "mailen", "slot": "vt.ev", "zin": "Gisteravond ___ mijn zus haar opdracht net voor de deadline.", "sleutel": "mijn zus", "tijd": "Gisteravond"},
   {"id": "eng-008", "ww": "racen", "slot": "vt.mv", "zin": "Vorige week ___ de jongens op hun fiets naar school.", "sleutel": "de jongens", "tijd": "Vorige week"},
-  {"id": "eng-009", "ww": "racen", "slot": "vd", "zin": "Die auto heeft veel te hard door de straat ___.", "sleutel": "heeft"},
+  {"id": "eng-009", "ww": "racen", "slot": "vd", "zin": "Heb jij wel eens op een echt circuit ___?", "sleutel": "Heb"},
   {"id": "eng-010", "ww": "printen", "slot": "vt.ev", "zin": "Gisteren ___ de juf voor iedereen een werkblad.", "sleutel": "de juf", "tijd": "Gisteren"},
   {"id": "eng-011", "ww": "printen", "slot": "vd", "zin": "Heb je je verslag al ___?", "sleutel": "Heb"},
   {"id": "eng-012", "ww": "scannen", "slot": "vd", "zin": "Heb je de boodschappen zelf ___?", "sleutel": "Heb"},
