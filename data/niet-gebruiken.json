@@ -1,0 +1,1810 @@
+{
+ "uitleg": "Gegenereerd door tools/vormen.mjs. Deze vormen worden niet gebruikt, met de reden.",
+ "vormen": [
+  {
+   "inf": "oogsten",
+   "slot": "od.kaal",
+   "reden": "oogstend staat niet in OpenTaal"
+  },
+  {
+   "inf": "oogsten",
+   "slot": "od.e",
+   "reden": "oogstende staat niet in OpenTaal"
+  },
+  {
+   "inf": "werken",
+   "slot": "vt.ev",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: werkte / wrocht"
+  },
+  {
+   "inf": "werken",
+   "slot": "vt.mv",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: werkten / wrochten"
+  },
+  {
+   "inf": "werken",
+   "slot": "vd",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gewerkt / gewrocht"
+  },
+  {
+   "inf": "werken",
+   "slot": "bvd.e",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gewerkt / gewrocht"
+  },
+  {
+   "inf": "werken",
+   "slot": "bvd.kaal",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gewerkt / gewrocht"
+  },
+  {
+   "inf": "wachten",
+   "slot": "bvd.e",
+   "reden": "gewachte staat niet in OpenTaal"
+  },
+  {
+   "inf": "melden",
+   "slot": "od.kaal",
+   "reden": "meldend staat niet in OpenTaal"
+  },
+  {
+   "inf": "antwoorden",
+   "slot": "od.kaal",
+   "reden": "antwoordend staat niet in OpenTaal"
+  },
+  {
+   "inf": "beven",
+   "slot": "bvd.e",
+   "reden": "gebeefde staat niet in OpenTaal"
+  },
+  {
+   "inf": "durven",
+   "slot": "vt.ev",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: durfde / dorst"
+  },
+  {
+   "inf": "durven",
+   "slot": "vt.mv",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: durfden / dorsten"
+  },
+  {
+   "inf": "zweven",
+   "slot": "bvd.e",
+   "reden": "gezweefde staat niet in OpenTaal"
+  },
+  {
+   "inf": "sneeuwen",
+   "slot": "tt.ik",
+   "reden": "Woordenlijst geeft deze vorm niet"
+  },
+  {
+   "inf": "sneeuwen",
+   "slot": "tt.jij.voor",
+   "reden": "Woordenlijst geeft deze vorm niet"
+  },
+  {
+   "inf": "sneeuwen",
+   "slot": "tt.jij.na",
+   "reden": "Woordenlijst geeft deze vorm niet"
+  },
+  {
+   "inf": "sneeuwen",
+   "slot": "tt.u",
+   "reden": "Woordenlijst geeft deze vorm niet"
+  },
+  {
+   "inf": "sneeuwen",
+   "slot": "bvd.e",
+   "reden": "gesneeuwde staat niet in OpenTaal"
+  },
+  {
+   "inf": "blozen",
+   "slot": "bvd.e",
+   "reden": "gebloosde staat niet in OpenTaal"
+  },
+  {
+   "inf": "niezen",
+   "slot": "od.kaal",
+   "reden": "niezend staat niet in OpenTaal"
+  },
+  {
+   "inf": "niezen",
+   "slot": "od.e",
+   "reden": "niezende staat niet in OpenTaal"
+  },
+  {
+   "inf": "niezen",
+   "slot": "bvd.e",
+   "reden": "geniesde staat niet in OpenTaal"
+  },
+  {
+   "inf": "suizen",
+   "slot": "bvd.e",
+   "reden": "gesuisde staat niet in OpenTaal"
+  },
+  {
+   "inf": "huilen",
+   "slot": "bvd.e",
+   "reden": "gehuilde staat niet in OpenTaal"
+  },
+  {
+   "inf": "knippen",
+   "slot": "od.kaal",
+   "reden": "knippend staat niet in OpenTaal"
+  },
+  {
+   "inf": "knippen",
+   "slot": "od.e",
+   "reden": "knippende staat niet in OpenTaal"
+  },
+  {
+   "inf": "oefenen",
+   "slot": "od.kaal",
+   "reden": "oefenend staat niet in OpenTaal"
+  },
+  {
+   "inf": "luisteren",
+   "slot": "bvd.e",
+   "reden": "geluisterde staat niet in OpenTaal"
+  },
+  {
+   "inf": "poetsen",
+   "slot": "od.kaal",
+   "reden": "poetsend staat niet in OpenTaal"
+  },
+  {
+   "inf": "poetsen",
+   "slot": "od.e",
+   "reden": "poetsende staat niet in OpenTaal"
+  },
+  {
+   "inf": "passen",
+   "slot": "tt.ik",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: pas / pass"
+  },
+  {
+   "inf": "passen",
+   "slot": "tt.jij.voor",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: past / passt"
+  },
+  {
+   "inf": "passen",
+   "slot": "tt.jij.na",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: pas / pass"
+  },
+  {
+   "inf": "passen",
+   "slot": "tt.u",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: past / passt"
+  },
+  {
+   "inf": "passen",
+   "slot": "tt.hij",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: past / passt"
+  },
+  {
+   "inf": "passen",
+   "slot": "vt.ev",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: paste / passte"
+  },
+  {
+   "inf": "passen",
+   "slot": "vt.mv",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: pasten / passten"
+  },
+  {
+   "inf": "passen",
+   "slot": "vd",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gepast / gepasst"
+  },
+  {
+   "inf": "passen",
+   "slot": "gw",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: pas / pass"
+  },
+  {
+   "inf": "passen",
+   "slot": "bvd.e",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gepast / gepasst"
+  },
+  {
+   "inf": "passen",
+   "slot": "bvd.kaal",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gepast / gepasst"
+  },
+  {
+   "inf": "blaffen",
+   "slot": "bvd.e",
+   "reden": "geblafte staat niet in OpenTaal"
+  },
+  {
+   "inf": "hoesten",
+   "slot": "bvd.e",
+   "reden": "gehoeste staat niet in OpenTaal"
+  },
+  {
+   "inf": "kosten",
+   "slot": "bvd.e",
+   "reden": "gekoste staat niet in OpenTaal"
+  },
+  {
+   "inf": "feesten",
+   "slot": "vt.mv",
+   "reden": "feestten staat niet in OpenTaal"
+  },
+  {
+   "inf": "feesten",
+   "slot": "bvd.e",
+   "reden": "gefeeste staat niet in OpenTaal"
+  },
+  {
+   "inf": "wennen",
+   "slot": "od.kaal",
+   "reden": "wennend staat niet in OpenTaal"
+  },
+  {
+   "inf": "wennen",
+   "slot": "od.e",
+   "reden": "wennende staat niet in OpenTaal"
+  },
+  {
+   "inf": "rennen",
+   "slot": "bvd.e",
+   "reden": "gerende staat niet in OpenTaal"
+  },
+  {
+   "inf": "plakken",
+   "slot": "od.kaal",
+   "reden": "plakkend staat niet in OpenTaal"
+  },
+  {
+   "inf": "lukken",
+   "slot": "tt.ik",
+   "reden": "Woordenlijst geeft deze vorm niet"
+  },
+  {
+   "inf": "lukken",
+   "slot": "tt.jij.voor",
+   "reden": "Woordenlijst geeft deze vorm niet"
+  },
+  {
+   "inf": "lukken",
+   "slot": "tt.jij.na",
+   "reden": "Woordenlijst geeft deze vorm niet"
+  },
+  {
+   "inf": "lukken",
+   "slot": "tt.u",
+   "reden": "Woordenlijst geeft deze vorm niet"
+  },
+  {
+   "inf": "lukken",
+   "slot": "od.kaal",
+   "reden": "lukkend staat niet in OpenTaal"
+  },
+  {
+   "inf": "lukken",
+   "slot": "od.e",
+   "reden": "lukkende staat niet in OpenTaal"
+  },
+  {
+   "inf": "zakken",
+   "slot": "od.kaal",
+   "reden": "zakkend staat niet in OpenTaal"
+  },
+  {
+   "inf": "lenen",
+   "slot": "od.kaal",
+   "reden": "lenend staat niet in OpenTaal"
+  },
+  {
+   "inf": "bloeden",
+   "slot": "bvd.e",
+   "reden": "gebloede staat niet in OpenTaal"
+  },
+  {
+   "inf": "wieden",
+   "slot": "bvd.e",
+   "reden": "gewiede staat niet in OpenTaal"
+  },
+  {
+   "inf": "spreiden",
+   "slot": "od.e",
+   "reden": "spreidende staat niet in OpenTaal"
+  },
+  {
+   "inf": "wedden",
+   "slot": "bvd.e",
+   "reden": "gewedde staat niet in OpenTaal"
+  },
+  {
+   "inf": "raden",
+   "slot": "vt.ev",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: raadde / ried"
+  },
+  {
+   "inf": "raden",
+   "slot": "vt.mv",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: raadden / rieden"
+  },
+  {
+   "inf": "smeren",
+   "slot": "od.kaal",
+   "reden": "smerend staat niet in OpenTaal"
+  },
+  {
+   "inf": "reageren",
+   "slot": "bvd.e",
+   "reden": "gereageerde staat niet in OpenTaal"
+  },
+  {
+   "inf": "repareren",
+   "slot": "od.e",
+   "reden": "reparerende staat niet in OpenTaal"
+  },
+  {
+   "inf": "trainen",
+   "slot": "od.kaal",
+   "reden": "trainend staat niet in OpenTaal"
+  },
+  {
+   "inf": "plannen",
+   "slot": "od.kaal",
+   "reden": "plannend staat niet in OpenTaal"
+  },
+  {
+   "inf": "plannen",
+   "slot": "od.e",
+   "reden": "plannende staat niet in OpenTaal"
+  },
+  {
+   "inf": "juichen",
+   "slot": "bvd.e",
+   "reden": "gejuichte staat niet in OpenTaal"
+  },
+  {
+   "inf": "zuchten",
+   "slot": "bvd.e",
+   "reden": "gezuchte staat niet in OpenTaal"
+  },
+  {
+   "inf": "bakken",
+   "slot": "vd",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gebakken / gebakt"
+  },
+  {
+   "inf": "bakken",
+   "slot": "od.kaal",
+   "reden": "bakkend staat niet in OpenTaal"
+  },
+  {
+   "inf": "bakken",
+   "slot": "od.e",
+   "reden": "bakkende staat niet in OpenTaal"
+  },
+  {
+   "inf": "bakken",
+   "slot": "bvd.e",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gebakken / gebakt"
+  },
+  {
+   "inf": "bakken",
+   "slot": "bvd.kaal",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gebakken / gebakt"
+  },
+  {
+   "inf": "wassen",
+   "slot": "vt.ev",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: waste / wies"
+  },
+  {
+   "inf": "wassen",
+   "slot": "vt.mv",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: wasten / wiesen"
+  },
+  {
+   "inf": "wassen",
+   "slot": "vd",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gewast / gewassen"
+  },
+  {
+   "inf": "wassen",
+   "slot": "bvd.e",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gewast / gewassen"
+  },
+  {
+   "inf": "wassen",
+   "slot": "bvd.kaal",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gewast / gewassen"
+  },
+  {
+   "inf": "malen",
+   "slot": "vd",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gemalen / gemaald"
+  },
+  {
+   "inf": "malen",
+   "slot": "bvd.e",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gemalen / gemaald"
+  },
+  {
+   "inf": "malen",
+   "slot": "bvd.kaal",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gemalen / gemaald"
+  },
+  {
+   "inf": "zouten",
+   "slot": "od.kaal",
+   "reden": "zoutend staat niet in OpenTaal"
+  },
+  {
+   "inf": "zouten",
+   "slot": "od.e",
+   "reden": "zoutende staat niet in OpenTaal"
+  },
+  {
+   "inf": "laden",
+   "slot": "od.kaal",
+   "reden": "ladend staat niet in OpenTaal"
+  },
+  {
+   "inf": "laden",
+   "slot": "od.e",
+   "reden": "ladende staat niet in OpenTaal"
+  },
+  {
+   "inf": "vragen",
+   "slot": "vt.ev",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: vroeg / vraagde"
+  },
+  {
+   "inf": "vragen",
+   "slot": "vt.mv",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: vroegen / vraagden"
+  },
+  {
+   "inf": "verbranden",
+   "slot": "od.kaal",
+   "reden": "verbrandend staat niet in OpenTaal"
+  },
+  {
+   "inf": "verbranden",
+   "slot": "od.e",
+   "reden": "verbrandende staat niet in OpenTaal"
+  },
+  {
+   "inf": "verhuren",
+   "slot": "od.e",
+   "reden": "verhurende staat niet in OpenTaal"
+  },
+  {
+   "inf": "verbouwen",
+   "slot": "od.kaal",
+   "reden": "verbouwend staat niet in OpenTaal"
+  },
+  {
+   "inf": "verbouwen",
+   "slot": "od.e",
+   "reden": "verbouwende staat niet in OpenTaal"
+  },
+  {
+   "inf": "versieren",
+   "slot": "od.e",
+   "reden": "versierende staat niet in OpenTaal"
+  },
+  {
+   "inf": "verbieden",
+   "slot": "od.kaal",
+   "reden": "verbiedend staat niet in OpenTaal"
+  },
+  {
+   "inf": "verbreden",
+   "slot": "od.kaal",
+   "reden": "verbredend staat niet in OpenTaal"
+  },
+  {
+   "inf": "verbreiden",
+   "slot": "od.kaal",
+   "reden": "verbreidend staat niet in OpenTaal"
+  },
+  {
+   "inf": "verbreiden",
+   "slot": "od.e",
+   "reden": "verbreidende staat niet in OpenTaal"
+  },
+  {
+   "inf": "bereiden",
+   "slot": "od.kaal",
+   "reden": "bereidend staat niet in OpenTaal"
+  },
+  {
+   "inf": "bestuderen",
+   "slot": "od.kaal",
+   "reden": "bestuderend staat niet in OpenTaal"
+  },
+  {
+   "inf": "gebeuren",
+   "slot": "tt.ik",
+   "reden": "Woordenlijst geeft deze vorm niet"
+  },
+  {
+   "inf": "gebeuren",
+   "slot": "tt.jij.voor",
+   "reden": "Woordenlijst geeft deze vorm niet"
+  },
+  {
+   "inf": "gebeuren",
+   "slot": "tt.jij.na",
+   "reden": "Woordenlijst geeft deze vorm niet"
+  },
+  {
+   "inf": "gebeuren",
+   "slot": "tt.u",
+   "reden": "Woordenlijst geeft deze vorm niet"
+  },
+  {
+   "inf": "gebeuren",
+   "slot": "gw",
+   "reden": "Woordenlijst geeft deze vorm niet"
+  },
+  {
+   "inf": "gehoorzamen",
+   "slot": "od.e",
+   "reden": "gehoorzamende staat niet in OpenTaal"
+  },
+  {
+   "inf": "herschrijven",
+   "slot": "od.kaal",
+   "reden": "herschrijvend staat niet in OpenTaal"
+  },
+  {
+   "inf": "herschrijven",
+   "slot": "od.e",
+   "reden": "herschrijvende staat niet in OpenTaal"
+  },
+  {
+   "inf": "ervaren",
+   "slot": "vt.ev",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: ervaarde / ervoer"
+  },
+  {
+   "inf": "ervaren",
+   "slot": "vt.mv",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: ervaarden / ervoeren"
+  },
+  {
+   "inf": "ervaren",
+   "slot": "od.kaal",
+   "reden": "ervarend staat niet in OpenTaal"
+  },
+  {
+   "inf": "ervaren",
+   "slot": "od.e",
+   "reden": "ervarende staat niet in OpenTaal"
+  },
+  {
+   "inf": "ontmoeten",
+   "slot": "od.e",
+   "reden": "ontmoetende staat niet in OpenTaal"
+  },
+  {
+   "inf": "ontbijten",
+   "slot": "od.e",
+   "reden": "ontbijtende staat niet in OpenTaal"
+  },
+  {
+   "inf": "ontsnappen",
+   "slot": "od.kaal",
+   "reden": "ontsnappend staat niet in OpenTaal"
+  },
+  {
+   "inf": "ontploffen",
+   "slot": "od.kaal",
+   "reden": "ontploffend staat niet in OpenTaal"
+  },
+  {
+   "inf": "opbellen",
+   "slot": "od.kaal",
+   "reden": "opbellend staat niet in OpenTaal"
+  },
+  {
+   "inf": "opbellen",
+   "slot": "od.e",
+   "reden": "opbellende staat niet in OpenTaal"
+  },
+  {
+   "inf": "opruimen",
+   "slot": "od.e",
+   "reden": "opruimende staat niet in OpenTaal"
+  },
+  {
+   "inf": "invullen",
+   "slot": "od.kaal",
+   "reden": "invullend staat niet in OpenTaal"
+  },
+  {
+   "inf": "invullen",
+   "slot": "od.e",
+   "reden": "invullende staat niet in OpenTaal"
+  },
+  {
+   "inf": "opletten",
+   "slot": "bvd.e",
+   "reden": "opgelette staat niet in OpenTaal"
+  },
+  {
+   "inf": "terugbellen",
+   "slot": "od.kaal",
+   "reden": "terugbellend staat niet in OpenTaal"
+  },
+  {
+   "inf": "terugbellen",
+   "slot": "od.e",
+   "reden": "terugbellende staat niet in OpenTaal"
+  },
+  {
+   "inf": "terugbellen",
+   "slot": "bvd.e",
+   "reden": "teruggebelde staat niet in OpenTaal"
+  },
+  {
+   "inf": "inpakken",
+   "slot": "od.kaal",
+   "reden": "inpakkend staat niet in OpenTaal"
+  },
+  {
+   "inf": "inpakken",
+   "slot": "od.e",
+   "reden": "inpakkende staat niet in OpenTaal"
+  },
+  {
+   "inf": "inleveren",
+   "slot": "od.kaal",
+   "reden": "inleverend staat niet in OpenTaal"
+  },
+  {
+   "inf": "inleveren",
+   "slot": "od.e",
+   "reden": "inleverende staat niet in OpenTaal"
+  },
+  {
+   "inf": "aankleden",
+   "slot": "od.kaal",
+   "reden": "aankledend staat niet in OpenTaal"
+  },
+  {
+   "inf": "aankleden",
+   "slot": "od.e",
+   "reden": "aankledende staat niet in OpenTaal"
+  },
+  {
+   "inf": "voorverwarmen",
+   "slot": "od.kaal",
+   "reden": "voorverwarmend staat niet in OpenTaal"
+  },
+  {
+   "inf": "voorverwarmen",
+   "slot": "od.e",
+   "reden": "voorverwarmende staat niet in OpenTaal"
+  },
+  {
+   "inf": "opschrijven",
+   "slot": "od.kaal",
+   "reden": "opschrijvend staat niet in OpenTaal"
+  },
+  {
+   "inf": "opschrijven",
+   "slot": "od.e",
+   "reden": "opschrijvende staat niet in OpenTaal"
+  },
+  {
+   "inf": "afspreken",
+   "slot": "od.kaal",
+   "reden": "afsprekend staat niet in OpenTaal"
+  },
+  {
+   "inf": "afspreken",
+   "slot": "od.e",
+   "reden": "afsprekende staat niet in OpenTaal"
+  },
+  {
+   "inf": "uitzoeken",
+   "slot": "od.kaal",
+   "reden": "uitzoekend staat niet in OpenTaal"
+  },
+  {
+   "inf": "uitzoeken",
+   "slot": "od.e",
+   "reden": "uitzoekende staat niet in OpenTaal"
+  },
+  {
+   "inf": "klaarzetten",
+   "slot": "od.kaal",
+   "reden": "klaarzettend staat niet in OpenTaal"
+  },
+  {
+   "inf": "klaarzetten",
+   "slot": "od.e",
+   "reden": "klaarzettende staat niet in OpenTaal"
+  },
+  {
+   "inf": "afdrogen",
+   "slot": "od.kaal",
+   "reden": "afdrogend staat niet in OpenTaal"
+  },
+  {
+   "inf": "afdrogen",
+   "slot": "od.e",
+   "reden": "afdrogende staat niet in OpenTaal"
+  },
+  {
+   "inf": "afmelden",
+   "slot": "od.kaal",
+   "reden": "afmeldend staat niet in OpenTaal"
+  },
+  {
+   "inf": "afmelden",
+   "slot": "od.e",
+   "reden": "afmeldende staat niet in OpenTaal"
+  },
+  {
+   "inf": "inloggen",
+   "slot": "od.kaal",
+   "reden": "inloggend staat niet in OpenTaal"
+  },
+  {
+   "inf": "inloggen",
+   "slot": "od.e",
+   "reden": "inloggende staat niet in OpenTaal"
+  },
+  {
+   "inf": "uitloggen",
+   "slot": "od.kaal",
+   "reden": "uitloggend staat niet in OpenTaal"
+  },
+  {
+   "inf": "uitloggen",
+   "slot": "od.e",
+   "reden": "uitloggende staat niet in OpenTaal"
+  },
+  {
+   "inf": "uitloggen",
+   "slot": "bvd.e",
+   "reden": "uitgelogde staat niet in OpenTaal"
+  },
+  {
+   "inf": "houden",
+   "slot": "tt.ik",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: hou / houd"
+  },
+  {
+   "inf": "houden",
+   "slot": "tt.jij.na",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: hou / houd"
+  },
+  {
+   "inf": "houden",
+   "slot": "gw",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: hou / houd"
+  },
+  {
+   "inf": "vangen",
+   "slot": "od.kaal",
+   "reden": "vangend staat niet in OpenTaal"
+  },
+  {
+   "inf": "rijden",
+   "slot": "tt.ik",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: rij / rijd"
+  },
+  {
+   "inf": "rijden",
+   "slot": "tt.jij.na",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: rij / rijd"
+  },
+  {
+   "inf": "rijden",
+   "slot": "gw",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: rij / rijd"
+  },
+  {
+   "inf": "snijden",
+   "slot": "tt.ik",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: snij / snijd"
+  },
+  {
+   "inf": "snijden",
+   "slot": "tt.jij.na",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: snij / snijd"
+  },
+  {
+   "inf": "snijden",
+   "slot": "gw",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: snij / snijd"
+  },
+  {
+   "inf": "glijden",
+   "slot": "tt.ik",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: glij / glijd"
+  },
+  {
+   "inf": "glijden",
+   "slot": "tt.jij.na",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: glij / glijd"
+  },
+  {
+   "inf": "glijden",
+   "slot": "gw",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: glij / glijd"
+  },
+  {
+   "inf": "bijten",
+   "slot": "vt.ev",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: beet / bijtte"
+  },
+  {
+   "inf": "bijten",
+   "slot": "vt.mv",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: beten / bijtten"
+  },
+  {
+   "inf": "bijten",
+   "slot": "vd",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gebeten / gebijt"
+  },
+  {
+   "inf": "bijten",
+   "slot": "bvd.e",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gebeten / gebijt"
+  },
+  {
+   "inf": "bijten",
+   "slot": "bvd.kaal",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gebeten / gebijt"
+  },
+  {
+   "inf": "krijgen",
+   "slot": "od.e",
+   "reden": "krijgende staat niet in OpenTaal"
+  },
+  {
+   "inf": "schrikken",
+   "slot": "vt.ev",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: schrok / schrikte"
+  },
+  {
+   "inf": "schrikken",
+   "slot": "vt.mv",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: schrokken / schrikten"
+  },
+  {
+   "inf": "schrikken",
+   "slot": "vd",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: geschrokken / geschrikt"
+  },
+  {
+   "inf": "schrikken",
+   "slot": "bvd.e",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: geschrokken / geschrikt"
+  },
+  {
+   "inf": "schrikken",
+   "slot": "bvd.kaal",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: geschrokken / geschrikt"
+  },
+  {
+   "inf": "schenken",
+   "slot": "od.kaal",
+   "reden": "schenkend staat niet in OpenTaal"
+  },
+  {
+   "inf": "stelen",
+   "slot": "vt.ev",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: stal / steelde"
+  },
+  {
+   "inf": "stelen",
+   "slot": "vt.mv",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: stalen / steelden"
+  },
+  {
+   "inf": "stelen",
+   "slot": "vd",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gestolen / gesteeld"
+  },
+  {
+   "inf": "stelen",
+   "slot": "bvd.e",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gestolen / gesteeld"
+  },
+  {
+   "inf": "stelen",
+   "slot": "bvd.kaal",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gestolen / gesteeld"
+  },
+  {
+   "inf": "zenden",
+   "slot": "od.kaal",
+   "reden": "zendend staat niet in OpenTaal"
+  },
+  {
+   "inf": "knijpen",
+   "slot": "od.kaal",
+   "reden": "knijpend staat niet in OpenTaal"
+  },
+  {
+   "inf": "uploaden",
+   "slot": "od.kaal",
+   "reden": "uploadend staat niet in OpenTaal"
+  },
+  {
+   "inf": "uploaden",
+   "slot": "od.e",
+   "reden": "uploadende staat niet in OpenTaal"
+  },
+  {
+   "inf": "mailen",
+   "slot": "bvd.e",
+   "reden": "gemailde staat niet in OpenTaal"
+  },
+  {
+   "inf": "updaten",
+   "slot": "od.kaal",
+   "reden": "updatend staat niet in OpenTaal"
+  },
+  {
+   "inf": "updaten",
+   "slot": "od.e",
+   "reden": "updatende staat niet in OpenTaal"
+  },
+  {
+   "inf": "deleten",
+   "slot": "vt.mv",
+   "reden": "deleteten staat niet in OpenTaal"
+  },
+  {
+   "inf": "deleten",
+   "slot": "od.kaal",
+   "reden": "deletend staat niet in OpenTaal"
+  },
+  {
+   "inf": "deleten",
+   "slot": "od.e",
+   "reden": "deletende staat niet in OpenTaal"
+  },
+  {
+   "inf": "deleten",
+   "slot": "bvd.e",
+   "reden": "gedeletete staat niet in OpenTaal"
+  },
+  {
+   "inf": "racen",
+   "slot": "bvd.e",
+   "reden": "geracete staat niet in OpenTaal"
+  },
+  {
+   "inf": "skypen",
+   "slot": "tt.ik",
+   "reden": "skype staat niet in OpenTaal"
+  },
+  {
+   "inf": "skypen",
+   "slot": "tt.jij.voor",
+   "reden": "skypet staat niet in OpenTaal"
+  },
+  {
+   "inf": "skypen",
+   "slot": "tt.jij.na",
+   "reden": "skype staat niet in OpenTaal"
+  },
+  {
+   "inf": "skypen",
+   "slot": "tt.u",
+   "reden": "skypet staat niet in OpenTaal"
+  },
+  {
+   "inf": "skypen",
+   "slot": "tt.hij",
+   "reden": "skypet staat niet in OpenTaal"
+  },
+  {
+   "inf": "skypen",
+   "slot": "vt.ev",
+   "reden": "skypete staat niet in OpenTaal"
+  },
+  {
+   "inf": "skypen",
+   "slot": "vt.mv",
+   "reden": "skypeten staat niet in OpenTaal"
+  },
+  {
+   "inf": "skypen",
+   "slot": "vd",
+   "reden": "geskypet staat niet in OpenTaal"
+  },
+  {
+   "inf": "skypen",
+   "slot": "od.kaal",
+   "reden": "skypend staat niet in OpenTaal"
+  },
+  {
+   "inf": "skypen",
+   "slot": "od.e",
+   "reden": "skypende staat niet in OpenTaal"
+  },
+  {
+   "inf": "skypen",
+   "slot": "gw",
+   "reden": "skype staat niet in OpenTaal"
+  },
+  {
+   "inf": "skypen",
+   "slot": "bvd.e",
+   "reden": "geskypete staat niet in OpenTaal"
+  },
+  {
+   "inf": "skypen",
+   "slot": "bvd.kaal",
+   "reden": "geskypet staat niet in OpenTaal"
+  },
+  {
+   "inf": "printen",
+   "slot": "od.kaal",
+   "reden": "printend staat niet in OpenTaal"
+  },
+  {
+   "inf": "printen",
+   "slot": "od.e",
+   "reden": "printende staat niet in OpenTaal"
+  },
+  {
+   "inf": "faxen",
+   "slot": "vt.mv",
+   "reden": "faxten staat niet in OpenTaal"
+  },
+  {
+   "inf": "faxen",
+   "slot": "od.kaal",
+   "reden": "faxend staat niet in OpenTaal"
+  },
+  {
+   "inf": "faxen",
+   "slot": "od.e",
+   "reden": "faxende staat niet in OpenTaal"
+  },
+  {
+   "inf": "faxen",
+   "slot": "bvd.e",
+   "reden": "gefaxte staat niet in OpenTaal"
+  },
+  {
+   "inf": "chatten",
+   "slot": "od.e",
+   "reden": "chattende staat niet in OpenTaal"
+  },
+  {
+   "inf": "chatten",
+   "slot": "bvd.e",
+   "reden": "gechatte staat niet in OpenTaal"
+  },
+  {
+   "inf": "googelen",
+   "slot": "vt.mv",
+   "reden": "googelden staat niet in OpenTaal"
+  },
+  {
+   "inf": "googelen",
+   "slot": "bvd.e",
+   "reden": "gegoogelde staat niet in OpenTaal"
+  },
+  {
+   "inf": "liken",
+   "slot": "tt.jij.voor",
+   "reden": "liket staat niet in OpenTaal"
+  },
+  {
+   "inf": "liken",
+   "slot": "tt.u",
+   "reden": "liket staat niet in OpenTaal"
+  },
+  {
+   "inf": "liken",
+   "slot": "tt.hij",
+   "reden": "liket staat niet in OpenTaal"
+  },
+  {
+   "inf": "liken",
+   "slot": "vt.ev",
+   "reden": "likete staat niet in OpenTaal"
+  },
+  {
+   "inf": "liken",
+   "slot": "vt.mv",
+   "reden": "liketen staat niet in OpenTaal"
+  },
+  {
+   "inf": "liken",
+   "slot": "od.kaal",
+   "reden": "likend staat niet in OpenTaal"
+  },
+  {
+   "inf": "liken",
+   "slot": "od.e",
+   "reden": "likende staat niet in OpenTaal"
+  },
+  {
+   "inf": "liken",
+   "slot": "bvd.e",
+   "reden": "gelikete staat niet in OpenTaal"
+  },
+  {
+   "inf": "appen",
+   "slot": "tt.jij.voor",
+   "reden": "appt staat niet in OpenTaal"
+  },
+  {
+   "inf": "appen",
+   "slot": "tt.u",
+   "reden": "appt staat niet in OpenTaal"
+  },
+  {
+   "inf": "appen",
+   "slot": "tt.hij",
+   "reden": "appt staat niet in OpenTaal"
+  },
+  {
+   "inf": "appen",
+   "slot": "vt.mv",
+   "reden": "appten staat niet in OpenTaal"
+  },
+  {
+   "inf": "appen",
+   "slot": "vd",
+   "reden": "geappt staat niet in OpenTaal"
+  },
+  {
+   "inf": "appen",
+   "slot": "od.kaal",
+   "reden": "append staat niet in OpenTaal"
+  },
+  {
+   "inf": "appen",
+   "slot": "od.e",
+   "reden": "appende staat niet in OpenTaal"
+  },
+  {
+   "inf": "appen",
+   "slot": "bvd.e",
+   "reden": "geappte staat niet in OpenTaal"
+  },
+  {
+   "inf": "appen",
+   "slot": "bvd.kaal",
+   "reden": "geappt staat niet in OpenTaal"
+  },
+  {
+   "inf": "timen",
+   "slot": "vt.mv",
+   "reden": "timeden staat niet in OpenTaal"
+  },
+  {
+   "inf": "managen",
+   "slot": "vt.ev",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: managede / managete"
+  },
+  {
+   "inf": "managen",
+   "slot": "vt.mv",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: manageden / manageten"
+  },
+  {
+   "inf": "managen",
+   "slot": "vd",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gemanaged / gemanaget"
+  },
+  {
+   "inf": "managen",
+   "slot": "od.e",
+   "reden": "managende staat niet in OpenTaal"
+  },
+  {
+   "inf": "managen",
+   "slot": "bvd.e",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gemanaged / gemanaget"
+  },
+  {
+   "inf": "managen",
+   "slot": "bvd.kaal",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gemanaged / gemanaget"
+  },
+  {
+   "inf": "leasen",
+   "slot": "vt.ev",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: leasede / leasete"
+  },
+  {
+   "inf": "leasen",
+   "slot": "vt.mv",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: leaseden / leaseten"
+  },
+  {
+   "inf": "leasen",
+   "slot": "vd",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: geleased / geleaset"
+  },
+  {
+   "inf": "leasen",
+   "slot": "bvd.e",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: geleased / geleaset"
+  },
+  {
+   "inf": "leasen",
+   "slot": "bvd.kaal",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: geleased / geleaset"
+  },
+  {
+   "inf": "recyclen",
+   "slot": "vt.mv",
+   "reden": "recycleden staat niet in OpenTaal"
+  },
+  {
+   "inf": "recyclen",
+   "slot": "od.kaal",
+   "reden": "recyclend staat niet in OpenTaal"
+  },
+  {
+   "inf": "recyclen",
+   "slot": "od.e",
+   "reden": "recyclende staat niet in OpenTaal"
+  },
+  {
+   "inf": "stylen",
+   "slot": "tt.jij.voor",
+   "reden": "stylet staat niet in OpenTaal"
+  },
+  {
+   "inf": "stylen",
+   "slot": "tt.u",
+   "reden": "stylet staat niet in OpenTaal"
+  },
+  {
+   "inf": "stylen",
+   "slot": "tt.hij",
+   "reden": "stylet staat niet in OpenTaal"
+  },
+  {
+   "inf": "stylen",
+   "slot": "vt.ev",
+   "reden": "stylede staat niet in OpenTaal"
+  },
+  {
+   "inf": "stylen",
+   "slot": "vt.mv",
+   "reden": "styleden staat niet in OpenTaal"
+  },
+  {
+   "inf": "stylen",
+   "slot": "od.kaal",
+   "reden": "stylend staat niet in OpenTaal"
+  },
+  {
+   "inf": "stylen",
+   "slot": "od.e",
+   "reden": "stylende staat niet in OpenTaal"
+  },
+  {
+   "inf": "stylen",
+   "slot": "bvd.e",
+   "reden": "gestylede staat niet in OpenTaal"
+  },
+  {
+   "inf": "joggen",
+   "slot": "vt.mv",
+   "reden": "jogden staat niet in OpenTaal"
+  },
+  {
+   "inf": "joggen",
+   "slot": "od.e",
+   "reden": "joggende staat niet in OpenTaal"
+  },
+  {
+   "inf": "joggen",
+   "slot": "bvd.e",
+   "reden": "gejogde staat niet in OpenTaal"
+  },
+  {
+   "inf": "shoppen",
+   "slot": "vt.mv",
+   "reden": "shopten staat niet in OpenTaal"
+  },
+  {
+   "inf": "shoppen",
+   "slot": "od.kaal",
+   "reden": "shoppend staat niet in OpenTaal"
+  },
+  {
+   "inf": "shoppen",
+   "slot": "bvd.e",
+   "reden": "geshopte staat niet in OpenTaal"
+  },
+  {
+   "inf": "tweeten",
+   "slot": "vt.ev",
+   "reden": "tweette staat niet in OpenTaal"
+  },
+  {
+   "inf": "tweeten",
+   "slot": "vt.mv",
+   "reden": "tweetten staat niet in OpenTaal"
+  },
+  {
+   "inf": "tweeten",
+   "slot": "od.kaal",
+   "reden": "tweetend staat niet in OpenTaal"
+  },
+  {
+   "inf": "tweeten",
+   "slot": "od.e",
+   "reden": "tweetende staat niet in OpenTaal"
+  },
+  {
+   "inf": "tweeten",
+   "slot": "bvd.e",
+   "reden": "getwete staat niet in OpenTaal"
+  },
+  {
+   "inf": "checken",
+   "slot": "bvd.e",
+   "reden": "gecheckte staat niet in OpenTaal"
+  },
+  {
+   "inf": "coachen",
+   "slot": "vt.mv",
+   "reden": "coachten staat niet in OpenTaal"
+  },
+  {
+   "inf": "zappen",
+   "slot": "vt.mv",
+   "reden": "zapten staat niet in OpenTaal"
+  },
+  {
+   "inf": "zappen",
+   "slot": "bvd.e",
+   "reden": "gezapte staat niet in OpenTaal"
+  },
+  {
+   "inf": "hacken",
+   "slot": "vt.mv",
+   "reden": "hackten staat niet in OpenTaal"
+  },
+  {
+   "inf": "hacken",
+   "slot": "od.kaal",
+   "reden": "hackend staat niet in OpenTaal"
+  },
+  {
+   "inf": "hacken",
+   "slot": "od.e",
+   "reden": "hackende staat niet in OpenTaal"
+  },
+  {
+   "inf": "skaten",
+   "slot": "vt.mv",
+   "reden": "skateten staat niet in OpenTaal"
+  },
+  {
+   "inf": "skaten",
+   "slot": "od.e",
+   "reden": "skatende staat niet in OpenTaal"
+  },
+  {
+   "inf": "skaten",
+   "slot": "bvd.e",
+   "reden": "geskatete staat niet in OpenTaal"
+  },
+  {
+   "inf": "relaxen",
+   "slot": "vt.mv",
+   "reden": "relaxten staat niet in OpenTaal"
+  },
+  {
+   "inf": "relaxen",
+   "slot": "od.kaal",
+   "reden": "relaxend staat niet in OpenTaal"
+  },
+  {
+   "inf": "finishen",
+   "slot": "od.kaal",
+   "reden": "finishend staat niet in OpenTaal"
+  },
+  {
+   "inf": "finishen",
+   "slot": "od.e",
+   "reden": "finishende staat niet in OpenTaal"
+  },
+  {
+   "inf": "tackelen",
+   "slot": "vt.mv",
+   "reden": "tackelden staat niet in OpenTaal"
+  },
+  {
+   "inf": "tackelen",
+   "slot": "od.kaal",
+   "reden": "tackelend staat niet in OpenTaal"
+  },
+  {
+   "inf": "tackelen",
+   "slot": "od.e",
+   "reden": "tackelende staat niet in OpenTaal"
+  },
+  {
+   "inf": "dribbelen",
+   "slot": "od.kaal",
+   "reden": "dribbelend staat niet in OpenTaal"
+  },
+  {
+   "inf": "dribbelen",
+   "slot": "bvd.e",
+   "reden": "gedribbelde staat niet in OpenTaal"
+  },
+  {
+   "inf": "sprinten",
+   "slot": "od.kaal",
+   "reden": "sprintend staat niet in OpenTaal"
+  },
+  {
+   "inf": "sprinten",
+   "slot": "od.e",
+   "reden": "sprintende staat niet in OpenTaal"
+  },
+  {
+   "inf": "sprinten",
+   "slot": "bvd.e",
+   "reden": "gesprinte staat niet in OpenTaal"
+  },
+  {
+   "inf": "tapen",
+   "slot": "vt.mv",
+   "reden": "tapeten staat niet in OpenTaal"
+  },
+  {
+   "inf": "tapen",
+   "slot": "od.kaal",
+   "reden": "tapend staat niet in OpenTaal"
+  },
+  {
+   "inf": "tapen",
+   "slot": "od.e",
+   "reden": "tapende staat niet in OpenTaal"
+  },
+  {
+   "inf": "tapen",
+   "slot": "bvd.e",
+   "reden": "getapete staat niet in OpenTaal"
+  },
+  {
+   "inf": "streamen",
+   "slot": "tt.jij.voor",
+   "reden": "streamt staat niet in OpenTaal"
+  },
+  {
+   "inf": "streamen",
+   "slot": "tt.u",
+   "reden": "streamt staat niet in OpenTaal"
+  },
+  {
+   "inf": "streamen",
+   "slot": "tt.hij",
+   "reden": "streamt staat niet in OpenTaal"
+  },
+  {
+   "inf": "streamen",
+   "slot": "vt.ev",
+   "reden": "streamde staat niet in OpenTaal"
+  },
+  {
+   "inf": "streamen",
+   "slot": "vt.mv",
+   "reden": "streamden staat niet in OpenTaal"
+  },
+  {
+   "inf": "streamen",
+   "slot": "vd",
+   "reden": "gestreamd staat niet in OpenTaal"
+  },
+  {
+   "inf": "streamen",
+   "slot": "od.kaal",
+   "reden": "streamend staat niet in OpenTaal"
+  },
+  {
+   "inf": "streamen",
+   "slot": "od.e",
+   "reden": "streamende staat niet in OpenTaal"
+  },
+  {
+   "inf": "streamen",
+   "slot": "bvd.e",
+   "reden": "gestreamde staat niet in OpenTaal"
+  },
+  {
+   "inf": "streamen",
+   "slot": "bvd.kaal",
+   "reden": "gestreamd staat niet in OpenTaal"
+  },
+  {
+   "inf": "forwarden",
+   "slot": "tt.ik",
+   "reden": "forward staat niet in OpenTaal"
+  },
+  {
+   "inf": "forwarden",
+   "slot": "tt.jij.voor",
+   "reden": "forwardt staat niet in OpenTaal"
+  },
+  {
+   "inf": "forwarden",
+   "slot": "tt.jij.na",
+   "reden": "forward staat niet in OpenTaal"
+  },
+  {
+   "inf": "forwarden",
+   "slot": "tt.u",
+   "reden": "forwardt staat niet in OpenTaal"
+  },
+  {
+   "inf": "forwarden",
+   "slot": "tt.hij",
+   "reden": "forwardt staat niet in OpenTaal"
+  },
+  {
+   "inf": "forwarden",
+   "slot": "vt.ev",
+   "reden": "forwardde staat niet in OpenTaal"
+  },
+  {
+   "inf": "forwarden",
+   "slot": "vt.mv",
+   "reden": "forwardden staat niet in OpenTaal"
+  },
+  {
+   "inf": "forwarden",
+   "slot": "vd",
+   "reden": "geforward staat niet in OpenTaal"
+  },
+  {
+   "inf": "forwarden",
+   "slot": "od.kaal",
+   "reden": "forwardend staat niet in OpenTaal"
+  },
+  {
+   "inf": "forwarden",
+   "slot": "od.e",
+   "reden": "forwardende staat niet in OpenTaal"
+  },
+  {
+   "inf": "forwarden",
+   "slot": "gw",
+   "reden": "forward staat niet in OpenTaal"
+  },
+  {
+   "inf": "forwarden",
+   "slot": "bvd.e",
+   "reden": "geforwarde staat niet in OpenTaal"
+  },
+  {
+   "inf": "forwarden",
+   "slot": "bvd.kaal",
+   "reden": "geforward staat niet in OpenTaal"
+  },
+  {
+   "inf": "outsourcen",
+   "slot": "tt.ik",
+   "reden": "outsource staat niet in OpenTaal"
+  },
+  {
+   "inf": "outsourcen",
+   "slot": "tt.jij.voor",
+   "reden": "outsourcet staat niet in OpenTaal"
+  },
+  {
+   "inf": "outsourcen",
+   "slot": "tt.jij.na",
+   "reden": "outsource staat niet in OpenTaal"
+  },
+  {
+   "inf": "outsourcen",
+   "slot": "tt.u",
+   "reden": "outsourcet staat niet in OpenTaal"
+  },
+  {
+   "inf": "outsourcen",
+   "slot": "tt.hij",
+   "reden": "outsourcet staat niet in OpenTaal"
+  },
+  {
+   "inf": "outsourcen",
+   "slot": "vt.ev",
+   "reden": "outsourcete staat niet in OpenTaal"
+  },
+  {
+   "inf": "outsourcen",
+   "slot": "vt.mv",
+   "reden": "outsourceten staat niet in OpenTaal"
+  },
+  {
+   "inf": "outsourcen",
+   "slot": "vd",
+   "reden": "geoutsourcet staat niet in OpenTaal"
+  },
+  {
+   "inf": "outsourcen",
+   "slot": "od.kaal",
+   "reden": "outsourcend staat niet in OpenTaal"
+  },
+  {
+   "inf": "outsourcen",
+   "slot": "od.e",
+   "reden": "outsourcende staat niet in OpenTaal"
+  },
+  {
+   "inf": "outsourcen",
+   "slot": "gw",
+   "reden": "outsource staat niet in OpenTaal"
+  },
+  {
+   "inf": "outsourcen",
+   "slot": "bvd.e",
+   "reden": "geoutsourcete staat niet in OpenTaal"
+  },
+  {
+   "inf": "outsourcen",
+   "slot": "bvd.kaal",
+   "reden": "geoutsourcet staat niet in OpenTaal"
+  },
+  {
+   "inf": "flirten",
+   "slot": "bvd.e",
+   "reden": "geflirte staat niet in OpenTaal"
+  },
+  {
+   "inf": "stressen",
+   "slot": "vt.mv",
+   "reden": "stresten staat niet in OpenTaal"
+  },
+  {
+   "inf": "smashen",
+   "slot": "vt.mv",
+   "reden": "smashten staat niet in OpenTaal"
+  },
+  {
+   "inf": "smashen",
+   "slot": "od.kaal",
+   "reden": "smashend staat niet in OpenTaal"
+  },
+  {
+   "inf": "smashen",
+   "slot": "od.e",
+   "reden": "smashende staat niet in OpenTaal"
+  },
+  {
+   "inf": "smashen",
+   "slot": "bvd.e",
+   "reden": "gesmashte staat niet in OpenTaal"
+  },
+  {
+   "inf": "pitchen",
+   "slot": "vt.mv",
+   "reden": "pitchten staat niet in OpenTaal"
+  },
+  {
+   "inf": "pitchen",
+   "slot": "od.kaal",
+   "reden": "pitchend staat niet in OpenTaal"
+  },
+  {
+   "inf": "pitchen",
+   "slot": "od.e",
+   "reden": "pitchende staat niet in OpenTaal"
+  },
+  {
+   "inf": "pitchen",
+   "slot": "bvd.e",
+   "reden": "gepitchte staat niet in OpenTaal"
+  },
+  {
+   "inf": "saven",
+   "slot": "vt.mv",
+   "reden": "saveden staat niet in OpenTaal"
+  },
+  {
+   "inf": "saven",
+   "slot": "od.kaal",
+   "reden": "savend staat niet in OpenTaal"
+  },
+  {
+   "inf": "saven",
+   "slot": "od.e",
+   "reden": "savende staat niet in OpenTaal"
+  },
+  {
+   "inf": "saven",
+   "slot": "bvd.e",
+   "reden": "gesavede staat niet in OpenTaal"
+  },
+  {
+   "inf": "surfen",
+   "slot": "vt.ev",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: surfde / surfte"
+  },
+  {
+   "inf": "surfen",
+   "slot": "vt.mv",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: surfden / surften"
+  },
+  {
+   "inf": "surfen",
+   "slot": "vd",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gesurfd / gesurft"
+  },
+  {
+   "inf": "surfen",
+   "slot": "bvd.e",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gesurfd / gesurft"
+  },
+  {
+   "inf": "surfen",
+   "slot": "bvd.kaal",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gesurfd / gesurft"
+  },
+  {
+   "inf": "lunchen",
+   "slot": "od.e",
+   "reden": "lunchende staat niet in OpenTaal"
+  },
+  {
+   "inf": "lunchen",
+   "slot": "bvd.e",
+   "reden": "gelunchte staat niet in OpenTaal"
+  },
+  {
+   "inf": "browsen",
+   "slot": "vt.ev",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: browsede / browsete"
+  },
+  {
+   "inf": "browsen",
+   "slot": "vt.mv",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: browseden / browseten"
+  },
+  {
+   "inf": "browsen",
+   "slot": "vd",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gebrowsed / gebrowset"
+  },
+  {
+   "inf": "browsen",
+   "slot": "bvd.e",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gebrowsed / gebrowset"
+  },
+  {
+   "inf": "browsen",
+   "slot": "bvd.kaal",
+   "reden": "meer dan één vorm goed volgens de Woordenlijst: gebrowsed / gebrowset"
+  },
+  {
+   "inf": "dealen",
+   "slot": "vt.mv",
+   "reden": "dealden staat niet in OpenTaal"
+  },
+  {
+   "inf": "dealen",
+   "slot": "od.e",
+   "reden": "dealende staat niet in OpenTaal"
+  },
+  {
+   "inf": "dealen",
+   "slot": "bvd.e",
+   "reden": "gedealde staat niet in OpenTaal"
+  }
+ ]
+}

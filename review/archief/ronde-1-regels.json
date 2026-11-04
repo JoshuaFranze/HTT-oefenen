@@ -1,0 +1,447 @@
+{
+ "regelkaarten": [
+  {
+   "regel": "vd-geen-ge",
+   "reden": "Te kort door de bocht: het gaat alleen om het onbeklemtoonde voorvoegsel be-, ge-, her-, er-, ont-, ver-. Zoals het er nu staat, krijgen woorden die toevallig met die letters beginnen ten onrechte geen ge-: verven → geverfd (staat zelfs als voorbeeld bij bvd-e en komt voor in bvd-006, vt-024 en inf-016), geven → gegeven (gw-030 en gw-042), beven → gebeefd (vt-023), erven → geërfd, eren → geëerd. Ook onvolledig: andere onscheidbare werkwoorden met een onbeklemtoond voorvoegsel krijgen evenmin ge- (overleefd, ondernomen, voorspeld, voltooid, misbruikt). Voorstel: 'Is be-, ge-, her-, er-, ont- of ver- een voorvoegsel zonder klemtoon (beTAlen, verTELlen)? Dan geen ge-. Let op: verven, geven, beven horen daar niet bij: geverfd, gegeven, gebeefd.'"
+  },
+  {
+   "regel": "vd-sterk-geen-ge",
+   "reden": "Hetzelfde probleem als bij vd-geen-ge: geven is een sterk werkwoord dat met ge- begint en tóch ge- krijgt (gegeven). Vermeld dat het om een onbeklemtoond voorvoegsel gaat. De voorbeelden begonnen en vergeten zijn juist."
+  },
+  {
+   "regel": "vd-scheidbaar-geen-ge",
+   "reden": "De regel klopt (voorbereid, terugbetaald), maar ook hier moet staan dat het om een onbeklemtoond voorvoegsel in het tweede deel gaat (vergelijk: aangeven → aangegeven, opvoeren → opgevoerd)."
+  },
+  {
+   "regel": "vd-vz",
+   "reden": "Fout geformuleerd: 'Staat er in het hele werkwoord een v of z? Dan eindigt het voltooid deelwoord op een d.' Letterlijk toegepast geeft dat verpakken → verpakd, vissen → gevisd en zetten → gezed. Het gaat om de v of z vlak voor -en (de letter waarop de stam eindigt voordat die f/s wordt). Voorstel: 'Eindigt het hele werkwoord op -ven of -zen (leven, reizen)? Dan kijk je naar die v of z: geen 't kofschip, dus -d (geleefd, gereisd).' De voorbeelden kloppen."
+  },
+  {
+   "regel": "vt-vz",
+   "reden": "De eerste zin ('Staat er in het hele werkwoord een v of z') is misleidend om dezelfde reden als bij vd-vz (vissen → viste, zakken → zakte, verpakken → verpakte). De tweede zin ('Haal -en eraf en kijk naar die v of z') maakt het al beter. Begin daarom met: 'Eindigt het hele werkwoord op -ven of -zen?' De voorbeelden leefde en reisde kloppen."
+  },
+  {
+   "regel": "bvd-stam-t",
+   "reden": "De voorbeelden passen niet bij de regel. De stam van poetsen is poets en van verplaatsen is verplaats: die eindigen op een s, niet op een t. Gepoetste en verplaatste zijn gewoon voltooid deelwoord (met t via 't kofschip) + e, dus de regel bvd-e. Kies voorbeelden waarvan de stam echt op t eindigt: verwachten → de verwachte regen (zoals in bvd-008), verlichten → de verlichte straat, vergroten → de vergrote foto. Een preciezere regel: 'Eindigt het voltooid deelwoord al op een t (verwacht, gepoetst)? Dan komt er alleen -e achter, geen tweede t.'"
+  },
+  {
+   "regel": "tt-u-inversie",
+   "reden": "'Altijd' is te sterk. Bij een aantal onregelmatige werkwoorden mag of moet de t ontbreken: u mag, u kan/kunt, u zal/zult, u wil/wilt, en u heeft/hebt (heeft is geen stam + t). Bij een stam op t komt er ook geen extra t (Zet u, Praat u). Voorstel: 'Bij u komt er een t achter de stam, ook als u achter het werkwoord staat (Wordt u, Vindt u). Uitzonderingen: u mag, u kunt/kan, u zult/zal.'"
+  },
+  {
+   "regel": "tt-inversie",
+   "reden": "'Zonder t' is misleidend bij een stam die zelf al op t eindigt: Zet jij, Praat jij, Eet jij, Laat jij (de t van de stam blijft staan). Beter: 'dan komt er geen t bij'. Vermeld ook dat het alleen geldt als jij/je het onderwerp is (zie tt-je-bezit). De voorbeelden kloppen."
+  },
+  {
+   "regel": "tt-inversie-d",
+   "reden": "Inhoudelijk juist. Net als bij tt-inversie beter 'er komt geen t bij' dan 'zonder t', zodat studenten de t van een stam op t niet weglaten."
+  },
+  {
+   "regel": "tt-je-bezit",
+   "reden": "'Dat is een hij-vorm' klopt alleen als het bezit enkelvoud is. Bij meervoud krijg je het hele werkwoord: Worden je fietsen vandaag gemaakt? Vinden je ouders het goed? Voorstel: 'Dan is het onderwerp je fiets, je zus enz. Enkelvoud: stam + t. Meervoud (je ouders): hele werkwoord.' De voorbeelden kloppen."
+  },
+  {
+   "regel": "vt-sterk-jij",
+   "reden": "'Geen t' klopt niet voor sterke werkwoorden waarvan de verledentijdsvorm zelf op t eindigt: jij liet, jij at, jij zat, jij vergat, jij schoot. Beter: 'krijgt geen extra t'. De voorbeelden liep en schreef kloppen."
+  },
+  {
+   "regel": "bvd-een-het",
+   "reden": "Juist, maar te smal. Er komt ook geen -e bij een het-woord in het enkelvoud zonder lidwoord (gekookt water; bij een de-woord wel -e: gekookte melk) en na geen, elk, ieder, veel, zo'n, welk (geen gekookt ei, zo'n verbouwd pand). Voorstel: 'Een het-woord in het enkelvoud met een, geen, elk, zo'n of zonder lidwoord ervoor: geen -e.' De voorbeelden kloppen."
+  },
+  {
+   "regel": "od-een-het",
+   "reden": "Even smal als bij bvd-een-het: ook kokend water, geen lachend kind, zo'n slapend kind krijgen geen -e. De voorbeelden kloppen. Mooi tegenvoorbeeld uit de toets: het kokende water (od-012) en het zingende meisje (od-021) krijgen wel -e. Noem dat contrast op de kaart."
+  },
+  {
+   "regel": "vt-leen-klank",
+   "reden": "Klopt met de Taalunie: je kijkt naar de uitspraak van de laatste klank van de stam (racete, crashte). Maak twee dingen duidelijker. (1) De stam van een Engels werkwoord is het hele werkwoord min -en of -n, en een stomme e blijft staan (race, like, delete, update). (2) Ook een klank die niet in 't kofschip staat, telt als 'kofschipklank' als die stemloos is: sj in crash, finish en lunch. Leg 'stemloos' bijvoorbeeld uit als 'je kunt hem fluisteren zonder je stem te gebruiken'."
+  },
+  {
+   "regel": "vd-leen-klank",
+   "reden": "Zie vt-leen-klank: zeg 'de laatste klank van de stam' en vermeld dat de e van de stam blijft (geracet, geliket, geüpdatet) en dat sj als stemloos telt (gecrasht). De voorbeelden kloppen."
+  },
+  {
+   "regel": "tt-ik",
+   "reden": "Stijl: klopt bij regelmatige werkwoorden, maar 'Ik + stam' geldt niet voor ik ben, ik kan, ik zal, ik wil. Het onthoud-zinnetje 'Geen t erachter' is misleidend bij een stam op t (ik zet, ik praat, ik eet); beter 'er komt geen t bij'."
+  },
+  {
+   "regel": "tt-t",
+   "reden": "Stijl: vermeld dat zij hier enkelvoud is; zij in het meervoud (zij werken) krijgt het hele werkwoord. Ook iemand, niemand, men, wat en dat zijn hij-vormen (dat komt in de toets voor: tt-033, vt-018, tt-006)."
+  },
+  {
+   "regel": "od-kaal",
+   "reden": "Stijl: 'niet voor een zelfstandig naamwoord → geen -e' kent uitzonderingen: zelfstandig gebruikt (de wachtenden, een huilende in de trein) en de het-woord-regel (een huilend kind, dat wel voor een znw staat). Formuleer bijvoorbeeld: 'Staat het los in de zin (Huilend liep hij weg)? Dan geen -e.'"
+  },
+  {
+   "regel": "bvd-e",
+   "reden": "Stijl: het voorbeeld betaalde rekening is goed, maar laat zien dat de vorm gelijk is aan de verleden tijd. Noem op de kaart ook de twee uitzonderingen (op -en eindigend: gebroken; een + het-woord: een gekookt ei), want deze kaart wordt het meest gebruikt (28 keer als hint 3)."
+  },
+  {
+   "regel": "inf",
+   "reden": "Stijl: het rijtje 'willen, moeten, kunnen, gaan of zullen' mist mogen, hoeven (+ te), laten, blijven, komen, horen, zien. Alle vormen daarvan komen in de vragen voor (mag, mogen, hoeft … te, zou). 'Een werkwoord als' vangt dat op, maar een iets langer rijtje helpt studenten die de regel niet zien. Ook 'om te' kun je noemen."
+  },
+  {
+   "regel": "gw",
+   "reden": "Stijl: uitzondering zijn → wees (Wees stil). En bij een stam op t staat de t er gewoon (Zet de stoel neer, Praat rustig). De beleefde vorm met u krijgt wel een t (Komt u binnen)."
+  }
+ ],
+ "stappenplan": [
+  "Stap 1, punt 1 (hulpwerkwoord + werkwoord achteraan → voltooid deelwoord): dit klopt niet altijd. In een bijzin staat de persoonsvorm ook achteraan (… omdat het morgen warm wordt), het hulpwerkwoord kan zelf de open plek zijn (Ik hoop dat je fiets snel gemaakt ___), en zijn of worden kan een koppelwerkwoord zijn (Wordt je jas droog?). Voorstel: laat studenten altijd eerst de persoonsvormtest doen (punt 5) en pas daarna naar een hulpwerkwoord kijken. Voor wie moeite heeft met 'welke regel?' is de volgorde 1) persoonsvorm? 2) zo nee: hulpwerkwoord → voltooid deelwoord, modaal werkwoord of te → infinitief, voor een znw → deelwoord + e/geen e, opdracht → gebiedende wijs.",
+  "Stap 1 dekt het onvoltooid deelwoord dat niet voor een zelfstandig naamwoord staat niet af (Lachend vertelde hij…, Ze kwam dansend binnen; 9 vragen met od-kaal). Voeg toe: 'Eindigt het op -end en staat het los in de zin? Dan is het een onvoltooid deelwoord zonder -e.'",
+  "Stap 1, persoonsvorm: 'Kijk of het nu gebeurt of vroeger' is te vaag. De tegenwoordige tijd wordt ook voor de toekomst gebruikt (Morgen werkt hij). Geef de tip: let op tijdwoorden (gisteren, vorig jaar, vroeger) en op de tijd van de andere werkwoorden in de zin. Voeg daar ook de onderwerpsvraag aan toe, want stap 3 (tegenwoordige tijd) hangt daarvan af: wie of wat is het onderwerp, enkelvoud of meervoud, staat jij/je voor of achter de persoonsvorm, en betekent je hier 'jouw'?",
+  "Stap 2: 'De stam is de ik-vorm' werkt niet bij onregelmatige werkwoorden (ik ben, ik kan) en is onnatuurlijk bij werkwoorden zonder ik-vorm (gebeuren, lukken, kosten: 'ik luk', 'ik kost' in de vragen). Geef als alternatief: hele werkwoord min -en, daarna de spelling aanpassen. Voeg bij Engelse werkwoorden toe dat de stam het hele werkwoord min -en/-n is, met de e (race, like, update).",
+  "Stap 2, v/z-punt: zeg 'Eindigt het hele werkwoord op -ven of -zen' in plaats van 'met een v of z'. Anders lijkt het te gaan om elke v of z in het woord (vissen, verpakken, zetten).",
+  "Stap 2, 'Een lange klank wordt dubbel geschreven': dat geldt alleen voor aa, ee, oo, uu in een gesloten lettergreep (lopen → loop). Bij ie, oe, eu, ui verandert er niets (kiezen → kies).",
+  "Stap 3, tegenwoordige tijd: 'Staat jij achter het werkwoord? Dan geen t' is misleidend bij een stam op t (Zet jij, Praat jij, Eet jij): zeg 'dan komt er geen t bij'. 'Bij u blijft de t altijd' is te absoluut (u mag, u kunt/kan, u zult/zal, u heeft). En de valkuil 'je = jouw' (Wordt je jas droog?) ontbreekt, terwijl daar een eigen regelkaart voor is.",
+  "Stap 3, verleden tijd zwak: 'Bij een v of z in het hele werkwoord: -de(n)' heeft hetzelfde probleem als stap 2 (vissen → viste, verpakken → verpakte). Formuleer het als: 'eindigt het hele werkwoord op -ven/-zen'. Stam op t of d (zette, landde: dubbele letter) wordt hier niet genoemd, terwijl het een groot deel van de vragen is (vt-stam-t, vt-stam-d).",
+  "Stap 3, verleden tijd sterk: 'Er komt geen t achter, ook niet bij jij' klopt niet voor jij liet, jij at, jij zat, jij vergat: zeg 'geen extra t'. Vermeld het meervoud (liep → liepen: + en, dus niet + n). Er ontbreekt bovendien een manier om te bepalen of een werkwoord zwak of sterk is: 'Zeg: gisteren … ik. Verandert de klinker (liep, schreef)? Dan sterk. Hoor je -te/-de? Dan zwak.' Juist studenten die niet weten welke regel erbij hoort, hebben die toets nodig.",
+  "Stap 3 mist de onregelmatige werkwoorden (kopen → kocht → gekocht, denken → dacht → gedacht) en de gemengde (lachen → lachte → gelachen, laden → laadde → geladen), terwijl daar regelkaarten en vragen voor zijn.",
+  "Stap 3, voltooid deelwoord: alleen het zwakke werkwoord wordt genoemd. Voeg toe: sterk werkwoord → ge + … + en, vaak met een andere klinker (gelopen, geschreven), en scheidbaar werkwoord → ge- in het midden (opgebeld). Noem bij 'dezelfde regel van 't kofschip' ook expliciet de v/z-uitzondering (geleefd, gereisd), want de kofschipregel op de stam toegepast geeft geleeft en gereist.",
+  "Stap 3, 'Begint het werkwoord met be-, ge-, her-, er-, ont- of ver-? Dan geen ge-': maak hiervan 'heeft het werkwoord het voorvoegsel be-, ge-, her-, er-, ont- of ver- (zonder klemtoon)?'. Anders gaan verven, geven en beven fout (geverfd, gegeven, gebeefd komen alle drie in de toets voor). Noem eventueel ook andere onscheidbare werkwoorden zonder ge- (overleefd, voorspeld, voltooid).",
+  "Stap 3, voltooid deelwoord voor een znw: de het-woordregel geldt niet alleen na een, maar ook zonder lidwoord en na geen, elk, zo'n, veel (gekookt water, geen gekookt ei). Noem ook de spellingaanpassing bij + e (gezet → gezette, gered → geredde, verbreed → verbrede): daar is een eigen regelkaart (bvd-spelling) voor, maar in het stappenplan staat die niet.",
+  "Stap 3, Engelse werkwoorden: 'je kijkt naar de klank die je hoort (racen, racete)' moet preciezer: 'de laatste klank van de stam'. Is die stemloos (t, k, f, s, ch, p, maar ook sj in crash, finish en lunch)? Dan -te/-t. Leg uit dat de stam de e houdt (race, delete). Vermeld dat een Engelse stam op d of t gewoon de regels voor een stam op d of t volgt (uploadt, downloadde, geprint, postte).",
+  "Stijl, aanvulling bij 't kofschip: veel methodes gebruiken 't kofschip + x (faxen → faxte, gefaxt). Als er later x-werkwoorden in de toets komen, noem dat dan."
+ ],
+ "vragen": [
+  {
+   "id": "vd-017",
+   "ernst": "fout",
+   "reden": "Uitleg bij voorgebereid: 'voorbereiden begint met be-' is onjuist. Voorbereiden begint met voor- (scheidbaar). Het tweede deel, bereiden, begint met het onbeklemtoonde be-, en daarom komt er geen ge- in het midden. Voorstel: 'Bij een scheidbaar werkwoord komt ge- in het midden, maar bereiden begint al met be-, dus geen ge-: voorbereid.'"
+  },
+  {
+   "id": "vt-066",
+   "ernst": "fout",
+   "reden": "Uitleg bij zong: 'er komt nog een -n achter' is onjuist bij een sterk werkwoord: zong + n = zongn. Het meervoud is zongen (+ en). Voorstel: 'Bij meervoud komt er -en achter: zongen.'"
+  },
+  {
+   "id": "vt-048",
+   "ernst": "fout",
+   "reden": "Uitleg bij won: 'er komt nog een -n achter' is onjuist: won + n = wonn. Het meervoud is wonnen (+ en, met verdubbelde n). Voorstel: 'Bij meervoud komt er -en achter: wonnen.'"
+  },
+  {
+   "id": "eng-009",
+   "ernst": "fout",
+   "reden": "De uitleg bij de afleider op -td (bijv. geracetd, geshoptd, gechecktd) zegt 'een voltooid deelwoord eindigt nooit op dt', maar de afleider eindigt op td, niet op dt. De uitleg past dus niet bij de fout. Voorstel: 'Er komt maar één letter achter de stam: een t óf een d, niet allebei.'"
+  },
+  {
+   "id": "eng-020",
+   "ernst": "fout",
+   "reden": "De uitleg bij de afleider op -td (bijv. geracetd, geshoptd, gechecktd) zegt 'een voltooid deelwoord eindigt nooit op dt', maar de afleider eindigt op td, niet op dt. De uitleg past dus niet bij de fout. Voorstel: 'Er komt maar één letter achter de stam: een t óf een d, niet allebei.'"
+  },
+  {
+   "id": "eng-017",
+   "ernst": "fout",
+   "reden": "De uitleg bij de afleider op -td (bijv. geracetd, geshoptd, gechecktd) zegt 'een voltooid deelwoord eindigt nooit op dt', maar de afleider eindigt op td, niet op dt. De uitleg past dus niet bij de fout. Voorstel: 'Er komt maar één letter achter de stam: een t óf een d, niet allebei.'"
+  },
+  {
+   "id": "eng-023",
+   "ernst": "fout",
+   "reden": "De uitleg bij de afleider op -td (bijv. geracetd, geshoptd, gechecktd) zegt 'een voltooid deelwoord eindigt nooit op dt', maar de afleider eindigt op td, niet op dt. De uitleg past dus niet bij de fout. Voorstel: 'Er komt maar één letter achter de stam: een t óf een d, niet allebei.'"
+  },
+  {
+   "id": "vd-083",
+   "ernst": "fout",
+   "reden": "De uitleg bij de afleider op -td (bijv. geracetd, geshoptd, gechecktd) zegt 'een voltooid deelwoord eindigt nooit op dt', maar de afleider eindigt op td, niet op dt. De uitleg past dus niet bij de fout. Voorstel: 'Er komt maar één letter achter de stam: een t óf een d, niet allebei.'"
+  },
+  {
+   "id": "eng-046",
+   "ernst": "fout",
+   "reden": "De uitleg bij de afleider op -td (bijv. geracetd, geshoptd, gechecktd) zegt 'een voltooid deelwoord eindigt nooit op dt', maar de afleider eindigt op td, niet op dt. De uitleg past dus niet bij de fout. Voorstel: 'Er komt maar één letter achter de stam: een t óf een d, niet allebei.'"
+  },
+  {
+   "id": "eng-035",
+   "ernst": "fout",
+   "reden": "De uitleg bij de afleider op -td (bijv. geracetd, geshoptd, gechecktd) zegt 'een voltooid deelwoord eindigt nooit op dt', maar de afleider eindigt op td, niet op dt. De uitleg past dus niet bij de fout. Voorstel: 'Er komt maar één letter achter de stam: een t óf een d, niet allebei.'"
+  },
+  {
+   "id": "vd-056",
+   "ernst": "twijfel",
+   "reden": "Uitleg bij de t-afleider (geleit, geantwoort, gelant, geret, gedownloat): 'De laatste letter van de stam is een d. Die zit niet in 't kofschip, dus een d.' Dat suggereert ge + stam + d (geleidd). Bij deze regel (vd-stam-td) is de reden juist dat de stam al op d eindigt: die d blijft staan en er komt niets meer bij. Voorstel: 'De stam leid eindigt al op een d. Die d blijft staan, ook al hoor je een t.'"
+  },
+  {
+   "id": "vd-005",
+   "ernst": "twijfel",
+   "reden": "Uitleg bij de t-afleider (geleit, geantwoort, gelant, geret, gedownloat): 'De laatste letter van de stam is een d. Die zit niet in 't kofschip, dus een d.' Dat suggereert ge + stam + d (geleidd). Bij deze regel (vd-stam-td) is de reden juist dat de stam al op d eindigt: die d blijft staan en er komt niets meer bij. Voorstel: 'De stam leid eindigt al op een d. Die d blijft staan, ook al hoor je een t.'"
+  },
+  {
+   "id": "vd-009",
+   "ernst": "twijfel",
+   "reden": "Uitleg bij de t-afleider (geleit, geantwoort, gelant, geret, gedownloat): 'De laatste letter van de stam is een d. Die zit niet in 't kofschip, dus een d.' Dat suggereert ge + stam + d (geleidd). Bij deze regel (vd-stam-td) is de reden juist dat de stam al op d eindigt: die d blijft staan en er komt niets meer bij. Voorstel: 'De stam leid eindigt al op een d. Die d blijft staan, ook al hoor je een t.'"
+  },
+  {
+   "id": "vd-010",
+   "ernst": "twijfel",
+   "reden": "Uitleg bij de t-afleider (geleit, geantwoort, gelant, geret, gedownloat): 'De laatste letter van de stam is een d. Die zit niet in 't kofschip, dus een d.' Dat suggereert ge + stam + d (geleidd). Bij deze regel (vd-stam-td) is de reden juist dat de stam al op d eindigt: die d blijft staan en er komt niets meer bij. Voorstel: 'De stam leid eindigt al op een d. Die d blijft staan, ook al hoor je een t.'"
+  },
+  {
+   "id": "eng-002",
+   "ernst": "twijfel",
+   "reden": "Uitleg bij de t-afleider (geleit, geantwoort, gelant, geret, gedownloat): 'De laatste letter van de stam is een d. Die zit niet in 't kofschip, dus een d.' Dat suggereert ge + stam + d (geleidd). Bij deze regel (vd-stam-td) is de reden juist dat de stam al op d eindigt: die d blijft staan en er komt niets meer bij. Voorstel: 'De stam leid eindigt al op een d. Die d blijft staan, ook al hoor je een t.'"
+  },
+  {
+   "id": "vd-007",
+   "ernst": "twijfel",
+   "reden": "Uitleg bij de d-afleider (gezed, gepraad, geprind): '… is een t. Die zit in 't kofschip, dus een t.' Dat suggereert ge + stam + t (gezett). De echte reden is dat de stam al op t eindigt en er niets meer bij komt. Voorstel: 'De stam zet eindigt al op een t. Die blijft staan, er komt niets meer bij.'"
+  },
+  {
+   "id": "vd-008",
+   "ernst": "twijfel",
+   "reden": "Uitleg bij de d-afleider (gezed, gepraad, geprind): '… is een t. Die zit in 't kofschip, dus een t.' Dat suggereert ge + stam + t (gezett). De echte reden is dat de stam al op t eindigt en er niets meer bij komt. Voorstel: 'De stam zet eindigt al op een t. Die blijft staan, er komt niets meer bij.'"
+  },
+  {
+   "id": "eng-011",
+   "ernst": "twijfel",
+   "reden": "Uitleg bij de d-afleider (gezed, gepraad, geprind): '… is een t. Die zit in 't kofschip, dus een t.' Dat suggereert ge + stam + t (gezett). De echte reden is dat de stam al op t eindigt en er niets meer bij komt. Voorstel: 'De stam zet eindigt al op een t. Die blijft staan, er komt niets meer bij.'"
+  },
+  {
+   "id": "vd-001",
+   "ernst": "twijfel",
+   "reden": "'Verder gewoon verhuis + d' is onvolledig. De stam verhuis eindigt op een s (in 't kofschip), dus wie de kofschipregel toepast, kiest verhuist. De d komt van de z in verhuizen (regel vd-vz). Noem dat. De uitleg bij de afleider 'verhuist = persoonsvorm' mist ook de waarschijnlijke denkfout (kofschip-s)."
+  },
+  {
+   "id": "vd-048",
+   "ernst": "twijfel",
+   "reden": "'Verder gewoon beloof + d' is onvolledig. De stam beloof eindigt op f (in 't kofschip), dus wie de kofschipregel toepast, verwacht een t. De d komt van de v in beloven (regel vd-vz). Noem dat erbij."
+  },
+  {
+   "id": "tt-020",
+   "ernst": "twijfel",
+   "reden": "Het onderwerp is Jij (voor het werkwoord), maar het onthoud-zinnetje zegt 'Bij hij, zij en het komt er toch een t achter: dt' en noemt jij niet. Gebruik de volledige vorm uit de regelkaart: 'Bij jij (voor het werkwoord), u, hij, zij en het'."
+  },
+  {
+   "id": "tt-015",
+   "ernst": "twijfel",
+   "reden": "Het onderwerp is Jij (voor het werkwoord), maar het onthoud-zinnetje zegt 'Bij hij, zij en het komt er toch een t achter: dt' en noemt jij niet. Gebruik de volledige vorm uit de regelkaart: 'Bij jij (voor het werkwoord), u, hij, zij en het'."
+  },
+  {
+   "id": "tt-029",
+   "ernst": "twijfel",
+   "reden": "Het onderwerp is U, maar het onthoud-zinnetje noemt alleen hij, zij en het. Gebruik de volledige vorm ('jij (voor het werkwoord), u, hij, zij en het'). Bovendien: 'Bij u komt er altijd nog een t achter' is te absoluut (u mag, u kunt/kan, u zult/zal)."
+  },
+  {
+   "id": "tt-045",
+   "ernst": "twijfel",
+   "reden": "'Bij u komt er altijd een t achter' (uitleg en onthoud) is te absoluut. Uitzonderingen zijn u mag, u kunt/kan, u zult/zal en u heeft/hebt. Voor houden klopt het antwoord wel. Voorstel: 'Bij u komt er een t achter de stam, ook als u achter het werkwoord staat.'"
+  },
+  {
+   "id": "tt-073",
+   "ernst": "stijl",
+   "reden": "'Bij u komt er altijd nog een t achter': 'altijd' is te sterk (u mag, u kan, u zal). Laat 'altijd' weg."
+  },
+  {
+   "id": "vt-044",
+   "ernst": "twijfel",
+   "reden": "Onthoud: 'Sterk werkwoord in de verleden tijd: nooit een t erachter bij jij.' Dat is te absoluut: jij liet, jij at, jij zat, jij vergat en jij schoot eindigen wel op een t (die hoort bij de vorm zelf). Voorstel: 'Sterk werkwoord in de verleden tijd: bij jij komt er geen extra t bij.'"
+  },
+  {
+   "id": "vt-007",
+   "ernst": "twijfel",
+   "reden": "Onthoud: 'Sterk werkwoord in de verleden tijd: nooit een t erachter bij jij.' Dat is te absoluut: jij liet, jij at, jij zat, jij vergat en jij schoot eindigen wel op een t (die hoort bij de vorm zelf). Voorstel: 'Sterk werkwoord in de verleden tijd: bij jij komt er geen extra t bij.'"
+  },
+  {
+   "id": "vt-042",
+   "ernst": "twijfel",
+   "reden": "Onthoud: 'Sterk werkwoord in de verleden tijd: nooit een t erachter bij jij.' Dat is te absoluut: jij liet, jij at, jij zat, jij vergat en jij schoot eindigen wel op een t (die hoort bij de vorm zelf). Voorstel: 'Sterk werkwoord in de verleden tijd: bij jij komt er geen extra t bij.'"
+  },
+  {
+   "id": "eng-022",
+   "ernst": "twijfel",
+   "reden": "Onthoud en uitleg: 'Jij achter het werkwoord? Dan valt de t weg.' Dat klopt niet bij een stam op t (Zet jij, Praat jij, Eet jij, Laat jij): die t blijft. Voorstel: 'Jij/je achter het werkwoord? Dan komt er geen t bij: alleen de stam.'"
+  },
+  {
+   "id": "tt-041",
+   "ernst": "twijfel",
+   "reden": "Onthoud en uitleg: 'Jij achter het werkwoord? Dan valt de t weg.' Dat klopt niet bij een stam op t (Zet jij, Praat jij, Eet jij, Laat jij): die t blijft. Voorstel: 'Jij/je achter het werkwoord? Dan komt er geen t bij: alleen de stam.'"
+  },
+  {
+   "id": "tt-035",
+   "ernst": "twijfel",
+   "reden": "Onthoud en uitleg: 'Jij achter het werkwoord? Dan valt de t weg.' Dat klopt niet bij een stam op t (Zet jij, Praat jij, Eet jij, Laat jij): die t blijft. Voorstel: 'Jij/je achter het werkwoord? Dan komt er geen t bij: alleen de stam.'"
+  },
+  {
+   "id": "eng-038",
+   "ernst": "twijfel",
+   "reden": "Onthoud en uitleg: 'Jij achter het werkwoord? Dan valt de t weg.' Dat klopt niet bij een stam op t (Zet jij, Praat jij, Eet jij, Laat jij): die t blijft. Voorstel: 'Jij/je achter het werkwoord? Dan komt er geen t bij: alleen de stam.'"
+  },
+  {
+   "id": "vt-008",
+   "ernst": "twijfel",
+   "reden": "Onthoud: 'Bij een v of z in het hele werkwoord kijk je naar die letter: -de.' De uitleg in de vraag ('haal -en eraf') klopt, maar het onthoud-zinnetje is misleidend: vissen, verpakken, zetten en zakken hebben ook een v of z en krijgen toch -te. Voorstel: 'Eindigt het hele werkwoord op -ven of -zen? Dan -de.'"
+  },
+  {
+   "id": "vt-052",
+   "ernst": "twijfel",
+   "reden": "Onthoud: 'Bij een v of z in het hele werkwoord kijk je naar die letter: -de.' De uitleg in de vraag ('haal -en eraf') klopt, maar het onthoud-zinnetje is misleidend: vissen, verpakken, zetten en zakken hebben ook een v of z en krijgen toch -te. Voorstel: 'Eindigt het hele werkwoord op -ven of -zen? Dan -de.'"
+  },
+  {
+   "id": "vt-021",
+   "ernst": "twijfel",
+   "reden": "Onthoud: 'Bij een v of z in het hele werkwoord kijk je naar die letter: -de.' De uitleg in de vraag ('haal -en eraf') klopt, maar het onthoud-zinnetje is misleidend: vissen, verpakken, zetten en zakken hebben ook een v of z en krijgen toch -te. Voorstel: 'Eindigt het hele werkwoord op -ven of -zen? Dan -de.'"
+  },
+  {
+   "id": "vt-019",
+   "ernst": "twijfel",
+   "reden": "Onthoud: 'Bij een v of z in het hele werkwoord kijk je naar die letter: -de.' De uitleg in de vraag ('haal -en eraf') klopt, maar het onthoud-zinnetje is misleidend: vissen, verpakken, zetten en zakken hebben ook een v of z en krijgen toch -te. Voorstel: 'Eindigt het hele werkwoord op -ven of -zen? Dan -de.'"
+  },
+  {
+   "id": "vt-023",
+   "ernst": "twijfel",
+   "reden": "Onthoud: 'Bij een v of z in het hele werkwoord kijk je naar die letter: -de.' De uitleg in de vraag ('haal -en eraf') klopt, maar het onthoud-zinnetje is misleidend: vissen, verpakken, zetten en zakken hebben ook een v of z en krijgen toch -te. Voorstel: 'Eindigt het hele werkwoord op -ven of -zen? Dan -de.'"
+  },
+  {
+   "id": "vt-024",
+   "ernst": "twijfel",
+   "reden": "Onthoud: 'Bij een v of z in het hele werkwoord kijk je naar die letter: -de.' De uitleg in de vraag ('haal -en eraf') klopt, maar het onthoud-zinnetje is misleidend: vissen, verpakken, zetten en zakken hebben ook een v of z en krijgen toch -te. Voorstel: 'Eindigt het hele werkwoord op -ven of -zen? Dan -de.'"
+  },
+  {
+   "id": "vt-051",
+   "ernst": "twijfel",
+   "reden": "Onthoud: 'Bij een v of z in het hele werkwoord kijk je naar die letter: -de.' De uitleg in de vraag ('haal -en eraf') klopt, maar het onthoud-zinnetje is misleidend: vissen, verpakken, zetten en zakken hebben ook een v of z en krijgen toch -te. Voorstel: 'Eindigt het hele werkwoord op -ven of -zen? Dan -de.'"
+  },
+  {
+   "id": "vt-003",
+   "ernst": "twijfel",
+   "reden": "Onthoud: 'Bij een v of z in het hele werkwoord kijk je naar die letter: -de.' De uitleg in de vraag ('haal -en eraf') klopt, maar het onthoud-zinnetje is misleidend: vissen, verpakken, zetten en zakken hebben ook een v of z en krijgen toch -te. Voorstel: 'Eindigt het hele werkwoord op -ven of -zen? Dan -de.'"
+  },
+  {
+   "id": "vd-035",
+   "ernst": "twijfel",
+   "reden": "Onthoud: 'Bij een v of z in het hele werkwoord krijg je een d.' Misleidend om dezelfde reden (verpakken → verpakt, vissen → gevist). Voorstel: 'Eindigt het hele werkwoord op -ven of -zen? Dan een d.'"
+  },
+  {
+   "id": "eng-044",
+   "ernst": "twijfel",
+   "reden": "Lunchten is juist, maar de uitleg argumenteert met de letters ch uit 't kofschip. In lunch klinkt ch als (t)sj, niet als de Nederlandse ch (g-klank). Bij een Engels werkwoord moet de uitleg over de klank gaan, net als bij crashen en finishen: 'sj is een stemloze klank, dus -te.' Anders leren studenten een letterregel die bij andere Engelse woorden fout uitpakt."
+  },
+  {
+   "id": "vd-047",
+   "ernst": "twijfel",
+   "reden": "Hint 2, stap 3 ('Zit de laatste letter van de stam in 't kofschip? En eindigt de stam al op t of d?') stuurt naar de regel voor zwakke werkwoorden, terwijl dit een sterk, gemengd of onregelmatig werkwoord is (genoten, verloren, ontvangen, vergeleken, vergeten, geladen, gedacht, verkocht). Voeg toe: 'Of is het een sterk/onregelmatig werkwoord (verandert de klinker, eindigt het op -en)?'"
+  },
+  {
+   "id": "vd-043",
+   "ernst": "twijfel",
+   "reden": "Hint 2, stap 3 ('Zit de laatste letter van de stam in 't kofschip? En eindigt de stam al op t of d?') stuurt naar de regel voor zwakke werkwoorden, terwijl dit een sterk, gemengd of onregelmatig werkwoord is (genoten, verloren, ontvangen, vergeleken, vergeten, geladen, gedacht, verkocht). Voeg toe: 'Of is het een sterk/onregelmatig werkwoord (verandert de klinker, eindigt het op -en)?'"
+  },
+  {
+   "id": "vd-045",
+   "ernst": "twijfel",
+   "reden": "Hint 2, stap 3 ('Zit de laatste letter van de stam in 't kofschip? En eindigt de stam al op t of d?') stuurt naar de regel voor zwakke werkwoorden, terwijl dit een sterk, gemengd of onregelmatig werkwoord is (genoten, verloren, ontvangen, vergeleken, vergeten, geladen, gedacht, verkocht). Voeg toe: 'Of is het een sterk/onregelmatig werkwoord (verandert de klinker, eindigt het op -en)?'"
+  },
+  {
+   "id": "vd-042",
+   "ernst": "twijfel",
+   "reden": "Hint 2, stap 3 ('Zit de laatste letter van de stam in 't kofschip? En eindigt de stam al op t of d?') stuurt naar de regel voor zwakke werkwoorden, terwijl dit een sterk, gemengd of onregelmatig werkwoord is (genoten, verloren, ontvangen, vergeleken, vergeten, geladen, gedacht, verkocht). Voeg toe: 'Of is het een sterk/onregelmatig werkwoord (verandert de klinker, eindigt het op -en)?'"
+  },
+  {
+   "id": "vd-021",
+   "ernst": "twijfel",
+   "reden": "Hint 2, stap 3 ('Zit de laatste letter van de stam in 't kofschip? En eindigt de stam al op t of d?') stuurt naar de regel voor zwakke werkwoorden, terwijl dit een sterk, gemengd of onregelmatig werkwoord is (genoten, verloren, ontvangen, vergeleken, vergeten, geladen, gedacht, verkocht). Voeg toe: 'Of is het een sterk/onregelmatig werkwoord (verandert de klinker, eindigt het op -en)?'"
+  },
+  {
+   "id": "vd-054",
+   "ernst": "twijfel",
+   "reden": "Hint 2, stap 3 ('Zit de laatste letter van de stam in 't kofschip? En eindigt de stam al op t of d?') stuurt naar de regel voor zwakke werkwoorden, terwijl dit een sterk, gemengd of onregelmatig werkwoord is (genoten, verloren, ontvangen, vergeleken, vergeten, geladen, gedacht, verkocht). Voeg toe: 'Of is het een sterk/onregelmatig werkwoord (verandert de klinker, eindigt het op -en)?'"
+  },
+  {
+   "id": "vd-024",
+   "ernst": "twijfel",
+   "reden": "Hint 2, stap 3 ('Zit de laatste letter van de stam in 't kofschip? En eindigt de stam al op t of d?') stuurt naar de regel voor zwakke werkwoorden, terwijl dit een sterk, gemengd of onregelmatig werkwoord is (genoten, verloren, ontvangen, vergeleken, vergeten, geladen, gedacht, verkocht). Voeg toe: 'Of is het een sterk/onregelmatig werkwoord (verandert de klinker, eindigt het op -en)?'"
+  },
+  {
+   "id": "vd-027",
+   "ernst": "twijfel",
+   "reden": "Hint 2, stap 3 ('Zit de laatste letter van de stam in 't kofschip? En eindigt de stam al op t of d?') stuurt naar de regel voor zwakke werkwoorden, terwijl dit een sterk, gemengd of onregelmatig werkwoord is (genoten, verloren, ontvangen, vergeleken, vergeten, geladen, gedacht, verkocht). Voeg toe: 'Of is het een sterk/onregelmatig werkwoord (verandert de klinker, eindigt het op -en)?'"
+  },
+  {
+   "id": "vd-014",
+   "ernst": "twijfel",
+   "reden": "Hint 2 is de algemene voltooid-deelwoordhint en noemt 'scheidbaar' niet. Juist hier gaat het om ge- in het midden (opgebeld) of om geen ge- door be- in het tweede deel (voorbereid). Voeg toe: 'Kun je het werkwoord splitsen (ik bel op)? Dan komt ge- in het midden.'"
+  },
+  {
+   "id": "vd-017",
+   "ernst": "twijfel",
+   "reden": "Hint 2 is de algemene voltooid-deelwoordhint en noemt 'scheidbaar' niet. Juist hier gaat het om ge- in het midden (opgebeld) of om geen ge- door be- in het tweede deel (voorbereid). Voeg toe: 'Kun je het werkwoord splitsen (ik bel op)? Dan komt ge- in het midden.'"
+  },
+  {
+   "id": "vt-013",
+   "ernst": "stijl",
+   "reden": "Hint 2 vraagt 'zwak of sterk?', maar kopen is onregelmatig (andere klinker én -t: kocht). Studenten die de hint volgen, kiezen 'sterk' en verwachten geen t. Noem in de hint de derde mogelijkheid: 'of onregelmatig (uit je hoofd)'."
+  },
+  {
+   "id": "inf-018",
+   "ernst": "stijl",
+   "reden": "De afleider (bloosen, vreesen, leefen, beloofen, geloofen) bevat twee fouten: een dubbele klinker én s/f in plaats van z/v. De uitleg bespreekt alleen de klinker. Voeg toe: 'en het hele werkwoord schrijf je met een z/v (blozen, leven).'"
+  },
+  {
+   "id": "inf-019",
+   "ernst": "stijl",
+   "reden": "De afleider (bloosen, vreesen, leefen, beloofen, geloofen) bevat twee fouten: een dubbele klinker én s/f in plaats van z/v. De uitleg bespreekt alleen de klinker. Voeg toe: 'en het hele werkwoord schrijf je met een z/v (blozen, leven).'"
+  },
+  {
+   "id": "inf-003",
+   "ernst": "stijl",
+   "reden": "De afleider (bloosen, vreesen, leefen, beloofen, geloofen) bevat twee fouten: een dubbele klinker én s/f in plaats van z/v. De uitleg bespreekt alleen de klinker. Voeg toe: 'en het hele werkwoord schrijf je met een z/v (blozen, leven).'"
+  },
+  {
+   "id": "inf-017",
+   "ernst": "stijl",
+   "reden": "De afleider (bloosen, vreesen, leefen, beloofen, geloofen) bevat twee fouten: een dubbele klinker én s/f in plaats van z/v. De uitleg bespreekt alleen de klinker. Voeg toe: 'en het hele werkwoord schrijf je met een z/v (blozen, leven).'"
+  },
+  {
+   "id": "inf-012",
+   "ernst": "stijl",
+   "reden": "De afleider (bloosen, vreesen, leefen, beloofen, geloofen) bevat twee fouten: een dubbele klinker én s/f in plaats van z/v. De uitleg bespreekt alleen de klinker. Voeg toe: 'en het hele werkwoord schrijf je met een z/v (blozen, leven).'"
+  },
+  {
+   "id": "eng-013",
+   "ernst": "stijl",
+   "reden": "'Een scherpe klank' is geen gangbare term. Beter: 'sj is een stemloze klank (je hoort je stem niet), net als s en ch uit 't kofschip.' Inhoud en antwoord kloppen (crashte, finishte)."
+  },
+  {
+   "id": "eng-027",
+   "ernst": "stijl",
+   "reden": "'Een scherpe klank' is geen gangbare term. Beter: 'sj is een stemloze klank (je hoort je stem niet), net als s en ch uit 't kofschip.' Inhoud en antwoord kloppen (crashte, finishte)."
+  },
+  {
+   "id": "bvd-042",
+   "ernst": "stijl",
+   "reden": "Uitleg bij vergeete: 'zo zou het gaan bij een zwak werkwoord' klopt niet helemaal. De zwakke route (stam vergeet + niets + e) zou spellingtechnisch vergete opleveren, niet vergeete. Beter: 'vergeete bestaat niet: het voltooid deelwoord is vergeten, en daar komt geen -e achter.'"
+  },
+  {
+   "id": "vd-076",
+   "ernst": "stijl",
+   "reden": "Stap 2 'De stam: ik luk / ik kost / ik gebeur' is een onnatuurlijke ik-vorm bij een werkwoord dat (bijna) nooit een ik-onderwerp heeft. Gebruik hier 'hele werkwoord min -en: luk(ken) → luk'."
+  },
+  {
+   "id": "tt-050",
+   "ernst": "stijl",
+   "reden": "Stap 2 'De stam: ik luk / ik kost / ik gebeur' is een onnatuurlijke ik-vorm bij een werkwoord dat (bijna) nooit een ik-onderwerp heeft. Gebruik hier 'hele werkwoord min -en: luk(ken) → luk'."
+  },
+  {
+   "id": "vt-018",
+   "ernst": "stijl",
+   "reden": "Stap 2 'De stam: ik luk / ik kost / ik gebeur' is een onnatuurlijke ik-vorm bij een werkwoord dat (bijna) nooit een ik-onderwerp heeft. Gebruik hier 'hele werkwoord min -en: luk(ken) → luk'."
+  },
+  {
+   "id": "tt-006",
+   "ernst": "stijl",
+   "reden": "Stap 2 'De stam: ik luk / ik kost / ik gebeur' is een onnatuurlijke ik-vorm bij een werkwoord dat (bijna) nooit een ik-onderwerp heeft. Gebruik hier 'hele werkwoord min -en: luk(ken) → luk'."
+  },
+  {
+   "id": "vt-019",
+   "ernst": "stijl",
+   "reden": "'Het onderwerp is Het': formeel is het hier een voorlopig onderwerp; het eigenlijke onderwerp is de dat-zin. Voor de vorm maakt dat niet uit (enkelvoud), maar voor pabo-studenten kun je beter zeggen: 'Het (= dat zij zo snel klaar was) is enkelvoud.'"
+  },
+  {
+   "id": "tt-019",
+   "ernst": "stijl",
+   "reden": "De uitleg is goed ('Ook al eindigt de stam op een d, er komt geen t bij'). Het onthoud-zinnetje 'dan valt de t weg' is minder precies: er valt niets weg, er komt alleen niets bij. Gebruik dezelfde formulering als in de uitleg."
+  },
+  {
+   "id": "tt-003",
+   "ernst": "stijl",
+   "reden": "De uitleg is goed ('Ook al eindigt de stam op een d, er komt geen t bij'). Het onthoud-zinnetje 'dan valt de t weg' is minder precies: er valt niets weg, er komt alleen niets bij. Gebruik dezelfde formulering als in de uitleg."
+  }
+ ]
+}

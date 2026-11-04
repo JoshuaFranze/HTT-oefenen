@@ -1,0 +1,759 @@
+{
+ "stappenplan": {
+  "titel": "Stappenplan werkwoordspelling",
+  "intro": "Bij werkwoordspelling is de lastigste vraag vaak: welke regel hoort hierbij? Doe daarom altijd eerst stap 1. De spelling komt daarna bijna vanzelf.",
+  "stappen": [
+   {
+    "titel": "Stap 1: Welke vorm is het?",
+    "tekst": "Begin altijd met de persoonsvorm-test. Kijk daarna pas naar de andere vormen.",
+    "punten": [
+     "Is het de persoonsvorm? Maak van de zin een vraag of zet hem in een andere tijd. Het werkwoord dat dan van plek of vorm verandert, is de persoonsvorm.",
+     "Persoonsvorm? Bepaal dan de tijd: let op tijdwoorden (gisteren, vorig jaar, vroeger, nu, morgen) en op de tijd van de andere werkwoorden in de zin. Zoek ook het onderwerp: wie of wat doet het? Is het enkelvoud of meervoud? Staat jij of je voor of achter de persoonsvorm? Betekent je hier jouw?",
+     "Geen persoonsvorm, er staat al een hulpwerkwoord (hebben, zijn of worden) en het werkwoord staat achteraan? Dan is het een voltooid deelwoord.",
+     "Er staat al een werkwoord als willen, moeten, kunnen, mogen, gaan of zullen, of het woordje te? Dan is het het hele werkwoord (de infinitief).",
+     "Hoort het werkwoord bij een zelfstandig naamwoord (de geschilderde muur, de huilende peuter)? Dan is het een voltooid of onvoltooid deelwoord met of zonder -e.",
+     "Eindigt het op -end en staat het los in de zin (Huilend liep hij weg)? Dan is het een onvoltooid deelwoord zonder -e.",
+     "Is het een opdracht of een verzoek (Pak je jas.)? Dan is het een gebiedende wijs."
+    ]
+   },
+   {
+    "titel": "Stap 2: Wat is de stam?",
+    "tekst": "De stam is meestal de ik-vorm: ik werk, ik word, ik leef, ik reis. Werkt dat niet (het regent), haal dan -en van het hele werkwoord af en pas de spelling aan.",
+    "punten": [
+     "Eindigt het hele werkwoord op -ven of -zen (leven, reizen)? In de stam wordt dat een f of s: ik leef, ik reis.",
+     "Een lange aa, ee, oo of uu wordt in de stam dubbel geschreven: lopen, ik loop. Bij ie, oe, eu en ui verandert er niets: kiezen, ik kies.",
+     "Een dubbele medeklinker wordt enkel: zetten, ik zet.",
+     "Engelse werkwoorden: de stam is het hele werkwoord min -en of -n. Een e blijft staan: racen, race; updaten, update."
+    ]
+   },
+   {
+    "titel": "Stap 3: Welke regel hoort erbij?",
+    "tekst": "Kies de regel die bij de vorm van stap 1 hoort.",
+    "punten": [
+     "Tegenwoordige tijd: ik + stam. Jij (voor het werkwoord), u, hij, zij en het: stam + t. Staat jij of je achter het werkwoord? Dan komt er geen t bij. Bij u komt er wel een t, ook als u achteraan staat. Betekent je jouw? Kijk dan naar het woord erna. Meervoud: het hele werkwoord.",
+     "Zwak of sterk? Zeg: gisteren … ik. Hoor je -te of -de (werkte, woonde)? Dan is het zwak. Verandert de klinker (liep, schreef)? Dan is het sterk. Een paar werkwoorden zijn onregelmatig en leer je los (kocht, dacht, bracht).",
+     "Verleden tijd, zwak werkwoord: zit de laatste letter van de stam in 't kofschip (t, k, f, s, ch, p, en ook x)? Dan stam + te(n). Anders stam + de(n). Eindigt het hele werkwoord op -ven of -zen? Dan -de(n). Eindigt de stam al op t of d? Dan krijg je tt of dd (zette, landde).",
+     "Verleden tijd, sterk werkwoord: de klinker verandert (lopen, liep). Er komt geen extra t bij, ook niet bij jij. Meervoud: + en (liepen; soms met een dubbele medeklinker: won, wonnen).",
+     "Voltooid deelwoord, zwak werkwoord: ge + stam + t of d, met dezelfde regel van 't kofschip en dezelfde -ven/-zen-regel (geleefd, gereisd). Eindigt de stam al op t of d? Dan komt er niets meer achter (gezet, geland).",
+     "Voltooid deelwoord, sterk werkwoord: vaak ge + ... + en, met een andere klinker (gelopen, geschreven). Sommige werkwoorden zijn gemengd (lachen, lachte, gelachen).",
+     "Voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon (betalen, vertellen)? Dan geen ge- (betaald, verteld). Scheidbaar werkwoord (opbellen: ik bel op)? Dan komt de ge- in het midden (opgebeld).",
+     "Voltooid deelwoord bij een zelfstandig naamwoord: + e (de gemaakte afspraak), en schrijf het dan netjes (de gezette koffie). Geen -e als het op -en eindigt (het gebroken glas) of bij een het-woord met een, geen of zo'n ervoor (een gekookt ei).",
+     "Onvoltooid deelwoord: hele werkwoord + d (lachend). Bij een zelfstandig naamwoord + e (een lachende baby), behalve bij een het-woord met een ervoor (een lachend kind).",
+     "Gebiedende wijs: de stam (Word niet boos.).",
+     "Engelse werkwoorden: dezelfde regels, maar je kijkt naar de laatste klank die je hoort (racen, racete). Ook sj (crashen) telt als een klank van 't kofschip."
+    ]
+   }
+  ]
+ },
+ "regels": {
+  "tt-ik": {
+   "regel": "Bij ik schrijf je alleen de stam. Er komt geen t bij (ik werk, ik zet).",
+   "voorbeelden": [
+    {
+     "ww": "werken",
+     "slot": "tt.ik",
+     "vorm": "werk",
+     "zin": "Ik werk elke zaterdag in de bakkerij."
+    },
+    {
+     "ww": "fietsen",
+     "slot": "tt.ik",
+     "vorm": "fiets",
+     "zin": "Ik fiets elke dag naar school."
+    }
+   ]
+  },
+  "tt-t": {
+   "regel": "Bij jij (voor het werkwoord), u, hij, zij (één persoon) en het: stam + t. Ook bij iemand, niemand, wat en dat (dat gebeurt).",
+   "voorbeelden": [
+    {
+     "ww": "werken",
+     "slot": "tt.hij",
+     "vorm": "werkt",
+     "zin": "Mijn broer werkt in een ziekenhuis."
+    },
+    {
+     "ww": "fietsen",
+     "slot": "tt.hij",
+     "vorm": "fietst",
+     "zin": "Zij fietst elke dag naar haar stage."
+    }
+   ]
+  },
+  "tt-dt": {
+   "regel": "Eindigt de stam op d? Bij jij (voor het werkwoord), u, hij, zij en het komt er toch een t achter: dt.",
+   "voorbeelden": [
+    {
+     "ww": "worden",
+     "slot": "tt.hij",
+     "vorm": "wordt",
+     "zin": "Het wordt morgen weer warm."
+    },
+    {
+     "ww": "vinden",
+     "slot": "tt.hij",
+     "vorm": "vindt",
+     "zin": "Mijn moeder vindt dat liedje prachtig."
+    }
+   ]
+  },
+  "tt-stam-t": {
+   "regel": "Eindigt de stam al op t? Dan komt er geen tweede t bij.",
+   "voorbeelden": [
+    {
+     "ww": "zetten",
+     "slot": "tt.hij",
+     "vorm": "zet",
+     "zin": "Hij zet elke ochtend koffie."
+    },
+    {
+     "ww": "praten",
+     "slot": "tt.hij",
+     "vorm": "praat",
+     "zin": "Mijn opa praat graag over vroeger."
+    }
+   ]
+  },
+  "tt-inversie": {
+   "regel": "Staat jij of je achter het werkwoord? Dan komt er geen t bij: je schrijft alleen de stam. Eindigt de stam zelf op t (zet jij), dan blijft die t gewoon staan.",
+   "voorbeelden": [
+    {
+     "ww": "werken",
+     "slot": "tt.jij.na",
+     "vorm": "werk",
+     "zin": "Werk jij morgen ook?"
+    },
+    {
+     "ww": "fietsen",
+     "slot": "tt.jij.na",
+     "vorm": "fiets",
+     "zin": "Fiets jij altijd door de regen?"
+    }
+   ]
+  },
+  "tt-inversie-d": {
+   "regel": "Staat jij of je achter het werkwoord? Dan komt er geen t bij, ook niet als de stam op d eindigt.",
+   "voorbeelden": [
+    {
+     "ww": "worden",
+     "slot": "tt.jij.na",
+     "vorm": "word",
+     "zin": "Word jij later ook leerkracht?"
+    },
+    {
+     "ww": "vinden",
+     "slot": "tt.jij.na",
+     "vorm": "vind",
+     "zin": "Vind jij deze soep ook te zout?"
+    }
+   ]
+  },
+  "tt-u-inversie": {
+   "regel": "Bij u komt er een t achter de stam, ook als u achter het werkwoord staat. Een paar werkwoorden doen anders (u mag, u kunt, u zult).",
+   "voorbeelden": [
+    {
+     "ww": "worden",
+     "slot": "tt.u",
+     "vorm": "wordt",
+     "zin": "Wordt u al geholpen?"
+    },
+    {
+     "ww": "vinden",
+     "slot": "tt.u",
+     "vorm": "vindt",
+     "zin": "Vindt u het goed als ik het raam opendoe?"
+    }
+   ]
+  },
+  "tt-je-bezit": {
+   "regel": "Betekent je hier jouw? Dan is het onderwerp het woord erna (je fiets, je zus). Is dat enkelvoud? Dan stam + t. Bij meervoud (je ouders) gebruik je het hele werkwoord.",
+   "voorbeelden": [
+    {
+     "ww": "worden",
+     "slot": "tt.hij",
+     "vorm": "wordt",
+     "zin": "Wordt je fiets vandaag gemaakt?"
+    },
+    {
+     "ww": "vinden",
+     "slot": "tt.hij",
+     "vorm": "vindt",
+     "zin": "Vindt je zus het ook leuk?"
+    }
+   ]
+  },
+  "tt-mv": {
+   "regel": "Is het onderwerp meervoud (wij, jullie, zij, de kinderen)? Dan gebruik je het hele werkwoord.",
+   "voorbeelden": [
+    {
+     "ww": "werken",
+     "slot": "tt.mv",
+     "vorm": "werken",
+     "zin": "Mijn ouders werken allebei in de zorg."
+    },
+    {
+     "ww": "fietsen",
+     "slot": "tt.mv",
+     "vorm": "fietsen",
+     "zin": "Wij fietsen in het weekend naar het strand."
+    }
+   ]
+  },
+  "vt-te": {
+   "regel": "Verleden tijd van een zwak werkwoord: zit de laatste letter van de stam in 't kofschip (t, k, f, s, ch, p)? Dan stam + te.",
+   "voorbeelden": [
+    {
+     "ww": "maken",
+     "slot": "vt.ev",
+     "vorm": "maakte",
+     "zin": "Vorig jaar maakte ik een fietstocht door Limburg."
+    },
+    {
+     "ww": "fietsen",
+     "slot": "vt.ev",
+     "vorm": "fietste",
+     "zin": "Gisteren fietste ze door de regen."
+    }
+   ]
+  },
+  "vt-de": {
+   "regel": "Verleden tijd van een zwak werkwoord: zit de laatste letter van de stam niet in 't kofschip? Dan stam + de.",
+   "voorbeelden": [
+    {
+     "ww": "huilen",
+     "slot": "vt.ev",
+     "vorm": "huilde",
+     "zin": "De baby huilde de hele nacht."
+    },
+    {
+     "ww": "wonen",
+     "slot": "vt.ev",
+     "vorm": "woonde",
+     "zin": "Vroeger woonde mijn oma in Groningen."
+    }
+   ]
+  },
+  "vt-vz": {
+   "regel": "Eindigt het hele werkwoord op -ven of -zen (leven, reizen)? Haal -en eraf en kijk naar die v of z. Die zitten niet in 't kofschip, dus -de.",
+   "voorbeelden": [
+    {
+     "ww": "leven",
+     "slot": "vt.ev",
+     "vorm": "leefde",
+     "zin": "Mijn overgrootvader leefde op een boerderij."
+    },
+    {
+     "ww": "reizen",
+     "slot": "vt.ev",
+     "vorm": "reisde",
+     "zin": "Na haar studie reisde ze door Azië."
+    }
+   ]
+  },
+  "vt-leen-klank": {
+   "regel": "Bij een Engels werkwoord is de stam het hele werkwoord min -en of -n; een e blijft staan (race, update). Je kijkt naar de laatste klank die je hoort. Is dat een klank van 't kofschip, of een andere stemloze klank zoals sj? Dan -te, anders -de.",
+   "voorbeelden": [
+    {
+     "ww": "racen",
+     "slot": "vt.ev",
+     "vorm": "racete",
+     "zin": "De wielrenner racete door de bocht."
+    },
+    {
+     "ww": "crashen",
+     "slot": "vt.ev",
+     "vorm": "crashte",
+     "zin": "Gisteren crashte mijn laptop opeens."
+    },
+    {
+     "ww": "timen",
+     "slot": "vt.ev",
+     "vorm": "timede",
+     "zin": "De juf timede elke ronde met haar telefoon."
+    }
+   ]
+  },
+  "vt-stam-t": {
+   "regel": "Eindigt de stam op t? Dan stam + te. Zo krijg je twee t's.",
+   "voorbeelden": [
+    {
+     "ww": "zetten",
+     "slot": "vt.ev",
+     "vorm": "zette",
+     "zin": "Hij zette de vaas op tafel."
+    },
+    {
+     "ww": "praten",
+     "slot": "vt.ev",
+     "vorm": "praatte",
+     "zin": "Ze praatte de hele avond over haar reis."
+    }
+   ]
+  },
+  "vt-stam-d": {
+   "regel": "Eindigt de stam op d? Dan stam + de. Zo krijg je twee d's.",
+   "voorbeelden": [
+    {
+     "ww": "landen",
+     "slot": "vt.ev",
+     "vorm": "landde",
+     "zin": "Het vliegtuig landde precies op tijd."
+    },
+    {
+     "ww": "melden",
+     "slot": "vt.ev",
+     "vorm": "meldde",
+     "zin": "Ze meldde zich gisteren ziek."
+    }
+   ]
+  },
+  "vt-sterk": {
+   "regel": "Een sterk werkwoord verandert in de verleden tijd van klinker (lopen, liep). Er komt geen -te of -de achter. Meervoud: + en (liepen; soms met een dubbele medeklinker: won, wonnen).",
+   "voorbeelden": [
+    {
+     "ww": "lopen",
+     "slot": "vt.ev",
+     "vorm": "liep",
+     "zin": "Ze liep gisteren een halve marathon."
+    },
+    {
+     "ww": "schrijven",
+     "slot": "vt.ev",
+     "vorm": "schreef",
+     "zin": "Mijn opa schreef me een lange brief."
+    }
+   ]
+  },
+  "vt-sterk-jij": {
+   "regel": "Een sterk werkwoord krijgt in de verleden tijd bij jij geen extra t (jij liep, jij schreef).",
+   "voorbeelden": [
+    {
+     "ww": "lopen",
+     "slot": "vt.ev",
+     "vorm": "liep",
+     "zin": "Liep jij gisteren ook door het park?"
+    },
+    {
+     "ww": "schrijven",
+     "slot": "vt.ev",
+     "vorm": "schreef",
+     "zin": "Jij schreef het mooiste verhaal van de klas."
+    }
+   ]
+  },
+  "vt-onregelmatig": {
+   "regel": "Een paar werkwoorden zijn onregelmatig. Hun verleden tijd leer je los, want die volgt geen regel (kopen, kocht; denken, dacht).",
+   "voorbeelden": [
+    {
+     "ww": "kopen",
+     "slot": "vt.ev",
+     "vorm": "kocht",
+     "zin": "Ze kocht een nieuwe jas."
+    },
+    {
+     "ww": "denken",
+     "slot": "vt.ev",
+     "vorm": "dacht",
+     "zin": "Hij dacht dat de winkel al dicht was."
+    }
+   ]
+  },
+  "vd-t": {
+   "regel": "Voltooid deelwoord van een zwak werkwoord: ge + stam + t als de laatste letter van de stam in 't kofschip zit.",
+   "voorbeelden": [
+    {
+     "ww": "maken",
+     "slot": "vd",
+     "vorm": "gemaakt",
+     "zin": "Ik heb vanmiddag mijn huiswerk gemaakt."
+    },
+    {
+     "ww": "fietsen",
+     "slot": "vd",
+     "vorm": "gefietst",
+     "zin": "We hebben veertig kilometer gefietst."
+    }
+   ]
+  },
+  "vd-d": {
+   "regel": "Voltooid deelwoord van een zwak werkwoord: ge + stam + d als de laatste letter van de stam niet in 't kofschip zit.",
+   "voorbeelden": [
+    {
+     "ww": "huilen",
+     "slot": "vd",
+     "vorm": "gehuild",
+     "zin": "De baby heeft de hele nacht gehuild."
+    },
+    {
+     "ww": "wonen",
+     "slot": "vd",
+     "vorm": "gewoond",
+     "zin": "Ze heeft tien jaar in Utrecht gewoond."
+    }
+   ]
+  },
+  "vd-vz": {
+   "regel": "Eindigt het hele werkwoord op -ven of -zen (leven, reizen)? Dan kijk je naar die v of z. Die zitten niet in 't kofschip, dus het voltooid deelwoord eindigt op een d.",
+   "voorbeelden": [
+    {
+     "ww": "leven",
+     "slot": "vd",
+     "vorm": "geleefd",
+     "zin": "Hij heeft lang in Spanje geleefd."
+    },
+    {
+     "ww": "reizen",
+     "slot": "vd",
+     "vorm": "gereisd",
+     "zin": "Wij hebben met de trein gereisd."
+    }
+   ]
+  },
+  "vd-leen-klank": {
+   "regel": "Bij een Engels werkwoord is de stam het hele werkwoord min -en of -n; een e blijft staan (race, like). Is de laatste klank een klank van 't kofschip, of een andere stemloze klank zoals sj? Dan ge + stam + t, anders ge + stam + d.",
+   "voorbeelden": [
+    {
+     "ww": "racen",
+     "slot": "vd",
+     "vorm": "geracet",
+     "zin": "Ze hebben de hele middag over het circuit geracet."
+    },
+    {
+     "ww": "crashen",
+     "slot": "vd",
+     "vorm": "gecrasht",
+     "zin": "Mijn computer is weer gecrasht."
+    }
+   ]
+  },
+  "vd-stam-td": {
+   "regel": "Eindigt de stam al op t of d? Dan komt er niets meer achter (gezet, geland).",
+   "voorbeelden": [
+    {
+     "ww": "zetten",
+     "slot": "vd",
+     "vorm": "gezet",
+     "zin": "Ik heb de fietsen in de schuur gezet."
+    },
+    {
+     "ww": "landen",
+     "slot": "vd",
+     "vorm": "geland",
+     "zin": "Het vliegtuig is net geland."
+    }
+   ]
+  },
+  "vd-geen-ge": {
+   "regel": "Heeft het werkwoord het voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon (beTAlen, verTELlen)? Dan komt er geen ge- voor het voltooid deelwoord. Let op: bij verven, geven en beven is dat geen voorvoegsel (geverfd, gegeven, gebeefd).",
+   "voorbeelden": [
+    {
+     "ww": "betalen",
+     "slot": "vd",
+     "vorm": "betaald",
+     "zin": "Ik heb de rekening al betaald."
+    },
+    {
+     "ww": "vertellen",
+     "slot": "vd",
+     "vorm": "verteld",
+     "zin": "Heeft ze het nieuws al verteld?"
+    }
+   ]
+  },
+  "vd-sterk-geen-ge": {
+   "regel": "Heeft het werkwoord het voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon? Dan komt er geen ge- voor. Een sterk werkwoord eindigt dan vaak op -en.",
+   "voorbeelden": [
+    {
+     "ww": "beginnen",
+     "slot": "vd",
+     "vorm": "begonnen",
+     "zin": "De les is al begonnen."
+    },
+    {
+     "ww": "vergeten",
+     "slot": "vd",
+     "vorm": "vergeten",
+     "zin": "Ik ben mijn sleutels vergeten."
+    }
+   ]
+  },
+  "vd-scheidbaar": {
+   "regel": "Bij een scheidbaar werkwoord (opbellen: ik bel op) komt de ge- in het midden (opgebeld).",
+   "voorbeelden": [
+    {
+     "ww": "opbellen",
+     "slot": "vd",
+     "vorm": "opgebeld",
+     "zin": "Heb je de dokter al opgebeld?"
+    },
+    {
+     "ww": "opruimen",
+     "slot": "vd",
+     "vorm": "opgeruimd",
+     "zin": "Wij hebben samen de zolder opgeruimd."
+    }
+   ]
+  },
+  "vd-scheidbaar-geen-ge": {
+   "regel": "Een scheidbaar werkwoord krijgt de ge- in het midden. Maar heeft het tweede deel al het voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon? Dan komt er geen ge- bij.",
+   "voorbeelden": [
+    {
+     "ww": "voorbereiden",
+     "slot": "vd",
+     "vorm": "voorbereid",
+     "zin": "Ik heb de les goed voorbereid."
+    },
+    {
+     "ww": "terugbetalen",
+     "slot": "vd",
+     "vorm": "terugbetaald",
+     "zin": "Ik heb het geld van de kaartjes al terugbetaald."
+    }
+   ]
+  },
+  "vd-sterk": {
+   "regel": "Een sterk werkwoord heeft een voltooid deelwoord dat vaak op -en eindigt (gelopen, geschreven).",
+   "voorbeelden": [
+    {
+     "ww": "lopen",
+     "slot": "vd",
+     "vorm": "gelopen",
+     "zin": "We hebben door het bos gelopen."
+    },
+    {
+     "ww": "schrijven",
+     "slot": "vd",
+     "vorm": "geschreven",
+     "zin": "Ze heeft een lange brief geschreven."
+    }
+   ]
+  },
+  "vd-gemengd": {
+   "regel": "Sommige werkwoorden hebben -te of -de in de verleden tijd, maar een voltooid deelwoord op -en (lachen, lachte, gelachen).",
+   "voorbeelden": [
+    {
+     "ww": "lachen",
+     "slot": "vd",
+     "vorm": "gelachen",
+     "zin": "We hebben de hele avond gelachen."
+    },
+    {
+     "ww": "vouwen",
+     "slot": "vd",
+     "vorm": "gevouwen",
+     "zin": "Ik heb de was al gevouwen."
+    }
+   ]
+  },
+  "vd-onregelmatig": {
+   "regel": "Een paar werkwoorden zijn onregelmatig. Hun voltooid deelwoord leer je los, want het volgt geen regel (gekocht, gedacht).",
+   "voorbeelden": [
+    {
+     "ww": "kopen",
+     "slot": "vd",
+     "vorm": "gekocht",
+     "zin": "Ik heb nieuwe schoenen gekocht."
+    },
+    {
+     "ww": "denken",
+     "slot": "vd",
+     "vorm": "gedacht",
+     "zin": "Daar had ik nog niet aan gedacht."
+    }
+   ]
+  },
+  "od-e": {
+   "regel": "Onvoltooid deelwoord: hele werkwoord + d. Hoort het bij een zelfstandig naamwoord (de huilende peuter)? Dan komt er een -e achter.",
+   "voorbeelden": [
+    {
+     "ww": "huilen",
+     "slot": "od.e",
+     "vorm": "huilende",
+     "zin": "De huilende peuter wilde zijn knuffel."
+    },
+    {
+     "ww": "zingen",
+     "slot": "od.e",
+     "vorm": "zingende",
+     "zin": "De zingende vogels maakten me wakker."
+    }
+   ]
+  },
+  "od-kaal": {
+   "regel": "Onvoltooid deelwoord: het hele werkwoord + d. Staat het los in de zin (Huilend liep hij weg)? Dan schrijf je het gewoon zo.",
+   "voorbeelden": [
+    {
+     "ww": "huilen",
+     "slot": "od.kaal",
+     "vorm": "huilend",
+     "zin": "Huilend liep de peuter naar zijn vader."
+    },
+    {
+     "ww": "zingen",
+     "slot": "od.kaal",
+     "vorm": "zingend",
+     "zin": "Zingend fietste ze naar huis."
+    }
+   ]
+  },
+  "od-een-het": {
+   "regel": "Onvoltooid deelwoord bij een het-woord in het enkelvoud met een, geen of zo'n ervoor (een lachend kind): geen -e. Met het ervoor wel (het lachende kind).",
+   "voorbeelden": [
+    {
+     "ww": "huilen",
+     "slot": "od.kaal",
+     "vorm": "huilend",
+     "zin": "Ik hoorde een huilend kind in de trein."
+    },
+    {
+     "ww": "zingen",
+     "slot": "od.kaal",
+     "vorm": "zingend",
+     "zin": "Er zat een zingend vogeltje in de boom."
+    }
+   ]
+  },
+  "inf": {
+   "regel": "Na een werkwoord als willen, moeten, kunnen, mogen, gaan, zullen of laten, of na te en om te, komt het hele werkwoord (de infinitief).",
+   "voorbeelden": [
+    {
+     "ww": "werken",
+     "slot": "inf",
+     "vorm": "werken",
+     "zin": "Ik moet morgen tot vijf uur werken."
+    },
+    {
+     "ww": "fietsen",
+     "slot": "inf",
+     "vorm": "fietsen",
+     "zin": "We gaan zaterdag naar het strand fietsen."
+    }
+   ]
+  },
+  "gw": {
+   "regel": "Een gebiedende wijs (een opdracht of verzoek) is de stam. Eindigt de stam op t, dan staat die t er gewoon (Zet de stoel neer).",
+   "voorbeelden": [
+    {
+     "ww": "werken",
+     "slot": "gw",
+     "vorm": "werk",
+     "zin": "Werk rustig door tot de bel gaat."
+    },
+    {
+     "ww": "luisteren",
+     "slot": "gw",
+     "vorm": "luister",
+     "zin": "Luister even naar dit liedje."
+    }
+   ]
+  },
+  "gw-d": {
+   "regel": "Een gebiedende wijs is alleen de stam, zonder t. Ook als de stam op d eindigt.",
+   "voorbeelden": [
+    {
+     "ww": "worden",
+     "slot": "gw",
+     "vorm": "word",
+     "zin": "Word nou niet meteen boos."
+    },
+    {
+     "ww": "melden",
+     "slot": "gw",
+     "vorm": "meld",
+     "zin": "Meld je eerst bij de balie."
+    }
+   ]
+  },
+  "bvd-e": {
+   "regel": "Voltooid deelwoord bij een zelfstandig naamwoord: + e (de geverfde muur). Geen -e als het op -en eindigt (het gebroken glas) of bij een + het-woord (een gekookt ei).",
+   "voorbeelden": [
+    {
+     "ww": "verven",
+     "slot": "bvd.e",
+     "vorm": "geverfde",
+     "zin": "De geverfde muur moet nog een dag drogen."
+    },
+    {
+     "ww": "betalen",
+     "slot": "bvd.e",
+     "vorm": "betaalde",
+     "zin": "Ze bewaarde de betaalde rekening in een map."
+    }
+   ]
+  },
+  "bvd-stam-t": {
+   "regel": "Maak eerst het voltooid deelwoord. Eindigt dat al op een t (verwacht)? Dan komt er geen tweede t bij, alleen een -e (de verwachte regen).",
+   "voorbeelden": [
+    {
+     "ww": "verwachten",
+     "slot": "bvd.e",
+     "vorm": "verwachte",
+     "zin": "De verwachte storm bleef gelukkig weg."
+    },
+    {
+     "ww": "verlichten",
+     "slot": "bvd.e",
+     "vorm": "verlichte",
+     "zin": "We fietsten over de goed verlichte weg naar huis."
+    }
+   ]
+  },
+  "bvd-spelling": {
+   "regel": "Maak eerst het voltooid deelwoord, zet er een -e achter en schrijf het dan volgens de gewone spellingregels: soms komt er een medeklinker bij (gezet, de gezette koffie), soms gaat er een klinker af (gekleed, de geklede man).",
+   "voorbeelden": [
+    {
+     "ww": "zetten",
+     "slot": "bvd.e",
+     "vorm": "gezette",
+     "zin": "De vers gezette koffie rook heerlijk."
+    },
+    {
+     "ww": "redden",
+     "slot": "bvd.e",
+     "vorm": "geredde",
+     "zin": "De geredde kat zat te trillen op de bank."
+    },
+    {
+     "ww": "kleden",
+     "slot": "bvd.e",
+     "vorm": "geklede",
+     "zin": "De netjes geklede man wachtte bij de deur."
+    }
+   ]
+  },
+  "bvd-sterk": {
+   "regel": "Eindigt het voltooid deelwoord op -en (gebroken)? Dan komt er geen -e meer achter.",
+   "voorbeelden": [
+    {
+     "ww": "breken",
+     "slot": "bvd.e",
+     "vorm": "gebroken",
+     "zin": "Het gebroken glas lag nog op de vloer."
+    },
+    {
+     "ww": "schrijven",
+     "slot": "bvd.e",
+     "vorm": "geschreven",
+     "zin": "Ze las de geschreven tekst nog één keer door."
+    }
+   ]
+  },
+  "bvd-een-het": {
+   "regel": "Voltooid deelwoord bij een het-woord in het enkelvoud met een, geen of zo'n ervoor (een gekookt ei): geen -e. Met het ervoor wel (het gekookte ei).",
+   "voorbeelden": [
+    {
+     "ww": "koken",
+     "slot": "bvd.kaal",
+     "vorm": "gekookt",
+     "zin": "Ik eet elke ochtend een gekookt ei."
+    },
+    {
+     "ww": "verven",
+     "slot": "bvd.kaal",
+     "vorm": "geverfd",
+     "zin": "Ze woont in een pas geverfd huis."
+    }
+   ]
+  }
+ }
+}

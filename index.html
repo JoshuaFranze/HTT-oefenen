@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Werkwoordspelling oefenen</title>
+  <meta name="description" content="Rustig oefenen voor het onderdeel werkwoordspelling van de Hogeschool Taaltoets (4F). Twee oefentoetsen per week, met uitleg bij elke vraag.">
+  <meta name="theme-color" content="#f7f5f0">
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%232f7d6d'/%3E%3Ctext x='32' y='43' font-family='Arial' font-weight='700' font-size='26' fill='white' text-anchor='middle'%3Edt%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/tailwind.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="min-h-screen">
+  <a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-50 knop knop-primair">Naar de inhoud</a>
+  <header class="site-kop sticky top-0 z-30">
+    <div class="max-w-5xl mx-auto px-4 py-3 flex items-center gap-3 flex-wrap">
+      <a href="#/" class="flex items-center gap-2 font-extrabold text-lg mr-auto" aria-label="Werkwoordspelling oefenen, naar het overzicht">
+        <span class="logo">dt</span>
+        <span>Werkwoordspelling</span>
+      </a>
+      <nav class="flex items-center gap-1 order-3 sm:order-none w-full sm:w-auto overflow-x-auto" aria-label="Hoofdmenu">
+        <a class="nav-link" href="#/" data-nav="home">Overzicht</a>
+        <a class="nav-link" href="#/stappenplan" data-nav="stappenplan">Stappenplan</a>
+        <a class="nav-link" href="#/trainer" data-nav="trainer">Trainer</a>
+      </nav>
+      <a id="sync-pill" href="#/instellingen" class="sync-pill" title="Opslaan">
+        <span data-dot class="inline-block w-2 h-2 rounded-full mr-1 align-middle bg-grijs"></span><span data-tekst>Niet gekoppeld</span>
+      </a>
+      <a href="#/instellingen" class="knop knop-rand !px-3 !py-2" data-nav="instellingen" aria-label="Instellingen">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+      </a>
+    </div>
+  </header>
+
+  <main class="site-main max-w-5xl mx-auto px-4 py-6 sm:py-10">
+    <noscript><div class="kaart p-6">Deze oefensite heeft JavaScript nodig. Zet JavaScript aan in je browser.</div></noscript>
+    <div id="app"></div>
+  </main>
+
+  <footer class="site-voet max-w-5xl mx-auto px-4 pb-10 text-sm text-zacht">
+    <p>Gratis oefensite voor het onderdeel werkwoordspelling van de Hogeschool Taaltoets (4F). Alle zinnen zijn zelf gemaakt; dit is geen officiële toets.</p>
+  </footer>
+
+  <div id="modal-root"></div>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

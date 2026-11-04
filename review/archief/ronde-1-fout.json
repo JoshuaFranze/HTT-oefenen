@@ -1,0 +1,390 @@
+{
+  "markeringen": [
+    {
+      "id": "eng-032",
+      "ernst": "fout",
+      "reden": "Twee goede antwoorden. 'Ze' kan hier net zo goed meervoud zijn (een team): 'Ze scoorden in de laatste minuut het winnende doelpunt' is ook goed Nederlands. Niets in de zin maakt 'Ze' enkelvoud, dus de afleider 'scoorden' is ook goed. De uitleg zegt ''Ze' is enkelvoud', maar dat kun je niet uit de zin halen. Oplossing: 'Ze' vervangen door bijv. 'Mijn zus' of 'De spits'."
+    },
+    {
+      "id": "vd-017",
+      "ernst": "fout",
+      "reden": "De uitleg bij afleider 'voorgebereid' klopt niet: 'voorbereiden begint met be-'. voorbereiden begint met voor-; het tweede deel (bereiden) begint met be-. Lees: 'Het tweede deel, bereiden, begint met be-. Dan komt er geen ge- bij.' Daarnaast stuurt hint 2 ('Begint het werkwoord met be-...?') de leerling naar 'voor-', dus 'nee'."
+    },
+    {
+      "id": "vd-054",
+      "ernst": "fout",
+      "reden": "Spelfout in de zin zelf: 'De vrachtwagen is helemaal vol ___' geeft 'vol geladen'. Volgens de Woordenlijst schrijf je volladen/volgeladen aaneen (zoals volgieten, volstoppen). De zin dwingt dus een spatie die niet hoort. Oplossing: bijv. 'De vrachtwagen is al ___.' of 'Wie heeft de vrachtwagen ___?' Verder: 'je hoort een lange klank, maar de lettergreep is open' is onlogisch ('maar'); het moet zijn 'en de lettergreep is open (ge-la-den)'."
+    },
+    {
+      "id": "vt-077",
+      "ernst": "fout",
+      "reden": "(1) 'trainen klinkt hetzelfde' klopt niet: in 'trainden' hoor je de d (tree-nen tegenover treen-den). (2) 'Ze' kan enkelvoud zijn; de uitleg zegt zonder reden 'Het onderwerp is meervoud'. Er is geen optie 'trainde', dus de sleutel blijft het enige antwoord, maar een leerling die 'Ze' als enkelvoud leest, zoekt 'trainde' en raakt in de war. Liever 'Mijn zussen' of 'We'."
+    },
+    {
+      "id": "vt-072",
+      "ernst": "fout",
+      "reden": "'fietsen klinkt hetzelfde, maar dat is de tegenwoordige tijd' klopt niet: in 'fietsten' hoor je een extra t (fiet-sten tegenover fiet-sen). Schrijf bijv.: 'fietsen is de tegenwoordige tijd. Let op 'Vorige zomer'.'"
+    },
+    {
+      "id": "vt-048",
+      "ernst": "fout",
+      "reden": "'winnen klinkt hetzelfde, maar dat is de tegenwoordige tijd' klopt duidelijk niet: winnen en wonnen hebben een andere klinker. Haal 'klinkt hetzelfde' weg."
+    },
+    {
+      "id": "eng-044",
+      "ernst": "fout",
+      "reden": "'lunchen klinkt hetzelfde' klopt niet: in 'lunchten' hoor je de t. Haal 'klinkt hetzelfde' weg."
+    },
+    {
+      "id": "vd-001",
+      "ernst": "fout",
+      "reden": "De uitleg zegt 'Verder gewoon verhuis + d'. Volgens de regel die de leerling leert, zit de s van 'verhuis' in 't kofschip; dan zou je juist een t krijgen (verhuist). De echte reden voor de d (verhuizen: de z zit niet in 't kofschip) ontbreekt. Hint 2 stap 3 ('Zit de laatste letter van de stam in 't kofschip?') geeft hier zelfs het verkeerde antwoord: s, dus t. Uitleg en hint moeten de v/z-regel noemen."
+    },
+    {
+      "id": "vd-048",
+      "ernst": "fout",
+      "reden": "Zelfde probleem als vd-001: 'Verder gewoon beloof + d'. De f zit in 't kofschip, dus met de geleerde regel kom je op een t uit. De v-regel (beloven: v, dus d) ontbreekt in de uitleg, en hint 2 stap 3 stuurt naar het verkeerde antwoord (f, dus t)."
+    },
+    {
+      "id": "bvd-008",
+      "ernst": "fout",
+      "reden": "Het voorbeeld past niet bij de regel. De regel zegt: 'Eindigt de stam al op t? Dan komt er geen extra t bij (de gepoetste schoenen)'. De stam van poetsen is poets en eindigt op s, niet op t. Ook hint 3 ('Hij droeg zijn gepoetste schoenen') laat dus een andere regel zien. Beter: 'de geplante boom', 'de gezette koffie' of 'de verwachte gasten'."
+    },
+    {
+      "id": "inf-017",
+      "ernst": "fout",
+      "reden": "De lettergrepen kloppen niet: '(belo-ven)' moet '(be-lo-ven)' zijn. Op de pabo leer je juist lettergrepen splitsen; een verkeerde splitsing in de uitleg haalt de regel onderuit. Ook bespreekt de uitleg bij de afleider ('...oofen') alleen de dubbele klinker en niet de f/v. De afleider heeft twee afwijkingen."
+    },
+    {
+      "id": "inf-023",
+      "ernst": "fout",
+      "reden": "De lettergrepen kloppen niet: '(verhu-ren)' moet '(ver-hu-ren)' zijn. Op de pabo leer je juist lettergrepen splitsen; een verkeerde splitsing in de uitleg haalt de regel onderuit."
+    },
+    {
+      "id": "inf-028",
+      "ernst": "fout",
+      "reden": "De lettergrepen kloppen niet: '(verba-zen)' moet '(ver-ba-zen)' zijn. Op de pabo leer je juist lettergrepen splitsen; een verkeerde splitsing in de uitleg haalt de regel onderuit. Ook bespreekt de uitleg bij 'verbaasen' alleen de dubbele klinker en niet de s/z."
+    },
+    {
+      "id": "inf-012",
+      "ernst": "fout",
+      "reden": "De lettergrepen kloppen niet: '(gelo-ven)' moet '(ge-lo-ven)' zijn. Op de pabo leer je juist lettergrepen splitsen; een verkeerde splitsing in de uitleg haalt de regel onderuit. Ook bespreekt de uitleg bij de afleider ('...oofen') alleen de dubbele klinker en niet de f/v. De afleider heeft twee afwijkingen."
+    },
+    {
+      "id": "inf-008",
+      "ernst": "fout",
+      "reden": "De lettergrepen kloppen niet: '(beta-len)' moet '(be-ta-len)' zijn. Op de pabo leer je juist lettergrepen splitsen; een verkeerde splitsing in de uitleg haalt de regel onderuit."
+    },
+    {
+      "id": "vt-008",
+      "ernst": "fout",
+      "reden": "Hint 2 stap 3 ('wat is de stam, en zit de laatste letter in 't kofschip?') geeft bij dit v/z-werkwoord het verkeerde antwoord: de stam eindigt op s of f, dus krijg je -te of -t. Juist bij deze instinker stuurt de hint de leerling de verkeerde kant op. Pas hint 2 bij v/z-vragen aan: 'Staat er een v of z in het hele werkwoord?'"
+    },
+    {
+      "id": "vt-052",
+      "ernst": "fout",
+      "reden": "Hint 2 stap 3 ('wat is de stam, en zit de laatste letter in 't kofschip?') geeft bij dit v/z-werkwoord het verkeerde antwoord: de stam eindigt op s of f, dus krijg je -te of -t. Juist bij deze instinker stuurt de hint de leerling de verkeerde kant op. Pas hint 2 bij v/z-vragen aan: 'Staat er een v of z in het hele werkwoord?'"
+    },
+    {
+      "id": "vt-021",
+      "ernst": "fout",
+      "reden": "Hint 2 stap 3 ('wat is de stam, en zit de laatste letter in 't kofschip?') geeft bij dit v/z-werkwoord het verkeerde antwoord: de stam eindigt op s of f, dus krijg je -te of -t. Juist bij deze instinker stuurt de hint de leerling de verkeerde kant op. Pas hint 2 bij v/z-vragen aan: 'Staat er een v of z in het hele werkwoord?'"
+    },
+    {
+      "id": "vt-019",
+      "ernst": "fout",
+      "reden": "Hint 2 stap 3 ('wat is de stam, en zit de laatste letter in 't kofschip?') geeft bij dit v/z-werkwoord het verkeerde antwoord: de stam eindigt op s of f, dus krijg je -te of -t. Juist bij deze instinker stuurt de hint de leerling de verkeerde kant op. Pas hint 2 bij v/z-vragen aan: 'Staat er een v of z in het hele werkwoord?'"
+    },
+    {
+      "id": "vt-023",
+      "ernst": "fout",
+      "reden": "Hint 2 stap 3 ('wat is de stam, en zit de laatste letter in 't kofschip?') geeft bij dit v/z-werkwoord het verkeerde antwoord: de stam eindigt op s of f, dus krijg je -te of -t. Juist bij deze instinker stuurt de hint de leerling de verkeerde kant op. Pas hint 2 bij v/z-vragen aan: 'Staat er een v of z in het hele werkwoord?'"
+    },
+    {
+      "id": "vt-024",
+      "ernst": "fout",
+      "reden": "Hint 2 stap 3 ('wat is de stam, en zit de laatste letter in 't kofschip?') geeft bij dit v/z-werkwoord het verkeerde antwoord: de stam eindigt op s of f, dus krijg je -te of -t. Juist bij deze instinker stuurt de hint de leerling de verkeerde kant op. Pas hint 2 bij v/z-vragen aan: 'Staat er een v of z in het hele werkwoord?'"
+    },
+    {
+      "id": "vt-003",
+      "ernst": "fout",
+      "reden": "Hint 2 stap 3 ('wat is de stam, en zit de laatste letter in 't kofschip?') geeft bij dit v/z-werkwoord het verkeerde antwoord: de stam eindigt op s of f, dus krijg je -te of -t. Juist bij deze instinker stuurt de hint de leerling de verkeerde kant op. Pas hint 2 bij v/z-vragen aan: 'Staat er een v of z in het hele werkwoord?'"
+    },
+    {
+      "id": "vt-051",
+      "ernst": "fout",
+      "reden": "Hint 2 stap 3 ('wat is de stam, en zit de laatste letter in 't kofschip?') geeft bij dit v/z-werkwoord het verkeerde antwoord: de stam eindigt op s of f, dus krijg je -te of -t. Juist bij deze instinker stuurt de hint de leerling de verkeerde kant op. Pas hint 2 bij v/z-vragen aan: 'Staat er een v of z in het hele werkwoord?'"
+    },
+    {
+      "id": "vd-035",
+      "ernst": "fout",
+      "reden": "Hint 2 stap 3 ('wat is de stam, en zit de laatste letter in 't kofschip?') geeft bij dit v/z-werkwoord het verkeerde antwoord: de stam eindigt op s of f, dus krijg je -te of -t. Juist bij deze instinker stuurt de hint de leerling de verkeerde kant op. Pas hint 2 bij v/z-vragen aan: 'Staat er een v of z in het hele werkwoord?'"
+    },
+    {
+      "id": "eng-009",
+      "ernst": "fout",
+      "reden": "Hint 2 stap 3 ('Zit de laatste letter van de stam in 't kofschip?') botst met de klankregel. De laatste letter van de stam is hier een e (race/delete/like/skate/update). Die zit niet in 't kofschip, dus de hint leidt naar -d/-de, terwijl het antwoord -t/-te is. Pas hint 2 bij Engelse werkwoorden aan: 'Welke klank hoor je aan het eind?'"
+    },
+    {
+      "id": "eng-048",
+      "ernst": "fout",
+      "reden": "Hint 2 stap 3 ('Zit de laatste letter van de stam in 't kofschip?') botst met de klankregel. De laatste letter van de stam is hier een e (race/delete/like/skate/update). Die zit niet in 't kofschip, dus de hint leidt naar -d/-de, terwijl het antwoord -t/-te is. Pas hint 2 bij Engelse werkwoorden aan: 'Welke klank hoor je aan het eind?'"
+    },
+    {
+      "id": "eng-017",
+      "ernst": "fout",
+      "reden": "Hint 2 stap 3 ('Zit de laatste letter van de stam in 't kofschip?') botst met de klankregel. De laatste letter van de stam is hier een e (race/delete/like/skate/update). Die zit niet in 't kofschip, dus de hint leidt naar -d/-de, terwijl het antwoord -t/-te is. Pas hint 2 bij Engelse werkwoorden aan: 'Welke klank hoor je aan het eind?'"
+    },
+    {
+      "id": "eng-046",
+      "ernst": "fout",
+      "reden": "Hint 2 stap 3 ('Zit de laatste letter van de stam in 't kofschip?') botst met de klankregel. De laatste letter van de stam is hier een e (race/delete/like/skate/update). Die zit niet in 't kofschip, dus de hint leidt naar -d/-de, terwijl het antwoord -t/-te is. Pas hint 2 bij Engelse werkwoorden aan: 'Welke klank hoor je aan het eind?'"
+    },
+    {
+      "id": "eng-008",
+      "ernst": "fout",
+      "reden": "Hint 2 stap 3 ('Zit de laatste letter van de stam in 't kofschip?') botst met de klankregel. De laatste letter van de stam is hier een e (race/delete/like/skate/update). Die zit niet in 't kofschip, dus de hint leidt naar -d/-de, terwijl het antwoord -t/-te is. Pas hint 2 bij Engelse werkwoorden aan: 'Welke klank hoor je aan het eind?'"
+    },
+    {
+      "id": "eng-045",
+      "ernst": "fout",
+      "reden": "Hint 2 stap 3 ('Zit de laatste letter van de stam in 't kofschip?') botst met de klankregel. De laatste letter van de stam is hier een e (race/delete/like/skate/update). Die zit niet in 't kofschip, dus de hint leidt naar -d/-de, terwijl het antwoord -t/-te is. Pas hint 2 bij Engelse werkwoorden aan: 'Welke klank hoor je aan het eind?'"
+    },
+    {
+      "id": "eng-035",
+      "ernst": "fout",
+      "reden": "Hint 2 stap 3 ('Zit de laatste letter van de stam in 't kofschip?') botst met de klankregel. De laatste letter van de stam is hier een e (race/delete/like/skate/update). Die zit niet in 't kofschip, dus de hint leidt naar -d/-de, terwijl het antwoord -t/-te is. Pas hint 2 bij Engelse werkwoorden aan: 'Welke klank hoor je aan het eind?'"
+    },
+    {
+      "id": "eng-005",
+      "ernst": "fout",
+      "reden": "Hint 2 stap 3 ('Zit de laatste letter van de stam in 't kofschip?') botst met de klankregel. De laatste letter van de stam is hier een e (race/delete/like/skate/update). Die zit niet in 't kofschip, dus de hint leidt naar -d/-de, terwijl het antwoord -t/-te is. Pas hint 2 bij Engelse werkwoorden aan: 'Welke klank hoor je aan het eind?'"
+    },
+    {
+      "id": "eng-013",
+      "ernst": "fout",
+      "reden": "Hint 2 stap 3 ('zit de laatste letter van de stam in 't kofschip?') leidt hier naar het verkeerde antwoord. De laatste letter van crash/finish is een h; die zit niet in 't kofschip, dus -de. De uitleg (sh klinkt scherp, dus -te) is goed, maar de hint spreekt hem tegen."
+    },
+    {
+      "id": "eng-027",
+      "ernst": "fout",
+      "reden": "Hint 2 stap 3 ('zit de laatste letter van de stam in 't kofschip?') leidt hier naar het verkeerde antwoord. De laatste letter van crash/finish is een h; die zit niet in 't kofschip, dus -de. De uitleg (sh klinkt scherp, dus -te) is goed, maar de hint spreekt hem tegen."
+    },
+    {
+      "id": "vd-056",
+      "ernst": "twijfel",
+      "reden": "De uitleg bij 'geleit' ('...dus een d') spreekt de regel van de vraag tegen. De regel zegt: 'Eindigt de stam al op t of d? Dan komt er niets meer achter.' Maar de uitleg zegt dat er volgens 't kofschip een d bij komt. Dan zou je denken aan een dubbele letter (dd). Beter: 'De stam eindigt al op een d. Die d blijft staan en er komt niets bij.'"
+    },
+    {
+      "id": "vd-005",
+      "ernst": "twijfel",
+      "reden": "De uitleg bij 'geantwoort' ('...dus een d') spreekt de regel van de vraag tegen. De regel zegt: 'Eindigt de stam al op t of d? Dan komt er niets meer achter.' Maar de uitleg zegt dat er volgens 't kofschip een d bij komt. Dan zou je denken aan een dubbele letter (dd). Beter: 'De stam eindigt al op een d. Die d blijft staan en er komt niets bij.'"
+    },
+    {
+      "id": "vd-009",
+      "ernst": "twijfel",
+      "reden": "De uitleg bij 'gelant' ('...dus een d') spreekt de regel van de vraag tegen. De regel zegt: 'Eindigt de stam al op t of d? Dan komt er niets meer achter.' Maar de uitleg zegt dat er volgens 't kofschip een d bij komt. Dan zou je denken aan een dubbele letter (dd). Beter: 'De stam eindigt al op een d. Die d blijft staan en er komt niets bij.'"
+    },
+    {
+      "id": "vd-010",
+      "ernst": "twijfel",
+      "reden": "De uitleg bij 'geret' ('...dus een d') spreekt de regel van de vraag tegen. De regel zegt: 'Eindigt de stam al op t of d? Dan komt er niets meer achter.' Maar de uitleg zegt dat er volgens 't kofschip een d bij komt. Dan zou je denken aan een dubbele letter (dd). Beter: 'De stam eindigt al op een d. Die d blijft staan en er komt niets bij.'"
+    },
+    {
+      "id": "eng-002",
+      "ernst": "twijfel",
+      "reden": "De uitleg bij 'gedownloat' ('...dus een d') spreekt de regel van de vraag tegen. De regel zegt: 'Eindigt de stam al op t of d? Dan komt er niets meer achter.' Maar de uitleg zegt dat er volgens 't kofschip een d bij komt. Dan zou je denken aan een dubbele letter (dd). Beter: 'De stam eindigt al op een d. Die d blijft staan en er komt niets bij.'"
+    },
+    {
+      "id": "vd-007",
+      "ernst": "twijfel",
+      "reden": "De uitleg bij 'gezed' ('...dus een t') spreekt de regel van de vraag tegen. De regel zegt: 'Eindigt de stam al op t of d? Dan komt er niets meer achter.' Maar de uitleg zegt dat er volgens 't kofschip een t bij komt. Dan zou je denken aan een dubbele letter (tt). Beter: 'De stam eindigt al op een t. Die t blijft staan en er komt niets bij.'"
+    },
+    {
+      "id": "vd-008",
+      "ernst": "twijfel",
+      "reden": "De uitleg bij 'gepraad' ('...dus een t') spreekt de regel van de vraag tegen. De regel zegt: 'Eindigt de stam al op t of d? Dan komt er niets meer achter.' Maar de uitleg zegt dat er volgens 't kofschip een t bij komt. Dan zou je denken aan een dubbele letter (tt). Beter: 'De stam eindigt al op een t. Die t blijft staan en er komt niets bij.'"
+    },
+    {
+      "id": "eng-011",
+      "ernst": "twijfel",
+      "reden": "De uitleg bij 'geprind' ('...dus een t') spreekt de regel van de vraag tegen. De regel zegt: 'Eindigt de stam al op t of d? Dan komt er niets meer achter.' Maar de uitleg zegt dat er volgens 't kofschip een t bij komt. Dan zou je denken aan een dubbele letter (tt). Beter: 'De stam eindigt al op een t. Die t blijft staan en er komt niets bij.'"
+    },
+    {
+      "id": "tt-020",
+      "ernst": "twijfel",
+      "reden": "De onthoud-zin noemt alleen 'hij, zij en het' ('Bij hij, zij en het komt er toch een t achter: dt'). Het onderwerp van deze zin is juist 'Jij'. Een leerling kan dan denken dat de regel niet voor jij geldt. Neem jij (voor het werkwoord) en u op, net als in stap 3."
+    },
+    {
+      "id": "tt-015",
+      "ernst": "twijfel",
+      "reden": "De onthoud-zin noemt alleen 'hij, zij en het' ('Bij hij, zij en het komt er toch een t achter: dt'). Het onderwerp van deze zin is juist 'Jij'. Een leerling kan dan denken dat de regel niet voor jij geldt. Neem jij (voor het werkwoord) en u op, net als in stap 3."
+    },
+    {
+      "id": "tt-029",
+      "ernst": "twijfel",
+      "reden": "De onthoud-zin noemt alleen 'hij, zij en het' ('Bij hij, zij en het komt er toch een t achter: dt'). Het onderwerp van deze zin is juist 'U'. Een leerling kan dan denken dat de regel niet voor u geldt. Neem jij (voor het werkwoord) en u op, net als in stap 3."
+    },
+    {
+      "id": "tt-032",
+      "ernst": "twijfel",
+      "reden": "Bij de afleider 'beantwoord' staat alleen 'dat is het voltooid deelwoord'. Maar 'beantwoord' is ook de stam (ik beantwoord), en de leerling heeft die net in stap 2 gevonden. Beter: 'beantwoord is de stam (en ook het voltooid deelwoord). Bij De docent komt er nog een t achter.'"
+    },
+    {
+      "id": "tt-059",
+      "ernst": "twijfel",
+      "reden": "Hint 2 verklapt de kern van de instinker. 'Let op 'je jas'' zegt al dat het onderwerp 'je jas' is en niet 'je', en dat is precies wat de leerling zelf moet ontdekken. Beter: 'Let op het woord na 'je'. Wie of wat wordt droog?'"
+    },
+    {
+      "id": "eng-007",
+      "ernst": "twijfel",
+      "reden": "'Ze' kan enkelvoud of meervoud zijn. 'haar opdracht' wijst op enkelvoud, maar 'Ze mailden haar opdracht' (zij mailden de opdracht van haar) is ook goed Nederlands. Een eenduidig onderwerp (bijv. 'Mijn zus') haalt alle twijfel weg."
+    },
+    {
+      "id": "tt-055",
+      "ernst": "twijfel",
+      "reden": "'Ze' kan enkelvoud of meervoud zijn. 'Ze ontmoeten haar nieuwe collega's' is ook goed Nederlands (zij ontmoeten de collega's van haar). Alleen 'haar' wijst op enkelvoud. De uitleg zegt ''Ze' is hier enkelvoud', maar dat is een keuze en geen regel. Gebruik een eenduidig onderwerp."
+    },
+    {
+      "id": "vt-003",
+      "ernst": "twijfel",
+      "reden": "'Na de zomer' klinkt als iets wat nog moet gebeuren ('Na de zomer reizen mijn ouders...'). Stap 1 zegt zonder signaalwoord 'verleden tijd'. De sleutel blijft het enige antwoord, want er is geen tt-optie, maar het kan onzeker maken. Beter: 'Vorige zomer' of 'Na de zomer van 2023'."
+    },
+    {
+      "id": "inf-003",
+      "ernst": "twijfel",
+      "reden": "De afleider 'leefen' wijkt op twee plekken af: een dubbele klinker en een f/v. De uitleg bespreekt alleen de dubbele klinker ('Dan schrijf je één klinker'). Een leerling kan dan denken dat de andere schrijfwijze ('lefen') wel goed was. Noem beide punten of maak een afleider met één afwijking."
+    },
+    {
+      "id": "inf-018",
+      "ernst": "twijfel",
+      "reden": "De afleider 'bloosen' wijkt op twee plekken af: een dubbele klinker en een s/z. De uitleg bespreekt alleen de dubbele klinker ('Dan schrijf je één klinker'). Een leerling kan dan denken dat de andere schrijfwijze ('blosen') wel goed was. Noem beide punten of maak een afleider met één afwijking."
+    },
+    {
+      "id": "inf-019",
+      "ernst": "twijfel",
+      "reden": "De afleider 'vreesen' wijkt op twee plekken af: een dubbele klinker en een s/z. De uitleg bespreekt alleen de dubbele klinker ('Dan schrijf je één klinker'). Een leerling kan dan denken dat de andere schrijfwijze ('vresen') wel goed was. Noem beide punten of maak een afleider met één afwijking."
+    },
+    {
+      "id": "od-013",
+      "ernst": "twijfel",
+      "reden": "De zin klinkt onnatuurlijk ('Hij at zijn boterham lopend op weg naar school'). Gewoon is 'Hij at al lopend zijn boterham op weg naar school'. Met 'al' is ook 'al lopende' goed (Taaladvies), en die vaste vorm kennen veel leerlingen. Daardoor kan de afleider 'lopende' als goed aanvoelen. Liever een ander werkwoord of een andere zin."
+    },
+    {
+      "id": "od-008",
+      "ernst": "twijfel",
+      "reden": "De regel zegt: 'Staat het niet voor een zelfstandig naamwoord? Dan geen -e.' Maar hier staat 'dansend' letterlijk vlak voor 'de kamer'. Een leerling die de regel letterlijk volgt, kan op 'dansende' uitkomen. Formuleer de regel als 'Hoort het bij een zelfstandig naamwoord (de/het/een ... + woord)?' of kies een zin waarin geen zelfstandig naamwoord volgt."
+    },
+    {
+      "id": "vd-076",
+      "ernst": "twijfel",
+      "reden": "Stap 2 zegt 'De stam: ik luk'. 'Ik luk' bestaat niet, want lukken gebruik je alleen met het/dat als onderwerp. De ik-proef werkt hier dus niet en kan verwarren. Beter: 'De stam: luk (het lukt).'"
+    },
+    {
+      "id": "bvd-036",
+      "ernst": "twijfel",
+      "reden": "Het voorbeeld bij de regel ('gezet, de gezette koffie') laat zien dat een medeklinker dubbel wordt. Bij verbrede gebeurt het omgekeerde: ee wordt e in een open lettergreep (ver-bre-de). De leerling ziet dus een andere spellingregel dan hij nodig heeft. Geef een voorbeeld waarin een klinker verandert, bijv. 'gekleed' wordt 'de geklede jongen'."
+    },
+    {
+      "id": "tt-087",
+      "ernst": "stijl",
+      "reden": "Stap 2 'ik regen' klinkt raar, want dit werkwoord gebruik je bijna nooit met 'ik'. Beter: 'De stam: regen' of 'de stam vind je met het/dat: het regen...'."
+    },
+    {
+      "id": "tt-006",
+      "ernst": "stijl",
+      "reden": "Stap 2 'ik gebeur' klinkt raar, want dit werkwoord gebruik je bijna nooit met 'ik'. Beter: 'De stam: gebeur' of 'de stam vind je met het/dat: het gebeur...'."
+    },
+    {
+      "id": "vt-018",
+      "ernst": "stijl",
+      "reden": "Stap 2 'ik gebeur' klinkt raar, want dit werkwoord gebruik je bijna nooit met 'ik'. Beter: 'De stam: gebeur' of 'de stam vind je met het/dat: het gebeur...'."
+    },
+    {
+      "id": "tt-050",
+      "ernst": "stijl",
+      "reden": "Stap 2 'ik kost' klinkt raar, want dit werkwoord gebruik je bijna nooit met 'ik'. Beter: 'De stam: kost' of 'de stam vind je met het/dat: het kost...'."
+    },
+    {
+      "id": "vd-043",
+      "ernst": "stijl",
+      "reden": "'je hoort een lange klank, maar de lettergreep is open' is onlogisch: er is geen tegenstelling. Beter: 'Je hoort een lange klank en de lettergreep is open (ver-lo-ren / ver-ge-le-ken). Dan schrijf je één klinker.'"
+    },
+    {
+      "id": "vd-042",
+      "ernst": "stijl",
+      "reden": "'je hoort een lange klank, maar de lettergreep is open' is onlogisch: er is geen tegenstelling. Beter: 'Je hoort een lange klank en de lettergreep is open (ver-lo-ren / ver-ge-le-ken). Dan schrijf je één klinker.'"
+    },
+    {
+      "id": "vt-044",
+      "ernst": "stijl",
+      "reden": "'Sterk werkwoord in de verleden tijd: nooit een t erachter bij jij' kan verwarren bij sterke werkwoorden waarvan de verleden tijd al op een t eindigt (jij liet, jij at, jij vocht). Beter: 'er komt geen extra t bij'."
+    },
+    {
+      "id": "vt-007",
+      "ernst": "stijl",
+      "reden": "'Sterk werkwoord in de verleden tijd: nooit een t erachter bij jij' kan verwarren bij sterke werkwoorden waarvan de verleden tijd al op een t eindigt (jij liet, jij at, jij vocht). Beter: 'er komt geen extra t bij'."
+    },
+    {
+      "id": "vt-042",
+      "ernst": "stijl",
+      "reden": "'Sterk werkwoord in de verleden tijd: nooit een t erachter bij jij' kan verwarren bij sterke werkwoorden waarvan de verleden tijd al op een t eindigt (jij liet, jij at, jij vocht). Beter: 'er komt geen extra t bij'."
+    },
+    {
+      "id": "gw-034",
+      "ernst": "stijl",
+      "reden": "'welke film we kijken' is spreektaal; netter is 'naar welke film we kijken'."
+    },
+    {
+      "id": "gw-014",
+      "ernst": "stijl",
+      "reden": "'Vind de verschillen' is een anglicisme; gewoon is 'Zoek de verschillen'."
+    },
+    {
+      "id": "gw-025",
+      "ernst": "stijl",
+      "reden": "'Vind de weg naar de uitgang met behulp van de bordjes' klinkt stroef. Natuurlijker: 'Vind de uitgang met behulp van de bordjes'."
+    },
+    {
+      "id": "bvd-039",
+      "ernst": "stijl",
+      "reden": "'Het vertelde verhaal bleek echt gebeurd te zijn' klinkt stroef. Natuurlijker is bijv. 'Het vaak vertelde verhaal bleek echt gebeurd te zijn'."
+    },
+    {
+      "id": "bvd-031",
+      "ernst": "stijl",
+      "reden": "'een verdiende pauze' klinkt onaf; gewoon is 'een welverdiende pauze'. Dat verandert de vorm niet: welverdiende is ook goed."
+    },
+    {
+      "id": "vt-019",
+      "ernst": "stijl",
+      "reden": "'Het onderwerp is 'Het'': grammaticaal is 'Het' hier een voorlopig onderwerp; het echte onderwerp is 'dat zij zo snel klaar was'. Voor de vorm maakt het niet uit (enkelvoud), maar 'voorlopig onderwerp' is preciezer voor een pabo-student."
+    },
+    {
+      "id": "vt-050",
+      "ernst": "stijl",
+      "reden": "Er staat geen tijdsaanwijzing in de zin. 'We verwachten eigenlijk veel meer mensen op het feest' (tegenwoordige tijd) is ook natuurlijk, maar staat niet bij de opties. Stap 1 zegt 'verleden tijd' zonder reden. Voeg een signaalwoord toe (bijv. 'Vorige week')."
+    },
+    {
+      "id": "eng-027",
+      "ernst": "stijl",
+      "reden": "Het voorbeeld in hint 3 ('De wielrenner racete naar de finish') bevat het woord 'finish', terwijl de vraag over finishen gaat. Dat is geen verklapper, maar wel verwarrend dichtbij. Kies een ander voorbeeld."
+    }
+  ],
+  "algemeen": [
+    "HINT 2 STAP 3 IS EEN VAST SJABLOON DAT BIJ DRIE SOORTEN VRAGEN DE VERKEERDE KANT OP STUURT. De tekst is 'Zit de laatste letter van de stam in 't kofschip?'. (a) v/z-werkwoorden: vt-008, vt-052, vt-021, vt-019, vt-023, vt-024, vt-003, vt-051, vd-035, vd-001, vd-048. (b) Engelse werkwoorden waar de klank telt: eng-009, eng-048, eng-017, eng-046, eng-008, eng-013, eng-027, eng-045, eng-035, eng-005, met als toevalstreffers eng-036 en eng-049. (c) Sterke, onregelmatige en gemengde voltooide deelwoorden, waar de kofschipcheck niets zegt: vd-024, vd-027, vd-043, vd-045, vd-042, vd-021, vd-047, vd-054. Maak hint 2 per regel: bij vz 'kijk naar het hele werkwoord: staat er een v of z?', bij leenwoorden 'welke klank hoor je?', bij sterk 'verandert de klinker? Dan eindigt het vaak op -en'.",
+    "'KLINKT HETZELFDE' MOET JE ÉÉN VOOR ÉÉN NAKIJKEN. Het klopt bij de meeste paren (wachten en wachtten, verhuist en verhuisd), maar niet bij vt-048 (winnen en wonnen), vt-072 (fietsen en fietsten), vt-077 (trainen en trainden) en eng-044 (lunchen en lunchten). De leerling hoort zelf dat het niet klopt, en dan verliest de uitleg zijn geloofwaardigheid.",
+    "BIJ ALLE vd-stam-td-VRAGEN zegt de uitleg bij de t/d-afleider 'kijk nog eens naar 't kofschip ... dus een d/t'. Dat botst met de regel 'Eindigt de stam al op t of d? Dan komt er niets meer achter'. Het gaat om vd-056, vd-005, vd-007, vd-009, vd-010, vd-008, eng-011 en eng-002. Gebruik één verklaring: 'de stam eindigt al op d/t; die letter blijft staan'.",
+    "SJABLOON 'Verder gewoon <stam> + d' bij vd-geen-ge. Dat gaat goed bij l/r-stammen (bestel, verstuur, betaal, vertel, herhaal, ontwikkel), maar niet bij verhuis (vd-001) en beloof (vd-048). Daar spreekt het 't kofschip tegen. Haal 'gewoon' weg en noem bij v/z-werkwoorden de v/z-regel.",
+    "ONTHOUD-ZIN BIJ tt-dt (en tt-032-type) noemt alleen 'hij, zij en het', terwijl stap 3 en hint 3 ook jij (voor het werkwoord) en u noemen. Maak de onthoud-zin gelijk aan de regel. Dat is extra belangrijk bij tt-020, tt-015 en tt-029, waar het onderwerp jij of u is.",
+    "'Ze'/'Zij' ALS ONDERWERP is dubbelzinnig (enkelvoud of meervoud). Dat is een probleem zodra de andere getalsvorm bij de opties staat: eng-032 (twee goede antwoorden), eng-007, tt-055 en vt-077. Bij een leerling met faalangst liever altijd een eenduidig onderwerp (mijn zus, mijn ouders).",
+    "LETTERGREEPSPLITSING in de uitleg bij open lettergrepen is meerdere keren onjuist: belo-ven, verhu-ren, verba-zen, gelo-ven, beta-len (inf-017, inf-023, inf-028, inf-012, inf-008). Bij afleiders met twee afwijkingen (leefen, beloofen, geloofen, bloosen, vreesen, verbaasen) bespreekt de uitleg er maar één.",
+    "DE STAM-PROEF 'ik …' werkt niet bij werkwoorden die je zonder 'ik' gebruikt (regenen, gebeuren, lukken, kosten): tt-087, tt-006, vt-018, vd-076 en tt-050. Formuleer als 'De stam: regen (het regent)'.",
+    "TOON: 'je hebt een t extra gemaakt' (bvd-004, bvd-024, bvd-023, bvd-016, bvd-021, bvd-034, eng-042) spreekt de leerling aan op een fout die hij of zij maakte. Neutraler: 'Hier staat een t te veel'. 'Dat moet je (gewoon) uit je hoofd kennen' (vd-024, vd-027, vt-013) kan druk geven. Zachter: 'Deze vorm leer je los; hij volgt geen regel'. Het woord 'fout' of 'verkeerd' komt nergens voor, en 'dit is een bekende instinker' werkt juist geruststellend. Goed.",
+    "KLEINIGHEDEN BIJ 'T KOFSCHIP: de lijst (t, k, f, s, ch, p) mist de x (faxen, faxte; vaak 't fokschaap/x genoemd). 'De laatste letter van de stam is een ch' (vd-083, eng-044) noemt twee letters één letter; liever 'de laatste klank is ch'.",
+    "ONVOLTOOID DEELWOORD ZONDER ZELFSTANDIG NAAMWOORD (od-kaal: od-022, od-008, od-013, od-002, od-023, od-033, od-007, od-026, od-019): de sleutel -end is de gewone en verwachte vorm. In vaste of formele combinaties ('al lopende', 'al doende') is -ende ook goed. Vermijd daarom zinnen waarin zo'n combinatie voor de hand ligt (od-013). Ook zegt de regel 'staat het niet voor een zelfstandig naamwoord', terwijl in od-008 het deelwoord letterlijk voor 'de kamer' staat. Formuleer als 'hoort het bij een zelfstandig naamwoord?'.",
+    "HINT 1 is bij alle 303 vragen precies dezelfde ('Welke vorm of tijd is dit? Let op de woorden om de open plek heen.'). Dat is rustig, maar geeft weinig houvast. Overweeg één concreet signaalwoord per categorie.",
+    "TIJDSAANWIJZING: bij veel vragen in de verleden tijd staat geen signaalwoord (bijv. vt-031, vt-032, vt-050, eng-013, eng-027). Dat is geen probleem zolang er geen optie in de tegenwoordige tijd is, maar stap 1 zegt dan 'verleden tijd' zonder reden. Bij vt-003 ('Na de zomer') wijst het signaal zelfs naar de toekomst.",
+    "GECONTROLEERD EN IN ORDE (Groene Boekje / Woordenlijst): geracet, racete, raceten, deletete, gedeletet, geliket, geskatet, gerecycled, geüpdatet, geüpdatete, updatet, timede, crashte, finishte, lunchten, chatte, postte, uploadt, uploadde, gedownload, gedownloade, downloadde, googelt, gescand, gehackt, gecheckt, geshopt, coacht, zapt. Alle hint-3-voorbeelden zijn gecontroleerd. Geen enkele bevat de sleutel of een afleider van de eigen vraag."
+  ]
+}

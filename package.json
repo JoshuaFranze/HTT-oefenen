@@ -1,0 +1,14 @@
+{
+  "name": "htt-werkwoordspelling",
+  "private": true,
+  "type": "module",
+  "description": "Oefensite voor het onderdeel werkwoordspelling van de Hogeschool Taaltoets (4F). Vanilla HTML/JS, draait op GitHub Pages.",
+  "scripts": {
+    "verifieer": "node tools/verifieer.mjs",
+    "zinnen": "node tools/check-zinnen.mjs",
+    "test": "node --test tests/unit/*.test.mjs",
+    "test:e2e": "node tests/e2e.mjs",
+    "build:css": "npx --yes tailwindcss@3.4.16 -c tools/tailwind.config.cjs -i tools/tailwind.input.css -o css/tailwind.css --minify",
+    "start": "python3 -m http.server 8765"
+  }
+}

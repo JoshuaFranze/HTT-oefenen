@@ -1,0 +1,33 @@
+{
+ "zinnen": [
+  {"id": "inf-001", "ww": "verhuizen", "slot": "inf", "zin": "Volgend jaar wil ik naar een grotere stad ___.", "sleutel": "wil"},
+  {"id": "inf-002", "ww": "antwoorden", "slot": "inf", "zin": "Je hoeft niet meteen te ___.", "sleutel": "te"},
+  {"id": "inf-003", "ww": "leven", "slot": "inf", "zin": "Mensen willen graag lang en gezond ___.", "sleutel": "willen"},
+  {"id": "inf-004", "ww": "reizen", "slot": "inf", "zin": "Na mijn studie ga ik een jaar ___.", "sleutel": "ga"},
+  {"id": "inf-005", "ww": "praten", "slot": "inf", "zin": "We moeten nog even over de planning ___.", "sleutel": "moeten"},
+  {"id": "inf-006", "ww": "wachten", "slot": "inf", "zin": "Je moet nog even op je beurt ___.", "sleutel": "moet"},
+  {"id": "inf-007", "ww": "landen", "slot": "inf", "zin": "Het vliegtuig kan door de mist niet ___.", "sleutel": "kan"},
+  {"id": "inf-008", "ww": "betalen", "slot": "inf", "zin": "Je kunt hier ook met je pinpas ___.", "sleutel": "kunt"},
+  {"id": "inf-009", "ww": "verbouwen", "slot": "inf", "zin": "Mijn ouders gaan volgend jaar de keuken ___.", "sleutel": "gaan"},
+  {"id": "inf-011", "ww": "durven", "slot": "inf", "zin": "Ik zou dat nooit ___.", "sleutel": "zou"},
+  {"id": "inf-012", "ww": "geloven", "slot": "inf", "zin": "Ik kan het bijna niet ___.", "sleutel": "kan"},
+  {"id": "inf-014", "ww": "branden", "slot": "inf", "zin": "Die kaarsen mogen niet de hele nacht ___.", "sleutel": "mogen"},
+  {"id": "inf-015", "ww": "melden", "slot": "inf", "zin": "Je moet je om acht uur bij de receptie ___.", "sleutel": "moet"},
+  {"id": "inf-016", "ww": "verven", "slot": "inf", "zin": "Wij gaan dit weekend de schutting ___.", "sleutel": "gaan"},
+  {"id": "inf-017", "ww": "beloven", "slot": "inf", "zin": "Ik kan je niets ___.", "sleutel": "kan"},
+  {"id": "inf-018", "ww": "blozen", "slot": "inf", "zin": "Ze begon meteen te ___.", "sleutel": "te"},
+  {"id": "inf-019", "ww": "vrezen", "slot": "inf", "zin": "Je hoeft niets te ___.", "sleutel": "te"},
+  {"id": "inf-020", "ww": "haasten", "slot": "inf", "zin": "Je hoeft je niet te ___.", "sleutel": "te"},
+  {"id": "inf-021", "ww": "rusten", "slot": "inf", "zin": "Na de lunch wil opa altijd even ___.", "sleutel": "wil"},
+  {"id": "inf-022", "ww": "verwachten", "slot": "inf", "zin": "Wat mogen we morgen van het weer ___?", "sleutel": "mogen"},
+  {"id": "inf-023", "ww": "verhuren", "slot": "inf", "zin": "Ze willen hun zolderkamer aan een student ___.", "sleutel": "willen"},
+  {"id": "inf-024", "ww": "kleden", "slot": "inf", "zin": "Je moet je vandaag echt warm ___.", "sleutel": "moet"},
+  {"id": "inf-025", "ww": "leiden", "slot": "inf", "zin": "Zij gaat volgend jaar het nieuwe project ___.", "sleutel": "gaat"},
+  {"id": "inf-026", "ww": "bloeden", "slot": "inf", "zin": "Een klein wondje kan soms flink ___.", "sleutel": "kan"},
+  {"id": "inf-027", "ww": "kosten", "slot": "inf", "zin": "Hoeveel mag een nieuwe fiets ___?", "sleutel": "mag"},
+  {"id": "inf-028", "ww": "verbazen", "slot": "inf", "zin": "Dat zal je niet ___.", "sleutel": "zal"},
+  {"id": "inf-030", "ww": "maken", "slot": "inf", "zin": "Ik moet vanavond nog een verslag ___.", "sleutel": "moet"},
+  {"id": "inf-031", "ww": "spelen", "slot": "inf", "zin": "Mogen we nog even buiten ___?", "sleutel": "Mogen"},
+  {"id": "inf-032", "ww": "wonen", "slot": "inf", "zin": "Later wil ik graag in een dorp ___.", "sleutel": "wil"}
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "uitleg": "Instellingen voor de toetsen. Datums in de tijdzone Europe/Amsterdam. Pas de vrijgave hier aan als de HTT-datum bekend is.",
+ "tijdzone": "Europe/Amsterdam",
+ "aantalToetsen": 24,
+ "vragenPerToets": 40,
+ "verdeling": {
+  "tt": 7,
+  "vt": 7,
+  "vd": 7,
+  "od": 3,
+  "inf": 3,
+  "gw": 3,
+  "eng": 5,
+  "bvd": 5
+ },
+ "reservePerCategorie": 2,
+ "instinkers": [
+  {
+   "van": 1,
+   "tot": 5,
+   "aantal": 12
+  },
+  {
+   "van": 6,
+   "tot": 14,
+   "aantal": 18
+  },
+  {
+   "van": 15,
+   "tot": 24,
+   "aantal": 24
+  }
+ ],
+ "hint": {
+  "prominentTot": 8,
+  "kleinTot": 16,
+  "standaardUitVanaf": 17
+ },
+ "simulatieAanbevolenVanaf": 21,
+ "trainerRonde": 8,
+ "htt": {
+  "vensterVan": "2027-01-18",
+  "vensterTot": "2027-01-31",
+  "datum": null
+ },
+ "vrijgave": [
+  {
+   "toets": 1,
+   "datum": "2026-11-09"
+  },
+  {
+   "toets": 2,
+   "datum": "2026-11-12"
+  },
+  {
+   "toets": 3,
+   "datum": "2026-11-16"
+  },
+  {
+   "toets": 4,
+   "datum": "2026-11-19"
+  },
+  {
+   "toets": 5,
+   "datum": "2026-11-23"
+  },
+  {
+   "toets": 6,
+   "datum": "2026-11-26"
+  },
+  {
+   "toets": 7,
+   "datum": "2026-11-30"
+  },
+  {
+   "toets": 8,
+   "datum": "2026-12-03"
+  },
+  {
+   "toets": 9,
+   "datum": "2026-12-07"
+  },
+  {
+   "toets": 10,
+   "datum": "2026-12-10"
+  },
+  {
+   "toets": 11,
+   "datum": "2026-12-14"
+  },
+  {
+   "toets": 12,
+   "datum": "2026-12-17"
+  },
+  {
+   "toets": 13,
+   "datum": "2026-12-21"
+  },
+  {
+   "toets": 14,
+   "datum": "2026-12-24"
+  },
+  {
+   "toets": 15,
+   "datum": "2026-12-28"
+  },
+  {
+   "toets": 16,
+   "datum": "2026-12-31"
+  },
+  {
+   "toets": 17,
+   "datum": "2027-01-04"
+  },
+  {
+   "toets": 18,
+   "datum": "2027-01-07"
+  },
+  {
+   "toets": 19,
+   "datum": "2027-01-11"
+  },
+  {
+   "toets": 20,
+   "datum": "2027-01-14"
+  },
+  {
+   "toets": 21,
+   "datum": "2027-01-18"
+  },
+  {
+   "toets": 22,
+   "datum": "2027-01-18"
+  },
+  {
+   "toets": 23,
+   "datum": "2027-01-21",
+   "reserve": true
+  },
+  {
+   "toets": 24,
+   "datum": "2027-01-21",
+   "reserve": true
+  }
+ ]
+}

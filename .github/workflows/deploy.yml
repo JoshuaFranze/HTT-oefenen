@@ -1,0 +1,73 @@
+name: Controleren en live zetten
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  controle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Unit-tests (regelmotor, opslag, samenvoegen, rooster)
+        run: npm test
+
+      - name: Alle controles (A/B/C, zinnen, uitleg, toetsen, hashes, reviewstatus)
+        run: node tools/verifieer.mjs
+
+      - name: Bouw Tailwind CSS
+        run: npm run build:css
+
+      - name: End-to-end-test in Chromium
+        run: |
+          npm install --no-save playwright@1.49.1
+          npx playwright install --with-deps chromium
+          node tests/e2e.mjs
+
+      - name: Site samenstellen
+        run: |
+          mkdir -p _site/data/toetsen _site/data/review
+          cp -r index.html css js _site/
+          cp data/config.json data/regels.json data/blocklist.json data/trainer.json _site/data/
+          cp data/review/status.json _site/data/review/
+          cp data/toetsen/toets-*.json _site/data/toetsen/
+          touch _site/.nojekyll
+
+      - name: Controleer dat er geen geheimen in de site staan
+        run: |
+          if grep -rEn 'gh[pousr]_[A-Za-z0-9]{30,}|github_pat_[A-Za-z0-9_]{30,}|sk-ant-[A-Za-z0-9_-]{20,}' _site; then
+            echo "::error::Er lijkt een token in de site te staan!"
+            exit 1
+          fi
+
+      - uses: actions/upload-pages-artifact@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          path: _site
+
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: controle
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v5
+      - id: deployment
+        uses: actions/deploy-pages@v4

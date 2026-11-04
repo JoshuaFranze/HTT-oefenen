@@ -1,0 +1,25 @@
+{
+ "uitleg": "Overzicht van gebouwde toetsen (gegenereerd). Alleen toetsen die ook in data/review/status.json zijn goedgekeurd, komen live.",
+ "toetsen": [
+  {
+   "toets": 1,
+   "hash": "401f1ac8d99d6073",
+   "aantal": 40
+  },
+  {
+   "toets": 2,
+   "hash": "f82edefe9b92d89d",
+   "aantal": 40
+  },
+  {
+   "toets": 3,
+   "hash": "24f00c0bbc0546d3",
+   "aantal": 40
+  },
+  {
+   "toets": 4,
+   "hash": "a9734e9ff9e19bf1",
+   "aantal": 40
+  }
+ ]
+}
