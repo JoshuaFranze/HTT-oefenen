@@ -1,0 +1,195 @@
+{
+ "regelkaarten": [
+  {
+   "regel": "vd-geen-ge",
+   "ernst": "fout",
+   "reden": "'Ook andere werkwoorden die je niet kunt splitsen en die de klemtoon niet vooraan hebben, krijgen geen ge-' is te ruim. Letterlijk toegepast op proberen (proBEren), studeren, reageren, repareren, telefoneren, controleren (alle -eren-werkwoorden) geeft dat *probeerd, *studeerd; juist is geprobeerd, gestudeerd. De ANS-regel geldt alleen voor onscheidbaar samengestelde werkwoorden met een onbeklemtoond eerste deel (voorspellen, overleggen, ondernemen, doorzoeken, omringen). Voorstel: 'Ook samengestelde werkwoorden met voor-, over-, door-, onder-, om- of mis- die je niet kunt splitsen (voorSPELlen: ik voorspel) krijgen geen ge- (voorspeld, overlegd).' De rest van de kaart (incl. verven/geven/beven) klopt. Dit botst ook met de toets zelf: vd-084 (geprobeerd), vd-085 (gestudeerd) en vd-086 (gerepareerd) zijn goed beantwoord, maar wie deze kaart letterlijk volgt, kiest daar geen ge-."
+  },
+  {
+   "regel": "bvd-stam-t",
+   "ernst": "fout",
+   "reden": "'Zet er dan alleen een -e achter; er komt geen extra t bij' geldt alleen als er een medeklinker voor de t staat of een lange klinker (verwacht, verlicht, gepraat). Letterlijk toegepast op zetten geeft het *de gezete koffie (juist: gezette), en dat is precies wat kaart bvd-spelling andersom zegt. Voorstel: 'Zet er een -e achter en schrijf het volgens de gewone spellingregels. Er komt geen tweede -te bij: de verwachte regen (verwachtte is de verleden tijd).' Of expliciet: 'verwacht + e = verwachte, niet verwachtte'."
+  },
+  {
+   "regel": "vt-sterk",
+   "ernst": "twijfel",
+   "reden": "'Meervoud: + en, en dan schrijf je het volgens de gewone spellingregels' klinkt als een mechanische regel, maar bij veel gewone sterke werkwoorden verandert in het meervoud ook de klinkerlengte of de medeklinker: zat-zaten, brak-braken, gaf-gaven, las-lazen, schreef-schreven. Mechanisch 'zat + en' met de spellingregels voor een korte klinker geeft *zatten, 'las + en' geeft *lassen, 'schreef + en' geeft *schrefen. Voorstel: 'Meervoud: zeg het meervoud hardop (zaten, lazen, schreven) en schrijf wat je hoort; soms wordt de klinker lang of wordt f een v en s een z.'"
+  },
+  {
+   "regel": "vt-leen-klank",
+   "ernst": "twijfel",
+   "reden": "'Luister naar de laatste medeklinker in het hele werkwoord' is letterlijk altijd de n van -en (racen, crashen), en die is stemhebbend: dan zou het altijd -de worden. Alleen de voorbeelden (ra-cen: s) maken duidelijk wat bedoeld wordt. Taalunie formuleert het als 'de laatste klank van de stam' (race: s, crash: sj, time: m). Voorstel: 'Luister naar de laatste medeklinker vóór -en (ra-cen: s) of naar de laatste klank van de stam (race: s).' De rest (stam = Engels woord, racete, crashte, timede) klopt."
+  },
+  {
+   "regel": "vd-leen-klank",
+   "ernst": "twijfel",
+   "reden": "Twee punten. (1) Zelfde onduidelijkheid als vt-leen-klank: 'laatste medeklinker in het hele werkwoord' is letterlijk de n van -en. (2) 'Dan ge + stam + t, anders ge + stam + d' zegt niet dat er niets bijkomt als de Engelse stam al op t of d eindigt: printen, chatten, testen, downloaden, uploaden worden geprint, gechat, getest, gedownload (niet *geprintt, *gedownloadd). Voorstel: zin toevoegen 'Eindigt de stam al op een t of d (print, download)? Dan komt er niets achter.' Voorbeelden geracet, gecrasht, getimed kloppen (Taalunie)."
+  },
+  {
+   "regel": "vd-t",
+   "ernst": "twijfel",
+   "reden": "De kaart noemt t in het rijtje en zegt dan 'ge + stam + t'. Letterlijk: zetten, praten, wachten geven *gezett, *gepraatt, *gewachtt. Dat staat wel op kaart vd-stam-td en in het stappenplan, maar deze kaart zelf zegt het niet. Voorstel: 'Eindigt de stam al op t? Dan komt er niets meer achter (gezet).' toevoegen, of de t uit het rijtje halen met verwijzing."
+  },
+  {
+   "regel": "vd-d",
+   "ernst": "twijfel",
+   "reden": "'Eindigt de stam níet op t, k, f, s, ch, p of x? Dan ge + stam + d.' Letterlijk geeft dat bij landen, melden, branden *gelandd, *gemeldd, omdat d niet in 't kofschip zit. Op deze kaart ontbreekt de toevoeging 'stam al op d: niets erachter (geland)'. Die staat wel op vd-stam-td en in het stappenplan."
+  },
+  {
+   "regel": "vd-sterk-geen-ge",
+   "ernst": "stijl",
+   "reden": "'Een sterk werkwoord eindigt dan vaak op -en' suggereert dat het soms anders is. Het voltooid deelwoord van een sterk werkwoord eindigt altijd op -en (begonnen, vergeten, bedrogen); bij onregelmatige (bedacht, verkocht) is het anders. Beter: 'Bij een sterk werkwoord eindigt het voltooid deelwoord op -en.'"
+  },
+  {
+   "regel": "tt-t",
+   "ernst": "stijl",
+   "reden": "Regel en voorbeelden kloppen. 'Dan stam + t' zonder de toevoeging 'eindigt de stam al op t, dan geen tweede t (hij zet)' kan in isolatie *hij zett opleveren; dat staat wel op tt-stam-t en in het stappenplan. Een korte verwijzing helpt."
+  },
+  {
+   "regel": "od-een-het",
+   "ernst": "stijl",
+   "reden": "Klopt (een lachend kind, kokend water, het lachende kind). Het rijtje is hier 'een, geen, zo'n, elk of veel', op od-e en in het stappenplan alleen 'een, geen of zo'n'. Maak het overal hetzelfde. Het voorbeeld 'een zingend vogeltje' is goed (het vogeltje)."
+  },
+  {
+   "regel": "bvd-een-het",
+   "ernst": "stijl",
+   "reden": "Klopt (een gekookt ei, gekookt water, het gekookte ei, een pas geverfd huis). Zelfde inconsistentie in het rijtje als bij od-een-het tegenover bvd-e en het stappenplan."
+  },
+  {
+   "regel": "tt-u-inversie",
+   "ernst": "stijl",
+   "reden": "Klopt (Wordt u al geholpen?, Vindt u...). Kleine kanttekening: bij u zijn beide vormen goed bij kunnen en zullen (u kunt/kan, u zult/zal) en hebben (u hebt/heeft). 'Onregelmatig (u bent, u mag, u kunt, u zult)' is niet fout, maar een leerling kan denken dat u kan of u heeft fout is."
+  },
+  {
+   "regel": "gw",
+   "ernst": "stijl",
+   "reden": "Klopt. 'Komt u binnen' als persoonsvorm met u als onderwerp is verdedigbaar (ANS noemt het een imperatiefzin met u; spelling stam + t). Klein: het enige echte uitzonderingsgeval, zijn: wees (niet *ben), wordt niet genoemd; hoeft niet, de kaart zegt niet dat er geen uitzonderingen zijn."
+  }
+ ],
+ "stappenplan": [
+  {
+   "ernst": "fout",
+   "reden": "Stap 3, punt 'Geen ge-': '...en bij andere werkwoorden die je niet kunt splitsen en die de klemtoon niet vooraan hebben (voorspeld)' is te ruim. proberen, studeren, reageren en alle -eren-werkwoorden zijn niet te splitsen en hebben de klemtoon niet vooraan, maar krijgen wel ge- (geprobeerd, gestudeerd). Beperk het tot samengestelde werkwoorden met voor-, over-, door-, onder-, om-, mis- (voorspeld, overlegd, ondernomen)."
+  },
+  {
+   "ernst": "twijfel",
+   "reden": "Stap 3, punt 'Verleden tijd, sterk werkwoord': 'Meervoud: + en, en dan de gewone spellingregels' geeft letterlijk *zatten, *brakken, *lassen, *schrefen. Klinkerlengte en f/v, s/z veranderen in het meervoud en volgen niet uit de spellingregels. Laat de leerling het meervoud hardop zeggen en schrijven wat hij hoort."
+  },
+  {
+   "ernst": "twijfel",
+   "reden": "Stap 3, punt 'Engelse werkwoorden' en stap 2: 'je luistert naar de laatste medeklinker in het hele werkwoord' is letterlijk de n van -en. Bedoeld is de medeklinker vóór -en (ra-cen: s) of de laatste klank van de stam (Taalunie). Daarnaast ontbreekt 'anders -de of -d' en de toevoeging dat een Engelse stam op t/d (print, download) bij het voltooid deelwoord niets meer krijgt (geprint, gedownload)."
+  },
+  {
+   "ernst": "twijfel",
+   "reden": "Stap 1: de vervangtruc wordt pas ingevoerd onder 'Geen persoonsvorm?' en geeft alleen schrijven, geschreven, schrijvend(e). Punt 5 zegt daarna dat je met de vervangtruc moet kiezen tussen verhuist en verhuisd en tussen verbrandde en verbrande, maar daarvoor moet je juist de persoonsvorm herkennen (schrijft, schreef) tegenover het voltooid deelwoord (geschreven). Dit is de kern van 'welke regel hoort hierbij?'. Voorstel: in punt 4 en 5 toevoegen 'Past schrijft of schreef? Dan is het een persoonsvorm (verhuist, verbrandde). Past geschreven? Dan een voltooid deelwoord (verhuisd, verbrande).'"
+  },
+  {
+   "ernst": "stijl",
+   "reden": "Stap 3, punt 'Tegenwoordige tijd': de dt-gevallen (de bekendste valkuil) staan er alleen impliciet in (stam + t). Een voorbeeld als 'hij word + t = wordt; word jij' maakt meteen duidelijk dat de regel bij een stam op d ook geldt. Inhoudelijk klopt het punt wel, ook de regel bij u (wordt u)."
+  },
+  {
+   "ernst": "stijl",
+   "reden": "Stap 3, punt 'Verleden tijd, zwak werkwoord' en het voltooid deelwoord: zelfde rijtje 't kofschip met x, maar in de hints (Hint 2) ontbreekt de x steeds ('t, k, f, s, ch of p'). Kies één rijtje."
+  },
+  {
+   "ernst": "stijl",
+   "reden": "Stap 3, punten 'Voltooid deelwoord bij een zelfstandig naamwoord' en 'Onvoltooid deelwoord': rijtje 'een, geen of zo'n' tegenover 'een, geen, zo'n, elk of veel' op de kaarten od-een-het en bvd-een-het. Inhoudelijk klopt het (enkelvoud het-woord, onbepaald of zonder lidwoord)."
+  },
+  {
+   "ernst": "stijl",
+   "reden": "Algemeen: het stappenplan is goed opgebouwd (eerst vorm, dan stam, dan regel) en de volgorde gebiedende wijs, persoonsvorm, rest voorkomt dat een meervoudige persoonsvorm (wij werken) voor een hele werkwoord wordt aangezien. De regels voor ik/jij/u/je (bezit), 't kofschip, -ven/-zen, tt/dd, geen ge-, scheidbaar, -e bij bijvoeglijk gebruik en Engelse werkwoorden (racete, getimed) zijn verder juist."
+  }
+ ],
+ "vragen": [
+  {
+   "id": "sjabloon:Stap1-voltooid-deelwoord",
+   "ernst": "twijfel",
+   "reden": "Stap 1 bij alle vragen over het voltooid deelwoord: 'Er staat al een hulpwerkwoord in de zin (...), en het werkwoord staat achteraan. Dus dit is een voltooid deelwoord.' In de schoolgrammatica zijn wil, moet, kan en zal ook hulpwerkwoorden, en daarna komt juist het hele werkwoord (Stap 1 bij de inf-vragen: 'Na ‘moet’ komt het hele werkwoord'). Voor wie moeite heeft met 'welke regel?' botsen die twee. Hint 2 zegt het wel goed ('hebben, zijn of worden'). Voorstel: 'Er staat een vorm van hebben, zijn of worden in de zin (‘heeft’) ...'. Geldt voor (60): vd-084, eng-025, vd-086, vd-069, eng-031, vd-056, vd-005, eng-016, vd-074, vd-067, vd-007, vd-031, eng-020, vd-085, vd-001, vd-082, vd-071, vd-068, vd-017, vd-080, vd-024, vd-051, eng-017, vd-052, vd-009, vd-076, vd-064, vd-078, vd-077, eng-009, vd-083, vd-010, vd-035, eng-011, eng-018, eng-006, vd-079, vd-028, vd-036, vd-072, vd-047, vd-057, vd-059, vd-022, vd-014, eng-035, vd-054, vd-048, vd-027, vd-043, vd-003, vd-004, vd-045, vd-042, vd-021, vd-008, eng-046, eng-036, eng-002, eng-014"
+  },
+  {
+   "id": "sjabloon:Engels-klank (Hint 2 + Onthoud)",
+   "ernst": "twijfel",
+   "reden": "Hint 2: 'Luister naar de laatste medeklinker in het hele werkwoord. Is die stemloos? Dan -te / een t.' Onthoud: 'kijk je naar de laatste klank die je hoort.' Zonder voorbeeld is de laatste medeklinker of klank van racen, crashen of skaten de n van -en. Die is stemhebbend, dus dan zou het altijd -de/d worden. De uitleg en de foutfeedback geven wel (ra-cen): een s, en daarmee zijn ze correct. Voorstel voor hint en onthoud: 'de laatste klank van de stam (race: s)' of 'de medeklinker vóór -en'. De antwoorden zelf kloppen met de Woordenlijst (racete, raceten, skatete, timede, updatete, crashte, smashte, lunchten, gesaved, geliket, geracet, getimed, gedeletet, geskatet, gerecycled, gecrasht). Geldt voor: eng-031, eng-008, eng-026, eng-017, eng-049, eng-009, eng-013, eng-018, eng-030, eng-035, eng-046, eng-044, eng-036, eng-014, eng-004"
+  },
+  {
+   "id": "sjabloon:Onthoud-een-het",
+   "ernst": "twijfel",
+   "reden": "Onthoud: 'Een, geen of zo'n + het-woord: geen -e erachter.' Hier ontbreekt 'enkelvoud': geen kan ook voor een meervoud staan (geen gekookte eieren, geen lachende kinderen), en letterlijk toepassen geeft dan *geen gekookt eieren. Ook 'zonder lidwoord' (kokend water) ontbreekt. Voorstel: 'Het-woord in het enkelvoud met een, geen of zo'n (of zonder lidwoord): geen -e.' De vragen zelf kloppen (een drijvend blad, een slapend kind, een feestelijk versierd lokaal enz.). Geldt voor: od-017, od-034, bvd-005, od-003, bvd-029, od-028, od-009, od-027, bvd-027, bvd-026, bvd-025, bvd-028"
+  },
+  {
+   "id": "sjabloon:Hint2-bijvoeglijk (-e)",
+   "ernst": "stijl",
+   "reden": "Hint 2: 'Is dat een het-woord in het enkelvoud met een, geen of zo'n ervoor? Dan geen -e. Anders wel een -e.' 'Zonder lidwoord' (gekookt water, kokend water) ontbreekt, en dan is 'Anders wel een -e' te absoluut. Bij geen van deze vragen leidt dat tot een fout antwoord, want er staat steeds een lidwoord of bezittelijk woord. Het stappenplan en de kaarten noemen het wel. Geldt voor: od-010, bvd-024, od-017, bvd-018, bvd-013, od-001, bvd-004, bvd-037, od-032, od-018, bvd-019, bvd-040, bvd-034, od-020, bvd-036, bvd-020, bvd-031, od-034, bvd-039, eng-043, eng-042, bvd-005, bvd-007, bvd-002, bvd-021, bvd-032, od-003, bvd-029, od-014, bvd-043, bvd-017, od-031, bvd-011, bvd-030, bvd-033, bvd-014, od-028, od-016, od-011, bvd-041, bvd-023, od-009, od-027, od-024, od-029, od-021, od-025, od-030, od-012, bvd-009, bvd-027, bvd-008, bvd-026, bvd-025, bvd-010, bvd-028, bvd-015, bvd-022, bvd-006"
+  },
+  {
+   "id": "sjabloon:Hint2-kofschip-zonder-x",
+   "ernst": "stijl",
+   "reden": "Hint 2: 'eindigt die op t, k, f, s, ch of p?' De x ontbreekt, terwijl de regel, de kaarten en het stappenplan 't kofschip + x gebruiken (faxte, gefixt). Geen van deze vragen gebruikt een x, maar het rijtje moet overal hetzelfde zijn. Geldt voor: vt-056, eng-032, vd-084, eng-025, vd-086, vt-032, vt-001, vd-069, vd-056, vd-005, eng-016, vd-074, vt-026, vd-067, vt-031, vt-038, vd-007, vd-031, vt-033, vt-036, eng-020, vd-085, vd-082, vt-018, vd-071, vd-068, vd-080, eng-033, vt-078, vt-011, vd-051, vt-064, vt-041, vd-052, vd-009, vt-034, vd-076, vt-030, vd-064, eng-019, vd-078, vd-077, vd-083, eng-050, vt-069, vt-077, vd-010, eng-011, vt-010, vt-075, eng-006, vt-035, vt-071, vd-079, vt-072, eng-015, vd-028, vd-036, vd-072, vd-057, vd-059, vd-022, eng-010, vt-039, vt-058, vt-049, vt-029, vt-004, vt-050, vd-003, vd-004, vd-008, eng-002, eng-021"
+  },
+  {
+   "id": "sjabloon:Hint2-'Zeg: ik heb ge…' bij voorvoegsel",
+   "ernst": "stijl",
+   "reden": "Hint 2 begint met 'Zeg: ik heb ge… Eindigt het op -en, of verandert de klinker? Dan is het een sterk of onregelmatig werkwoord.' Bij genieten, verliezen, ontvangen, vergelijken, vergeten en verkopen krijgt de leerling eerst de opdracht 'ge…' te zeggen, en pas daarna 'geen ge-'. Dat werkt verwarrend. Zet de vraag over het voorvoegsel eerst, of zeg 'Zeg: ik heb …'. Bij vd-054 (laden) heet het hier 'sterk of onregelmatig', terwijl de kaart het 'gemengd' noemt. Geldt voor: vd-024, vd-047, vd-054, vd-027, vd-043, vd-045, vd-042, vd-021"
+  },
+  {
+   "id": "sjabloon:Fout-feedback gebiedende wijs",
+   "ernst": "stijl",
+   "reden": "'Kleedt is de vorm voor hij, zij of u.' Dat klopt, maar het is ook de vorm voor jij/je vóór het werkwoord (jij kleedt je). Beter: 'is de vorm voor jij (voor het werkwoord), hij, zij of u.' Geldt voor: gw-017, gw-034, gw-033, gw-039, gw-013, gw-011, gw-038, gw-032, gw-004, gw-028, gw-008, gw-043, gw-040, gw-027, gw-016, gw-021, gw-018, gw-030, gw-026, gw-006, gw-005, gw-002, gw-010, gw-009, gw-023, gw-001, gw-003, gw-012, gw-007, gw-029, eng-040"
+  },
+  {
+   "id": "bvd-013",
+   "ernst": "twijfel",
+   "reden": "Feedback bij geredte: 'het voltooid deelwoord is gered, met een d. Daar komt alleen een -e achter.' Letterlijk geeft dat *gerede, terwijl het goede antwoord geredde is: door de korte klank verdubbel je de d. De uitleg zelf ('dan pas je de spelling aan (ge-red-de)') klopt. Voorstel: 'Daar komt -e achter, en omdat de e kort klinkt, schrijf je dd: geredde. Een t hoort er niet bij.'"
+  },
+  {
+   "id": "bvd-036",
+   "ernst": "stijl",
+   "reden": "Feedback bij verbreedte: 'Daar komt alleen een -e achter' geeft letterlijk verbreede. De uitleg legt de spellingaanpassing (ver-bre-de) wel uit. Beter: 'Daar komt een -e achter, en dan schrijf je één e: verbrede.'"
+  },
+  {
+   "id": "inf-018",
+   "ernst": "twijfel",
+   "reden": "Hint 2: 'Welk ander werkwoord staat er in de zin? Let op ‘te’.' te is geen werkwoord. Voor een leerling die de woordsoorten nog moet leren is dat een verkeerde benoeming (het werkwoord is 'begon'). Beter: 'Welk woord staat er vlak voor de open plek? Let op ‘te’.'"
+  },
+  {
+   "id": "inf-019",
+   "ernst": "twijfel",
+   "reden": "Zelfde als inf-018: Hint 2 noemt ‘te’ een werkwoord ('Welk ander werkwoord ... Let op ‘te’')."
+  },
+  {
+   "id": "inf-020",
+   "ernst": "twijfel",
+   "reden": "Zelfde als inf-018: Hint 2 noemt ‘te’ een werkwoord."
+  },
+  {
+   "id": "inf-002",
+   "ernst": "twijfel",
+   "reden": "Zelfde als inf-018: Hint 2 noemt ‘te’ een werkwoord."
+  },
+  {
+   "id": "eng-013",
+   "ernst": "stijl",
+   "reden": "'In cras-hen hoor je aan het eind van de stam een sj.' Deze lettergreepverdeling is verkeerd: sh is één klank (sj), dus cra-shen. De regel en het antwoord crashte kloppen."
+  },
+  {
+   "id": "eng-030",
+   "ernst": "stijl",
+   "reden": "'In smas-hen ...': zelfde verkeerde lettergreepverdeling. Juist is sma-shen; sh = sj. De regel en het antwoord smashte kloppen."
+  },
+  {
+   "id": "eng-014",
+   "ernst": "stijl",
+   "reden": "'In cras-hen ...': zelfde verkeerde lettergreepverdeling. Juist is cra-shen. Het antwoord gecrasht klopt."
+  },
+  {
+   "id": "tt-045",
+   "ernst": "stijl",
+   "reden": "Feedback bij Houden: '‘u’ is hier enkelvoud.' u kan ook voor meer personen staan, maar krijgt altijd de enkelvoudsvorm met t. Beter: 'Bij u gebruik je altijd stam + t, ook als je meer mensen aanspreekt.'"
+  },
+  {
+   "id": "eng-016",
+   "ernst": "stijl",
+   "reden": "googelen heet hier een Engels werkwoord. De Woordenlijst spelt het al op z'n Nederlands (googelen, googelde, gegoogeld) en het gaat volgens de gewone regel; dat staat er ook ('letter en klank hetzelfde'). Het antwoord klopt. Hetzelfde geldt voor eng-039."
+  }
+ ]
+}

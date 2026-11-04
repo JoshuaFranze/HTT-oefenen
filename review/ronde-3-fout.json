@@ -1,0 +1,285 @@
+{
+ "markeringen": [
+  {
+   "id": "vd-geen-ge",
+   "ernst": "fout",
+   "reden": "De zin 'Ook andere werkwoorden die je niet kunt splitsen en die de klemtoon niet vooraan hebben, krijgen geen ge-' klopt niet als je hem letterlijk toepast. Studeren (stu-DE-ren), repareren, proberen, organiseren en telefoneren kun je niet splitsen en hebben de klemtoon niet vooraan, en toch krijgen ze ge-: gestudeerd, gerepareerd, geprobeerd. In deze toets zelf zijn dat vd-085, vd-086 en vd-084. Wie de regel trouw volgt, kiest bij die vragen een vorm zonder ge-. Beperk de regel tot samengestelde werkwoorden met een voorzetsel of bijwoord vooraan die je niet kunt splitsen (voorspellen, overleggen, ondernemen, doorzoeken)."
+  },
+  {
+   "id": "stappenplan",
+   "ernst": "fout",
+   "reden": "Stap 3, punt 'Geen ge-': '... en bij andere werkwoorden die je niet kunt splitsen en die de klemtoon niet vooraan hebben (voorspeld)'. Dit is dezelfde te ruime regel als in vd-geen-ge. Gestudeerd, gerepareerd en geprobeerd zijn tegenvoorbeelden, en die komen in deze toets zelf voor (vd-085, vd-086, vd-084)."
+  },
+  {
+   "id": "stappenplan",
+   "ernst": "twijfel",
+   "reden": "Stap 2: 'Een lange aa, ee, oo of uu schrijf je dubbel als er nog een medeklinker achter komt: lopen, ik loop.' Letterlijk komt er in lopen óók een medeklinker achter de o (de p), en toch staat er één o. Zo ondersteunt de regel juist de afleiders loopen, speelen en maaken. Beter: 'Eindigt de stam op een medeklinker na een lange klank (ik loop)? Dan dubbel. Staat de lange klank aan het eind van een lettergreep (lo-pen)? Dan enkel.' Die betere formulering staat al in de feedback bij de vragen."
+  },
+  {
+   "id": "stappenplan",
+   "ernst": "twijfel",
+   "reden": "Stap 3, Engelse werkwoorden: 'je luistert naar de laatste medeklinker in het hele werkwoord'. Letterlijk is dat bij elk werkwoord de n van -en. Alleen het voorbeeld tussen haakjes (ra-cen: s) maakt duidelijk wat bedoeld wordt. Beter: 'de laatste medeklinker vóór -en' of 'de laatste klank van de stam'."
+  },
+  {
+   "id": "stappenplan",
+   "ernst": "stijl",
+   "reden": "Het rijtje 'een, geen of zo'n ervoor of zonder lidwoord' staat hier en in bvd-e/od-e zonder 'elk' en 'veel'. In bvd-een-het en od-een-het staan die er wel bij. Maak de rijtjes gelijk."
+  },
+  {
+   "id": "vt-leen-klank",
+   "ernst": "twijfel",
+   "reden": "'Luister naar de laatste medeklinker in het hele werkwoord' is letterlijk de n van -en (zie stappenplan). Schrijf 'de laatste medeklinker vóór -en' of 'de laatste klank van de stam (race: s)'."
+  },
+  {
+   "id": "vd-leen-klank",
+   "ernst": "twijfel",
+   "reden": "Zelfde formulering: 'laatste medeklinker in het hele werkwoord'. Hier staat zelfs geen voorbeeld met lettergrepen bij, dus letterlijk lees je: n, dus d (geracet zou dan geraced worden)."
+  },
+  {
+   "id": "vd-sterk-geen-ge",
+   "ernst": "stijl",
+   "reden": "'Een sterk werkwoord eindigt dan vaak op -en.' Het voltooid deelwoord van een sterk werkwoord eindigt altijd op -en. Door 'vaak' lijkt het onzeker. Beter: 'eindigt dan op -en'."
+  },
+  {
+   "id": "tt-je-bezit",
+   "ernst": "twijfel",
+   "reden": "'Betekent je hier jouw? Dan is het onderwerp je + het woord erna.' Dat geldt alleen als dat zinsdeel ook het onderwerp is. In 'Hij vindt je fiets mooi' betekent je ook jouw, maar het onderwerp is hij. Toevoegen: 'als dat het onderwerp is (wie of wat doet het?)'."
+  },
+  {
+   "id": "tt-u-inversie",
+   "ernst": "stijl",
+   "reden": "Bij de 'onregelmatige' vormen staan u kunt en u zult, maar die eindigen gewoon op t. Alleen u bent en u mag wijken echt af van stam + t. Dat kan iemand op het verkeerde been zetten. Ook 'u kan' is goed; dat kun je eventueel noemen."
+  },
+  {
+   "id": "gw-017",
+   "ernst": "twijfel",
+   "reden": "Direct na de open plek staat 'je', terwijl hint 2 zegt 'Is dit een opdracht zonder onderwerp (geen jij of u erbij)?' en de uitleg 'Een opdracht zonder onderwerp ...'. Wie net tt-inversie heeft geoefend ('Word je ...?'), ziet hier een onderwerp. Het antwoord komt toevallig hetzelfde uit, maar de redenering klopt niet met wat er staat. Zet in uitleg en hint: 'Hier betekent je jezelf; het is geen onderwerp.'"
+  },
+  {
+   "id": "gw-004",
+   "ernst": "twijfel",
+   "reden": "Direct na de open plek staat 'je', terwijl hint 2 zegt 'Is dit een opdracht zonder onderwerp (geen jij of u erbij)?' en de uitleg 'Een opdracht zonder onderwerp ...'. Wie net tt-inversie heeft geoefend ('Word je ...?'), ziet hier een onderwerp. Het antwoord komt toevallig hetzelfde uit, maar de redenering klopt niet met wat er staat. Zet in uitleg en hint: 'Hier betekent je jezelf; het is geen onderwerp.'"
+  },
+  {
+   "id": "gw-008",
+   "ernst": "twijfel",
+   "reden": "Direct na de open plek staat 'je', terwijl hint 2 zegt 'Is dit een opdracht zonder onderwerp (geen jij of u erbij)?' en de uitleg 'Een opdracht zonder onderwerp ...'. Wie net tt-inversie heeft geoefend ('Word je ...?'), ziet hier een onderwerp. Het antwoord komt toevallig hetzelfde uit, maar de redenering klopt niet met wat er staat. Zet in uitleg en hint: 'Hier betekent je jezelf; het is geen onderwerp.'"
+  },
+  {
+   "id": "gw-026",
+   "ernst": "twijfel",
+   "reden": "Direct na de open plek staat 'je', terwijl hint 2 zegt 'Is dit een opdracht zonder onderwerp (geen jij of u erbij)?' en de uitleg 'Een opdracht zonder onderwerp ...'. Wie net tt-inversie heeft geoefend ('Word je ...?'), ziet hier een onderwerp. Het antwoord komt toevallig hetzelfde uit, maar de redenering klopt niet met wat er staat. Zet in uitleg en hint: 'Hier betekent je jezelf; het is geen onderwerp.'"
+  },
+  {
+   "id": "gw-006",
+   "ernst": "twijfel",
+   "reden": "Direct na de open plek staat 'je', terwijl hint 2 zegt 'Is dit een opdracht zonder onderwerp (geen jij of u erbij)?' en de uitleg 'Een opdracht zonder onderwerp ...'. Wie net tt-inversie heeft geoefend ('Word je ...?'), ziet hier een onderwerp. Het antwoord komt toevallig hetzelfde uit, maar de redenering klopt niet met wat er staat. Zet in uitleg en hint: 'Hier betekent je jezelf; het is geen onderwerp.'"
+  },
+  {
+   "id": "gw-007",
+   "ernst": "twijfel",
+   "reden": "Direct na de open plek staat 'je', terwijl hint 2 zegt 'Is dit een opdracht zonder onderwerp (geen jij of u erbij)?' en de uitleg 'Een opdracht zonder onderwerp ...'. Wie net tt-inversie heeft geoefend ('Word je ...?'), ziet hier een onderwerp. Het antwoord komt toevallig hetzelfde uit, maar de redenering klopt niet met wat er staat. Zet in uitleg en hint: 'Hier betekent je jezelf; het is geen onderwerp.'"
+  },
+  {
+   "id": "gw-039",
+   "ernst": "twijfel",
+   "reden": "Direct na de open plek staat 'je', terwijl hint 2 zegt 'Is dit een opdracht zonder onderwerp (geen jij of u erbij)?' en de uitleg 'Een opdracht zonder onderwerp ...'. Wie net tt-inversie heeft geoefend ('Word je ...?'), ziet hier een onderwerp. Het antwoord komt toevallig hetzelfde uit, maar de redenering klopt niet met wat er staat. Zet in uitleg en hint: 'Hier betekent je jouw; het is geen onderwerp.'"
+  },
+  {
+   "id": "gw-016",
+   "ernst": "twijfel",
+   "reden": "Direct na de open plek staat 'je', terwijl hint 2 zegt 'Is dit een opdracht zonder onderwerp (geen jij of u erbij)?' en de uitleg 'Een opdracht zonder onderwerp ...'. Wie net tt-inversie heeft geoefend ('Word je ...?'), ziet hier een onderwerp. Het antwoord komt toevallig hetzelfde uit, maar de redenering klopt niet met wat er staat. Zet in uitleg en hint: 'Hier betekent je jouw; het is geen onderwerp.'"
+  },
+  {
+   "id": "gw-023",
+   "ernst": "twijfel",
+   "reden": "Direct na de open plek staat 'je', terwijl hint 2 zegt 'Is dit een opdracht zonder onderwerp (geen jij of u erbij)?' en de uitleg 'Een opdracht zonder onderwerp ...'. Wie net tt-inversie heeft geoefend ('Word je ...?'), ziet hier een onderwerp. Het antwoord komt toevallig hetzelfde uit, maar de redenering klopt niet met wat er staat. Zet in uitleg en hint: 'Hier betekent je jouw; het is geen onderwerp.'"
+  },
+  {
+   "id": "eng-013",
+   "ernst": "twijfel",
+   "reden": "De uitleg en de feedback splitsen het woord als 'cras-hen'/'smas-hen'. Zo lijkt het alsof je een s en daarna een h hoort. Sh is één klank (sj), dus: cra-shen, sma-shen. Het antwoord klopt."
+  },
+  {
+   "id": "eng-030",
+   "ernst": "twijfel",
+   "reden": "De uitleg en de feedback splitsen het woord als 'cras-hen'/'smas-hen'. Zo lijkt het alsof je een s en daarna een h hoort. Sh is één klank (sj), dus: cra-shen, sma-shen. Het antwoord klopt."
+  },
+  {
+   "id": "eng-014",
+   "ernst": "twijfel",
+   "reden": "De uitleg en de feedback splitsen het woord als 'cras-hen'/'smas-hen'. Zo lijkt het alsof je een s en daarna een h hoort. Sh is één klank (sj), dus: cra-shen, sma-shen. Het antwoord klopt."
+  },
+  {
+   "id": "od-012",
+   "ernst": "twijfel",
+   "reden": "'Pas op voor het kokende water' is goed. De uitleg zegt alleen 'Het hoort bij het zelfstandig naamwoord water. Daarom komt er een -e achter.' Maar in de regelkaarten od-e en od-een-het staat juist 'kokend water' (zonder -e) als voorbeeld. De doorslag geeft hier 'het': noem dat. Bijvoorbeeld: 'Er staat het voor, niet een of geen. Dan wel een -e. Zonder lidwoord schrijf je kokend water.'"
+  },
+  {
+   "id": "od-021",
+   "ernst": "twijfel",
+   "reden": "'Het zingende meisje' is goed, maar de uitleg 'hoort bij een zelfstandig naamwoord, dus -e' geldt net zo goed voor 'een spelend kind' (od-028), en daar komt geen -e. Noem de echte reden: 'meisje is een het-woord, maar er staat het voor, geen een, dus wel -e'."
+  },
+  {
+   "id": "bvd-018",
+   "ernst": "stijl",
+   "reden": "Het-woord met 'het' ervoor. De uitleg zegt alleen 'Bij een zelfstandig naamwoord komt er een -e achter'. Zeg ook waarom de uitzondering voor het-woorden hier niet geldt: 'er staat het voor, niet een/geen/zo'n'. Dan botst het niet met de vragen 'een gekookt eitje' en 'een verbouwd pand'."
+  },
+  {
+   "id": "bvd-013",
+   "ernst": "stijl",
+   "reden": "Het-woord met 'het' ervoor. De uitleg zegt alleen 'Bij een zelfstandig naamwoord komt er een -e achter'. Zeg ook waarom de uitzondering voor het-woorden hier niet geldt: 'er staat het voor, niet een/geen/zo'n'. Dan botst het niet met de vragen 'een gekookt eitje' en 'een verbouwd pand'."
+  },
+  {
+   "id": "bvd-039",
+   "ernst": "stijl",
+   "reden": "Het-woord met 'het' ervoor. De uitleg zegt alleen 'Bij een zelfstandig naamwoord komt er een -e achter'. Zeg ook waarom de uitzondering voor het-woorden hier niet geldt: 'er staat het voor, niet een/geen/zo'n'. Dan botst het niet met de vragen 'een gekookt eitje' en 'een verbouwd pand'."
+  },
+  {
+   "id": "bvd-007",
+   "ernst": "stijl",
+   "reden": "Het-woord met 'het' ervoor. De uitleg zegt alleen 'Bij een zelfstandig naamwoord komt er een -e achter'. Zeg ook waarom de uitzondering voor het-woorden hier niet geldt: 'er staat het voor, niet een/geen/zo'n'. Dan botst het niet met de vragen 'een gekookt eitje' en 'een verbouwd pand'."
+  },
+  {
+   "id": "bvd-032",
+   "ernst": "stijl",
+   "reden": "Het-woord met 'het' ervoor. De uitleg zegt alleen 'Bij een zelfstandig naamwoord komt er een -e achter'. Zeg ook waarom de uitzondering voor het-woorden hier niet geldt: 'er staat het voor, niet een/geen/zo'n'. Dan botst het niet met de vragen 'een gekookt eitje' en 'een verbouwd pand'."
+  },
+  {
+   "id": "bvd-043",
+   "ernst": "stijl",
+   "reden": "Het-woord met 'het' ervoor. De uitleg zegt alleen 'Bij een zelfstandig naamwoord komt er een -e achter'. Zeg ook waarom de uitzondering voor het-woorden hier niet geldt: 'er staat het voor, niet een/geen/zo'n'. Dan botst het niet met de vragen 'een gekookt eitje' en 'een verbouwd pand'."
+  },
+  {
+   "id": "bvd-030",
+   "ernst": "stijl",
+   "reden": "Het-woord met 'het' ervoor. De uitleg zegt alleen 'Bij een zelfstandig naamwoord komt er een -e achter'. Zeg ook waarom de uitzondering voor het-woorden hier niet geldt: 'er staat het voor, niet een/geen/zo'n'. Dan botst het niet met de vragen 'een gekookt eitje' en 'een verbouwd pand'."
+  },
+  {
+   "id": "bvd-033",
+   "ernst": "stijl",
+   "reden": "Het-woord met 'het' ervoor. De uitleg zegt alleen 'Bij een zelfstandig naamwoord komt er een -e achter'. Zeg ook waarom de uitzondering voor het-woorden hier niet geldt: 'er staat het voor, niet een/geen/zo'n'. Dan botst het niet met de vragen 'een gekookt eitje' en 'een verbouwd pand'."
+  },
+  {
+   "id": "bvd-015",
+   "ernst": "stijl",
+   "reden": "Het-woord met 'het' ervoor. De uitleg zegt alleen 'Bij een zelfstandig naamwoord komt er een -e achter'. Zeg ook waarom de uitzondering voor het-woorden hier niet geldt: 'er staat het voor, niet een/geen/zo'n'. Dan botst het niet met de vragen 'een gekookt eitje' en 'een verbouwd pand'."
+  },
+  {
+   "id": "vd-054",
+   "ernst": "twijfel",
+   "reden": "Hint 2 zegt: 'Eindigt het op -en, of verandert de klinker? Dan is het een sterk of onregelmatig werkwoord.' Maar de uitleg en de regel vd-gemengd zeggen dat laden gemengd is (laadde, geladen). Ook gaat bullet 3 over een voorvoegsel zonder klemtoon, en dat speelt hier niet. Beter: 'Zeg: gisteren ... ik (laadde) en: ik heb ge... (geladen). Die twee kunnen verschillen.'"
+  },
+  {
+   "id": "vd-047",
+   "ernst": "twijfel",
+   "reden": "Hint 2 zegt 'Zeg: ik heb ge…'. Bij dit werkwoord zonder ge- stuurt dat precies naar de afleider (gegenoten). Pas daarna noemt bullet 3 dat er geen ge- komt. Beter: 'Zeg: ik heb … (met of zonder ge-?)', of de bullet over het voorvoegsel eerst."
+  },
+  {
+   "id": "vd-043",
+   "ernst": "twijfel",
+   "reden": "Hint 2 zegt 'Zeg: ik heb ge…'. Bij dit werkwoord zonder ge- stuurt dat precies naar de afleider (geverloren). Pas daarna noemt bullet 3 dat er geen ge- komt. Beter: 'Zeg: ik heb … (met of zonder ge-?)', of de bullet over het voorvoegsel eerst."
+  },
+  {
+   "id": "vd-045",
+   "ernst": "twijfel",
+   "reden": "Hint 2 zegt 'Zeg: ik heb ge…'. Bij dit werkwoord zonder ge- stuurt dat precies naar de afleider (geontvangen). Pas daarna noemt bullet 3 dat er geen ge- komt. Beter: 'Zeg: ik heb … (met of zonder ge-?)', of de bullet over het voorvoegsel eerst."
+  },
+  {
+   "id": "vd-042",
+   "ernst": "twijfel",
+   "reden": "Hint 2 zegt 'Zeg: ik heb ge…'. Bij dit werkwoord zonder ge- stuurt dat precies naar de afleider (gevergeleken). Pas daarna noemt bullet 3 dat er geen ge- komt. Beter: 'Zeg: ik heb … (met of zonder ge-?)', of de bullet over het voorvoegsel eerst."
+  },
+  {
+   "id": "vd-021",
+   "ernst": "twijfel",
+   "reden": "Hint 2 zegt 'Zeg: ik heb ge…'. Bij dit werkwoord zonder ge- stuurt dat precies naar de afleider (gevergeten). Pas daarna noemt bullet 3 dat er geen ge- komt. Beter: 'Zeg: ik heb … (met of zonder ge-?)', of de bullet over het voorvoegsel eerst."
+  },
+  {
+   "id": "vd-027",
+   "ernst": "twijfel",
+   "reden": "Hint 2 zegt 'Zeg: ik heb ge…'. Bij dit werkwoord zonder ge- stuurt dat precies naar de afleider (geverkocht). Pas daarna noemt bullet 3 dat er geen ge- komt. Beter: 'Zeg: ik heb … (met of zonder ge-?)', of de bullet over het voorvoegsel eerst."
+  },
+  {
+   "id": "vd-007",
+   "ernst": "twijfel",
+   "reden": "Feedback bij gezed: '... Er komt niets meer achter, ook geen d.' Maar wie gezed kiest, zet er niets achter: die vervangt de t van de stam door een d. De feedback past dus niet bij de echte denkfout. Beter: 'De stam eindigt op een t (…). Die t blijft staan; hij wordt geen d.'"
+  },
+  {
+   "id": "vd-008",
+   "ernst": "twijfel",
+   "reden": "Feedback bij gepraad: '... Er komt niets meer achter, ook geen d.' Maar wie gepraad kiest, zet er niets achter: die vervangt de t van de stam door een d. De feedback past dus niet bij de echte denkfout. Beter: 'De stam eindigt op een t (…). Die t blijft staan; hij wordt geen d.'"
+  },
+  {
+   "id": "eng-011",
+   "ernst": "twijfel",
+   "reden": "Feedback bij geprind: '... Er komt niets meer achter, ook geen d.' Maar wie geprind kiest, zet er niets achter: die vervangt de t van de stam door een d. De feedback past dus niet bij de echte denkfout. Beter: 'De stam eindigt op een t (…). Die t blijft staan; hij wordt geen d.'"
+  },
+  {
+   "id": "vd-024",
+   "ernst": "stijl",
+   "reden": "Bullet 3 van hint 2 gaat over voorvoegsels zonder klemtoon. Bij denken (gedacht) speelt dat niet, dus de hint leidt af."
+  },
+  {
+   "id": "bvd-021",
+   "ernst": "stijl",
+   "reden": "'Gebruiken heeft het voorvoegsel ge- (zonder klemtoon), dus geen ge-' (en in de hint: 'Let op het voorvoegsel ge-: dan geen ge-') leest als een tegenspraak. Duidelijker: 'dus er komt geen extra ge- voor: gebruikt'."
+  },
+  {
+   "id": "vd-031",
+   "ernst": "stijl",
+   "reden": "'Gebruiken heeft het voorvoegsel ge- (zonder klemtoon), dus geen ge-' (en in de hint: 'Let op het voorvoegsel ge-: dan geen ge-') leest als een tegenspraak. Duidelijker: 'dus er komt geen extra ge- voor: gebruikt'."
+  },
+  {
+   "id": "vd-047",
+   "ernst": "stijl",
+   "reden": "'genieten heeft het voorvoegsel ge-, dus er komt geen ge- voor' leest als een tegenspraak. Duidelijker: 'geen extra ge-'."
+  },
+  {
+   "id": "bvd-042",
+   "ernst": "stijl",
+   "reden": "Feedback bij vergeete: 'deze vorm bestaat niet.' Dat klinkt streng en legt niets uit. Wie dit kiest, deed stam + e. Beter: 'Je zette een -e achter de stam. Maar het voltooid deelwoord is …, en dat eindigt al op -en.'"
+  },
+  {
+   "id": "bvd-038",
+   "ernst": "stijl",
+   "reden": "Feedback bij gesluite: 'deze vorm bestaat niet.' Dat klinkt streng en legt niets uit. Wie dit kiest, deed stam + e. Beter: 'Je zette een -e achter de stam. Maar het voltooid deelwoord is …, en dat eindigt al op -en.'"
+  },
+  {
+   "id": "tt-045",
+   "ernst": "stijl",
+   "reden": "Feedback bij Houden: '‘u’ is hier enkelvoud'. U kan ook meervoud zijn, en ook dan schrijf je 'Houdt u'. Beter: 'Bij u schrijf je altijd stam + t.'"
+  },
+  {
+   "id": "od-003",
+   "ernst": "stijl",
+   "reden": "'In de wagen lag een slapend kind' is wat vreemd: welke wagen? Natuurlijker: 'In de kinderwagen lag een slapend kind.'"
+  },
+  {
+   "id": "gw-011",
+   "ernst": "stijl",
+   "reden": "'Bereid de saus op een laag vuur' → gangbaarder is 'op laag vuur'."
+  },
+  {
+   "id": "eng-008",
+   "ernst": "stijl",
+   "reden": "Hint 3 (regel vt-leen-klank) ontleedt juist dit werkwoord ('ra-cen: s ... dan -te'). Daarmee verklapt hij het antwoord bijna; alleen de -n moet je nog zelf bedenken. Hetzelfde geldt voor eng-013 (crash) en eng-004 (update), die als voorbeeld van een stam in de regel staan. Overweeg andere voorbeelden in de regeltekst bij deze vragen."
+  }
+ ],
+ "algemeen": [
+  "Sleutels: bij alle 303 vragen is de sleutel het enige goede antwoord. Ook de Engelse vormen kloppen met de Woordenlijst (gesaved, geliket, getimed, timede, gerecycled, geüpdatete, gedownloade, jogde, scande, racete). Er zitten geen dubbele of ontbrekende opties in, en hint 1, 2 en 3 noemen nergens letterlijk de sleutel. Dat is goed opgelet bij de keuze van de voorbeeldzinnen in hint 3.",
+  "Fout (regels): de geen-ge-regel voor 'andere niet-splitsbare werkwoorden zonder klemtoon vooraan' staat in het stappenplan en in vd-geen-ge en is te ruim. Tegenvoorbeelden in de toets zelf: gestudeerd (vd-085), gerepareerd (vd-086), geprobeerd (vd-084).",
+  "Twijfel (Onthoud tt-t/tt-dt, 30 vragen): 'Onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud: stam + t.' Letterlijk is ik ook 'een ander enkelvoud'. Voeg toe: '(behalve ik)', of schrijf: '... of hij/zij/het of een ander enkelvoud'.",
+  "Twijfel (Onthoud Engels, 15 vragen): 'Bij Engelse werkwoorden kijk je naar de laatste klank die je hoort.' De laatste klank van racen is de n. Bedoeld is de laatste klank van de stam (race: s). Hetzelfde letterlijkheidsprobleem staat in hint 2 ('laatste medeklinker in het hele werkwoord').",
+  "Twijfel (Onthoud od/bvd, 44 vragen): 'Onvoltooid deelwoord bij een zelfstandig naamwoord: -ende' en 'Voltooid deelwoord bij een zelfstandig naamwoord: + e'. Wie dit uit het hoofd leert, schrijft ook 'een spelende kind' en 'de gebrokene ruit'. Voeg kort toe: '(niet bij een/geen/zo'n + het-woord)' en voor het voltooid deelwoord '(niet als het op -en eindigt)'.",
+  "Twijfel (hint 2 bij bvd met voorvoegsel, ±23 vragen): 'Zeg: ik heb ge… of: het is ge… Let op het voorvoegsel ver- zonder klemtoon: dan geen ge-.' Eerst laat de hint je ge- zeggen, daarna mag het er niet staan. Beter: 'Zeg: ik heb … of: het is … Hoor je ge- vooraan?'",
+  "Twijfel (Stap 1 bij vd-vragen): 'Er staat al een hulpwerkwoord in de zin, en het werkwoord staat achteraan. Dus dit is een voltooid deelwoord.' Als vuistregel klopt dat niet altijd: 'Ik heb nog veel te doen', 'Ik heb het laten maken'. Verwijs ook hier naar de vervangtruc uit het stappenplan ('Past geschreven? Dan voltooid deelwoord').",
+  "Stijl: hint 2 bij vt en vd vraagt 'eindigt die op t, k, f, s, ch of p?', zonder de x die wel in de regel staat. Maak dat gelijk.",
+  "Stijl: bij meervoud staat in de uitleg 'Het onderwerp is meervoud, dus -ten of -den: speelden.' Dat leest alsof je mag kiezen, terwijl je net hebt uitgelegd waarom het -den is. Beter: 'Het onderwerp is meervoud, dus er komt nog een -n bij: speelden.'",
+  "Stijl: in de feedback staat vaak '‘Hij’ is hier enkelvoud' of '‘Mijn zusje’ is hier enkelvoud'. Het woord 'hier' suggereert dat het elders meervoud kan zijn. Laat 'hier' weg.",
+  "Stijl: hint 2 bij od/bvd eindigt met 'Anders wel een -e.' In alle huidige vragen klopt dat, maar als algemene regel niet: zonder lidwoord (kokend water) en bij -en (gebroken) komt er geen -e. Voeg 'of zonder lidwoord' toe, net als in de regel.",
+  "Stijl: de Onthoud bij inf ('Na willen, moeten, kunnen, mogen, gaan, zullen of te ...') noemt laten en om te niet, en ook niet de uitzondering 'moet geverfd worden'. Dat is geen probleem bij deze vragen, maar het wijkt af van de regelkaart.",
+  "Stijl/toon: hint 1 is bij alle 303 vragen precies hetzelfde ('Welke vorm of tijd is dit? Let op de woorden om de open plek heen.'). Dat helpt weinig. Daarnaast: is het label 'Bij een fout antwoord' ook zichtbaar voor de leerder? Dan liever 'Koos je …?', om het woord 'fout' te vermijden.",
+  "Positief: de toon is rustig en B1. De feedback past bijna altijd precies bij de denkfout ('je hoort een t, maar de stam is vind'; 'klinkt hetzelfde, maar dat is het voltooid deelwoord'). En waar een voorbeeld tussen haakjes het antwoord zou verklappen, is dat in Stap 3 en hint 3 al weggelaten (vd-007, vd-014, vt-006, bvd-008 enz.)."
+ ]
+}
