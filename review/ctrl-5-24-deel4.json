@@ -1,0 +1,149 @@
+{
+  "markeringen": [
+    {
+      "id": "vd-1032",
+      "ernst": "fout",
+      "reden": "De hoofduitleg bevat een sjabloonfout: 'ervaren heeft in de verleden tijd -te of -de (undefined), ...'. Het woord 'undefined' staat letterlijk in de tekst. Daarbij klopt de bewering niet goed: ervaren heeft als verleden tijd ervoer (ervaarde komt ook voor). Voorstel: 'ervaren is een sterk werkwoord: het voltooid deelwoord eindigt op -en: ervaren.' Kleinigheid: de afleider 'geervaren' zou met trema 'geërvaren' gespeld worden; zonder trema is hij op twee punten fout."
+    },
+    {
+      "id": "vd-1038",
+      "ernst": "fout",
+      "reden": "Uitleg bij de foute optie 'ontwerpt': 'dat is de stam (of de tegenwoordige tijd)'. Dat klopt niet. De stam is ontwerp; ontwerpt is de tegenwoordige tijd (hij ontwerpt). Voorstel: 'ontwerpt is de tegenwoordige tijd (hij ontwerpt). ontwerpen is een sterk werkwoord: ...'. (Bij vd-1040 klopt 'geniet' wél als stam.)"
+    },
+    {
+      "id": "vd-1078",
+      "ernst": "fout",
+      "reden": "Uitleg bij 'aangekleet': 'De laatste letter van de stam is een d. Die zit niet in 't kofschip, dus een d.' Wie dat letterlijk toepast, krijgt kleed + d = aangekleedd. De stam kleed eindigt al op een d; die blijft staan en er komt niets meer achter. Gebruik het sjabloon van vd-1045/vd-1137: 'de stam kleed eindigt al op een d. Die blijft staan, ook al hoor je een t.'"
+    },
+    {
+      "id": "vd-1134",
+      "ernst": "fout",
+      "reden": "Zelfde probleem als vd-1078. Bij 'opgevoet' staat: 'De laatste letter van de stam is een d. Die zit niet in 't kofschip, dus een d.' Dat suggereert voed + d = opgevoedd. De stam voed eindigt al op een d en die blijft staan. Gebruik het sjabloon 'de stam ... eindigt al op een d. Die blijft staan, ook al hoor je een t.'"
+    },
+    {
+      "id": "gw-1019",
+      "ernst": "twijfel",
+      "reden": "'Kleed liever in lagen' is onnatuurlijk of zelfs onjuist: zich kleden is hier wederkerend. Natuurlijk is 'Kleed je liever in lagen voor de lange fietstocht.' De sleutel Kleed blijft dan gewoon goed."
+    },
+    {
+      "id": "inf-1001",
+      "ernst": "twijfel",
+      "reden": "'de vraag antwoorden' is geen correct Nederlands: antwoorden neemt geen lijdend voorwerp. Correct is 'de vraag beantwoorden' of 'op de vraag antwoorden'. Voorstel: 'Ik wil graag snel op de vraag antwoorden.' of 'Ik wil je graag snel antwoorden.'"
+    },
+    {
+      "id": "eng-1105",
+      "ernst": "twijfel",
+      "reden": "Toon: 'dealen' wordt in het Nederlands vaak met drugshandel geassocieerd. 'Mijn opa heeft vroeger veel op de markt gedeald' kan zo gelezen worden. Kies een neutraal Engels werkwoord met een d-uitgang, bijvoorbeeld 'gebarbecued', of een andere context."
+    },
+    {
+      "id": "inf-1110",
+      "ernst": "stijl",
+      "reden": "'deze berg klimmen' is ongebruikelijk, omdat klimmen geen lijdend voorwerp neemt. Natuurlijker: 'Wij willen op deze berg klimmen.' of 'Wij willen hoog klimmen.' Met 'deze berg beklimmen' verandert het werkwoord."
+    },
+    {
+      "id": "bvd-1137",
+      "ernst": "stijl",
+      "reden": "'Ze las een goed bestudeerd rapport' is inhoudelijk vreemd: een rapport wordt niet 'goed bestudeerd' voordat je het leest. Natuurlijker is bijvoorbeeld 'een goed onderbouwd rapport' (ander werkwoord) of 'Het was een goed bestudeerd onderwerp' (dan is het een het-woord met 'een')."
+    },
+    {
+      "id": "bvd-1001",
+      "ernst": "stijl",
+      "reden": "'een gemaakt plan' is geen natuurlijke combinatie; 'gemaakt' als bijvoeglijk naamwoord betekent eerder 'gekunsteld'. Natuurlijker: 'een uitgewerkt plan' of 'een getekend plan voor de tuin'."
+    },
+    {
+      "id": "od-1012",
+      "ernst": "stijl",
+      "reden": "'In de tuin zat een springend konijn': 'zat' en 'springend' spreken elkaar tegen. Voorstel: 'Door de tuin huppelde een springend konijn' of 'In de tuin zagen we een springend konijn.'"
+    },
+    {
+      "id": "od-1039",
+      "ernst": "stijl",
+      "reden": "Toon en logica: 'een bijtend hondje' is een licht negatief beeld, en het hondje 'zat' er alleen maar. Kies iets neutraals, bijvoorbeeld 'een slapend hondje' of 'een kwispelend hondje'."
+    },
+    {
+      "id": "od-1060",
+      "ernst": "stijl",
+      "reden": "'De openende deuren lieten een koele lucht binnen' is onnatuurlijk: deuren gaan niet vanzelf open, en 'een koele lucht' klinkt vreemd (beter: 'koele lucht'). Kies een ander werkwoord of een andere zin, bijvoorbeeld 'De zoemende ventilatoren brachten koele lucht.'"
+    },
+    {
+      "id": "od-1073",
+      "ernst": "stijl",
+      "reden": "'De sturende bestuurder' is dubbelop. Voorstel: 'De wachtende bestuurder zwaaide naar ons.'"
+    },
+    {
+      "id": "od-1048",
+      "ernst": "stijl",
+      "reden": "'De vervende schilder zette zijn ladder neer' is dubbelop en onlogisch: tijdens het verven zet hij de ladder neer. Voorstel: 'De fluitende schilder zette zijn ladder neer.'"
+    },
+    {
+      "id": "od-1077",
+      "ernst": "stijl",
+      "reden": "'De proberende bakker maakte een nieuw brood' is onnatuurlijk; 'proberend' heeft hier geen duidelijke betekenis. Voorstel: 'De fluitende bakker maakte een nieuw brood.'"
+    },
+    {
+      "id": "od-1086",
+      "ernst": "stijl",
+      "reden": "'De kijkende toeschouwers' is dubbelop. Voorstel: 'De juichende toeschouwers klapten hard.'"
+    },
+    {
+      "id": "eng-1074",
+      "ernst": "stijl",
+      "reden": "De sleutel 'chatten' is gelijk aan het hele werkwoord en aan de tegenwoordige tijd meervoud ('we chatten'). Ook een leerling die de verleden tijd niet herkent, kiest dus goed; het item meet weinig. De zin is verder in orde."
+    },
+    {
+      "id": "vt-1139",
+      "ernst": "stijl",
+      "reden": "Zelfde punt als eng-1074: de sleutel 'zetten' valt samen met de tegenwoordige tijd meervoud ('de buren zetten'). Wie 'Gisteren' mist, kiest toch goed; het onderscheid wordt niet getoetst."
+    },
+    {
+      "id": "vt-1151",
+      "ernst": "stijl",
+      "reden": "'Vanmiddag' kan ook op later vandaag slaan, dus de tijd is minder duidelijk dan bij 'Gisteren'. Omdat alle opties verleden tijd zijn, blijft de sleutel uniek. Duidelijker: 'Gistermiddag'."
+    },
+    {
+      "id": "vt-1061",
+      "ernst": "stijl",
+      "reden": "'gisteravond de hele nacht' botst: avond of nacht. Voorstel: 'De lampen brandden gisteren de hele nacht in de tuin.'"
+    },
+    {
+      "id": "vt-1008",
+      "ernst": "stijl",
+      "reden": "'gisteravond de hele avond' is dubbelop. Voorstel: 'De kaars brandde gisteren de hele avond in de woonkamer.'"
+    },
+    {
+      "id": "vt-1145",
+      "ernst": "stijl",
+      "reden": "'de oude stormen' klinkt vreemd. Natuurlijker: 'Vroeger vreesden de dorpelingen de zware stormen.'"
+    },
+    {
+      "id": "vt-1147",
+      "ernst": "stijl",
+      "reden": "'bij elke warme dag' is onidiomatisch: gebruikelijk is 'op elke warme dag'. Een bloedneus is daarnaast een wat minder prettig onderwerp; eventueel een ander werkwoord op -den kiezen."
+    },
+    {
+      "id": "vt-012",
+      "ernst": "stijl",
+      "reden": "Toon: een inbraak is een naar onderwerp. Neutraler, met hetzelfde werkwoord: 'Gisteren meldde de buurman de gevonden fiets meteen bij de politie.'"
+    },
+    {
+      "id": "bvd-1100",
+      "ernst": "stijl",
+      "reden": "'De gebluste brand veroorzaakte veel rook' is onlogisch in de tijd: de rook kwam van de brand vóór het blussen. Een brand is daarnaast een minder prettig onderwerp. Voorstel: 'De gebluste kampvuren roken nog na.' of een ander voltooid deelwoord op -st."
+    },
+    {
+      "id": "eng-1033",
+      "ernst": "stijl",
+      "reden": "Bij badminton gebruik je een shuttle, geen bal. Voorstel: 'Hoe hard smash jij de shuttle bij het badminton?' of 'de bal bij het tennis'."
+    },
+    {
+      "id": "gw-1020",
+      "ernst": "stijl",
+      "reden": "'Kleed de kleine broer voor het verjaardagsfeestje' is onnatuurlijk. Natuurlijker: 'Kleed je kleine broertje aan voor het verjaardagsfeestje.' (dan wel scheidbaar 'aankleden', en de sleutel blijft Kleed)."
+    },
+    {
+      "id": "inf-1022",
+      "ernst": "stijl",
+      "reden": "'het programma zenden' is ongebruikelijk; gebruikelijk is 'uitzenden'. Voorstel: 'De omroep gaat het programma woensdag uitzenden.' Of kies een ander werkwoord op -den."
+    }
+  ]
+}

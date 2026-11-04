@@ -80,7 +80,7 @@ export function kandidaten(inf, ww, zin) {
     if (zin.tijd && !mv && V['tt.hij'] && levenshtein(V['tt.hij'], c) <= 2) add(V['tt.hij'], 'vt-tt');
   } else if (s === 'vd') {
     if (V['tt.hij'] && V['tt.hij'] !== c && levenshtein(V['tt.hij'], c) === 1) add(V['tt.hij'], 'vd-tt-gelijk'); // verhuist
-    if (ww.vv && !ww.sch) add('ge' + c, 'vd-ge-teveel'); // geverhuisd
+    if (ww.vv && !ww.sch) add(/^[eiu]/.test(c) ? 'ge' + { e: 'ë', i: 'ï', u: 'ü' }[c[0]] + c.slice(1) : 'ge' + c, 'vd-ge-teveel'); // geverhuisd, geërvaren
     if (ww.vv && ww.sch) add(ww.sch + 'ge' + c.slice(ww.sch.length), 'vd-ge-teveel'); // voorgebereid
     if (/[td]$/.test(c) && !/(td|dt)$/.test(c)) {
       const r = ruil(c);

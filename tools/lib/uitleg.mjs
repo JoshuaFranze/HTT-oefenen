@@ -42,8 +42,9 @@ export function lettergrepen(w) {
     if (uit.length) {
       const m = huidig.match(/ch|sh|[^aeiouy]/g) || [];
       if (m.length >= 2) {
-        uit[uit.length - 1] += m[0];
-        huidig = m.slice(1).join('');
+        const begin = /^(b|d|f|g|k|p|t|v|w|ch)[rl]$/.test(m.slice(-2).join('')) && !(m.slice(-2).join('') === 'dl') ? 2 : 1; // be-gre-pen, aan-ge-kle-de
+        uit[uit.length - 1] += m.slice(0, m.length - begin).join('');
+        huidig = m.slice(m.length - begin).join('');
       }
     }
     uit.push(huidig + t);
@@ -93,7 +94,7 @@ function kofschipZin(inf, ww, uitgang, mv = false) {
   uitgang ??= (wel ? '-te' : '-de') + (mv ? 'n' : '');
   if (k.vz) return `${inf} is een zwak werkwoord dat eindigt op -${k.uitgang}. Haal -en eraf: ${k.basis}. Dan kijk je naar de ${k.letter}. Die zit niet in 't kofschip, dus ${uitgang}.`;
   if (k.leenKlank && k.stemloos) return `${inf} is een Engels werkwoord. In ${lettergrepen(inf)} hoor je aan het eind van de stam een ${k.klank}. Die klank is stemloos (je keel trilt niet als je hem zegt), net als de klanken van 't kofschip. Dus ${uitgang}.`;
-  if (k.leenKlank) return `${inf} is een Engels werkwoord. De stam is het Engelse woord: ${ww.stam}. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (${lettergrepen(inf)}): een ${k.klank}. De ${k.klank} ${wel ? 'is stemloos, net als de klanken van' : 'zit niet in'} 't kofschip, dus ${uitgang}.`;
+  if (k.leenKlank) return `${inf} is een Engels werkwoord. De stam is het Engelse woord: ${ww.stam}. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (${lettergrepen(inf)}): een ${k.klank}. De ${k.klank} ${wel ? (/^[tkfsp]$/.test(k.klank) ? 'zit in' : 'is stemloos, net als de klanken van') : 'zit niet in'} 't kofschip, dus ${uitgang}.`;
   const voor = ww.leen ? `${inf} is een Engels werkwoord, maar hier zijn letter en klank hetzelfde. ` : '';
   if (k.x) return `${voor}De stam eindigt op x. Die klinkt als ks, en de s zit in 't kofschip. Dus ${uitgang}.`;
   if (k.letter === 'ch') return `${voor}De stam eindigt op ch. Die zit in 't kofschip, dus ${uitgang}.`;
@@ -119,7 +120,7 @@ export function regelVan(inf, ww, zin) {
   }
   if (s.startsWith('vt.')) {
     const jij = /^(jij|je)$/i.test(zin.sleutel || '');
-    if (sterk) return /(cht|ist)$/.test(ww.vormen['vt.ev']) ? 'vt-onregelmatig' : jij ? 'vt-sterk-jij' : 'vt-sterk';
+    if (sterk) return /(cht|ist)$/.test(ww.vormen['vt.ev']) && /t$/.test(ww.vormen.vd || '') ? 'vt-onregelmatig' : jij ? 'vt-sterk-jij' : 'vt-sterk';
     const k = kofschipLetter(inf, ww);
     if (st.endsWith('t')) return 'vt-stam-t';
     if (st.endsWith('d')) return 'vt-stam-d';
@@ -265,7 +266,7 @@ function regelZin(regel, inf, ww, zin, c) {
     case 'vd-scheidbaar-geen-ge': { const tw = inf.slice(ww.sch.length); return `${inf} is een scheidbaar werkwoord (${ww.sch} + ${tw}). Normaal komt de ge- in het midden, maar ${tw} heeft al het voorvoegsel ${ww.vv}-. Dan komt er geen ge- bij: ${c}.`; }
     case 'vd-scheidbaar': return `${inf} is een scheidbaar werkwoord (ik ${st} ${ww.sch}). De ge- komt in het midden: ${c}.`;
     case 'vd-sterk': return `${inf} is een sterk werkwoord. Het voltooid deelwoord eindigt op -en: ${c}.`;
-    case 'vd-gemengd': return `${inf} heeft in de verleden tijd -te of -de (${V['vt.ev']}), maar het voltooid deelwoord eindigt op -en: ${c}.`;
+    case 'vd-gemengd': return V['vt.ev'] ? `${inf} heeft in de verleden tijd -te of -de (${V['vt.ev']}), maar het voltooid deelwoord eindigt op -en: ${c}.` : `Het voltooid deelwoord van ${inf} eindigt op -en: ${c}. Dit leer je los.`;
     case 'vd-onregelmatig': return `${inf} is een onregelmatig werkwoord. Het voltooid deelwoord is ${c}. Deze vorm leer je los, want hij volgt geen regel.`;
     case 'od-e': return `Het hoort bij het zelfstandig naamwoord ${q(zin.sleutel)}.${eReden(zin)} Zo krijg je: ${c}.`;
     case 'od-kaal': return `Het onvoltooid deelwoord is het hele werkwoord + d: ${inf} + d = ${c}.`;
@@ -373,13 +374,13 @@ function afleiderZin(p, d, inf, ww, zin, c) {
       return klinktGelijk(d, c) ? `${d} klinkt hetzelfde, maar dat is de tegenwoordige tijd. Let op ${q(zin.tijd)}: het gebeurde in het verleden.` : `${d} is de tegenwoordige tijd. Let op ${q(zin.tijd)}: het gebeurde in het verleden.`;
     case 'vd-tt-gelijk': return `${d} klinkt hetzelfde, maar dat is de persoonsvorm (hij ${d}). Er staat al een hulpwerkwoord, dus je zoekt het voltooid deelwoord.`;
     case 'vd-t-d-omgedraaid':
-      if (isStamTd(ww) && ww.soort === 'zwak' && !ww.sch) return st.endsWith('d') ? `${d}: de stam ${st} eindigt al op een d. Die blijft staan, ook al hoor je een t.` : `${d}: de stam ${st} eindigt op een t. Die t blijft gewoon staan; je maakt er geen d van.`;
+      if (isStamTd(ww) && ww.soort === 'zwak' && c === zwakVd(ww)) return st.endsWith('d') ? `${d}: de stam ${st} eindigt al op een d. Die blijft staan, ook al hoor je een t.` : `${d}: de stam ${st} eindigt op een t. Die t blijft gewoon staan; je maakt er geen d van.`;
       if (ww.soort === 'zwak' && (!ww.sch || c === zwakVd(ww))) return `${d}: ${k.leenKlank ? 'luister nog eens naar de klank' : "kijk nog eens naar 't kofschip"}. ${kofschipZin(inf, ww, ww.klank === 't' ? 'een t' : 'een d')}`;
       return `${d}: het voltooid deelwoord van ${inf} is ${c}. Dat eindigt op een ${c.at(-1)}.`;
     case 'vd-dt': return /td$/.test(d) ? `${d}: er komt maar één letter achter de stam, een t óf een d. Niet allebei.` : `${d}: een voltooid deelwoord eindigt nooit op dt.`;
     case 'vd-ge-teveel': return ww.sch ? `${d}: ${inf.slice(ww.sch.length)} heeft al het voorvoegsel ${ww.vv}-. Dan komt er geen ge- bij.` : `${d}: ${inf} heeft het voorvoegsel ${ww.vv}- (zonder klemtoon). Dan komt er geen ge- voor.`;
     case 'vd-met-e': return `${d}: na een hulpwerkwoord komt er geen -e achter het voltooid deelwoord.`;
-    case 'vd-zwak-gemaakt': return d === st || d === V['tt.hij'] ? `${d}: dat is de stam (of de tegenwoordige tijd). ${inf} is een sterk werkwoord: het voltooid deelwoord eindigt op -en: ${c}.` : `${d}: zo zou het gaan bij een zwak werkwoord. Het voltooid deelwoord van ${inf} eindigt op -en: ${c}.`;
+    case 'vd-zwak-gemaakt': return d === st || d === V['tt.hij'] ? `${d}: dat is ${d === st ? 'de stam' : 'de tegenwoordige tijd'}. ${inf} is een sterk werkwoord: het voltooid deelwoord eindigt op -en: ${c}.` : `${d}: zo zou het gaan bij een zwak werkwoord. Het voltooid deelwoord van ${inf} eindigt op -en: ${c}.`;
     case 'vd-sterk-spelling': return `${d}: je hoort een lange klank, en de lettergreep is open (${lettergrepen(c)}). Dan schrijf je één klinker: ${c}.`;
     case 'inf-vt-gelijk': return `${d} klinkt hetzelfde, maar dat is de verleden tijd meervoud. Na ${q(zin.sleutel)} komt het hele werkwoord.`;
     case 'inf-tt': return `${d} is een persoonsvorm${d === V.vd ? ' of een voltooid deelwoord' : ''}. Na ${q(zin.sleutel)} komt het hele werkwoord.`;

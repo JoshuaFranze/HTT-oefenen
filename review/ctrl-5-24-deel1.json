@@ -1,0 +1,154 @@
+{
+  "markeringen": [
+    {
+      "id": "tt-025",
+      "ernst": "fout",
+      "reden": "Tweede goed antwoord: 'Wie zitten er naast jou in de klas?' is correct Nederlands (je hebt vaak een buur links en rechts; wie + meervoud mag als je meerdere personen verwacht). De uitleg ''Wie' is hier enkelvoud' is dus niet dwingend. Maak de zin eenduidig, bv. 'Wie ___ er links van jou in de klas?' of 'Wie ___ er vandaag naast jou?' met één plek, of kies een ander onderwerp."
+    },
+    {
+      "id": "inf-1088",
+      "ernst": "fout",
+      "reden": "De zin is geen correct Nederlands: schelden is onovergankelijk ('schelden op iemand'); met lijdend voorwerp is het 'iemand uitschelden'. 'Je mag niemand schelden' moet worden 'Je mag niet ___.' / 'Je mag niet op anderen ___.' (dan blijft schelden de sleutel)."
+    },
+    {
+      "id": "od-1063",
+      "ernst": "fout",
+      "reden": "'De wonende mensen in de straat' is onjuist/ongrammaticaal: 'wonend' heeft als bijvoeglijk naamwoord een bepaling vóór zich nodig ('de in de straat wonende mensen'). Herschrijf, bv. 'De in deze straat ___ mensen kennen elkaar.' of kies een ander werkwoord ('De ___ buren zwaaiden', bv. lachende)."
+    },
+    {
+      "id": "od-1072",
+      "ernst": "fout",
+      "reden": "Betekenis klopt niet: 'vullend' betekent 'dat iets vult / verzadigt' (een vullende maaltijd); een emmer die volloopt is geen 'vullende emmer'. Sleutel is binnen de opgave de juiste vorm, maar de zin is onjuist Nederlands. Vervang bv. door 'De ___ emmer stond onder de kraan' met lekkende, of 'Er stond een ___ maaltijd op tafel' (vullende)."
+    },
+    {
+      "id": "od-1087",
+      "ernst": "twijfel",
+      "reden": "'De verwachtende gasten' is onnatuurlijk (gasten die iets verwachten?). Bedoeld lijkt 'de verwachte gasten' (voltooid deelwoord), en juist dat zal een student willen invullen; dat staat niet bij de opties maar het zet hem op het verkeerde been. Kies een werkwoord dat vanzelf actief is, bv. 'De ___ gasten stonden bij de deur' met wachtende."
+    },
+    {
+      "id": "od-1045",
+      "ernst": "twijfel",
+      "reden": "'De meldende leerlingen' is onnatuurlijk: melden in deze betekenis is wederkerend (zich melden), en zonder context is onduidelijk wat ze melden. Vervang door bv. 'De ___ leerlingen kregen een stempel' met wachtende/helpende, of 'De zich ___ leerlingen...'."
+    },
+    {
+      "id": "vd-1077",
+      "ernst": "twijfel",
+      "reden": "Uitleg bij 'uitgerusd' past niet: 'De laatste letter van de stam is een t. Die zit in 't kofschip, dus een t' suggereert dat er een extra t bij komt (uitgerustt). Bij stam op t blijft die t staan en komt er niets bij (vgl. gekost, gefeest elders). Gebruik de formulering 'de stam rust eindigt op een t; die blijft staan, je maakt er geen d van'."
+    },
+    {
+      "id": "eng-1139",
+      "ernst": "twijfel",
+      "reden": "Toon: 'dealen' roept in het Nederlands sterk de associatie met drugs dealen op ('Mijn opa dealt graag op de markt...'). Past niet bij 'geen nare onderwerpen'. Kies een ander Engels werkwoord (bv. 'Mijn opa ___ graag in zijn tuin' met relaxt) of een duidelijk onschuldige context."
+    },
+    {
+      "id": "eng-1066",
+      "ernst": "twijfel",
+      "reden": "Zelfde probleem als eng-1139: 'Vroeger dealde mijn opa graag op de markt' kan als drugshandel gelezen worden. Vervang het werkwoord of de context."
+    },
+    {
+      "id": "eng-1005",
+      "ernst": "stijl",
+      "reden": "Tegenwoordige tijd bij een eenmalige gebeurtenis ('deletet per ongeluk al haar oude foto's') klinkt vreemd; lezers verwachten verleden tijd. Bv. 'Mijn oma ___ steeds per ongeluk haar foto's.'"
+    },
+    {
+      "id": "vd-1018",
+      "ernst": "stijl",
+      "reden": "'De schilderijen mooi verklaard' is geen idiomatische combinatie; een gids legt schilderijen uit. Beter een object dat je verklaart: 'De gids heeft de oude legende mooi ___.' of 'De juf heeft de regel goed ___.'"
+    },
+    {
+      "id": "eng-1125",
+      "ernst": "stijl",
+      "reden": "'De gefinishte lopers' is stroef; gangbaarder: 'De lopers die gefinisht zijn'. Als bvd-oefening kan het, maar een natuurlijker naamwoord helpt (bv. 'De ___ bestanden' met geprinte/gescande)."
+    },
+    {
+      "id": "bvd-1102",
+      "ernst": "stijl",
+      "reden": "'De gezegde woorden' is stijf, en 'gezegde' is ook een zelfstandig naamwoord (spreekwoord), wat kan afleiden. Kies een natuurlijker combinatie met een stam op d, bv. 'De ___ boodschap was duidelijk' (herhaalde) of 'De ___ planten groeien goed' (verzorgde)."
+    },
+    {
+      "id": "bvd-1142",
+      "ernst": "stijl",
+      "reden": "'Een goed gerekend voorbeeld' is geen gangbaar Nederlands (bedoeld: uitgerekend/uitgewerkt voorbeeld). Bv. 'Dit is een goed ___ voorbeeld' met uitgewerkt, of 'een goed gekozen voorbeeld'."
+    },
+    {
+      "id": "bvd-1140",
+      "ernst": "stijl",
+      "reden": "'Het is een verplaatst evenement' is stijf; natuurlijker is 'Het evenement is verplaatst' (maar dan geen bvd). Bv. 'Er staat een ___ evenement in de agenda' of 'een verplaatst concert'."
+    },
+    {
+      "id": "bvd-1084",
+      "ernst": "stijl",
+      "reden": "'De gestuurde berichten' klinkt onnatuurlijk; gangbaar is 'verstuurde berichten'. Kan zo blijven, maar 'verstuurd' (ver-, zonder ge-) is idiomatischer."
+    },
+    {
+      "id": "bvd-1081",
+      "ernst": "stijl",
+      "reden": "'De gestopte bus staat voor de school' is onnatuurlijk: 'gestopt' wekt de indruk dat de bus uit dienst is; een bus die stilstaat heet een 'stilstaande bus'. Kies een ander werkwoord met stam op p of k, bv. 'De ___ envelop ligt op de mat' (geplakte)."
+    },
+    {
+      "id": "bvd-1096",
+      "ernst": "stijl",
+      "reden": "'De gestudeerde vrienden' betekent 'hoogopgeleide vrienden'. Dat gebruik bestaat, maar in deze zin klinkt het vreemd en het past niet bij de uitleg ('gestudeerd' als gewoon voltooid deelwoord). Kies een ander zelfstandig naamwoord, bv. 'De ___ teksten' (bestudeerde)."
+    },
+    {
+      "id": "eng-1123",
+      "ernst": "stijl",
+      "reden": "Logica: 'Het gerecyclede papier gaat naar de fabriek' – papier gaat juist naar de fabriek om gerecycled te worden. Bv. 'Dit schrift is van gerecycled papier' of 'Het ___ papier ligt in de winkel.'"
+    },
+    {
+      "id": "od-1017",
+      "ernst": "stijl",
+      "reden": "'Een kokend pannetje' is spreektaal; het water kookt, niet de pan. Bv. 'Op het vuur stond een ___ keteltje water' of 'een pannetje ___ water' (dan geen het-woord-regel)."
+    },
+    {
+      "id": "od-1040",
+      "ernst": "stijl",
+      "reden": "'Op school zat een lerend kind' zegt inhoudelijk weinig en klinkt kunstmatig. Bv. 'Op de stoep zat een ___ kind' met huilend/lezend."
+    },
+    {
+      "id": "od-1046",
+      "ernst": "stijl",
+      "reden": "'De antwoordende student' is stroef; het onvoltooid deelwoord van antwoorden wordt zelden attributief gebruikt. Overweeg 'De ___ student stak zijn vinger op' met wachtende, of een ander werkwoord."
+    },
+    {
+      "id": "od-1075",
+      "ernst": "stijl",
+      "reden": "'De leidende trainer' wordt eerder gelezen als 'hoofdtrainer' dan als 'de trainer die leidt'. Kan, maar bv. 'De ___ trainer gaf een tip' met lachende is helderder."
+    },
+    {
+      "id": "tt-1005",
+      "ernst": "stijl",
+      "reden": "Eendjes 'voeden' is minder gangbaar dan 'voeren'. Correct, maar 'voedt' past beter bij bv. 'Mijn tante ___ haar baby' of 'Deze maaltijd ___ goed'."
+    },
+    {
+      "id": "tt-1095",
+      "ernst": "stijl",
+      "reden": "Zelfde als tt-1005: 'de vissen voeden' klinkt minder natuurlijk dan 'voeren'. Kies een ander werkwoord met stam op d in inversie, bv. 'Hoe ___ jij de groep naar de uitgang?' (leid) of 'Waarom ___ jij je pas zo laat?' (meld)."
+    },
+    {
+      "id": "eng-1102",
+      "ernst": "stijl",
+      "reden": "Uitleg 'De p is stemloos, net als de klanken van 't kofschip' is omslachtig: de p zit gewoon in 't kofschip. Vergelijkbaar met de m-uitleg bij timen: 'De p zit in 't kofschip, dus een t.' (Als het sjabloon zo bedoeld is: dan alleen een opmerking.)"
+    },
+    {
+      "id": "eng-1062",
+      "ernst": "stijl",
+      "reden": "Inconsistentie: de hoofduitleg noemt sprinten 'een zwak werkwoord', de uitleg bij 'sprintde' noemt het 'een Engels werkwoord, maar hier zijn letter en klank hetzelfde'. Kies één lijn binnen de vraag."
+    },
+    {
+      "id": "eng-1098",
+      "ernst": "stijl",
+      "reden": "'Mijn nicht heeft als tweede gefinisht' – met 'is' ('is als tweede gefinisht') klinkt gangbaarder (vgl. geëindigd, aangekomen). Beide komen voor; 'is' is natuurlijker."
+    },
+    {
+      "id": "vt-1054",
+      "ernst": "stijl",
+      "reden": "'Op het kampvuur' betekent letterlijk bovenop het vuur; bedoeld is 'bij het kampvuur'."
+    },
+    {
+      "id": "inf-1025",
+      "ernst": "stijl",
+      "reden": "'Die geur kan je tot een snack verleiden': 'kan je' wordt snel gelezen als 'kun jij'. Met 'jou' is het meteen duidelijk: 'Die geur kan jou tot een snack ___.' of 'Die geur kan mij ...'."
+    }
+  ]
+}

@@ -11,6 +11,7 @@ export const lees = (p) => JSON.parse(readFileSync(pad(p), 'utf8'));
 export const GAT = '___';
 const HULP = new Set(['heb', 'hebt', 'heeft', 'hebben', 'had', 'hadden', 'ben', 'bent', 'is', 'zijn', 'was', 'waren', 'word', 'wordt', 'worden', 'werd', 'werden']);
 const NAMEN = new Set(lees('data/namen.json').namen);
+const ZELFST = lees('bronnen/zelfstandig.json');
 
 export function laadZinnen() {
   const dir = pad('data/zinnen/');
@@ -66,6 +67,16 @@ export function controleerZin(z, vormen) {
   if (s.startsWith('bvd') || s === 'od.e') nodig(z.sleutel && na.includes(z.sleutel), 'het zelfstandig naamwoord (sleutel) moet na de open plek staan');
   if ((s === 'bvd.kaal' || (s === 'od.kaal' && z.eenHet)) && !z.eenHet) p.push('bvd.kaal kan alleen bij een + het-woord (zet eenHet: true)');
   if (z.eenHet) nodig(/\been\b/i.test(voor), 'eenHet: er moet een ‘een’ voor de open plek staan');
+  // geslacht van het zelfstandig naamwoord (uit de Woordenlijst, bronnen/zelfstandig.json)
+  if (/^(od|bvd)/.test(s) && z.sleutel) {
+    const g = ZELFST.woorden[z.sleutel];
+    if (!g) p.push(`geslacht van ${z.sleutel} onbekend: draai node tools/haal-zelfstandig.mjs`);
+    else {
+      const lw = (voor.toLowerCase().match(/\b(de|het|een|geen|zo'n|dit|dat|deze|die|mijn|jouw|zijn|haar|ons|onze|hun)\b[^]*$/) || [])[1] || null;
+      if (z.eenHet && !g.het) p.push(`eenHet: ${z.sleutel} is geen het-woord in het enkelvoud volgens de Woordenlijst`);
+      if ((s === 'od.e' || s === 'bvd.e') && g.het && (!lw || ['een', 'geen', "zo'n"].includes(lw))) p.push(`${z.sleutel} is een het-woord met ${lw || 'geen lidwoord'} ervoor: dan geen -e (gebruik od.kaal/bvd.kaal met eenHet)`);
+    }
+  }
   if (s === 'gw') nodig(voor.trim() === '', 'bij de gebiedende wijs staat de open plek vooraan');
   if (s === 'inf') nodig(z.sleutel && voor.includes(z.sleutel) && /^[.?!]$/.test(na.trim()), 'bij de infinitief staat het sleutelwoord (wil, moet, gaat, te) voor de open plek en staat de open plek achteraan');
   if (s.startsWith('vt.') || s.startsWith('tt.')) nodig(!!z.sleutel, 'het onderwerp (sleutel) ontbreekt');

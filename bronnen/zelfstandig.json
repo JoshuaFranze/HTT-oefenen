@@ -1,0 +1,2820 @@
+{
+ "bron": "https://woordenlijst.org",
+ "woorden": {
+  "aardappels": {
+   "lemmas": [
+    {
+     "lemma": "aardappel",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "afspraken": {
+   "lemmas": [
+    {
+     "lemma": "afspraak",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "amandelen": {
+   "lemmas": [
+    {
+     "lemma": "amandel",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "auto": {
+   "lemmas": [
+    {
+     "lemma": "auto",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "baby": {
+   "lemmas": [
+    {
+     "lemma": "baby",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "bakker": {
+   "lemmas": [
+    {
+     "lemma": "bakker",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "ballon": {
+   "lemmas": [
+    {
+     "lemma": "ballon",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "band": {
+   "lemmas": [
+    {
+     "lemma": "band",
+     "pos": "NOU-C(gender=m,number=sg)"
+    },
+    {
+     "lemma": "band",
+     "pos": "NOU-C(gender=m,number=sg)"
+    },
+    {
+     "lemma": "band",
+     "pos": "NOU-C(gender=m/n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "batterijen": {
+   "lemmas": [
+    {
+     "lemma": "batterij",
+     "pos": "NOU-C(gender=f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "bedoeling": {
+   "lemmas": [
+    {
+     "lemma": "bedoeling",
+     "pos": "NOU-C(gender=f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "bedragen": {
+   "lemmas": [
+    {
+     "lemma": "bedrag",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "bekers": {
+   "lemmas": [
+    {
+     "lemma": "beker",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "bericht": {
+   "lemmas": [
+    {
+     "lemma": "bericht",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "berichten": {
+   "lemmas": [
+    {
+     "lemma": "bericht",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "besluit": {
+   "lemmas": [
+    {
+     "lemma": "besluit",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "bestanden": {
+   "lemmas": [
+    {
+     "lemma": "bestand",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "bestand",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "bestuurder": {
+   "lemmas": [
+    {
+     "lemma": "bestuurder",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "blaadje": {
+   "lemmas": [
+    {
+     "lemma": "blaadje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "blaadje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "blad": {
+   "lemmas": [
+    {
+     "lemma": "blad",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "blad",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "blik": {
+   "lemmas": [
+    {
+     "lemma": "blik",
+     "pos": "NOU-C(gender=m,number=sg)"
+    },
+    {
+     "lemma": "blik",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "blik",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": true
+  },
+  "bloemen": {
+   "lemmas": [
+    {
+     "lemma": "bloem",
+     "pos": "NOU-C(gender=f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "boek": {
+   "lemmas": [
+    {
+     "lemma": "boek",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "boek",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": true
+  },
+  "boeken": {
+   "lemmas": [
+    {
+     "lemma": "boek",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "boek",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "bootje": {
+   "lemmas": [
+    {
+     "lemma": "bootje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "bootje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "bootje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "bord": {
+   "lemmas": [
+    {
+     "lemma": "bord",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "borden": {
+   "lemmas": [
+    {
+     "lemma": "bord",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "boterhammen": {
+   "lemmas": [
+    {
+     "lemma": "boterham",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "brand": {
+   "lemmas": [
+    {
+     "lemma": "brand",
+     "pos": "NOU-C(gender=m,number=sg)"
+    },
+    {
+     "lemma": "brand",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "brieven": {
+   "lemmas": [
+    {
+     "lemma": "brief",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "bruid": {
+   "lemmas": [
+    {
+     "lemma": "bruid",
+     "pos": "NOU-C(gender=f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "buren": {
+   "lemmas": [
+    {
+     "lemma": "buur",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "bus": {
+   "lemmas": [
+    {
+     "lemma": "bus",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    },
+    {
+     "lemma": "bus",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "buurman": {
+   "lemmas": [
+    {
+     "lemma": "buurman",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "cadeau": {
+   "lemmas": [
+    {
+     "lemma": "cadeau",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "cadeaus": {
+   "lemmas": [
+    {
+     "lemma": "cadeau",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "cadeautjes": {
+   "lemmas": [
+    {
+     "lemma": "cadeautje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "cake": {
+   "lemmas": [
+    {
+     "lemma": "cake",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "computer": {
+   "lemmas": [
+    {
+     "lemma": "computer",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "deelnemers": {
+   "lemmas": [
+    {
+     "lemma": "deelnemer",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "deur": {
+   "lemmas": [
+    {
+     "lemma": "deur",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "deuren": {
+   "lemmas": [
+    {
+     "lemma": "deur",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "document": {
+   "lemmas": [
+    {
+     "lemma": "document",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "dozen": {
+   "lemmas": [
+    {
+     "lemma": "doos",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "eendje": {
+   "lemmas": [
+    {
+     "lemma": "eendje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "ei": {
+   "lemmas": [
+    {
+     "lemma": "ei",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "ei",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": true
+  },
+  "eitje": {
+   "lemmas": [
+    {
+     "lemma": "eitje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "emmer": {
+   "lemmas": [
+    {
+     "lemma": "emmer",
+     "pos": "NOU-C(gender=m,number=sg)"
+    },
+    {
+     "lemma": "emmer",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "evenement": {
+   "lemmas": [
+    {
+     "lemma": "evenement",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "feest": {
+   "lemmas": [
+    {
+     "lemma": "feest",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "filmpje": {
+   "lemmas": [
+    {
+     "lemma": "filmpje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "formulier": {
+   "lemmas": [
+    {
+     "lemma": "formulier",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "formulieren": {
+   "lemmas": [
+    {
+     "lemma": "formulier",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "fossielen": {
+   "lemmas": [
+    {
+     "lemma": "fossiel",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "foto's": {
+   "lemmas": [
+    {
+     "lemma": "foto",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "gast": {
+   "lemmas": [
+    {
+     "lemma": "gast",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "gasten": {
+   "lemmas": [
+    {
+     "lemma": "gast",
+     "pos": "NOU-C(gender=m,number=sg)"
+    },
+    {
+     "lemma": "gaste",
+     "pos": "NOU-C(gender=f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "gebouwen": {
+   "lemmas": [
+    {
+     "lemma": "gebouw",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "gebruikers": {
+   "lemmas": [
+    {
+     "lemma": "gebruiker",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "gegevens": {
+   "lemmas": [
+    {
+     "lemma": "gegeven",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "geheim": {
+   "lemmas": [
+    {
+     "lemma": "geheim",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "gerecht": {
+   "lemmas": [
+    {
+     "lemma": "gerecht",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "gerecht",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "gerechten": {
+   "lemmas": [
+    {
+     "lemma": "gerecht",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "gerecht",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "gezicht": {
+   "lemmas": [
+    {
+     "lemma": "gezicht",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "gezin": {
+   "lemmas": [
+    {
+     "lemma": "gezin",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "glas": {
+   "lemmas": [
+    {
+     "lemma": "glas",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "glazen": {
+   "lemmas": [
+    {
+     "lemma": "glas",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "grap": {
+   "lemmas": [
+    {
+     "lemma": "grap",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "grapje": {
+   "lemmas": [
+    {
+     "lemma": "grapje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "ham": {
+   "lemmas": [
+    {
+     "lemma": "ham",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    },
+    {
+     "lemma": "ham",
+     "pos": "NOU-C(gender=m,number=sg)"
+    },
+    {
+     "lemma": "ham",
+     "pos": "NOU-C(gender=m/n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "handdoeken": {
+   "lemmas": [
+    {
+     "lemma": "handdoek",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "hart": {
+   "lemmas": [
+    {
+     "lemma": "hart",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "hek": {
+   "lemmas": [
+    {
+     "lemma": "hek",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "hemel": {
+   "lemmas": [
+    {
+     "lemma": "hemel",
+     "pos": "NOU-C(gender=m,number=sg)"
+    },
+    {
+     "lemma": "hemel",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "hert": {
+   "lemmas": [
+    {
+     "lemma": "hert",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "hertje": {
+   "lemmas": [
+    {
+     "lemma": "hertje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "hond": {
+   "lemmas": [
+    {
+     "lemma": "hond",
+     "pos": "NOU-C(gender=m,number=sg)"
+    },
+    {
+     "lemma": "hond",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": true
+  },
+  "honden": {
+   "lemmas": [
+    {
+     "lemma": "hond",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "hondje": {
+   "lemmas": [
+    {
+     "lemma": "hondje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "horloge": {
+   "lemmas": [
+    {
+     "lemma": "horloge",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "huis": {
+   "lemmas": [
+    {
+     "lemma": "huis",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "huisje": {
+   "lemmas": [
+    {
+     "lemma": "huisje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "ijsje": {
+   "lemmas": [
+    {
+     "lemma": "ijsje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "jongen": {
+   "lemmas": [
+    {
+     "lemma": "jongen",
+     "pos": "NOU-C(gender=m,number=sg)"
+    },
+    {
+     "lemma": "jong",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "jongens": {
+   "lemmas": [
+    {
+     "lemma": "jongen",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "jongetje": {
+   "lemmas": [
+    {
+     "lemma": "jongetje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "kaars": {
+   "lemmas": [
+    {
+     "lemma": "kaars",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "kaarsje": {
+   "lemmas": [
+    {
+     "lemma": "kaarsje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "kaartje": {
+   "lemmas": [
+    {
+     "lemma": "kaartje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "kaartje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "kaartjes": {
+   "lemmas": [
+    {
+     "lemma": "kaartje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "kaartje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "kamer": {
+   "lemmas": [
+    {
+     "lemma": "kamer",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "kamers": {
+   "lemmas": [
+    {
+     "lemma": "kamer",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "kans": {
+   "lemmas": [
+    {
+     "lemma": "kans",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    },
+    {
+     "lemma": "KANS",
+     "pos": "NOU-C(number=pl,wf=abbr)"
+    },
+    {
+     "lemma": "kan",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "kast": {
+   "lemmas": [
+    {
+     "lemma": "kast",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "kat": {
+   "lemmas": [
+    {
+     "lemma": "kat",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    },
+    {
+     "lemma": "kat",
+     "pos": "NOU-C(gender=m,number=sg)"
+    },
+    {
+     "lemma": "kat",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "katje": {
+   "lemmas": [
+    {
+     "lemma": "katje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "kerstboom": {
+   "lemmas": [
+    {
+     "lemma": "kerstboom",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "ketel": {
+   "lemmas": [
+    {
+     "lemma": "ketel",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "keteltje": {
+   "lemmas": [
+    {
+     "lemma": "keteltje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "keuken": {
+   "lemmas": [
+    {
+     "lemma": "keuken",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "kilometers": {
+   "lemmas": [
+    {
+     "lemma": "kilometer",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "kind": {
+   "lemmas": [
+    {
+     "lemma": "kind",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "kinderen": {
+   "lemmas": [
+    {
+     "lemma": "kind",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "klachten": {
+   "lemmas": [
+    {
+     "lemma": "klacht",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "klant": {
+   "lemmas": [
+    {
+     "lemma": "klant",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "klanten": {
+   "lemmas": [
+    {
+     "lemma": "klant",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "klas": {
+   "lemmas": [
+    {
+     "lemma": "klas",
+     "pos": "NOU-C(gender=f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "kledingstuk": {
+   "lemmas": [
+    {
+     "lemma": "kledingstuk",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "koeien": {
+   "lemmas": [
+    {
+     "lemma": "koe",
+     "pos": "NOU-C(gender=f,number=sg)"
+    },
+    {
+     "lemma": "koe",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "koekjes": {
+   "lemmas": [
+    {
+     "lemma": "koekje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "koffer": {
+   "lemmas": [
+    {
+     "lemma": "koffer",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "konijn": {
+   "lemmas": [
+    {
+     "lemma": "konijn",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "konijntje": {
+   "lemmas": [
+    {
+     "lemma": "konijntje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "kopje": {
+   "lemmas": [
+    {
+     "lemma": "kopje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "kuikentje": {
+   "lemmas": [
+    {
+     "lemma": "kuikentje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "lamp": {
+   "lemmas": [
+    {
+     "lemma": "lamp",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "leden": {
+   "lemmas": [
+    {
+     "lemma": "lid",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "lid",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "leerlingen": {
+   "lemmas": [
+    {
+     "lemma": "leerling",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "les": {
+   "lemmas": [
+    {
+     "lemma": "les",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "liedjes": {
+   "lemmas": [
+    {
+     "lemma": "liedje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "lokaal": {
+   "lemmas": [
+    {
+     "lemma": "lokaal",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "lokaal",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": true
+  },
+  "lopers": {
+   "lemmas": [
+    {
+     "lemma": "loper",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "maaltijd": {
+   "lemmas": [
+    {
+     "lemma": "maaltijd",
+     "pos": "NOU-C(gender=m,number=sg)"
+    },
+    {
+     "lemma": "maaltijd",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "mails": {
+   "lemmas": [
+    {
+     "lemma": "mail",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "man": {
+   "lemmas": [
+    {
+     "lemma": "man",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "mannetje": {
+   "lemmas": [
+    {
+     "lemma": "mannetje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "meisje": {
+   "lemmas": [
+    {
+     "lemma": "meisje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "meisjes": {
+   "lemmas": [
+    {
+     "lemma": "meisje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "melk": {
+   "lemmas": [
+    {
+     "lemma": "melk",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "melodie": {
+   "lemmas": [
+    {
+     "lemma": "melodie",
+     "pos": "NOU-C(gender=f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "mensen": {
+   "lemmas": [
+    {
+     "lemma": "mens",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "moeders": {
+   "lemmas": [
+    {
+     "lemma": "moeder",
+     "pos": "NOU-C(gender=f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "muziek": {
+   "lemmas": [
+    {
+     "lemma": "muziek",
+     "pos": "NOU-C(gender=f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "namen": {
+   "lemmas": [
+    {
+     "lemma": "naam",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "oefeningen": {
+   "lemmas": [
+    {
+     "lemma": "oefening",
+     "pos": "NOU-C(gender=f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "opdracht": {
+   "lemmas": [
+    {
+     "lemma": "opdracht",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "opdrachten": {
+   "lemmas": [
+    {
+     "lemma": "opdracht",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "oven": {
+   "lemmas": [
+    {
+     "lemma": "oven",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "overwinning": {
+   "lemmas": [
+    {
+     "lemma": "overwinning",
+     "pos": "NOU-C(gender=f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "paard": {
+   "lemmas": [
+    {
+     "lemma": "paard",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "pakket": {
+   "lemmas": [
+    {
+     "lemma": "pakket",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "pakketje": {
+   "lemmas": [
+    {
+     "lemma": "pakketje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "pakketjes": {
+   "lemmas": [
+    {
+     "lemma": "pakketje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "pand": {
+   "lemmas": [
+    {
+     "lemma": "pand",
+     "pos": "NOU-C(gender=m/n,number=sg)"
+    },
+    {
+     "lemma": "pand",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": true
+  },
+  "pannenkoek": {
+   "lemmas": [
+    {
+     "lemma": "pannenkoek",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "pannetje": {
+   "lemmas": [
+    {
+     "lemma": "pannetje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "papier": {
+   "lemmas": [
+    {
+     "lemma": "papier",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "pasta": {
+   "lemmas": [
+    {
+     "lemma": "pasta",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "patiënt": {
+   "lemmas": [
+    {
+     "lemma": "patiënt",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "peuter": {
+   "lemmas": [
+    {
+     "lemma": "peuter",
+     "pos": "NOU-C(gender=m,number=sg)"
+    },
+    {
+     "lemma": "peuter",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "pizza's": {
+   "lemmas": [
+    {
+     "lemma": "pizza",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "plaatjes": {
+   "lemmas": [
+    {
+     "lemma": "plaatje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "plan": {
+   "lemmas": [
+    {
+     "lemma": "plan",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "plan",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "planten": {
+   "lemmas": [
+    {
+     "lemma": "plant",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "ploeg": {
+   "lemmas": [
+    {
+     "lemma": "ploeg",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    },
+    {
+     "lemma": "ploeg",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "poppen": {
+   "lemmas": [
+    {
+     "lemma": "pop",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "poppetje": {
+   "lemmas": [
+    {
+     "lemma": "poppetje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "postzegels": {
+   "lemmas": [
+    {
+     "lemma": "postzegel",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "prijzen": {
+   "lemmas": [
+    {
+     "lemma": "prijs",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    },
+    {
+     "lemma": "prijs",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "prinses": {
+   "lemmas": [
+    {
+     "lemma": "prinses",
+     "pos": "NOU-C(gender=f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "probleem": {
+   "lemmas": [
+    {
+     "lemma": "probleem",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "product": {
+   "lemmas": [
+    {
+     "lemma": "product",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "programma": {
+   "lemmas": [
+    {
+     "lemma": "programma",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "publiek": {
+   "lemmas": [
+    {
+     "lemma": "publiek",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "puzzel": {
+   "lemmas": [
+    {
+     "lemma": "puzzel",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "puzzelstuk": {
+   "lemmas": [
+    {
+     "lemma": "puzzelstuk",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "raam": {
+   "lemmas": [
+    {
+     "lemma": "raam",
+     "pos": "NOU-C(gender=m,number=sg)"
+    },
+    {
+     "lemma": "raam",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": true
+  },
+  "ramen": {
+   "lemmas": [
+    {
+     "lemma": "raam",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "ramen",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "rapport": {
+   "lemmas": [
+    {
+     "lemma": "rapport",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "recepten": {
+   "lemmas": [
+    {
+     "lemma": "recept",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "regen": {
+   "lemmas": [
+    {
+     "lemma": "regen",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "reiziger": {
+   "lemmas": [
+    {
+     "lemma": "reiziger",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "rekening": {
+   "lemmas": [
+    {
+     "lemma": "rekening",
+     "pos": "NOU-C(gender=f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "rondjes": {
+   "lemmas": [
+    {
+     "lemma": "rondje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "rondje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "rondje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "rooster": {
+   "lemmas": [
+    {
+     "lemma": "rooster",
+     "pos": "NOU-C(gender=m/n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "route": {
+   "lemmas": [
+    {
+     "lemma": "route",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "schaap": {
+   "lemmas": [
+    {
+     "lemma": "schaap",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "schilder": {
+   "lemmas": [
+    {
+     "lemma": "schilder",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "schoenen": {
+   "lemmas": [
+    {
+     "lemma": "schoen",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "sleutel": {
+   "lemmas": [
+    {
+     "lemma": "sleutel",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "soep": {
+   "lemmas": [
+    {
+     "lemma": "soep",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "som": {
+   "lemmas": [
+    {
+     "lemma": "som",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    },
+    {
+     "lemma": "som",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "spelers": {
+   "lemmas": [
+    {
+     "lemma": "speler",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "sprong": {
+   "lemmas": [
+    {
+     "lemma": "sprong",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "spullen": {
+   "lemmas": [
+    {
+     "lemma": "spul",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "stad": {
+   "lemmas": [
+    {
+     "lemma": "stad",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "stappen": {
+   "lemmas": [
+    {
+     "lemma": "stap",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "station": {
+   "lemmas": [
+    {
+     "lemma": "station",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "stel": {
+   "lemmas": [
+    {
+     "lemma": "stel",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "stem": {
+   "lemmas": [
+    {
+     "lemma": "stem",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    },
+    {
+     "lemma": "STEM",
+     "pos": "NOU-C(gender=n,number=sg,wf=abbr)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "stoelen": {
+   "lemmas": [
+    {
+     "lemma": "stoel",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "stof": {
+   "lemmas": [
+    {
+     "lemma": "stof",
+     "pos": "NOU-C(gender=n,number=sg)"
+    },
+    {
+     "lemma": "stof",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": true
+  },
+  "storingen": {
+   "lemmas": [
+    {
+     "lemma": "storing",
+     "pos": "NOU-C(gender=f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "storm": {
+   "lemmas": [
+    {
+     "lemma": "storm",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "straat": {
+   "lemmas": [
+    {
+     "lemma": "straat",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "student": {
+   "lemmas": [
+    {
+     "lemma": "student",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "studenten": {
+   "lemmas": [
+    {
+     "lemma": "student",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "taart": {
+   "lemmas": [
+    {
+     "lemma": "taart",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "takken": {
+   "lemmas": [
+    {
+     "lemma": "tak",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "tas": {
+   "lemmas": [
+    {
+     "lemma": "tas",
+     "pos": "NOU-C(gender=m,number=sg)"
+    },
+    {
+     "lemma": "tas",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    },
+    {
+     "lemma": "tas",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    },
+    {
+     "lemma": "tas",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "tegels": {
+   "lemmas": [
+    {
+     "lemma": "tegel",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "tekst": {
+   "lemmas": [
+    {
+     "lemma": "tekst",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "tent": {
+   "lemmas": [
+    {
+     "lemma": "tent",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "tijd": {
+   "lemmas": [
+    {
+     "lemma": "tijd",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "toast": {
+   "lemmas": [
+    {
+     "lemma": "toast",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "toeristen": {
+   "lemmas": [
+    {
+     "lemma": "toerist",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "toeschouwers": {
+   "lemmas": [
+    {
+     "lemma": "toeschouwer",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "trainer": {
+   "lemmas": [
+    {
+     "lemma": "trainer",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "trein": {
+   "lemmas": [
+    {
+     "lemma": "trein",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "treintje": {
+   "lemmas": [
+    {
+     "lemma": "treintje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "tuin": {
+   "lemmas": [
+    {
+     "lemma": "tuin",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "uitleg": {
+   "lemmas": [
+    {
+     "lemma": "uitleg",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "uren": {
+   "lemmas": [
+    {
+     "lemma": "uur",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "uur": {
+   "lemmas": [
+    {
+     "lemma": "uur",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "vaas": {
+   "lemmas": [
+    {
+     "lemma": "vaas",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "vakantie": {
+   "lemmas": [
+    {
+     "lemma": "vakantie",
+     "pos": "NOU-C(gender=f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "vergadering": {
+   "lemmas": [
+    {
+     "lemma": "vergadering",
+     "pos": "NOU-C(gender=f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "verhaal": {
+   "lemmas": [
+    {
+     "lemma": "verhaal",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "verhalen": {
+   "lemmas": [
+    {
+     "lemma": "verhaal",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "versie": {
+   "lemmas": [
+    {
+     "lemma": "versie",
+     "pos": "NOU-C(gender=f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "verwarming": {
+   "lemmas": [
+    {
+     "lemma": "verwarming",
+     "pos": "NOU-C(gender=f,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "veulen": {
+   "lemmas": [
+    {
+     "lemma": "veulen",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "vliegtuig": {
+   "lemmas": [
+    {
+     "lemma": "vliegtuig",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "vogel": {
+   "lemmas": [
+    {
+     "lemma": "vogel",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "vogels": {
+   "lemmas": [
+    {
+     "lemma": "vogel",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "vogeltje": {
+   "lemmas": [
+    {
+     "lemma": "vogeltje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "voorbeeld": {
+   "lemmas": [
+    {
+     "lemma": "voorbeeld",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "vrienden": {
+   "lemmas": [
+    {
+     "lemma": "vriend",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "vrouwen": {
+   "lemmas": [
+    {
+     "lemma": "vrouw",
+     "pos": "NOU-C(gender=f,number=sg)"
+    },
+    {
+     "lemma": "vrouwe",
+     "pos": "NOU-C(gender=f,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "vrouwtje": {
+   "lemmas": [
+    {
+     "lemma": "vrouwtje",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "wandelaars": {
+   "lemmas": [
+    {
+     "lemma": "wandelaar",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "water": {
+   "lemmas": [
+    {
+     "lemma": "water",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  },
+  "wedstrijden": {
+   "lemmas": [
+    {
+     "lemma": "wedstrijd",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "weg": {
+   "lemmas": [
+    {
+     "lemma": "weg",
+     "pos": "NOU-C(gender=m/f,number=sg)"
+    },
+    {
+     "lemma": "weg",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "winkel": {
+   "lemmas": [
+    {
+     "lemma": "winkel",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": false,
+   "de": true
+  },
+  "woord": {
+   "lemmas": [
+    {
+     "lemma": "woord",
+     "pos": "NOU-C(gender=m,number=sg)"
+    },
+    {
+     "lemma": "woord",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": true
+  },
+  "woorden": {
+   "lemmas": [
+    {
+     "lemma": "woord",
+     "pos": "NOU-C(gender=m,number=sg)"
+    },
+    {
+     "lemma": "woord",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
+  "zwembad": {
+   "lemmas": [
+    {
+     "lemma": "zwembad",
+     "pos": "NOU-C(gender=n,number=sg)"
+    }
+   ],
+   "enkelvoud": true,
+   "het": true,
+   "de": false
+  }
+ }
+}
