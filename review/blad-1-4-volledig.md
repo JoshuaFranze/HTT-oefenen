@@ -1,7 +1,5 @@
 # Reviewblad (volledig) – toets 1-4
 
-Per vraag: zin, opties, sleutel, regel, uitleg, hints.
-
 ## eng-016 (toets 1, Engelse werkwoorden)
 **Zin:** Heb je dat woord al ___?  
 **Opties:** 1. gegoogelt   2. gegoogeldt   3. gegoogeld  
