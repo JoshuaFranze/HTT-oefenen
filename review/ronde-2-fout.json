@@ -1,0 +1,236 @@
+{
+ "markeringen": [
+  {
+   "id": "stappenplan",
+   "ernst": "fout",
+   "reden": "Stap 3, punt 'Verleden tijd, sterk werkwoord': 'Meervoud: + en (liepen; soms met een dubbele medeklinker: won, wonnen)'. Letterlijk toegepast geeft dit gafen, lasen, koosen, schreefen, bleefen. Bij veel sterke werkwoorden verandert ook f>v, s>z of wordt een dubbele klinker enkel (gaf-gaven, las-lazen, koos-kozen, schreef-schreven, bleef-bleven). Voorstel: 'Meervoud: + en, en schrijf het dan volgens de gewone spellingregels (liepen, wonnen, schreven, lazen)'."
+  },
+  {
+   "id": "vt-sterk",
+   "ernst": "fout",
+   "reden": "Zelfde probleem als in het stappenplan: 'Meervoud: + en (liepen; soms met een dubbele medeklinker: won, wonnen)' klopt niet voor schreef-schreven, bleef-bleven, las-lazen, koos-kozen. Juist 'schrijven' staat als voorbeeld bij deze regel. De zin staat ook letterlijk in hint 3 van alle vt-sterk-vragen, en hint 2 zegt 'Dan komt er -en achter, en soms wordt de medeklinker dubbel'."
+  },
+  {
+   "id": "bvd-stam-t",
+   "ernst": "fout",
+   "reden": "'Eindigt dat al op een t (verwacht)? Dan komt er geen tweede t bij, alleen een -e' is in strijd met bvd-spelling (gezet > de gezette koffie: daar komt wél een tweede t bij). Letterlijk toegepast op zetten geeft dit 'de gezete koffie'. Voorstel: 'Eindigt het voltooid deelwoord al op een t (verwacht)? Dan zet je er alleen een -e achter (de verwachte regen). Is de klinker ervoor kort (gezet), dan verdubbel je de t: de gezette koffie.'"
+  },
+  {
+   "id": "stappenplan",
+   "ernst": "twijfel",
+   "reden": "Stap 3, punt 'Zwak of sterk?': 'Verandert de klinker (liep, schreef)? Dan is het sterk.' Bij kopen-kocht, denken-dacht, brengen-bracht verandert de klinker ook; wie de regel letterlijk volgt, noemt die sterk. Beter: 'Verandert de klinker en komt er geen -te/-de achter? Dan is het sterk. Een paar werkwoorden passen in geen van beide (kocht, dacht, bracht): die leer je los.'"
+  },
+  {
+   "id": "stappenplan",
+   "ernst": "twijfel",
+   "reden": "Stap 1, punt 3: 'er staat al een hulpwerkwoord (hebben, zijn of worden) en het werkwoord staat achteraan? Dan is het een voltooid deelwoord.' Dit gaat mis bij 'Ik heb moeten werken', 'Hij is gaan zwemmen', 'Ik heb het laten maken' (hulpwerkwoord + infinitief), en in een bijzin staat het voltooid deelwoord vaak niet achteraan ('omdat ik het gemaakt heb'). Voorstel: 'meestal' toevoegen, of 'het werkwoord staat aan het eind van de zin of vlak bij het hulpwerkwoord'."
+  },
+  {
+   "id": "stappenplan",
+   "ernst": "twijfel",
+   "reden": "Stap 3, punt 'Voltooid deelwoord, sterk werkwoord: vaak ge + ... + en, met een andere klinker (gelopen, geschreven)'. Bij gelopen is de klinker dezelfde als in lopen; het voorbeeld spreekt de regel tegen. Voorstel: 'soms met een andere klinker (gelopen, geschreven, gebroken)'."
+  },
+  {
+   "id": "stappenplan",
+   "ernst": "twijfel",
+   "reden": "Stap 3, punt 'Voltooid deelwoord bij een zelfstandig naamwoord': geen -e alleen 'bij een het-woord met een, geen of zo'n ervoor'. Bij een het-woord zonder lidwoord of met veel/elk/welk/ieder krijg je ook geen -e (gekookt water, veel gebakken brood, elk gemaakt werkstuk). Wie de regel letterlijk volgt, schrijft 'gekookte water'. Dit geldt ook voor bvd-een-het, bvd-e en od-een-het."
+  },
+  {
+   "id": "stappenplan",
+   "ernst": "stijl",
+   "reden": "Inconsistent tussen onderdelen: stap 3 punt 'Onvoltooid deelwoord' noemt alleen 'een' (een lachend kind), terwijl regel od-een-het 'een, geen of zo'n' noemt. Bij 't kofschip noemt het stappenplan 'en ook x', maar de regelkaarten vt-te en vd-t noemen geen x. Stap 1 punt 4 noemt 'laten' en 'om te' niet, de regelkaart inf wel. Gelijk trekken."
+  },
+  {
+   "id": "stappenplan",
+   "ernst": "stijl",
+   "reden": "Stap 3, laatste punt: 'Ook sj (crashen) telt als een klank van 't kofschip.' De regelkaarten vt-leen-klank en vd-leen-klank zeggen juist 'een andere stemloze klank zoals sj', dus níet een klank van 't kofschip. Kies één formulering; de regelkaart-versie is preciezer."
+  },
+  {
+   "id": "stappenplan",
+   "ernst": "stijl",
+   "reden": "Hint 2 bij alle vragen nummert 'Stap 1/2/3', maar die stappen komen niet overeen met de stappen van het stappenplan (stappenplan: 1 = welke vorm, 2 = stam, 3 = regel; hint 2 bij tt: 1 = onderwerp, 2 = enkelvoud/meervoud, 3 = stam en t; bij vt: 2 = -te/-de, 3 = stam). Voor een leerling die met het stappenplan oefent is dat verwarrend. Andere woorden gebruiken in de hints ('Vraag 1, 2, 3' of zonder nummers) of de nummering gelijk maken."
+  },
+  {
+   "id": "tt-u-inversie",
+   "ernst": "twijfel",
+   "reden": "'Een paar werkwoorden doen anders (u mag, u kunt, u zult)': 'u kunt' en 'u zult' eindigen wél op een t. Ze wijken alleen af omdat de stam anders is (ik kan, ik zal). Een leerling kan nu denken dat 'u kun' goed is. Beter: 'Een paar werkwoorden zijn onregelmatig: u mag, u kunt, u zult, u bent.'"
+  },
+  {
+   "id": "tt-je-bezit",
+   "ernst": "stijl",
+   "reden": "'Dan is het onderwerp het woord erna (je fiets, je zus)'. Het onderwerp is 'je fiets' (de hele woordgroep), zoals de uitleg bij tt-059 ook zegt. Beter: 'Dan is het onderwerp je + het woord erna (je fiets, je zus).'"
+  },
+  {
+   "id": "vt-te",
+   "ernst": "stijl",
+   "reden": "De regel 'zit de laatste letter van de stam in 't kofschip? Dan stam + te' geeft bij leven/reizen (stam leef, reis) letterlijk 'leefte, reiste'. De uitzondering staat wel op een aparte kaart (vt-vz), maar hier staat geen verwijzing. Toevoegen: 'Let op: eindigt het hele werkwoord op -ven of -zen, kijk dan naar de v of z.' Zelfde voor vd-t."
+  },
+  {
+   "id": "vt-leen-klank",
+   "ernst": "twijfel",
+   "reden": "Bij crashen (eng-013) wordt 'stemloos' uitgelegd als 'je kunt hem fluisteren zonder je stem'. Elke klank kun je fluisteren, ook m of v; dat is dus geen goede toets. Beter: 'je stembanden trillen niet (leg je hand op je keel)'."
+  },
+  {
+   "id": "vd-007",
+   "ernst": "fout",
+   "reden": "Uitleg bij 'gezed': 'Die blijft staan, ook al hoor je een d.' Aan het eind van gezed/gezet hoor je een t, geen d. De zin klopt dus niet. Voorstel: 'De stam zet eindigt al op een t. Er komt niets meer achter, ook geen d.'"
+  },
+  {
+   "id": "eng-011",
+   "ernst": "fout",
+   "reden": "Uitleg bij 'geprind': 'Die blijft staan, ook al hoor je een d.' Je hoort aan het eind een t, geen d. Voorstel: 'De stam print eindigt al op een t. Er komt niets meer achter.'"
+  },
+  {
+   "id": "vt-069",
+   "ernst": "fout",
+   "reden": "Sleutel niet eenduidig: 'Op het feest van zaterdag ___ we tot diep in de nacht.' 'zaterdag' kan ook aanstaande zaterdag zijn: 'Op het feest van zaterdag dansen we tot diep in de nacht' is een goede zin. De uitleg bij 'dansen' ('Let op zaterdag: het gebeurde in het verleden') klopt dan niet. Voorstel: 'Op het feest van afgelopen zaterdag ...' of 'vorige week zaterdag'."
+  },
+  {
+   "id": "bvd-024",
+   "ernst": "twijfel",
+   "reden": "kopen is onregelmatig. Stap 2 zegt 'De stam: ik koop' en hint 2 zegt 'Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Wie dat volgt, komt op 'gekoopt'. In de uitleg en hint 2 noemen dat gekocht een vorm is die je los leert (zoals bij vd-024)."
+  },
+  {
+   "id": "bvd-011",
+   "ernst": "twijfel",
+   "reden": "Hint 2 stap 3: 'Let op het woordje ervoor (de, het, een).' Voor 'amandelen' staat 'een zakje' (een + het-woord). Wie de regel 'een + het-woord: geen -e' letterlijk toepast, kan in de war raken. Het deelwoord hoort bij 'amandelen' (meervoud, zonder lidwoord). Hint aanpassen: 'Bij welk woord hoort het? Is dat meervoud?'"
+  },
+  {
+   "id": "od-020",
+   "ernst": "stijl",
+   "reden": "Hint 2 stap 3: 'Let op het woordje ervoor (de, het, een)'. Voor 'werkende moeders' staat 'Het aantal'; dat 'het' hoort bij 'aantal', niet bij 'moeders'. Kan verwarren (al leidt het hier toevallig naar -e). Hint aanpassen: 'Is moeders enkelvoud of meervoud?'"
+  },
+  {
+   "id": "vd-076",
+   "ernst": "stijl",
+   "reden": "Stap 2: 'De stam: luk (het hele werkwoord min -en).' lukken min -en is 'lukk'; daarna wordt de dubbele k enkel. Toevoegen: '(lukken min -en, en dan één k)'."
+  },
+  {
+   "id": "inf-022",
+   "ernst": "stijl",
+   "reden": "Uitleg bij 'verwacht': 'verwacht is een persoonsvorm.' verwacht is ook het voltooid deelwoord (ik heb het verwacht). Vollediger: 'verwacht is een persoonsvorm of een voltooid deelwoord.'"
+  },
+  {
+   "id": "eng-038",
+   "ernst": "stijl",
+   "reden": "Uitleg bij 'Maild': 'jij staat achter het werkwoord' terwijl in de zin 'je' staat. Beter: 'je staat achter het werkwoord'."
+  },
+  {
+   "id": "vt-026",
+   "ernst": "stijl",
+   "reden": "Uitleg bij 'wachtden': 'Die zit in 't kofschip, dus -te.' Het onderwerp is meervoud; beter '-te, en bij meervoud -ten'. Bij 'wachten': ook het hele werkwoord, niet alleen tegenwoordige tijd (klopt wel, maar kan aangevuld)."
+  },
+  {
+   "id": "vt-044",
+   "ernst": "stijl",
+   "reden": "'In de verleden tijd komt er bij jij geen extra t bij' (dubbel 'bij'). Beter: 'In de verleden tijd krijgt jij geen extra t.' Zelfde formulering in 'Onthoud' en elders bij vt-sterk-jij."
+  },
+  {
+   "id": "tt-040",
+   "ernst": "stijl",
+   "reden": "'Het kleine meisje durft nog niet van de hoge duikplank.' Spreektalig, er mist eigenlijk 'te springen'. Voor een toetszin liever volledig: '... durft nog niet van de hoge duikplank te springen.'"
+  },
+  {
+   "id": "gw-034",
+   "ernst": "stijl",
+   "reden": "'Kies zelf maar naar welke film we kijken.' Grammaticaal te volgen, maar wat stroef. Natuurlijker: 'Kies zelf maar welke film we gaan kijken.'"
+  },
+  {
+   "id": "vd-008",
+   "ernst": "fout",
+   "reden": "Uitleg bij 'gepraad': 'Die blijft staan, ook al hoor je een d.' Aan het eind hoor je een t, geen d (zelfde sjabloonfout als bij vd-007 en eng-011). Voorstel: 'De stam praat eindigt al op een t. Er komt niets meer achter.' Controleer het sjabloon voor alle vd-stam-td-vragen met een stam op t."
+  },
+  {
+   "id": "vt-vz",
+   "ernst": "twijfel",
+   "reden": "De regel noemt niet dat hij alleen voor zwakke werkwoorden geldt: 'Eindigt het hele werkwoord op -ven of -zen? ... dus -de.' Letterlijk toegepast op geven, schrijven, blijven, lezen, kiezen geeft dat 'geefde, schrijfde, leesde, kiesde'. Ook 'Onthoud: Eindigt het hele werkwoord op -ven of -zen? Dan -de.' mist dit. Toevoegen: 'Bij een zwak werkwoord: ...'."
+  },
+  {
+   "id": "vd-vz",
+   "ernst": "twijfel",
+   "reden": "Zelfde punt als vt-vz: 'dus het voltooid deelwoord eindigt op een d' geldt niet voor sterke werkwoorden (gegeven, geschreven, gebleven, gelezen). Toevoegen: 'bij een zwak werkwoord'. Ook in 'Onthoud' bij vd-035."
+  },
+  {
+   "id": "vd-leen-klank",
+   "ernst": "stijl",
+   "reden": "Beide voorbeelden (geracet, gecrasht) eindigen op t. Daardoor krijgen de d-vragen (eng-031 gesaved, eng-018 getimed, eng-036 gerecycled) in hint 3 een voorbeeld met de andere uitkomst. Voeg een d-voorbeeld toe (getimed, gesaved) en kies in hint 3 het voorbeeld dat bij de vraag past."
+  },
+  {
+   "id": "bvd-e",
+   "ernst": "twijfel",
+   "reden": "Het voorbeeld 'de geverfde muur' staat in hint 3 van bijna alle bvd-vragen. verven heeft stam verf; met de f van 't kofschip zou je geverft verwachten. De d komt van de -ven-regel, maar dat staat hier nergens. Wie de regel letterlijk volgt, kan juist hierdoor in de war raken. Kies een eenvoudiger voorbeeld (de gemaakte afspraak) of noem de -ven-regel erbij."
+  },
+  {
+   "id": "bvd-006",
+   "ernst": "twijfel",
+   "reden": "geverfde: hint 2 zegt 'Denk aan ge + stam + t of d'. De stam is verf, en f zit in 't kofschip. Wie dat volgt, komt op 'geverfte' (een van de opties). De uitleg bij 'geverfte' ('Dat eindigt op een d, en die blijft staan') legt niet uit wáárom het een d is. Toevoegen: 'verven eindigt op -ven; kijk naar de v, die zit niet in 't kofschip, dus geverfd'."
+  },
+  {
+   "id": "bvd-033",
+   "ernst": "stijl",
+   "reden": "beloofde: zelfde punt als bvd-006. beloven eindigt op -ven (stam beloof, f in 't kofschip). De uitleg zegt alleen 'Het voltooid deelwoord is beloofd'. Eén zin over de -ven-regel helpt."
+  },
+  {
+   "id": "bvd-023",
+   "ernst": "twijfel",
+   "reden": "verkopen is onregelmatig (verkocht), maar hint 2 zegt 'Denk aan ge + stam + t of d, of -en bij een sterk werkwoord' en stap 2 noemt alleen 'ik verkoop'. Dat leidt naar 'verkoopt'. Noem in uitleg en hint dat je verkocht los leert (zoals bij vd-027). Zelfde punt als bvd-024."
+  },
+  {
+   "id": "vt-022",
+   "ernst": "twijfel",
+   "reden": "Stap 1 en hint 2 wijzen op 'Op haar verjaardag' als teken van verleden tijd. Dat woord zegt niets over de tijd ('Op haar verjaardag bloost mijn zus altijd' kan ook). Het teken is 'toen ... ging'. Hint en stap 1 aanpassen: 'Let op toen ... ging'."
+  },
+  {
+   "id": "eng-004",
+   "ernst": "stijl",
+   "reden": "'Vannacht' kan ook de komende nacht zijn ('Vannacht updatet mijn laptop zichzelf'). Omdat er geen tegenwoordige-tijdsvorm in de opties staat, blijft de sleutel wel de enige keuze, maar stap 1 ('dat zie je aan Vannacht') is niet sterk. 'Afgelopen nacht' is eenduidiger."
+  },
+  {
+   "id": "vd-014",
+   "ernst": "stijl",
+   "reden": "Uitleg bij 'opgebelt': 'het voltooid deelwoord van opbellen is opgebeld. Dat eindigt op een d.' Legt niet uit waarom. Toevoegen: 'De laatste letter van de stam (l) zit niet in 't kofschip, dus een d.'"
+  },
+  {
+   "id": "tt-035",
+   "ernst": "stijl",
+   "reden": "Uitleg bij 'Fietsd': 'jij staat achter het werkwoord' terwijl in de zin 'je' staat (zelfde als eng-038)."
+  },
+  {
+   "id": "od-029",
+   "ernst": "stijl",
+   "reden": "'Bij de lopende band staat de eerste groep al klaar.' De zin is wat vaag (welke groep, welke band?). 'lopende band' is bovendien een vaste combinatie. Een duidelijkere zin helpt: 'Bij de lopende band in de fabriek staan de medewerkers al klaar.'"
+  },
+  {
+   "id": "gw-d",
+   "ernst": "stijl",
+   "reden": "'Een gebiedende wijs is alleen de stam, zonder t.' Dat botst letterlijk met kaart gw ('Eindigt de stam op t, dan staat die t er gewoon: Zet'). Beter: 'zonder extra t'."
+  },
+  {
+   "id": "gw",
+   "ernst": "stijl",
+   "reden": "Geen vermelding dat een gebiedende wijs met u wél een t krijgt (Komt u binnen, Gaat u zitten). Wie de regel letterlijk volgt, schrijft 'Kom u binnen'. Eén zin toevoegen."
+  },
+  {
+   "id": "stappenplan",
+   "ernst": "twijfel",
+   "reden": "Stap 1, laatste punt: 'Is het een opdracht of een verzoek (Pak je jas.)? Dan is het een gebiedende wijs.' Een verzoek kan ook een vraag met onderwerp zijn: 'Mail je me het rooster nog even?' (eng-038) of 'Geeft u mij het zout even?' Daar is het een persoonsvorm (bij u dus met t). Beter: 'Is het een opdracht zonder onderwerp (geen jij, je of u erbij)?' Het voorbeeld 'Pak je jas' bevat bovendien 'je' (= jouw), wat met de jij/je-regel kan verwarren."
+  }
+ ],
+ "algemeen": [
+  "Sjabloonfout bij voltooid deelwoord met stam op t: de uitleg zegt 'ook al hoor je een d' (vd-007 gezed, eng-011 geprind, vd-008 gepraad). Aan het eind van een woord hoor je altijd een t. Bij stam op d (geleit, gelant, geret, geantwoort, gedownloat) klopt 'ook al hoor je een t' wel. Het sjabloon voor de t-stam aanpassen.",
+  "De meervoudsregel bij sterke werkwoorden ('+ en, soms een dubbele medeklinker') staat in stappenplan, regelkaart vt-sterk, hint 2 en hint 3 van alle vt-sterk-vragen. Hij klopt niet voor schreef-schreven, gaf-gaven, las-lazen, koos-kozen. Dit is het belangrijkste inhoudelijke punt.",
+  "De regels voor -ven/-zen (vt-vz, vd-vz) zeggen nergens 'bij een zwak werkwoord'. Omgekeerd verwijzen vt-te/vd-t en hint 2 bij bvd ('ge + stam + t of d') niet naar de -ven/-zen-uitzondering. Bij geverfde, beloofde en verwarmd kan de leerling daardoor de verkeerde kant op gestuurd worden.",
+  "Onregelmatige werkwoorden in bvd-vragen (gekochte, verkochte): stap 2 geeft 'ik koop/verkoop' en hint 2 'ge + stam + t of d, of -en'. Dat leidt naar gekoopt. Bij vd-024/vd-027 wordt het wel goed uitgelegd ('leer je los'); dat ook bij bvd doen.",
+  "Hint 2 nummert 'Stap 1/2/3', maar die stappen zijn niet dezelfde als in het stappenplan (daar: 1 vorm, 2 stam, 3 regel). Voor iemand die het stappenplan net heeft geleerd is dat verwarrend.",
+  "Hint 2 bij alle zwakke vt-vragen: 'Stap 2: Hoort er -te of -de achter? Dan is het een zwak werkwoord.' Dat is een cirkel: of er -te of -de achter hoort, is juist wat de leerling zoekt. Beter, net als bij sterk: 'Zeg: gisteren … ik. Hoor je -te of -de? Dan is het een zwak werkwoord.'",
+  "Hint 1 is bij alle 303 vragen precies gelijk ('Welke vorm of tijd is dit? Let op de woorden om de open plek heen.'). Dat is rustig, maar helpt weinig. Overweeg in hint 1 al het signaalwoord te noemen (zoals hint 2 nu doet), of hint 1 te laten vervallen.",
+  "Tijdsignaal: stap 1 en hint 2 wijzen soms op een woord dat de tijd niet vastlegt ('zaterdag' in vt-069, 'Op haar verjaardag' in vt-022, 'Vannacht' in eng-004). Bij vt-069 maakt dat de sleutel niet eenduidig. Gebruik 'afgelopen zaterdag', 'vorige week', 'gisteren'.",
+  "Hint 2 bij od/bvd: 'Let op het woordje ervoor (de, het, een)'. Bij 'een zakje gebrande amandelen' (bvd-011) en 'Het aantal werkende moeders' (od-020) hoort dat woordje bij een ander zelfstandig naamwoord. Beter: 'Bij welk woord hoort het? Is dat een het-woord met een ervoor?'",
+  "Stemloos wordt uitgelegd als 'je kunt hem fluisteren zonder je stem' (eng-013, eng-030, eng-014, eng-044). Elke klank kun je fluisteren; dat is geen goede toets. Beter: 'je stembanden trillen niet (voel aan je keel)'. Het stappenplan zegt bovendien 'sj telt als een klank van 't kofschip' en de regelkaart zegt 'een andere stemloze klank zoals sj': één formulering kiezen.",
+  "Weergave: in de lijst staat steeds 'Bij X: X: ...' (het foute antwoord twee keer). Controleer of dat ook in de app zo te zien is; zo ja, één keer weghalen.",
+  "Toon: overal rustig en zonder 'fout' of 'verkeerd'. De zin 'dit is een bekende instinker' (9 keer) kan voor iemand met faalangst klinken als 'je bent erin getrapt'. Rustiger: 'Deze vorm lijkt logisch, maar ...' of 'Veel mensen kiezen deze vorm. Toch ...'.",
+  "Gebiedende wijs, uitleg bij de stam + t-optie: 'Kleedt is de vorm voor hij of zij.' Het is ook de vorm voor u en voor jij vóór het werkwoord. Vollediger: 'Kleedt is de vorm voor hij, zij, u (of jij ervoor).'",
+  "Sleutels gecontroleerd tegen het Groene Boekje voor de Engelse werkwoorden: gesaved, geliket, getimed/timede, geüpdatet/geüpdatete, updatete, gedeletet, gerecycled, racete/geracet, skatete/geskatet, crashte/gecrasht, smashte, lunchten, jogde, scande, chatte, postte, uploadde/uploadt, gedownload(e), gegoogeld/googelt, gemaild, geshopt, gehackt, geprint/printte, gecoacht, zapt: alle in orde.",
+  "Buiten de gemarkeerde punten zijn de sleutels eenduidig, de zinnen natuurlijk en de uitleg bij foute antwoorden past bij de fout die iemand echt maakt."
+ ]
+}
