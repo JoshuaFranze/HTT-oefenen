@@ -28,7 +28,7 @@
   {"id": "od-026", "ww": "rennen", "slot": "od.kaal", "zin": "___ haalde ze de bus nog net."},
   {"id": "od-027", "ww": "zwemmen", "slot": "od.kaal", "zin": "Op de foto zie je een ___ hert in het meer.", "sleutel": "hert", "eenHet": true},
   {"id": "od-028", "ww": "spelen", "slot": "od.kaal", "zin": "Ik zag een ___ kind in de zandbak.", "sleutel": "kind", "eenHet": true},
-  {"id": "od-029", "ww": "lopen", "slot": "od.e", "zin": "Bij de ___ band staat de eerste groep al klaar.", "sleutel": "band"},
+  {"id": "od-029", "ww": "lopen", "slot": "od.e", "zin": "Bij de ___ band in de fabriek staan de medewerkers al klaar.", "sleutel": "band"},
   {"id": "od-030", "ww": "huilen", "slot": "od.e", "zin": "De ___ peuter wilde alleen naar zijn moeder.", "sleutel": "peuter"},
   {"id": "od-031", "ww": "fluiten", "slot": "od.e", "zin": "Ik werd wakker van de ___ ketel in de keuken.", "sleutel": "ketel"},
   {"id": "od-032", "ww": "hangen", "slot": "od.e", "zin": "Pas op voor de ___ takken boven het pad.", "sleutel": "takken"},

@@ -39,7 +39,7 @@
   {"id": "tt-037", "ww": "leven", "slot": "tt.hij", "zin": "Een olifant ___ soms wel zeventig jaar.", "sleutel": "Een olifant"},
   {"id": "tt-038", "ww": "reizen", "slot": "tt.jij.voor", "zin": "Jij ___ deze zomer toch naar Portugal?", "sleutel": "Jij"},
   {"id": "tt-039", "ww": "kiezen", "slot": "tt.hij", "zin": "Mijn vriend ___ altijd hetzelfde gerecht bij de Italiaan.", "sleutel": "Mijn vriend"},
-  {"id": "tt-040", "ww": "durven", "slot": "tt.hij", "zin": "Het kleine meisje ___ nog niet van de hoge duikplank.", "sleutel": "Het kleine meisje"},
+  {"id": "tt-040", "ww": "durven", "slot": "tt.hij", "zin": "Het kleine meisje ___ nog niet van de hoge duikplank te springen.", "sleutel": "Het kleine meisje"},
   {"id": "tt-041", "ww": "horen", "slot": "tt.jij.na", "zin": "___ jij die vogel ook fluiten?", "sleutel": "jij"},
   {"id": "tt-042", "ww": "maken", "slot": "tt.jij.na", "zin": "Wanneer ___ je die afspraak bij de tandarts?", "sleutel": "je"},
   {"id": "tt-043", "ww": "vinden", "slot": "tt.hij", "zin": "___ je moeder het goed als je bij ons blijft eten?", "sleutel": "je moeder", "jeBezit": true},

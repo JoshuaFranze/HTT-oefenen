@@ -1,0 +1,501 @@
+{
+ "regelkaarten": [
+  {
+   "regel": "tt-inversie",
+   "ernst": "fout",
+   "reden": "De zin 'Staat jij of je achter het werkwoord? Dan komt er geen t bij' noemt niet dat jij/je het ONDERWERP moet zijn. Letterlijk toegepast gaat het mis bij je als lijdend/meewerkend voorwerp of wederkerend: 'Hij vind je aardig', 'Ze bel je morgen', en in deze toets zelf tt-015 'Jij meld je morgen' (correct: meldt). Voorstel: 'Is jij of je het onderwerp en staat het direct achter de persoonsvorm? Dan geen t.'"
+  },
+  {
+   "regel": "tt-inversie-d",
+   "ernst": "fout",
+   "reden": "Zelfde gebrek als tt-inversie: zonder 'als jij/je het onderwerp is' leidt de regel tot 'Mijn moeder vind je lief', 'Hij antwoord je morgen', 'Jij meld je'. Toevoegen: alleen als jij/je het onderwerp is."
+  },
+  {
+   "regel": "tt-u-inversie",
+   "ernst": "fout",
+   "reden": "'Bij u komt er een t achter de stam, ook als u achter het werkwoord staat' geldt alleen als u het ONDERWERP is. Letterlijk: 'Ik vindt u erg aardig', 'Wij wenst u veel plezier', 'Ik bedankt u'. Toevoegen: 'als u het onderwerp is'. Rijtje uitzonderingen evt. aanvullen met u bent, u hebt/heeft."
+  },
+  {
+   "regel": "vt-sterk",
+   "ernst": "fout",
+   "reden": "'Meervoud: + en (… soms met een dubbele medeklinker)' is letterlijk onjuist bij veel gewone sterke werkwoorden: schreef > schreefen, bleef > bleefen, gaf > gafen, las > lasen, koos > koosen, keek > keeken, verloor > verlooren. Correct: -en erachter en dan de gewone spellingregels (f>v, s>z, lange klinker in open lettergreep enkel: schreven, lazen, kozen, keken; korte klinker: medeklinker dubbel: wonnen). Zelfde tekst staat in stappenplan stap 3 en in de Hint 2-sjabloon van alle vt-sterk-vragen."
+  },
+  {
+   "regel": "vt-stam-d",
+   "ernst": "fout",
+   "reden": "Er staat niet bij dat het om een ZWAK werkwoord gaat. Letterlijk: worden > wordde, vinden > vindde, rijden > rijdde, houden > houdde, snijden, bieden, lijden. De zusterkaarten vt-te/vt-de zeggen wel 'zwak werkwoord'. Voorstel: 'Zwak werkwoord met een stam op d? Dan stam + de: dd.'"
+  },
+  {
+   "regel": "vt-stam-t",
+   "ernst": "fout",
+   "reden": "Zelfde gebrek: 'zwak' ontbreekt. Letterlijk: laten > laatte, eten > eette, zitten > zitte, vechten > vechtte, bijten, schieten, sluiten, vergeten. Toevoegen: 'Zwak werkwoord met een stam op t'."
+  },
+  {
+   "regel": "vd-stam-td",
+   "ernst": "fout",
+   "reden": "'Eindigt de stam al op t of d? Dan komt er niets meer achter' zonder 'zwak werkwoord'. Letterlijk: vinden > gevind, rijden > gerijd, laten > gelaat, zitten > gezit, eten > geëet, snijden > gesnijd. Toevoegen: 'Bij een zwak werkwoord'. Bovendien staat ge- niet in de formulering (wel in de voorbeelden)."
+  },
+  {
+   "regel": "bvd-stam-t",
+   "ernst": "fout",
+   "reden": "'Eindigt het vd al op een t? Dan geen tweede t, alleen een -e' botst met bvd-spelling. Letterlijk: gezet > gezete (moet gezette), gepraat > gepraate (moet geprate, zie vd-008), gehaat > gehaate (moet gehate). Bedoeld is: er komt geen extra t-uitgang bij (verwacht + e = verwachte, niet verwachtte; dat is de vt). Voorstel: 'Zet alleen -e achter het vd, geen extra t. Pas daarna de gewone spelling toe (verwachte, maar gezette, geprate).'"
+  },
+  {
+   "regel": "vt-te",
+   "ernst": "twijfel",
+   "reden": "(1) 'laatste letter van de stam ... (t, k, f, s, ch, p)': ch zijn twee letters. Letterlijk is de laatste letter van lach/juich/kuch een h, en dan krijg je lachde. Beter: 'Eindigt de stam op t, k, f, s, ch of p?' (2) x staat in het stappenplan wel, op deze kaart niet (faxen > faxte, mixen > mixte). (3) De kaart verschijnt los als Hint 3 en waarschuwt niet voor -ven/-zen: reizen, stam reis, laatste letter s, wordt dan reiste. Korte verwijzing toevoegen. (4) Klein punt: meervoud (+ten) staat niet op de kaart."
+  },
+  {
+   "regel": "vt-de",
+   "ernst": "twijfel",
+   "reden": "Spiegelbeeld van vt-te: letterlijk eindigt lach op een h (niet in 't kofschip) en dan krijg je lachde. Bij crashen (laatste letter h) ook crashde. Formuleren als 'eindigt de stam op t, k, f, s, ch of p … anders -de' en verwijzen naar de Engelse regel."
+  },
+  {
+   "regel": "vd-t",
+   "ernst": "twijfel",
+   "reden": "Zelfde als vt-te: 'laatste letter' bij ch (gelacht, gejuicht), x ontbreekt, en geen waarschuwing voor -ven/-zen (letterlijk: gereist, geleeft)."
+  },
+  {
+   "regel": "vd-d",
+   "ernst": "twijfel",
+   "reden": "Zelfde als vt-de: letterlijk geeft de laatste letter h bij lach een d (gelachd), en bij crash ook (gecrashd)."
+  },
+  {
+   "regel": "vt-leen-klank",
+   "ernst": "twijfel",
+   "reden": "(1) 'De stam is het hele werkwoord min -en of -n; een e blijft staan' zegt niet wanneer je -en en wanneer je -n weghaalt. Letterlijk kan crashen > crashe of skypen > skyp. Duidelijker: 'De stam is het Engelse woord zoals je het in het Engels schrijft (race, update, time, crash).' (2) 'Je kijkt naar de laatste klank die je hoort' met in de hints 'aan het eind van de stam': een Nederlander spreekt de stam los met verscherping uit (save klinkt als [seef], jog als [djok], cruise als [kroes]). Dat geeft savete, jogte, cruisete. Laat net als bij -ven/-zen luisteren naar de klank in het hele werkwoord (sa-ven: v, jog-gen: g). Voorbeelden en de rest kloppen (racete, crashte, timede)."
+  },
+  {
+   "regel": "vd-leen-klank",
+   "ernst": "twijfel",
+   "reden": "Zelfde twee punten als vt-leen-klank: onduidelijk wanneer -en en wanneer -n eraf gaat, en de 'laatste klank' van de losse stam wordt verscherpt (gesaved > gesavet, gejogd > gejogt). Laat luisteren naar de klank in het hele werkwoord. Voorbeelden geracet en gecrasht kloppen."
+  },
+  {
+   "regel": "od-e",
+   "ernst": "twijfel",
+   "reden": "Deze kaart verschijnt los als Hint 3 en noemt de uitzondering niet. Letterlijk: 'een huilende kind'. Toevoegen: 'behalve bij een, geen of zo'n + het-woord (een huilend kind)'."
+  },
+  {
+   "regel": "od-een-het",
+   "ernst": "twijfel",
+   "reden": "Niet compleet. Ook zonder lidwoord bij een het-woord in het enkelvoud komt er geen -e (stromend water, kokend water), en ook niet na elk, ieder, welk, veel en weinig (elk huilend kind). Letterlijk kan iemand 'Pas op voor kokende water' maken."
+  },
+  {
+   "regel": "bvd-een-het",
+   "ernst": "twijfel",
+   "reden": "Zelfde aanvulling als od-een-het: geen -e ook zonder lidwoord (gekookt water, vers geperst sap) en na elk, ieder, welk, veel (elk gekookt ei)."
+  },
+  {
+   "regel": "bvd-e",
+   "ernst": "twijfel",
+   "reden": "Uitzondering alleen 'bij een + het-woord'. Stappenplan en bvd-een-het noemen 'een, geen of zo'n', dus de kaarten zijn niet gelijk. Ook hier ontbreekt 'zonder lidwoord' (gekookt water). Maak de tekst gelijk aan bvd-een-het."
+  },
+  {
+   "regel": "inf",
+   "ernst": "twijfel",
+   "reden": "'Na willen, moeten, kunnen … komt het hele werkwoord' geeft letterlijk een fout als er nog hebben, zijn of worden achter staat: 'Het huis moet nog geverfd worden', 'Dit kan gerepareerd worden', 'Hij wil het af hebben'. Dan zou je verven/repareren kiezen. Toevoegen: 'Staat er achteraan nog hebben, zijn of worden? Dan is het werkwoord ervoor een voltooid deelwoord.'"
+  },
+  {
+   "regel": "tt-t",
+   "ernst": "stijl",
+   "reden": "De regel noemt alleen voornaamwoorden, maar de voorbeeldzin is 'Mijn broer werkt'. Voeg 'of een ander enkelvoudig onderwerp (mijn broer, de trein)' toe, en zet je naast jij."
+  },
+  {
+   "regel": "tt-dt",
+   "ernst": "stijl",
+   "reden": "'zij' kan meervoud zijn (zij vinden). tt-t zegt 'zij (één persoon)', deze kaart niet. Maak dat gelijk."
+  },
+  {
+   "regel": "tt-je-bezit",
+   "ernst": "stijl",
+   "reden": "'Dan is het onderwerp het woord erna' is niet precies: het onderwerp is 'je fiets' / 'je zus' (je + het woord erna). De uitkomst klopt wel."
+  },
+  {
+   "regel": "gw-d",
+   "ernst": "stijl",
+   "reden": "'alleen de stam, zonder t' botst schijnbaar met kaart gw ('eindigt de stam op t, dan staat die t er gewoon: Zet'). Schrijf 'zonder extra t'."
+  },
+  {
+   "regel": "vd-geen-ge",
+   "ernst": "stijl",
+   "reden": "De regel klopt (Taalunie: onbeklemtoonde voorvoegsels be-, ge-, her-, er-, ont-, ver-; let-op verven/geven/beven is goed). Geen enkele kaart dekt echter de onscheidbare samenstellingen zonder zo'n voorvoegsel (voorspellen > voorspeld, overleggen > overlegd, ondernemen > ondernomen, onderzoeken > onderzocht, mislukken > mislukt). Zie stappenplan."
+  },
+  {
+   "regel": "vd-gemengd",
+   "ernst": "stijl",
+   "reden": "Klopt (lachen/lachte/gelachen, vouwen/vouwde/gevouwen). Het omgekeerde type ontbreekt nergens anders: vt sterk, vd zwak (vragen/vroeg/gevraagd, jagen/joeg/gejaagd, zeggen/zei/gezegd, waaien/woei/gewaaid). Met de 'gisteren … ik'-toets wordt vragen sterk en dan gevragen. Zie stappenplan."
+  },
+  {
+   "regel": "vd-sterk",
+   "ernst": "stijl",
+   "reden": "ge- staat niet in de regeltekst (alleen in de voorbeelden). 'Ge + … + en' maakt het compleet."
+  }
+ ],
+ "stappenplan": [
+  {
+   "ernst": "fout",
+   "reden": "Stap 3 (tegenwoordige tijd) en stap 1: 'Staat jij of je achter het werkwoord? Dan komt er geen t bij. Bij u komt er wel een t, ook als u achteraan staat.' Dit geldt alleen als jij/je/u het onderwerp is. Letterlijk gaat het mis bij 'Hij vind je aardig', 'Jij meld je morgen' (tt-015) en 'Ik vindt u aardig'. Toevoegen: 'als het onderwerp'."
+  },
+  {
+   "ernst": "fout",
+   "reden": "Stap 1: 'Geen persoonsvorm, er staat al een hulpwerkwoord (hebben, zijn of worden) en het werkwoord staat achteraan? Dan is het een voltooid deelwoord.' Letterlijk fout bij de vervangende infinitief en bij aan het + infinitief: 'Ik heb hem horen zingen', 'Ik heb niet kunnen komen', 'Ze is gaan zwemmen', 'Hij is aan het werken' (je zou gezongen/gekund/gezwommen schrijven). Omgekeerd gaat de modaal-regel mis bij 'Het moet nog geverfd worden', waar het hulpwerkwoord achter het vd staat. Voorstel: neem de bekende vervangtruc op als beslisstap. Vervang het werkwoord door een sterk werkwoord (lopen/liep/gelopen, schrijven/geschreven): 'Ik heb hem horen ...' > zingen; 'Het moet nog ... worden' > geschreven, dus vd. Dat lost ook de lastigste verwarring op (verhuist/verhuisd, gebeurt/gebeurd, verwachte/verwachtte)."
+  },
+  {
+   "ernst": "fout",
+   "reden": "Stap 3 (vt sterk): 'Meervoud: + en (liepen; soms met een dubbele medeklinker: won, wonnen)'. Letterlijk krijg je schreefen, bleefen, gafen, lasen, koosen, keeken. Aanvullen: f>v, s>z, en een lange klinker in een open lettergreep enkel (schreven, gaven, lazen, kozen, keken)."
+  },
+  {
+   "ernst": "fout",
+   "reden": "Stap 3 (vd, ge-): alleen 'be-, ge-, her-, er-, ont-, ver-' en 'scheidbaar' worden behandeld. Onscheidbare samengestelde werkwoorden met de klemtoon op het tweede deel krijgen ook geen ge- (voorspellen > voorspeld, overleggen > overlegd, ondernemen > ondernomen, onderzoeken > onderzocht, mislukken > mislukt, achterhalen > achterhaald). Letterlijk: niet in het rijtje, niet scheidbaar, dus 'gevoorspeld' en 'geoverlegd'. Toevoegen: 'Kun je het niet splitsen (ik voorspel, niet ik spel voor) en ligt de klemtoon niet vooraan? Dan ook geen ge-.' Eventueel ook het omgekeerde: stofzuigen, glimlachen en voetballen worden niet gesplitst maar krijgen ge- vooraan (gestofzuigd)."
+  },
+  {
+   "ernst": "twijfel",
+   "reden": "Stap 3 (vd sterk): 'vaak ge + ... + en, met een andere klinker (gelopen, geschreven)'. Het eigen voorbeeld gelopen heeft dezelfde klinker als lopen, net als geslapen, gegeven, gevallen en gelezen. Schrijf 'soms met een andere klinker'."
+  },
+  {
+   "ernst": "twijfel",
+   "reden": "Stap 3 (zwak of sterk via 'gisteren … ik'): voor het voltooid deelwoord is die toets niet betrouwbaar. Bij vragen/vroeg, jagen/joeg, zeggen/zei en waaien/woei verandert de klinker in de vt, maar het vd is zwak (gevraagd, gejaagd, gezegd, gewaaid). Letterlijk: gevragen. Voeg toe: 'Voor het vd: zeg ik heb ge… en luister of het op -en eindigt.'"
+  },
+  {
+   "ernst": "twijfel",
+   "reden": "Stap 3 (tegenwoordige tijd): 'stam + t' zonder de toevoeging 'eindigt de stam al op t, dan geen extra t' (zet, praat, eet; staat wel op kaart tt-stam-t). 'zij' staat in het enkelvoudrijtje zonder '(één persoon)'. Iemand, niemand, wat, dat en een enkelvoudig zelfstandig naamwoord als onderwerp worden niet genoemd."
+  },
+  {
+   "ernst": "twijfel",
+   "reden": "Stap 2 (Engels): 'de stam is het hele werkwoord min -en of -n. Een e blijft staan' geeft geen criterium voor -en of -n (crashen > crashe?). Stap 3 (Engels): 'je kijkt naar de laatste klank die je hoort'. De losse stam wordt door Nederlanders verscherpt uitgesproken (save als [seef], jog als [djok]), en dan krijg je savete/gesavet en jogte. Formuleer: 'De stam is het Engelse woord (race, update, crash). Luister naar de laatste medeklinker in het hele werkwoord (ra-cen: s, sa-ven: v, jog-gen: g). Is die stemloos? Dan -te/-t.'"
+  },
+  {
+   "ernst": "twijfel",
+   "reden": "Stap 2: 'Eindigt het hele werkwoord op -ven of -zen? In de stam wordt dat f of s' botst met Engelse werkwoorden op -ven/-zen (saven: stam save, niet saaf; cruisen: cruise). Voeg 'niet bij Engelse werkwoorden' toe of zet het Engelse punt eerst."
+  },
+  {
+   "ernst": "twijfel",
+   "reden": "Stap 2: 'Een lange aa, ee, oo of uu wordt in de stam dubbel geschreven' klopt alleen als er een medeklinker achter staat. Letterlijk: gaan > ik gaa, staan > ik staa, slaan > ik slaa. Toevoegen: 'als er nog een medeklinker achter komt (lopen, loop; maar gaan, ga)'."
+  },
+  {
+   "ernst": "twijfel",
+   "reden": "Stap 1/3 (bijvoeglijk vd/od): de -e-regels noemen alleen een/geen/zo'n + het-woord (bij het od-punt alleen 'een'). Ook zonder lidwoord (kokend water, gekookt water) en na elk, ieder, welk en veel komt er geen -e. Stem stappenplan, bvd-e, bvd-een-het en od-een-het op elkaar af."
+  },
+  {
+   "ernst": "twijfel",
+   "reden": "Stap 1 (gebiedende wijs) staat als laatste, na 'begin altijd met de persoonsvorm-test', alsof de gebiedende wijs geen persoonsvorm is. In de schoolgrammatica (ANS/Taalunie) is de gebiedende wijs juist een persoonsvorm, zonder onderwerp. Bij 'Kleed je warm' of 'Meld je ziek' kan de pv-test 'je' als onderwerp achter het werkwoord laten zien en zo naar tt-inversie leiden. De uitkomst is toevallig gelijk, maar benoeming en volgorde kloppen niet. Voorstel: als eerste vraag 'Is het een opdracht zonder onderwerp? Dan gebiedende wijs = stam.'"
+  },
+  {
+   "ernst": "stijl",
+   "reden": "Stap 1 (pv-test): 'zet hem in een andere tijd' werkt niet als iemand de voltooide tijd kiest (werkt > heeft gewerkt: dan verandert er meer). Specificeer 'tegenwoordige <-> verleden tijd' of voeg de getaltest toe (enkelvoud <-> meervoud). De vraagtest werkt niet in bijzinnen (… dat hij het verwacht): eerst de bijzin los maken."
+  },
+  {
+   "ernst": "stijl",
+   "reden": "Stap 1 (infinitief): het rijtje mist laten, dat kaart inf wel noemt. Ook komen, blijven, horen, zien en (hoeven) te zijn gewone gevallen."
+  },
+  {
+   "ernst": "stijl",
+   "reden": "Stap 3 ('t kofschip): 'laatste letter … ch' (ch zijn twee letters). 'en ook x' staat hier wel, op de kaarten vt-te en vd-t niet. 'Ook sj telt als een klank van 't kofschip' is wat anders dan de kaart ('een andere stemloze klank zoals sj'). Maak de benoeming gelijk: sj zit niet in 't kofschip, maar is wel stemloos."
+  },
+  {
+   "ernst": "stijl",
+   "reden": "De stapnummers lopen niet gelijk. In het stappenplan is stap 2 = stam en stap 3 = regel. In de uitleg staat bij inf/od 'Stap 2: De regel' en bij de rest 'Stap 3'. In Hint 2 is bij vt 'Stap 2: Hoort er -te of -de achter?' en bij vd 'Stap 3: kofschip'. Voor wie juist moeite heeft met 'welke regel hoort hierbij?' werkt één vaste nummering beter."
+  },
+  {
+   "ernst": "stijl",
+   "reden": "Het stappenplan maakt nergens expliciet de stap 'Klinkt het hetzelfde? Bepaal dan eerst de vorm' (verhuist/verhuisd, gebeurt/gebeurd, betaalt/betaald; vt verbrandde tegenover bvd verbrande, verwachtte tegenover verwachte). Dat is de kern van veel instinkers in deze toets. De uitleg bij de vragen doet het wel."
+  }
+ ],
+ "vragen": [
+  {
+   "id": "eng-013",
+   "ernst": "twijfel",
+   "reden": "Uitleg: 'stemloze klank (je kunt hem fluisteren zonder je stem)'. Dat is geen goede toets: fluisteren kan met elke klank, ook met stemhebbende (b, d, v, z, m). Beter: 'Leg je vingers op je keel: trilt er niets, dan is de klank stemloos.' Het antwoord zelf klopt."
+  },
+  {
+   "id": "eng-030",
+   "ernst": "twijfel",
+   "reden": "Uitleg: 'stemloze klank (je kunt hem fluisteren zonder je stem)'. Dat is geen goede toets: fluisteren kan met elke klank, ook met stemhebbende (b, d, v, z, m). Beter: 'Leg je vingers op je keel: trilt er niets, dan is de klank stemloos.' Het antwoord zelf klopt."
+  },
+  {
+   "id": "eng-044",
+   "ernst": "twijfel",
+   "reden": "Uitleg: 'stemloze klank (je kunt hem fluisteren zonder je stem)'. Dat is geen goede toets: fluisteren kan met elke klank, ook met stemhebbende (b, d, v, z, m). Beter: 'Leg je vingers op je keel: trilt er niets, dan is de klank stemloos.' Het antwoord zelf klopt."
+  },
+  {
+   "id": "eng-014",
+   "ernst": "twijfel",
+   "reden": "Uitleg: 'stemloze klank (je kunt hem fluisteren zonder je stem)'. Dat is geen goede toets: fluisteren kan met elke klank, ook met stemhebbende (b, d, v, z, m). Beter: 'Leg je vingers op je keel: trilt er niets, dan is de klank stemloos.' Het antwoord zelf klopt."
+  },
+  {
+   "id": "eng-031",
+   "ernst": "twijfel",
+   "reden": "Antwoord gesaved en uitleg (v gehoord) kloppen. Hint 2 vraagt 'Welke klank hoor je aan het eind van de stam?': de losse stam save wordt verscherpt uitgesproken als [seef], en dan wordt het gesavet. Laat luisteren naar de klank in het hele werkwoord (sa-ven)."
+  },
+  {
+   "id": "eng-019",
+   "ernst": "twijfel",
+   "reden": "jogde klopt. De uitleg gebruikt de letterregel (g). Volgt een student de Engelse kaart ('laatste klank die je hoort' van de stam jog = [djok], verscherpt), dan krijgt hij jogte. Leg uit dat je in jog-gen een g hoort (stemhebbend)."
+  },
+  {
+   "id": "eng-032",
+   "ernst": "stijl",
+   "reden": "scoren is een vernederlandst werkwoord (ik scoor, Nederlandse spelling). In de categorie Engelse werkwoorden zou één zin helpen: 'hier geldt de gewone regel; de e van score blijft niet staan'. Anders botst het met 'een e blijft staan'."
+  },
+  {
+   "id": "eng-025",
+   "ernst": "stijl",
+   "reden": "Antwoord klopt. Deze vraag uit de categorie Engelse werkwoorden wordt met de letterregel ('laatste letter van de stam') uitgelegd, terwijl de Engelse kaart over de klank gaat. Hier komt dat op hetzelfde neer, maar één zin ('hier zijn letter en klank gelijk') voorkomt verwarring over welke regel je bij Engelse werkwoorden kiest."
+  },
+  {
+   "id": "eng-020",
+   "ernst": "stijl",
+   "reden": "Antwoord klopt. Deze vraag uit de categorie Engelse werkwoorden wordt met de letterregel ('laatste letter van de stam') uitgelegd, terwijl de Engelse kaart over de klank gaat. Hier komt dat op hetzelfde neer, maar één zin ('hier zijn letter en klank gelijk') voorkomt verwarring over welke regel je bij Engelse werkwoorden kiest."
+  },
+  {
+   "id": "eng-050",
+   "ernst": "stijl",
+   "reden": "Antwoord klopt. Deze vraag uit de categorie Engelse werkwoorden wordt met de letterregel ('laatste letter van de stam') uitgelegd, terwijl de Engelse kaart over de klank gaat. Hier komt dat op hetzelfde neer, maar één zin ('hier zijn letter en klank gelijk') voorkomt verwarring over welke regel je bij Engelse werkwoorden kiest."
+  },
+  {
+   "id": "eng-006",
+   "ernst": "stijl",
+   "reden": "Antwoord klopt. Deze vraag uit de categorie Engelse werkwoorden wordt met de letterregel ('laatste letter van de stam') uitgelegd, terwijl de Engelse kaart over de klank gaat. Hier komt dat op hetzelfde neer, maar één zin ('hier zijn letter en klank gelijk') voorkomt verwarring over welke regel je bij Engelse werkwoorden kiest."
+  },
+  {
+   "id": "eng-016",
+   "ernst": "stijl",
+   "reden": "Antwoord klopt. Deze vraag uit de categorie Engelse werkwoorden wordt met de letterregel ('laatste letter van de stam') uitgelegd, terwijl de Engelse kaart over de klank gaat. Hier komt dat op hetzelfde neer, maar één zin ('hier zijn letter en klank gelijk') voorkomt verwarring over welke regel je bij Engelse werkwoorden kiest."
+  },
+  {
+   "id": "eng-024",
+   "ernst": "stijl",
+   "reden": "Antwoord klopt. Deze vraag uit de categorie Engelse werkwoorden wordt met de letterregel ('laatste letter van de stam') uitgelegd, terwijl de Engelse kaart over de klank gaat. Hier komt dat op hetzelfde neer, maar één zin ('hier zijn letter en klank gelijk') voorkomt verwarring over welke regel je bij Engelse werkwoorden kiest."
+  },
+  {
+   "id": "eng-037",
+   "ernst": "stijl",
+   "reden": "Antwoord klopt. Deze vraag uit de categorie Engelse werkwoorden wordt met de letterregel ('laatste letter van de stam') uitgelegd, terwijl de Engelse kaart over de klank gaat. Hier komt dat op hetzelfde neer, maar één zin ('hier zijn letter en klank gelijk') voorkomt verwarring over welke regel je bij Engelse werkwoorden kiest."
+  },
+  {
+   "id": "eng-042",
+   "ernst": "stijl",
+   "reden": "geüpdatete klopt. De trema (ge + update > geüpdatet) wordt nergens uitgelegd, maar alle opties hebben hem al. Eventueel een korte opmerking."
+  },
+  {
+   "id": "bvd-018",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-037",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-019",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-034",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-036",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-020",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-031",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-039",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-007",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-002",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-021",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-032",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-029",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-043",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-017",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-030",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-033",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-014",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-041",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-009",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-027",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-008",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-026",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-025",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-010",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-028",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-015",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-022",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-042",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Wat is het voltooid deelwoord? Denk aan ge + stam + t of d, of -en bij een sterk werkwoord'. Dit werkwoord heeft een onbeklemtoond voorvoegsel of is scheidbaar. Letterlijk geeft de hint dan bijvoorbeeld gebesteld, geverzorgd, geopruimd of geaanpast. Vul aan: '(let op be-/ver-/…: geen ge-; scheidbaar: ge- in het midden)'. Uitleg en antwoord kloppen."
+  },
+  {
+   "id": "bvd-024",
+   "ernst": "twijfel",
+   "reden": "Antwoord klopt, maar kopen is onregelmatig en dat wordt niet gezegd. Stap 2 geeft 'de stam: ik koop' en Hint 2 'ge + stam + t'. Letterlijk wordt dat gekoopt/verkoopt. Bij bvd-023 komt daar nog bij dat ver- geen ge- krijgt. Noem 'onregelmatig: gekocht/verkocht leer je los' en verwijs naar vd-onregelmatig."
+  },
+  {
+   "id": "bvd-023",
+   "ernst": "twijfel",
+   "reden": "Antwoord klopt, maar kopen is onregelmatig en dat wordt niet gezegd. Stap 2 geeft 'de stam: ik koop' en Hint 2 'ge + stam + t'. Letterlijk wordt dat gekoopt/verkoopt. Bij bvd-023 komt daar nog bij dat ver- geen ge- krijgt. Noem 'onregelmatig: gekocht/verkocht leer je los' en verwijs naar vd-onregelmatig."
+  },
+  {
+   "id": "vt-043",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Is het onderwerp meervoud? Dan komt er -en achter, en soms wordt de medeklinker dubbel'. Bij dit werkwoord klopt dat letterlijk niet (keek > keeken, bleef > bleefen, schreef > schreefen, gaf > gafen). Het meervoud is keken/bleven/schreven/gaven: f>v en de lange klinker in een open lettergreep enkel. Bij vt-043 is het meervoud zelfs het antwoord."
+  },
+  {
+   "id": "vt-044",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Is het onderwerp meervoud? Dan komt er -en achter, en soms wordt de medeklinker dubbel'. Bij dit werkwoord klopt dat letterlijk niet (keek > keeken, bleef > bleefen, schreef > schreefen, gaf > gafen). Het meervoud is keken/bleven/schreven/gaven: f>v en de lange klinker in een open lettergreep enkel. Bij vt-043 is het meervoud zelfs het antwoord."
+  },
+  {
+   "id": "vt-061",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Is het onderwerp meervoud? Dan komt er -en achter, en soms wordt de medeklinker dubbel'. Bij dit werkwoord klopt dat letterlijk niet (keek > keeken, bleef > bleefen, schreef > schreefen, gaf > gafen). Het meervoud is keken/bleven/schreven/gaven: f>v en de lange klinker in een open lettergreep enkel. Bij vt-043 is het meervoud zelfs het antwoord."
+  },
+  {
+   "id": "vt-047",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Is het onderwerp meervoud? Dan komt er -en achter, en soms wordt de medeklinker dubbel'. Bij dit werkwoord klopt dat letterlijk niet (keek > keeken, bleef > bleefen, schreef > schreefen, gaf > gafen). Het meervoud is keken/bleven/schreven/gaven: f>v en de lange klinker in een open lettergreep enkel. Bij vt-043 is het meervoud zelfs het antwoord."
+  },
+  {
+   "id": "vt-007",
+   "ernst": "twijfel",
+   "reden": "Hint 2 (sjabloon) zegt 'Is het onderwerp meervoud? Dan komt er -en achter, en soms wordt de medeklinker dubbel'. Bij dit werkwoord klopt dat letterlijk niet (keek > keeken, bleef > bleefen, schreef > schreefen, gaf > gafen). Het meervoud is keken/bleven/schreven/gaven: f>v en de lange klinker in een open lettergreep enkel. Bij vt-043 is het meervoud zelfs het antwoord."
+  },
+  {
+   "id": "od-010",
+   "ernst": "stijl",
+   "reden": "Hint 2, stap 3: 'Moet er een -e achter? Let op het woordje ervoor (de, het, een)'. Hier staat 'een' voor een de-woord, dus juist wél -e. Een student die alleen op 'een' let, kiest de vorm zonder -e. Vraag ook: 'Is het een de-woord of een het-woord?'"
+  },
+  {
+   "id": "od-001",
+   "ernst": "stijl",
+   "reden": "Hint 2, stap 3: 'Moet er een -e achter? Let op het woordje ervoor (de, het, een)'. Hier staat 'een' voor een de-woord, dus juist wél -e. Een student die alleen op 'een' let, kiest de vorm zonder -e. Vraag ook: 'Is het een de-woord of een het-woord?'"
+  },
+  {
+   "id": "od-016",
+   "ernst": "stijl",
+   "reden": "Hint 2, stap 3: 'Moet er een -e achter? Let op het woordje ervoor (de, het, een)'. Hier staat 'een' voor een de-woord, dus juist wél -e. Een student die alleen op 'een' let, kiest de vorm zonder -e. Vraag ook: 'Is het een de-woord of een het-woord?'"
+  },
+  {
+   "id": "od-025",
+   "ernst": "stijl",
+   "reden": "Hint 2, stap 3: 'Moet er een -e achter? Let op het woordje ervoor (de, het, een)'. Hier staat 'een' voor een de-woord, dus juist wél -e. Een student die alleen op 'een' let, kiest de vorm zonder -e. Vraag ook: 'Is het een de-woord of een het-woord?'"
+  },
+  {
+   "id": "tt-015",
+   "ernst": "stijl",
+   "reden": "Antwoord meldt en uitleg kloppen. Het tweede 'je' (wederkerend) staat direct achter de persoonsvorm. Wie de Onthoud-regel van tt-inversie letterlijk toepast, kiest meld. Zeg in de uitleg dat dit je geen onderwerp is."
+  },
+  {
+   "id": "eng-038",
+   "ernst": "stijl",
+   "reden": "Bij de foute optie staat 'jij staat achter het werkwoord', terwijl de zin 'je' heeft. Schrijf 'je staat achter het werkwoord'."
+  },
+  {
+   "id": "tt-035",
+   "ernst": "stijl",
+   "reden": "Bij de foute optie staat 'jij staat achter het werkwoord', terwijl de zin 'je' heeft. Schrijf 'je staat achter het werkwoord'."
+  },
+  {
+   "id": "inf-022",
+   "ernst": "stijl",
+   "reden": "'verwacht is een persoonsvorm': verwacht is ook het voltooid deelwoord. Bij inf-009 staat dat wel goed (verbouwd = vd). Vul aan: 'persoonsvorm of voltooid deelwoord'."
+  }
+ ]
+}

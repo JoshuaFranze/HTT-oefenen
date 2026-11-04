@@ -71,7 +71,7 @@ Kies bij elke zin de juist gespelde werkwoordsvorm (1, 2 of 3). Er is steeds pre
 **eng-031** — Heb je het document wel ___?  
 1. gesavet   2. gesavedt   3. gesaved
 
-**gw-034** — ___ zelf maar naar welke film we kijken.  
+**gw-034** — ___ zelf maar welke film we gaan kijken.  
 1. Kiest   2. Kies   3. Kiez
 
 **vd-056** — Wie heeft de vergadering vandaag ___?  
@@ -275,7 +275,7 @@ Kies bij elke zin de juist gespelde werkwoordsvorm (1, 2 of 3). Er is steeds pre
 **tt-027** — Ik ___ altijd vrolijk van dit liedje.  
 1. wordt   2. word   3. worden
 
-**tt-040** — Het kleine meisje ___ nog niet van de hoge duikplank.  
+**tt-040** — Het kleine meisje ___ nog niet van de hoge duikplank te springen.  
 1. durf   2. durft   3. durvt
 
 **vt-046** — Gisteren ___ het boek met een klap op de grond.  
@@ -464,7 +464,7 @@ Kies bij elke zin de juist gespelde werkwoordsvorm (1, 2 of 3). Er is steeds pre
 **tt-021** — De winkel om de hoek ___ deze week een mooie korting op winterjassen.  
 1. bied   2. bieden   3. biedt
 
-**vt-069** — Op het feest van zaterdag ___ we tot diep in de nacht.  
+**vt-069** — Op het feest van afgelopen zaterdag ___ we tot diep in de nacht.  
 1. dansen   2. dansden   3. dansten
 
 **vt-077** — Vorig jaar ___ mijn zussen maandenlang voor de marathon.  
@@ -713,7 +713,7 @@ Kies bij elke zin de juist gespelde werkwoordsvorm (1, 2 of 3). Er is steeds pre
 **vt-058** — Mijn ouders ___ me gisteren tijdens het eten.  
 1. bellen   2. belde   3. belden
 
-**vt-022** — Op haar verjaardag ___ mijn zus toen iedereen voor haar ging zingen.  
+**vt-022** — Gisteren ___ mijn zus toen iedereen voor haar ging zingen.  
 1. blooste   2. bloosde   3. bloosden
 
 **vt-047** — Jij ___ mij vorig jaar dat mooie boek.  
@@ -776,7 +776,7 @@ Kies bij elke zin de juist gespelde werkwoordsvorm (1, 2 of 3). Er is steeds pre
 **od-026** — ___ haalde ze de bus nog net.  
 1. Rennent   2. Rennendt   3. Rennend
 
-**od-029** — Bij de ___ band staat de eerste groep al klaar.  
+**od-029** — Bij de ___ band in de fabriek staan de medewerkers al klaar.  
 1. lopend   2. lopente   3. lopende
 
 **od-019** — ___ liep ze door de supermarkt.  
@@ -875,7 +875,7 @@ Kies bij elke zin de juist gespelde werkwoordsvorm (1, 2 of 3). Er is steeds pre
 **eng-014** — Is de website alweer ___?  
 1. gecrashd   2. gecrasht   3. gecrashte
 
-**eng-004** — Vannacht ___ mijn laptop zichzelf.  
+**eng-004** — Afgelopen nacht ___ mijn laptop zichzelf.  
 1. updatede   2. updateten   3. updatete
 
 **eng-021** — Mijn zus ___ gisteren een foto van haar nieuwe kamer.  
