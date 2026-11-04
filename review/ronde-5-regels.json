@@ -36,6 +36,78 @@
    "reden": "'Komt u binnen' heet in de ANS ook een (beleefde) gebiedende wijs, alleen met u en een t. De formulering 'geen gebiedende wijs met alleen de stam, maar een vorm met t' is zorgvuldig en niet fout. 'De gebiedende wijs met u krijgt wel een t' is eenvoudiger."
   }
  ],
- "stappenplan": [],
- "vragen": []
+ "stappenplan": [
+  {
+   "ernst": "twijfel",
+   "reden": "Stap 1, vervangtruc: alleen 'schrijft of schreef' geldt als persoonsvorm. 'schrijf' (ik schrijf, schrijf jij) en 'schreven' (wij schreven) ontbreken. Bij 'Ik ___ elke ochtend…' of 'Wij ___ gisteren…' past dan geen van de genoemde vormen. 'wij schrijven' past bovendien ook bij 'Past schrijven? Dan is het het hele werkwoord', zodat een meervoudige persoonsvorm als infinitief wordt aangemerkt. Bij 'Zij ___ gisteren' (schreven) loopt de leerling daardoor vast. Beter: 'Past een vorm met schrijf/schrijft/schreef/schreven? Dan persoonsvorm. Past schrijven achter willen/te? Dan hele werkwoord.'"
+  },
+  {
+   "ernst": "twijfel",
+   "reden": "Stap 3, punt 'Hele werkwoord': 'na willen, moeten, … of na te schrijf je het werkwoord zoals in het woordenboek'. De uitzondering die de regelkaart inf wel noemt ontbreekt hier: 'het moet geverfd worden', 'ik wil het af hebben'. Wie dit punt letterlijk toepast, schrijft 'Het hek moet nog verven worden'. Neem de zin uit de kaart over: 'Staat er achteraan nog hebben, zijn of worden? Dan is het een voltooid deelwoord.'"
+  },
+  {
+   "ernst": "twijfel",
+   "reden": "Stap 3, punten over het voltooid en onvoltooid deelwoord bij een zelfstandig naamwoord: 'zonder lidwoord' laat ruimte voor 'mijn geverfd huis' of 'dit gekookt ei'. Na een bezittelijk of aanwijzend voornaamwoord is er geen lidwoord, maar komt er wel een -e (zie regelkaarten bvd-e en od-e). Beter: 'zonder enig woord ervoor (gekookt water)'."
+  },
+  {
+   "ernst": "stijl",
+   "reden": "Stap 3, punt over Engelse werkwoorden: alleen de stemloze kant staat er ('Dan -te of -t'). Voeg toe: 'anders -de of -d. Eindigt de stam zelf op t of d (print, download)? Dan komt er bij het voltooid deelwoord niets achter.' Zo staat het ook op kaart vd-leen-klank. Inhoudelijk klopt het punt (racete, timede, geüpdatet, getimed volgens de Woordenlijst)."
+  },
+  {
+   "ernst": "stijl",
+   "reden": "Stap 3, 'Zwak of sterk? … Voor het voltooid deelwoord zeg je: ik heb ge…'. Bij werkwoorden met zijn (vallen, gaan, komen) is 'ik heb gevallen' geen goed Nederlands. Beter: 'ik heb/ben ge…'."
+  }
+ ],
+ "vragen": [
+  {
+   "id": "vt-001, vt-031, vt-032, vt-035, vt-041, vt-064, vt-069, vt-072",
+   "ernst": "fout",
+   "reden": "Onthoud-zin 'Stam + te als de laatste letter in 't kofschip zit.' is categorisch. Letterlijk toegepast op een zwak werkwoord op -ven/-zen geeft hij fouten: leven → leefte, reizen → reiste, verhuizen → verhuiste, geloven → geloofte. Juist die afleiders toetst dezelfde toets (vt-008, vt-019, vt-052). Kaart vt-te noemt de uitzondering wel. Voorstel: 'Stam + te als de laatste letter in 't kofschip zit (maar bij -ven/-zen kijk je naar de v of z).'"
+  },
+  {
+   "id": "eng-020, eng-023, eng-025, vd-036, vd-057, vd-064, vd-068, vd-069, vd-074, vd-076, vd-080, vd-082, vd-083",
+   "ernst": "fout",
+   "reden": "Onthoud-zin 'Ge + stam + t als de laatste letter in 't kofschip zit.' Letterlijk toegepast op zwakke werkwoorden op -ven/-zen ontstaat de klassieke fout: geleeft, gereist, verhuist (als deelwoord), gedurft. vd-035 en vd-001 toetsen precies die afleiders. Daarnaast ontstaat bij een stam op t gezett/gepraatt. Kaart vd-t noemt beide uitzonderingen. Voorstel: '…in 't kofschip zit. Bij -ven/-zen kijk je naar de v of z; eindigt de stam al op t, dan komt er niets achter.'"
+  },
+  {
+   "id": "bvd-001, bvd-002, bvd-003, bvd-004, bvd-006, bvd-007, bvd-009, bvd-010, bvd-011, bvd-014, bvd-015, bvd-017, bvd-019, bvd-020, bvd-021, bvd-022, bvd-023, bvd-024, bvd-031, bvd-032, bvd-033, bvd-034, bvd-035, bvd-039, bvd-040, bvd-041, bvd-043, eng-043",
+   "ernst": "fout",
+   "reden": "Onthoud-zin 'Voltooid deelwoord bij een zelfstandig naamwoord: + e.' is zonder voorbehoud geformuleerd. Letterlijk toegepast geeft hij 'een gekookte ei', 'een verbouwde pand' (fout) en 'het gebrokene glas'. Beide uitzonderingen (op -en; het-woord enkelvoud na een/geen/zo'n of zonder woord ervoor) staan op kaart bvd-e en worden in dezelfde toets getoetst (bvd-005, bvd-025 t/m bvd-029, bvd-038, bvd-042). Voorstel: 'Voltooid deelwoord bij een zelfstandig naamwoord: meestal + e (niet bij -en en niet bij een + het-woord).'"
+  },
+  {
+   "id": "od-001, od-010, od-011, od-012, od-014, od-016, od-018, od-020, od-021, od-024, od-025, od-029, od-030, od-031, od-032",
+   "ernst": "fout",
+   "reden": "Onthoud-zin 'Onvoltooid deelwoord bij een zelfstandig naamwoord: -ende.' is categorisch. Letterlijk toegepast geeft hij 'een huilende kind' en 'een slapende kind'. Dat zijn precies de afleiders die od-003, od-009, od-028 en od-034 afkeuren. Kaart od-e noemt de uitzondering wel. Voorstel: '…: -ende, behalve bij een/geen/zo'n + het-woord in het enkelvoud.'"
+  },
+  {
+   "id": "inf-001, inf-002, inf-003, inf-004, inf-005, inf-006, inf-007, inf-008, inf-009, inf-011, inf-012, inf-014, inf-015, inf-016, inf-017, inf-018, inf-019, inf-020, inf-021, inf-022, inf-023, inf-024, inf-025, inf-026, inf-027, inf-028, inf-030, inf-031, inf-032",
+   "ernst": "twijfel",
+   "reden": "Onthoud-zin 'Na willen, moeten, kunnen, mogen, gaan, zullen of te komt het hele werkwoord.' mist de uitzondering die kaart inf zelf noemt ('het moet geverfd worden'). Letterlijk: 'Het hek moet nog verven worden'. In de toets zelf staat zo'n geval niet, en Stap 1 vangt het op via 'hebben/zijn/worden in de zin'. Daarom twijfel en geen fout. 'laten' en 'om te' van de kaart ontbreken (stijl)."
+  },
+  {
+   "id": "eng-007, eng-019, eng-032, eng-050, vt-018, vt-030, vt-033, vt-034, vt-036, vt-056, vt-058, vt-071, vt-075, vt-077, vt-078",
+   "ernst": "twijfel",
+   "reden": "Onthoud-zin 'Stam + de als de laatste letter niet in 't kofschip zit.' werkt voor Nederlandse werkwoorden. Bij Engelse werkwoorden met een stam op -e (race, delete, skate, update) is de laatste letter een e, en letterlijk volgt dan racede, deletede, skatede. Die afleiders keurt dezelfde toets af (eng-026, eng-048). Omdat het om leenwoorden gaat: twijfel. Voorstel: '…(bij Engelse werkwoorden: de laatste klank)'."
+  },
+  {
+   "id": "tt-023, tt-024, tt-033, tt-050, tt-055, eng-002, vd-005, vd-007, vd-008, vd-009, vd-010, vd-056",
+   "ernst": "twijfel",
+   "reden": "Onthoud-zinnen zonder tijd of vorm erbij: 'Eindigt de stam al op t? Dan komt er geen tweede t bij.' (tt-stam-t) en 'Zwak werkwoord met een stam op t of d? Dan komt er niets meer achter.' (vd-stam-td). Ze staan in dezelfde toets naast 'Zwak werkwoord met een stam op t: + te geeft tt. Dat hoort zo.' Los gelezen botsen ze: in de verleden tijd komt er wél een tweede t (praatte, zette, landde). Voeg 'In de tegenwoordige tijd' en 'Bij het voltooid deelwoord' toe."
+  },
+  {
+   "id": "eng-024, eng-037, eng-039, eng-047, tt-006, tt-008, tt-009, tt-039, tt-040, tt-051, tt-056, tt-058, tt-061, tt-063, tt-072, tt-073, tt-076, tt-087, tt-088, eng-034, tt-011, tt-013, tt-014, tt-015, tt-018, tt-020, tt-021, tt-022, tt-029, tt-032",
+   "ernst": "twijfel",
+   "reden": "Onthoud-zinnen 'Onderwerp jij of je (voor het werkwoord), u, hij, zij, het, of een ander woord voor één persoon of ding: stam + t' (en de dt-variant) noemen het geval 'stam al op t' niet. Letterlijk ontstaat zo 'hij zett', 'zij eett' of 'het kostt': afleiders die tt-024 en tt-050 afkeuren. Ook 'hij heeft/kan/is' ontbreekt. Verder noemt de dt-variant alleen 'jij' en niet 'je', terwijl de gewone variant 'jij of je' heeft (stijl). Voorstel: '…stam + t (eindigt de stam al op t, dan geen tweede t)'."
+  },
+  {
+   "id": "gw-022, gw-024, gw-030, gw-032, gw-033, gw-034, gw-035, gw-038, gw-039, gw-040",
+   "ernst": "stijl",
+   "reden": "Onthoud-zin 'Een opdracht schrijf je met alleen de stam.' noemt de uitzondering 'zijn: wees' van kaart gw niet. Letterlijk zou het 'Ben stil!' worden. Dat komt in deze toets niet voor, maar '(bij zijn: wees)' erachter kost niets."
+  },
+  {
+   "id": "eng-016, eng-032",
+   "ernst": "stijl",
+   "reden": "De uitleg noemt googelen en scoren 'een Engels werkwoord, maar hier zijn letter en klank hetzelfde'. Het stappenplan (stap 2) zegt juist dat dit werkwoorden zijn die al op z'n Nederlands geschreven worden. googelen is bovendien een Nederlandse vorming bij de merknaam Google. Beter: 'googelen/scoren wordt al op z'n Nederlands geschreven, dus de stam is gewoon de ik-vorm'. De gekozen vormen (gegoogeld, scoorde) kloppen."
+  }
+ ]
 }
