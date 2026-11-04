@@ -1,0 +1,137 @@
+{
+ "regelkaarten": [
+  {
+   "regel": "vd-leen-klank",
+   "ernst": "twijfel",
+   "reden": "De kaart laat eerst naar de laatste KLANK van de stam luisteren en zegt daarna: 'Eindigt de stam al op t of d? Dan komt er niets meer achter.' Bij update, delete en skate is de laatste klank een t. Wie letterlijk doorleest, schrijft dan geüpdate, gedelete of geskate. Juist is geüpdatet, gedeletet en geskatet (eng-035 en eng-046 vragen precies dit). Hetzelfde geldt voor de tegenwoordige tijd ('hij update' i.p.v. updatet, eng-047) als je de tt-stam-t-regel op klank leest. Voorstel: 'Eindigt de stam op de LETTER t of d (print, download)? Dan komt er niets achter. Eindigt de stam op een e (update, delete, skate)? Dan komt er gewoon een t achter: geüpdatet.' Dit geldt ook voor het Engelse punt in stap 3 van het stappenplan."
+  },
+  {
+   "regel": "vt-leen-klank, vd-leen-klank",
+   "ernst": "twijfel",
+   "reden": "'De stam is het Engelse woord' klopt voor racen, updaten, timen, saven en crashen. Het klopt niet voor werkwoorden die al vernederlandst zijn: scoren (ik scoor, niet ik score), googelen (ik googel) en tackelen (ik tackel). In de toets heet scoren in eng-032 een Engels werkwoord met stam 'scoor'. Dat botst met de kaart en met stap 2. Voorstel: 'De stam is meestal het Engelse woord (race, update). Sommige Engelse werkwoorden schrijf je al op z'n Nederlands (scoren: ik scoor). Twijfel je, kijk dan in de Woordenlijst.'"
+  },
+  {
+   "regel": "tt-t",
+   "ernst": "twijfel",
+   "reden": "'Een ander enkelvoud: stam + t' noemt geen uitzonderingen, ook niet in het stappenplan. Bij heel gewone werkwoorden gaat letterlijk toepassen dan mis: hij wilt (moet zijn: wil), hij kant (kan), hij magt (mag), hij zalt (zal), hij hebt (heeft), hij bent (is). 'Hij wilt' is een bekende examenfout. Alleen tt-u-inversie zegt dat er onregelmatige werkwoorden zijn. Voorstel: 'Een paar werkwoorden zijn onregelmatig: hij is, hij heeft, hij kan, hij mag, hij wil, hij zal.'"
+  },
+  {
+   "regel": "inf",
+   "ernst": "twijfel",
+   "reden": "'Na een werkwoord als willen, moeten … komt het hele werkwoord' gaat mis in een bijzin: in 'Ik wil dat hij morgen ___' staat de plek na willen én achteraan, maar er hoort een persoonsvorm (werkt). Hint 2 bij de infinitiefvragen ('Staat de open plek achteraan, bij dat werkwoord?') heeft hetzelfde gat. Voorstel: 'Hoort het werkwoord bij willen, moeten … in hetzelfde zinsdeel (dus niet na dat, omdat, als)? Dan het hele werkwoord.' De rest van de kaart klopt (te, om te, en het voltooid deelwoord voor hebben/zijn/worden)."
+  },
+  {
+   "regel": "od-e, od-een-het, bvd-e, bvd-een-het",
+   "ernst": "stijl",
+   "reden": "De kaarten noemen niet steeds dezelfde woorden. od-e en bvd-e (en stap 3) noemen 'een, geen of zo'n', terwijl od-een-het en bvd-een-het 'een, geen, zo'n, elk of veel' noemen. Inhoudelijk klopt het allemaal. Maak de lijst overal gelijk. Ook duidelijker: 'staat het vóór een zelfstandig naamwoord' in plaats van 'hoort het bij een zelfstandig naamwoord'. Nu kan een leerling 'Het ei is gekookt' ook als 'hoort bij ei' lezen."
+  },
+  {
+   "regel": "gw",
+   "ernst": "stijl",
+   "reden": "'Komt u binnen' heet hier 'een persoonsvorm met u als onderwerp'. Taaladvies noemt dit de gebiedende wijs met u (beleefdheidsvorm: stam + t). In de schoolgrammatica is ook een gewone gebiedende wijs een persoonsvorm. De spelling die eruit komt is goed. Alleen de benoeming wijkt af, en dat kan botsen met wat leerlingen bij zinsontleding leren."
+  },
+  {
+   "regel": "vd-sterk",
+   "ernst": "stijl",
+   "reden": "'ge + … + en' past niet bij een paar heel gewone sterke werkwoorden: gedaan, gegaan, gezien, gestaan (die eindigen op -n). 'Meestal' of 'leer je los' toevoegen. Een echte fout wordt het niet, want het deelwoord krijgt nooit een -t of -d."
+  },
+  {
+   "regel": "vt-sterk-jij",
+   "ernst": "stijl",
+   "reden": "De regel klopt. 'Een sterk werkwoord krijgt bij jij geen extra t' kan wel de indruk geven dat een zwak werkwoord in de verleden tijd die t wel krijgt (jij werktet). Beter: 'In de verleden tijd krijgt jij nooit een extra t (jij werkte, jij liep).'"
+  }
+ ],
+ "stappenplan": [
+  {
+   "ernst": "fout",
+   "reden": "Stap 2: 'In de stam schrijf je een lange aa, ee, oo of uu dubbel (ik loop).' Bij stammen van meer lettergrepen gaat dit letterlijk mis: openen → ik open (niet oopen), tekenen → ik teken (niet teeken; tekenen zit in vt-071), ademen → ik adem, regelen → ik regel, vergaderen → ik vergader. De verdubbeling geldt alleen als de lange klank in de laatste lettergreep vlak voor de slotmedeklinker staat. Voorstel: 'Staat de lange klank in het laatste stukje van de stam, vlak voor de laatste medeklinker (lo-pen → loop, ver-hu-ren → verhuur)? Dan schrijf je hem dubbel.'"
+  },
+  {
+   "ernst": "twijfel",
+   "reden": "Stap 3 ('Kies de regel die bij de vorm van stap 1 hoort') heeft geen punt voor het hele werkwoord, terwijl stap 1 die vorm wel kan opleveren (29 infinitiefvragen). Stap 2 (de stam zoeken) is bij het hele werkwoord en bij het onvoltooid deelwoord (hele werkwoord + d) niet nodig en kan zelfs op het verkeerde been zetten. Een leerling die moeite heeft met 'welke regel hoort hierbij?' loopt hier vast. Voorstel: in stap 3 'Hele werkwoord: schrijf het zoals in het woordenboek (reizen, niet reisen)' toevoegen, en bij stap 2 'Niet nodig bij het hele werkwoord en het onvoltooid deelwoord'. In de vragen staat bij deze vormen nu 'Stap 2: De regel'. Dat wijkt af van de nummering van het plan."
+  },
+  {
+   "ernst": "twijfel",
+   "reden": "Stap 2: 'Engelse werkwoorden: de stam is het Engelse woord.' Dit gaat mis bij vernederlandste werkwoorden: scoren → ik scoor (eng-032), googelen → ik googel. Zie de regelkaart vt-leen-klank. In stap 3 kunnen het Engelse punt (luister naar de klank) en het punt over het voltooid deelwoord ('Eindigt de stam al op t of d? niets erachter') samen leiden tot geüpdate of gedelete. Zie de kaart vd-leen-klank."
+  },
+  {
+   "ernst": "stijl",
+   "reden": "Stap 1, vierde punt: het opschrift 'Geen persoonsvorm?' botst met de eerste uitkomst 'Past schrijft of schreef? Dan is het een persoonsvorm.' Beter: 'Twijfel je welke vorm het is? Gebruik de vervangtruc …'. De vervangtruc zelf is goed en bruikbaar."
+  },
+  {
+   "ernst": "stijl",
+   "reden": "Stap 1, derde punt: tijdwoorden als vannacht, vanochtend en vanavond kunnen naar verleden én toekomst wijzen. Zeg dat de andere werkwoorden in de zin de doorslag geven (zie vt-033)."
+  },
+  {
+   "ernst": "stijl",
+   "reden": "Stap 3, zwak of sterk: 'Voor het voltooid deelwoord zeg je: ik heb ge…' werkt niet letterlijk bij werkwoorden zonder ge- (betaald, verteld). Daarvoor komt verderop een apart punt. Beter: 'zeg: ik heb … (gevraagd, gelachen, betaald)'."
+  }
+ ],
+ "vragen": [
+  {
+   "id": "od-020",
+   "ernst": "fout",
+   "reden": "'Het aantal werkende moeders': de uitleg zegt 'Er staat ‘het’ voor, dus komt er een -e achter.' Dat klopt niet: 'het' hoort bij 'aantal'. 'Moeders' is meervoud zonder lidwoord, en daarom krijgt het deelwoord een -e. De sleutel (werkende) is goed, maar de redenering is fout en leert een verkeerde check aan. Voorstel: 'Het hoort bij ‘moeders’. Dat is meervoud, dus komt er een -e achter.'"
+  },
+  {
+   "id": "bvd-011",
+   "ernst": "fout",
+   "reden": "'een zakje gebrande amandelen': de uitleg zegt 'Er staat ‘een’ voor, maar ‘amandelen’ is een de-woord.' Ook dit klopt niet: 'een' hoort bij 'zakje'. 'Amandelen' is meervoud zonder lidwoord, en daarom komt er een -e achter. De sleutel (gebrande) is goed. Voorstel: 'Het hoort bij ‘amandelen’. Dat is meervoud, dus komt er een -e achter.'"
+  },
+  {
+   "id": "od-010, bvd-024, od-017, bvd-018, bvd-013, od-001, bvd-004, bvd-037, od-032, od-018, bvd-019, bvd-040, bvd-034, od-020, bvd-036, bvd-020, bvd-031, od-034, bvd-039, eng-043, eng-042, bvd-005, bvd-007, bvd-002, bvd-021, bvd-032, od-003, bvd-029, od-014, bvd-043, bvd-017, od-031, bvd-011, bvd-030, bvd-033, bvd-014, od-028, od-016, od-011, bvd-041, bvd-023, od-009, od-027, od-024, od-029, od-021, od-025, od-030, od-012, bvd-009, bvd-027, bvd-008, bvd-026, bvd-025, bvd-010, bvd-028, bvd-015, bvd-022, bvd-006",
+   "ernst": "fout",
+   "reden": "Sjabloon in hint 2 bij onvoltooid deelwoord en bijvoeglijk voltooid deelwoord: 'Is dat een het-woord in het enkelvoud met een, geen of zo’n ervoor? Dan geen -e. Anders wel een -e.' Het 'anders wel' laat de uitzondering 'zonder lidwoord' weg, terwijl de regelkaarten die wel noemen (kokend water, gekookt water). Letterlijk toegepast geeft dat 'kokende water' of 'gekookte water'. Bij deze vragen komt de hint zelf goed uit, maar als regel is hij onjuist. Voorstel: '… met een, geen of zo’n ervoor, of zonder lidwoord? Dan geen -e. Anders wel.'"
+  },
+  {
+   "id": "od-017, od-034, bvd-005, od-003, bvd-029, od-028, od-009, od-027, bvd-027, bvd-026, bvd-025, bvd-028",
+   "ernst": "stijl",
+   "reden": "Sjabloon onthoud-zin: 'Een, geen of zo'n + het-woord in het enkelvoud: geen -e erachter.' Dit klopt, maar de situatie zonder lidwoord (kokend water) ontbreekt, en elk/veel uit de regelkaart ook. Liever gelijk trekken met de kaart."
+  },
+  {
+   "id": "eng-032",
+   "ernst": "twijfel",
+   "reden": "Scoren heet hier een Engels werkwoord met stam 'scoor'. Volgens stap 2 en de Engelse regelkaarten is de stam het Engelse woord (score). Dat botst, en een leerling kan het niet uit elkaar houden. Scoren is vernederlandst (Woordenlijst: scoor, scoorde, gescoord). Voorstel: 'scoren komt uit het Engels, maar je schrijft het als een Nederlands werkwoord: ik scoor.' De vorm scoorde zelf is juist."
+  },
+  {
+   "id": "eng-016, eng-039",
+   "ernst": "stijl",
+   "reden": "Googelen is een Nederlandse vorming (van de merknaam Google) met Nederlandse spelling: de stam is 'googel', niet het Engelse woord 'google'. 'Een Engels werkwoord' is dus wat los gezegd. De vormen gegoogeld en googelt zijn juist."
+  },
+  {
+   "id": "eng-044",
+   "ernst": "stijl",
+   "reden": "'In lun-chen hoor je … een tsj.' De gangbare uitspraak is lunsjen (sj). Voor de regel maakt dat niets uit: allebei stemloos, en ch zit bovendien in 't kofschip. lunchten is juist."
+  },
+  {
+   "id": "vt-033",
+   "ernst": "stijl",
+   "reden": "'dat zie je aan ‘Vannacht’': vannacht kan ook toekomst zijn (Vannacht gaat het vriezen). Het echte signaal is 'toen de bel ging'. Noem dat."
+  },
+  {
+   "id": "bvd-042, bvd-038",
+   "ernst": "stijl",
+   "reden": "Hint 2: 'Eindigt het op -en? Dan is het een sterk werkwoord.' Ook gemengde werkwoorden hebben een deelwoord op -en (gelachen, gebakken, gevouwen, geladen). Beter: 'Eindigt het voltooid deelwoord op -en? Dan komt er geen -e bij.' De uitkomst bij deze twee vragen is goed."
+  },
+  {
+   "id": "gw-017, gw-039, gw-004, gw-008, gw-016, gw-026, gw-006, gw-023, gw-007",
+   "ernst": "stijl",
+   "reden": "Sjabloon: 'Het ‘je’ achter het werkwoord betekent hier jezelf of jouw.' Zeg per zin welke van de twee: jezelf bij kleed je, meld je, bereid je voor, verbrand je (gw-017, gw-004, gw-006, gw-026, gw-007, gw-008), jouw bij wrijf je handen, spreid je armen, verbrand je vingers (gw-039, gw-016, gw-023). De conclusie 'geen onderwerp' klopt."
+  },
+  {
+   "id": "gw-017, gw-034, gw-033, gw-039, gw-013, gw-011, gw-038, gw-032, gw-004, gw-028, gw-008, gw-043, gw-040, gw-027, gw-016, gw-021, gw-018, gw-030, gw-026, gw-006, gw-005, gw-002, gw-010, gw-009, gw-023, gw-001, gw-003, gw-012, gw-007, gw-029, eng-040",
+   "ernst": "stijl",
+   "reden": "Sjabloon-afleider: '…t is de vorm voor hij, zij of u.' Het is ook de vorm voor jij/je vóór het werkwoord (jij kiest, jij meldt). Liever 'de vorm met een onderwerp (hij, zij, u, jij)'. Dan is meteen duidelijk waarom die hier niet past: er is geen onderwerp."
+  },
+  {
+   "id": "inf-004, inf-018, inf-021, inf-015, inf-009, inf-022, inf-019, inf-003, inf-005, inf-027, inf-014, inf-001, inf-017, inf-016, inf-023, inf-011, inf-028, inf-024, inf-006, inf-026, inf-020, inf-002, inf-007, inf-025, inf-012, inf-030, inf-031, inf-032, inf-008, eng-041",
+   "ernst": "stijl",
+   "reden": "Sjabloon hint 2: 'Staat de open plek achteraan, bij dat werkwoord?' 'Achteraan' is geen betrouwbare test: ook in een bijzin na 'dat' staat de persoonsvorm achteraan (Ik wil dat hij morgen werkt). Liever: 'Hoort het werkwoord bij dat andere werkwoord (geen dat, omdat of als ertussen)?' Zie ook de regelkaart inf."
+  },
+  {
+   "id": "inf-004, od-010, od-017, inf-018, od-001, inf-021, od-032, od-018, inf-015, inf-009, od-020, od-022, inf-022, od-034, inf-019, inf-003, od-008, od-013, inf-005, inf-027, od-002, inf-014, inf-001, inf-017, od-023, od-003, od-033, od-014, inf-016, inf-023, inf-011, od-031, od-028, inf-028, inf-024, od-016, od-011, od-007, inf-006, inf-026, od-009, od-027, od-024, od-026, od-029, od-019, od-021, od-025, od-030, od-012, inf-020, inf-002, inf-007, inf-025, inf-012, inf-030, inf-031, inf-032, inf-008, eng-041",
+   "ernst": "stijl",
+   "reden": "Sjabloon in de uitleg: bij het hele werkwoord en het onvoltooid deelwoord heet de regel 'Stap 2: De regel', terwijl het stappenplan de regel in stap 3 zet. Laat de nummering gelijk lopen ('Stap 2: niet nodig, Stap 3: De regel') of pas het stappenplan aan (zie stappenplan)."
+  }
+ ]
+}

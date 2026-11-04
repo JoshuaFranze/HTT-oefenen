@@ -1,0 +1,118 @@
+{
+ "markeringen": [
+  {
+   "id": "stappenplan",
+   "ernst": "twijfel",
+   "reden": "Stap 1, vierde punt begint met 'Geen persoonsvorm?' en zegt daarna 'Past schrijft of schreef? Dan is het een persoonsvorm.' Dat spreekt zichzelf tegen. Beter: 'Twijfel je? Gebruik de vervangtruc ...'."
+  },
+  {
+   "id": "stappenplan",
+   "ernst": "twijfel",
+   "reden": "Stap 3, punt tegenwoordige tijd: 'Is het onderwerp ... een ander enkelvoud? Dan stam + t.' Letterlijk toegepast op hebben, zijn, kunnen, mogen, willen, zullen geeft dat 'hij hebt', 'hij kant', 'hij wilt'. Dat zijn geen zeldzame werkwoorden. Noem kort dat een paar veelgebruikte werkwoorden anders gaan (hij heeft, hij is, hij kan, hij wil), zoals tt-u-inversie dat wel doet."
+  },
+  {
+   "id": "od-020",
+   "ernst": "fout",
+   "reden": "Uitleg zegt: 'Er staat ‘het’ voor, dus komt er een -e achter.' Maar ‘het’ hoort bij ‘aantal’, niet bij ‘moeders’. ‘moeders’ is meervoud zonder lidwoord; daarom komt er een -e achter. Zo leert de cursist dat je naar elk 'het' in de buurt moet kijken. Schrijf: 'Het hoort bij ‘moeders’. Dat is meervoud, dus komt er een -e achter.'"
+  },
+  {
+   "id": "vt-018",
+   "ernst": "stijl",
+   "reden": "Hint 2 zegt 'Zeg: gisteren … ik.' Bij gebeuren werkt dat niet (gisteren gebeurde ik). Hetzelfde geldt voor andere werkwoorden zonder ik-vorm, zoals regenen. Liever: 'Zeg: gisteren … het/ik.' of 'Zet het in de verleden tijd.'"
+  },
+  {
+   "id": "bvd-011",
+   "ernst": "fout",
+   "reden": "Uitleg zegt: 'Er staat ‘een’ voor, maar ‘amandelen’ is een de-woord.' Maar ‘een’ hoort bij ‘zakje’, niet bij ‘amandelen’. ‘amandelen’ is meervoud zonder lidwoord; daarom komt er een -e achter. Schrijf: 'Het hoort bij ‘amandelen’. Dat is meervoud, dus komt er een -e achter.'"
+  },
+  {
+   "id": "bvd-021",
+   "ernst": "stijl",
+   "reden": "'Gebruiken heeft het voorvoegsel ge- (zonder klemtoon), dus geen ge-.' Dat klopt, maar leest als een tegenspraak. Duidelijker: 'gebruiken begint al met het voorvoegsel ge- (zonder klemtoon). Er komt dan geen extra ge- voor.' Hetzelfde in hint 2 ('Let op het voorvoegsel ge- zonder klemtoon: dan geen ge-')."
+  },
+  {
+   "id": "vd-021",
+   "ernst": "stijl",
+   "reden": "Afleider ‘vergeet’: 'zo zou het gaan bij een zwak werkwoord.' Dat klopt technisch, maar wie ‘vergeet’ kiest, denkt meestal aan de stam (ik vergeet). Duidelijker: 'vergeet is de stam (ik vergeet). Na ‘ben’ komt het voltooid deelwoord: vergeten.'"
+  },
+  {
+   "id": "vd-047",
+   "ernst": "stijl",
+   "reden": "Zelfde punt als vd-021: afleider ‘geniet’ is vooral de stam (ik geniet). 'Zo zou het gaan bij een zwak werkwoord' is voor deze keuze een omweg."
+  },
+  {
+   "id": "tt-t",
+   "ernst": "twijfel",
+   "reden": "'Is het onderwerp ... een ander enkelvoud? Dan stam + t.' Letterlijk toegepast op hebben, zijn, kunnen, mogen, willen en zullen geeft dat 'hij hebt', 'hij bent', 'hij kant', 'hij wilt'. Dat zijn veelgebruikte werkwoorden. Zet er één zin bij, zoals tt-u-inversie al doet: 'Een paar werkwoorden gaan anders (hij heeft, hij is, hij kan, hij wil).'"
+  },
+  {
+   "id": "gw",
+   "ernst": "twijfel",
+   "reden": "'Een gebiedende wijs ... Het is de stam.' Letterlijk toegepast op zijn geeft 'Ben voorzichtig' in plaats van 'Wees voorzichtig'. Er komt geen vraag met zijn voor, maar de regel zegt ook niet dat er uitzonderingen zijn. Voeg toe: '(Let op: zijn wordt wees.)'"
+  },
+  {
+   "id": "stappenplan",
+   "ernst": "twijfel",
+   "reden": "Stap 2, punt Engelse werkwoorden ('de stam is het Engelse woord (race, update, crash). Een e blijft staan'), net als vt-leen-klank en vd-leen-klank. Dat werkt niet bij Engelse werkwoorden die al Nederlands gespeld worden: scoren (ik scoor, niet ik score) en googelen (ik googel, niet ik google; anders krijg je gegoogled). De toets noemt die twee juist wel 'Engels werkwoord' (eng-032, eng-016). Voeg toe: 'Wordt het werkwoord al op z'n Nederlands geschreven (scoren, googelen)? Dan gebruik je gewoon de Nederlandse stam.'"
+  },
+  {
+   "id": "eng-016",
+   "ernst": "twijfel",
+   "reden": "De uitleg begint met 'googelen is een Engels werkwoord'. Volgens stap 2 en vd-leen-klank is de stam dan 'het Engelse woord', dus google, en dan krijg je gegoogled. Dat is precies de fout die je wilt voorkomen. Beter: 'googelen schrijf je al op z'n Nederlands. De stam is googel, met een l aan het eind ...'."
+  },
+  {
+   "id": "eng-032",
+   "ernst": "twijfel",
+   "reden": "Zelfde punt als eng-016: 'scoren is een Engels werkwoord' + stap 2 ('de stam is het Engelse woord, een e blijft staan') geeft ik score, en dan scorede. De sleutel klopt, maar de uitleg en de regel spreken elkaar tegen. Beter: 'scoren schrijf je al op z'n Nederlands: ik scoor.'"
+  },
+  {
+   "id": "stappenplan",
+   "ernst": "stijl",
+   "reden": "Stap 3, punt 'Zwak of sterk? Zeg: gisteren … ik.' werkt niet bij werkwoorden die je bijna nooit met ik gebruikt (gebeuren, regenen, kosten, lukken). Hint 2 neemt dit letterlijk over in vt-018 (gebeurde) en vt-029 (kostte). Liever: 'Zet het in de verleden tijd: gisteren … (ik, het).'"
+  },
+  {
+   "id": "vt-029",
+   "ernst": "stijl",
+   "reden": "Hint 2 zegt 'Zeg: gisteren … ik.' Bij kosten werkt dat niet (gisteren kostte ik). Zie de markering bij het stappenplan."
+  },
+  {
+   "id": "stappenplan",
+   "ernst": "stijl",
+   "reden": "Stap 3, punt 'Voltooid deelwoord bij een zelfstandig naamwoord' en punt 'Onvoltooid deelwoord' noemen 'een, geen of zo'n ... of zonder lidwoord'. De regelkaarten od-een-het en bvd-een-het noemen ook 'elk of veel'. Maak dat overal gelijk."
+  },
+  {
+   "id": "gw-026",
+   "ernst": "stijl",
+   "reden": "'Bereid je goed voor op het gesprek.' Het werkwoord is voorbereiden. Stap 2 zegt 'De stam: ik bereid.' Beter: 'De stam: ik bereid (je) voor.' De sleutel Bereid klopt."
+  },
+  {
+   "id": "eng-008",
+   "ernst": "stijl",
+   "reden": "Hint 2 eindigt met 'Is die stemloos (trilt je keel niet)? Dan -te.' Het antwoord is raceten (meervoud). De hint bij Nederlandse werkwoorden noemt de -n voor meervoud wel. Voeg toe: 'Is het onderwerp meervoud? Dan -ten.'"
+  },
+  {
+   "id": "eng-044",
+   "ernst": "stijl",
+   "reden": "Zelfde punt als eng-008: de hint zegt 'Dan -te', het antwoord is lunchten (meervoud)."
+  },
+  {
+   "id": "bvd-042",
+   "ernst": "stijl",
+   "reden": "Afleider ‘vergeete’: 'deze vorm bestaat niet.' Dat klinkt streng voor iemand met faalangst. Rustiger: 'Het voltooid deelwoord is vergeten. Daar komt geen -e meer achter.'"
+  },
+  {
+   "id": "bvd-038",
+   "ernst": "stijl",
+   "reden": "Afleider ‘gesluite’: 'deze vorm bestaat niet.' Zelfde punt als bvd-042. Rustiger: 'Het voltooid deelwoord van sluiten is gesloten ...'."
+  }
+ ],
+ "algemeen": [
+  "Gecontroleerd: alle 303 vragen (sleutel, opties, zin, uitleg, stappen, afleiders, onthoud, hints) en regels.json met het stappenplan. Alle sleutels zijn het enige goede antwoord. Ook de Engelse vormen kloppen met de Woordenlijst (geüpdatete, gerecycled, gedeletet, geliket, gesaved, getimed, geskatet, chatte, jogde, scande, postte, uploadde). Ik vond geen zin die onnatuurlijk of fout is.",
+  "Inhoudelijk fout zijn alleen od-020 en bvd-011. In allebei gaat het om dezelfde denkfout: de uitleg koppelt een lidwoord aan het verkeerde zelfstandig naamwoord. Ik heb alle 40 uitleggen met 'Er staat ‘…’ voor' nagelopen; de andere 38 kloppen.",
+  "Twijfel (hints od/bvd): het derde punt van hint 2 eindigt altijd met 'Is dat een het-woord in het enkelvoud met een, geen of zo’n ervoor? Dan geen -e. Anders wel een -e.' Dat 'anders wel' is te stellig. Bij een het-woord zonder lidwoord (kokend water, geverfd hout) of met elk/veel komt er ook geen -e. De regelkaarten zeggen dat wel. In deze 303 vragen komt dat geval niet voor, maar wie de hint als regel onthoudt, leert iets wat niet klopt. Voorstel: '... met een, geen of zo’n ervoor, of zonder lidwoord? Dan geen -e.'",
+  "Stijl (meervoud verleden tijd): veel uitleggen zeggen 'Die zit niet in 't kofschip, dus -den. Het onderwerp is meervoud, dus -den' (bijvoorbeeld vt-033, vt-034, vt-058, vt-077, vt-008, vt-021, eng-008, eng-044). Zo lijkt het alsof 't kofschip ook over de -n beslist. Duidelijker: '... dus -de. Het onderwerp is meervoud, dus komt er een -n bij: -den.'",
+  "Stijl (gebiedende wijs met je): stap 1 zegt steeds 'Het ‘je’ achter het werkwoord betekent hier jezelf of jouw.' Per zin is maar één van de twee waar (Kleed je = jezelf, Wrijf je handen = jouw). Noem per vraag alleen de betekenis die past.",
+  "Toon: B1, rustig, nergens 'fout' of 'verkeerd'. De enige strengere zin is 'deze vorm bestaat niet' (bvd-042, bvd-038).",
+  "Let op: de scratchpad wordt gedeeld met andere agents. Mijn tussenbestanden (onder andere c2.txt) zijn halverwege overschreven. Ik heb verder gewerkt in een eigen submap (r4fout-eindred). Vraag 243-293 heb ik daardoor eerst in de opmaak van een andere agent gelezen. Daarna heb ik hint 2 van die vragen apart opnieuw gecontroleerd."
+ ]
+}
