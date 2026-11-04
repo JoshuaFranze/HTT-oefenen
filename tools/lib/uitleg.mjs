@@ -32,7 +32,7 @@ export function lettergrepen(w) {
   // delen = [beginmedeklinkers+klinker, ...]; medeklinkers tussen klinkers verdelen
   const uit = [];
   let rest = '';
-  const tokens = w.match(/ch|[aeiouy]+|[^aeiouy]/g);
+  const tokens = w.match(/ch|sh|[aeiouy]+|[^aeiouy]/g);
   let huidig = '';
   for (let i = 0; i < tokens.length; i++) {
     const t = tokens[i];
@@ -40,7 +40,7 @@ export function lettergrepen(w) {
     if (!isKlinker) { huidig += t; continue; }
     // medeklinkers in 'huidig' na de vorige klinker: bij 1 alles naar de nieuwe lettergreep, bij 2+ de eerste blijft achter
     if (uit.length) {
-      const m = huidig.match(/ch|[^aeiouy]/g) || [];
+      const m = huidig.match(/ch|sh|[^aeiouy]/g) || [];
       if (m.length >= 2) {
         uit[uit.length - 1] += m[0];
         huidig = m.slice(1).join('');
@@ -93,7 +93,7 @@ function kofschipZin(inf, ww, uitgang, mv = false) {
   uitgang ??= (wel ? '-te' : '-de') + (mv ? 'n' : '');
   if (k.vz) return `${inf} is een zwak werkwoord dat eindigt op -${k.uitgang}. Haal -en eraf: ${k.basis}. Dan kijk je naar de ${k.letter}. Die zit niet in 't kofschip, dus ${uitgang}.`;
   if (k.leenKlank && k.stemloos) return `${inf} is een Engels werkwoord. In ${lettergrepen(inf)} hoor je aan het eind van de stam een ${k.klank}. Die klank is stemloos (je keel trilt niet als je hem zegt), net als de klanken van 't kofschip. Dus ${uitgang}.`;
-  if (k.leenKlank) return `${inf} is een Engels werkwoord. De stam is het Engelse woord: ${ww.stam}. Luister naar de laatste medeklinker in het hele werkwoord (${lettergrepen(inf)}): een ${k.klank}. De ${k.klank} ${wel ? 'is stemloos, net als de klanken van' : 'zit niet in'} 't kofschip, dus ${uitgang}.`;
+  if (k.leenKlank) return `${inf} is een Engels werkwoord. De stam is het Engelse woord: ${ww.stam}. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (${lettergrepen(inf)}): een ${k.klank}. De ${k.klank} ${wel ? 'is stemloos, net als de klanken van' : 'zit niet in'} 't kofschip, dus ${uitgang}.`;
   const voor = ww.leen ? `${inf} is een Engels werkwoord, maar hier zijn letter en klank hetzelfde. ` : '';
   if (k.x) return `${voor}De stam eindigt op x. Die klinkt als ks, en de s zit in 't kofschip. Dus ${uitgang}.`;
   if (k.letter === 'ch') return `${voor}De stam eindigt op ch. Die zit in 't kofschip, dus ${uitgang}.`;
@@ -177,11 +177,11 @@ function vormZin(zin, ww) {
     return `Dit is de persoonsvorm in de tegenwoordige tijd.${ond}`;
   }
   if (s.startsWith('vt.')) return `Dit is de persoonsvorm in de verleden tijd${zin.tijd ? ` (dat zie je aan ${q(zin.tijd)})` : ''}.${ond}`;
-  if (s === 'vd') return `Er staat al een hulpwerkwoord in de zin (${q(zin.sleutel)}), en het werkwoord staat achteraan. Dus dit is een voltooid deelwoord.`;
+  if (s === 'vd') return `Er staat al een vorm van hebben, zijn of worden in de zin (${q(zin.sleutel)}), en het werkwoord hoort daarbij. Dus dit is een voltooid deelwoord.`;
   if (s === 'od.e') return `Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij het zelfstandig naamwoord ${q(zin.sleutel)}.`;
   if (s === 'od.kaal') return zin.eenHet ? `Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij ${q('een ' + zin.sleutel)}.` : `Dit is een onvoltooid deelwoord (hele werkwoord + d). Het staat los in de zin en zegt hoe iemand iets doet.`;
   if (s === 'inf') return `Na ${q(zin.sleutel)} komt het hele werkwoord (de infinitief).`;
-  if (s === 'gw') return `Dit is een opdracht of een verzoek. Dat heet de gebiedende wijs.`;
+  if (s === 'gw') return `Dit is een opdracht zonder onderwerp. Dat heet de gebiedende wijs.${jeNa(zin) ? ` Het ${q('je')} achter het werkwoord betekent hier jezelf of jouw; het is geen onderwerp.` : ''}`;
   if (s.startsWith('bvd')) return `Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ${q(zin.sleutel)}. Je gebruikt het als bijvoeglijk naamwoord.`;
   return '';
 }
@@ -190,6 +190,21 @@ function stamZin(inf, ww) {
   if (ONPERSOONLIJK.has(inf)) return `De stam: ${ww.stam} (het hele werkwoord min -en, en dan de spelling aanpassen).`;
   if (ww.leen && /e$/.test(ww.stam)) return `De stam: ik ${ww.stam} (het Engelse woord, met de e).`;
   return `De stam: ik ${ww.stam}${ww.sch ? ` ${ww.sch}` : ''}.`;
+}
+
+const jeNa = (zin) => /^\s*je\b/i.test(zin.zin.split('___')[1] || '');
+
+/** Het lidwoord vlak voor de open plek (de, het, een), voor de uitleg over de -e. */
+function lidwoord(zin) {
+  const w = (zin.zin.split('___')[0] || '').toLowerCase().match(/\b(de|het|een|geen|zo'n)\b(?!.*\b(de|het|een|geen|zo'n)\b)/);
+  return w ? w[1] : null;
+}
+function eReden(zin) {
+  const lw = lidwoord(zin);
+  if (lw === 'het') return ` Er staat ${q('het')} voor, dus komt er een -e achter.`;
+  if (lw === 'de') return ` Er staat ${q('de')} voor, dus komt er een -e achter.`;
+  if (lw === 'een') return ` Er staat ${q('een')} voor, maar ${q(zin.sleutel)} is een de-woord. Dan komt er wel een -e achter.`;
+  return '';
 }
 
 /** Bij 'je' als wederkerend voornaamwoord direct na de open plek (Jij meldt je): even zeggen dat dat geen onderwerp is. */
@@ -226,7 +241,7 @@ function regelZin(regel, inf, ww, zin, c) {
     case 'tt-je-bezit': return `Je betekent hier jouw. Het onderwerp is ${q(zin.sleutel)}: dat is enkelvoud, net als hij. Dus stam + t: ${c}.`;
     case 'tt-mv': return `Het onderwerp is meervoud. Dan gebruik je het hele werkwoord: ${c}.`;
     case 'vt-te': case 'vt-de': case 'vt-vz': case 'vt-leen-klank':
-      return `${kofschipZin(inf, ww, undefined, mv)} ${mv ? 'Het onderwerp is meervoud, dus -ten of -den' : 'Zo krijg je'}: ${c}.`;
+      return `${kofschipZin(inf, ww, undefined, mv)} ${mv ? `Het onderwerp is meervoud, dus ${ww.klank === 't' ? '-ten' : '-den'}` : 'Zo krijg je'}: ${c}.`;
     case 'vt-stam-t': return `${inf} is een zwak werkwoord en de stam ${st} eindigt op een t. Die zit in 't kofschip, dus -te${mv ? 'n' : ''}: ${st} + te${mv ? 'n' : ''} = ${c}. Daarom staan er twee t's.`;
     case 'vt-stam-d': return `${inf} is een zwak werkwoord en de stam ${st} eindigt op een d. Die zit niet in 't kofschip, dus -de${mv ? 'n' : ''}: ${st} + de${mv ? 'n' : ''} = ${c}. Daarom staan er twee d's.`;
     case 'vt-sterk': return `${inf} is een sterk werkwoord: in de verleden tijd verandert de klinker, en er komt geen -te of -de achter. ${mv ? `In het meervoud is het ${c}.` : `Dus: ${c}.`}`;
@@ -240,20 +255,20 @@ function regelZin(regel, inf, ww, zin, c) {
       const rest = isStamTd(ww) ? `De stam ${st} eindigt al op een ${st.at(-1)}, dus er komt niets meer achter` : k.vz ? `Het hele werkwoord eindigt op -${k.uitgang}: de ${k.letter} zit niet in 't kofschip, dus een d` : `De laatste letter van de stam (${k.letter === 'ch' ? 'ch' : st.at(-1)}) zit ${inKofschip(ww) ? '' : 'niet '}in 't kofschip, dus een ${ww.klank}`;
       return `${inf} heeft het voorvoegsel ${ww.vv}- (zonder klemtoon). Dan komt er geen ge- voor. ${rest}: ${c}.`;
     }
-    case 'vd-sterk-geen-ge': return `${inf} heeft het voorvoegsel ${ww.vv}- (zonder klemtoon), dus er komt geen ge- voor. Het is een sterk werkwoord, dus het eindigt op -en: ${c}.`;
+    case 'vd-sterk-geen-ge': return `${inf} heeft het voorvoegsel ${ww.vv}- (zonder klemtoon), dus er komt geen ge- voor. Het is een sterk werkwoord: het voltooid deelwoord eindigt op -en: ${c}.`;
     case 'vd-scheidbaar-geen-ge': { const tw = inf.slice(ww.sch.length); return `${inf} is een scheidbaar werkwoord (${ww.sch} + ${tw}). Normaal komt de ge- in het midden, maar ${tw} heeft al het voorvoegsel ${ww.vv}-. Dan komt er geen ge- bij: ${c}.`; }
     case 'vd-scheidbaar': return `${inf} is een scheidbaar werkwoord (ik ${st} ${ww.sch}). De ge- komt in het midden: ${c}.`;
     case 'vd-sterk': return `${inf} is een sterk werkwoord. Het voltooid deelwoord eindigt op -en: ${c}.`;
     case 'vd-gemengd': return `${inf} heeft in de verleden tijd -te of -de (${V['vt.ev']}), maar het voltooid deelwoord eindigt op -en: ${c}.`;
     case 'vd-onregelmatig': return `${inf} is een onregelmatig werkwoord. Het voltooid deelwoord is ${c}. Deze vorm leer je los, want hij volgt geen regel.`;
-    case 'od-e': return `Het hoort bij het zelfstandig naamwoord ${q(zin.sleutel)}. Daarom komt er een -e achter: ${c}.`;
+    case 'od-e': return `Het hoort bij het zelfstandig naamwoord ${q(zin.sleutel)}.${eReden(zin) || ' Daarom komt er een -e achter.'} Zo krijg je: ${c}.`;
     case 'od-kaal': return `Het onvoltooid deelwoord is het hele werkwoord + d: ${inf} + d = ${c}.`;
     case 'od-een-het': return `Het hoort bij een het-woord met ${q('een')} ervoor (${q('een ' + zin.sleutel)}). Dan komt er geen -e achter: ${c}.`;
     case 'inf': return `Het hele werkwoord schrijf je zoals in het woordenboek: ${c}.`;
     case 'gw': return `De gebiedende wijs is de stam: ${c}.`;
     case 'gw-d': return `De gebiedende wijs is de stam. Er komt geen t bij. De stam is ${st}, met een d: ${c}.`;
-    case 'bvd-e': return `${vdReden(inf, ww)}Het voltooid deelwoord is ${V.vd}. Bij een zelfstandig naamwoord komt er een -e achter: ${c}.`;
-    case 'bvd-stam-t': return `${vdReden(inf, ww)}Het voltooid deelwoord is ${V.vd}. Daar zet je alleen een -e achter, er komt geen extra t bij: ${c}.`;
+    case 'bvd-e': return `${vdReden(inf, ww)}Het voltooid deelwoord is ${V.vd}. Het hoort bij ${q(zin.sleutel)}.${eReden(zin) || ' Daarom komt er een -e achter.'} Zo krijg je: ${c}.`;
+    case 'bvd-stam-t': return `${vdReden(inf, ww)}Het voltooid deelwoord is ${V.vd}. Daar komt een -e achter, geen -te: ${c}.`;
     case 'bvd-spelling': return `${vdReden(inf, ww)}Het voltooid deelwoord is ${V.vd}. Er komt een -e achter, en dan pas je de spelling aan (${lettergrepen(c)}): ${c}.`;
     case 'bvd-sterk': return `Het voltooid deelwoord ${c} eindigt al op -en. Daar komt geen -e meer achter.`;
     case 'bvd-een-het': return `Het hoort bij een het-woord met ${q('een')} ervoor (${q('een ' + zin.sleutel)}). Dan komt er geen -e achter: ${c}.`;
@@ -263,8 +278,8 @@ function regelZin(regel, inf, ww, zin, c) {
 
 const ONTHOUD = {
   'tt-ik': 'Ik + stam. Er komt geen t bij.',
-  'tt-t': 'Onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud: stam + t.',
-  'tt-dt': 'Onderwerp jij (voor het werkwoord), u, of een ander enkelvoud: stam + t. Eindigt de stam op d? Dan krijg je dt.',
+  'tt-t': 'Onderwerp jij of je (voor het werkwoord), u, hij, zij, het, of een ander woord voor één persoon of ding: stam + t.',
+  'tt-dt': 'Onderwerp jij (voor het werkwoord), u, hij, zij, het, of een ander woord voor één persoon of ding: stam + t. Eindigt de stam op d? Dan krijg je dt.',
   'tt-stam-t': 'Eindigt de stam al op t? Dan komt er geen tweede t bij.',
   'tt-inversie': 'Staat het onderwerp jij of je achter het werkwoord? Dan komt er geen t bij.',
   'tt-inversie-d': 'Staat het onderwerp jij of je achter het werkwoord? Dan komt er geen t bij, ook niet bij een stam op d.',
@@ -274,7 +289,7 @@ const ONTHOUD = {
   'vt-te': "Stam + te als de laatste letter in 't kofschip zit.",
   'vt-de': "Stam + de als de laatste letter niet in 't kofschip zit.",
   'vt-vz': 'Zwak werkwoord op -ven of -zen? Dan -de.',
-  'vt-leen-klank': 'Bij Engelse werkwoorden kijk je naar de laatste klank die je hoort.',
+  'vt-leen-klank': 'Bij Engelse werkwoorden luister je naar de laatste klank van de stam.',
   'vt-stam-t': 'Zwak werkwoord met een stam op t: + te geeft tt. Dat hoort zo.',
   'vt-stam-d': 'Zwak werkwoord met een stam op d: + de geeft dd. Dat hoort zo.',
   'vt-sterk': 'Sterk werkwoord in de verleden tijd: de klinker verandert, geen -te of -de.',
@@ -283,7 +298,7 @@ const ONTHOUD = {
   'vd-t': "Ge + stam + t als de laatste letter in 't kofschip zit.",
   'vd-d': "Ge + stam + d als de laatste letter niet in 't kofschip zit.",
   'vd-vz': 'Zwak werkwoord op -ven of -zen? Dan eindigt het voltooid deelwoord op een d.',
-  'vd-leen-klank': 'Bij Engelse werkwoorden kijk je naar de laatste klank die je hoort.',
+  'vd-leen-klank': 'Bij Engelse werkwoorden luister je naar de laatste klank van de stam.',
   'vd-stam-td': 'Zwak werkwoord met een stam op t of d? Dan komt er niets meer achter.',
   'vd-geen-ge': 'Voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon? Dan geen ge-.',
   'vd-sterk-geen-ge': 'Voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon? Dan geen ge-.',
@@ -294,7 +309,7 @@ const ONTHOUD = {
   'vd-onregelmatig': 'Een paar werkwoorden leer je los, zoals gekocht, gedacht en gebracht.',
   'od-e': 'Onvoltooid deelwoord bij een zelfstandig naamwoord: -ende.',
   'od-kaal': 'Onvoltooid deelwoord: het hele werkwoord + d.',
-  'od-een-het': 'Een, geen of zo\'n + het-woord: geen -e erachter.',
+  'od-een-het': 'Een, geen of zo\'n + het-woord in het enkelvoud: geen -e erachter.',
   'inf': 'Na willen, moeten, kunnen, mogen, gaan, zullen of te komt het hele werkwoord.',
   'gw': 'Een opdracht schrijf je met alleen de stam.',
   'gw-d': 'Een opdracht schrijf je met alleen de stam, ook bij een stam op d.',
@@ -302,7 +317,7 @@ const ONTHOUD = {
   'bvd-stam-t': 'Eerst het voltooid deelwoord maken, dan alleen een -e erachter.',
   'bvd-spelling': 'Eerst het voltooid deelwoord, dan de -e, dan de spelling netjes maken.',
   'bvd-sterk': 'Eindigt het voltooid deelwoord op -en? Dan geen -e erbij.',
-  'bvd-een-het': 'Een, geen of zo\'n + het-woord: geen -e erachter.',
+  'bvd-een-het': 'Een, geen of zo\'n + het-woord in het enkelvoud: geen -e erachter.',
 };
 
 /** Twee vormen die precies hetzelfde klinken (verhuist/verhuisd, wachten/wachtten). */
@@ -352,7 +367,7 @@ function afleiderZin(p, d, inf, ww, zin, c) {
       return klinktGelijk(d, c) ? `${d} klinkt hetzelfde, maar dat is de tegenwoordige tijd. Let op ${q(zin.tijd)}: het gebeurde in het verleden.` : `${d} is de tegenwoordige tijd. Let op ${q(zin.tijd)}: het gebeurde in het verleden.`;
     case 'vd-tt-gelijk': return `${d} klinkt hetzelfde, maar dat is de persoonsvorm (hij ${d}). Er staat al een hulpwerkwoord, dus je zoekt het voltooid deelwoord.`;
     case 'vd-t-d-omgedraaid':
-      if (isStamTd(ww) && ww.soort === 'zwak' && !ww.sch) return st.endsWith('d') ? `${d}: de stam ${st} eindigt al op een d. Die blijft staan, ook al hoor je een t.` : `${d}: de stam ${st} eindigt al op een t. Er komt niets meer achter, ook geen d.`;
+      if (isStamTd(ww) && ww.soort === 'zwak' && !ww.sch) return st.endsWith('d') ? `${d}: de stam ${st} eindigt al op een d. Die blijft staan, ook al hoor je een t.` : `${d}: de stam ${st} eindigt op een t. Die t blijft gewoon staan; je maakt er geen d van.`;
       if (ww.soort === 'zwak' && (!ww.sch || c === zwakVd(ww))) return `${d}: kijk nog eens naar 't kofschip. ${kofschipZin(inf, ww, ww.klank === 't' ? 'een t' : 'een d')}`;
       return `${d}: het voltooid deelwoord van ${inf} is ${c}. Dat eindigt op een ${c.at(-1)}.`;
     case 'vd-dt': return /td$/.test(d) ? `${d}: er komt maar één letter achter de stam, een t óf een d. Niet allebei.` : `${d}: een voltooid deelwoord eindigt nooit op dt.`;
@@ -374,8 +389,8 @@ function afleiderZin(p, d, inf, ww, zin, c) {
     case 'od-t-ipv-d': return `${d}: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent.`;
     case 'od-dt': return `${d}: achter het hele werkwoord komt alleen een d.`;
     case 'bvd-e-vergeten': return `${d} is het voltooid deelwoord zonder -e. Bij ${sl} komt er nog een -e achter.`;
-    case 'bvd-extra-t': return `${d}: hier staat een t te veel. Het voltooid deelwoord is ${V.vd}. Daar komt alleen een -e achter.`;
-    case 'bvd-te-ipv-de': return `${d}: het voltooid deelwoord is ${V.vd}, met een d. Daar komt alleen een -e achter.`;
+    case 'bvd-extra-t': return `${d}: hier staat een t te veel. Het voltooid deelwoord is ${V.vd}. Daar komt een -e achter, geen -te.`;
+    case 'bvd-te-ipv-de': return `${d}: het voltooid deelwoord is ${V.vd}, met een d. Daar komt een -e achter, geen -te.`;
     case 'bvd-t-d-omgedraaid': return `${d}: het voltooid deelwoord is ${V.vd}. Dat eindigt op een ${V.vd.at(-1)}, en die blijft staan.`;
     case 'bvd-n-teveel': return `${d}: er komt alleen een -e achter, geen -en.`;
     case 'bvd-e-teveel-sterk': return `${d}: ${V.vd} eindigt al op -en. Daar komt geen -e meer achter.`;
@@ -401,23 +416,23 @@ function hint2(regel, zin, inf, ww) {
     if (['vt-sterk', 'vt-sterk-jij', 'vt-onregelmatig'].includes(regel)) return [st1, 'Zeg: gisteren … ik. Verandert de klinker, en hoor je geen -te of -de? Dan is het een sterk werkwoord. Een paar werkwoorden leer je los.', 'Bij een sterk werkwoord komt er geen -te of -de achter. Is het onderwerp meervoud? Dan komt er -en achter, en schrijf je het volgens de gewone spellingregels.'];
     const st2 = 'Zeg: gisteren … ik. Hoor je -te of -de? Dan is het een zwak werkwoord.';
     if (regel === 'vt-vz') return [st1, st2, 'Eindigt het hele werkwoord op -ven of -zen? Kijk dan naar de v of z, niet naar de f of s van de stam.'];
-    if (regel === 'vt-leen-klank') return [st1, 'Is het een Engels werkwoord? De stam is dan het Engelse woord.', "Luister naar de laatste medeklinker in het hele werkwoord. Is die stemloos (trilt je keel niet)? Dan -te."];
-    return [st1, st2, "Wat is de stam, en eindigt die op t, k, f, s, ch of p? Is het onderwerp meervoud? Dan komt er nog een -n achter."];
+    if (regel === 'vt-leen-klank') return [st1, 'Is het een Engels werkwoord? De stam is dan het Engelse woord.', "Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort. Is die stemloos (trilt je keel niet)? Dan -te."];
+    return [st1, st2, "Wat is de stam, en eindigt die op t, k, f, s, ch, p of x? Is het onderwerp meervoud? Dan komt er nog een -n achter."];
   }
   if (s === 'vd') {
     const st1 = `Staat er een hulpwerkwoord (hebben, zijn of worden) in de zin, en hoort het werkwoord daarbij?${let_(zin.sleutel)}`;
-    if (['vd-sterk', 'vd-sterk-geen-ge', 'vd-gemengd', 'vd-onregelmatig'].includes(regel)) return [st1, 'Zeg: ik heb ge… Eindigt het op -en, of verandert de klinker? Dan is het een sterk of onregelmatig werkwoord.', 'Heeft het werkwoord een voorvoegsel zonder klemtoon (be-, ge-, her-, er-, ont-, ver-)? Dan komt er geen ge- voor.'];
+    if (['vd-sterk', 'vd-sterk-geen-ge', 'vd-gemengd', 'vd-onregelmatig'].includes(regel)) return [st1, 'Maak de zin: ik heb … (of: het is …). Eindigt het op -en, of verandert de klinker? Dan is het een sterk, gemengd of onregelmatig werkwoord.', 'Heeft het werkwoord een voorvoegsel zonder klemtoon (be-, ge-, her-, er-, ont-, ver-)? Dan komt er geen ge- voor.'];
     if (regel === 'vd-scheidbaar' || regel === 'vd-scheidbaar-geen-ge') return [st1, 'Kun je het werkwoord splitsen (ik bel op)? Dan is het scheidbaar en komt de ge- in het midden.', 'Heeft het tweede deel al een voorvoegsel zonder klemtoon (be-, ge-, her-, er-, ont-, ver-)? Dan komt er geen ge- bij.'];
     if (regel === 'vd-vz') return [st1, 'Wat is de stam? Eindigt het hele werkwoord op -ven of -zen?', 'Bij -ven of -zen kijk je naar de v of z, niet naar de f of s van de stam.'];
-    if (regel === 'vd-leen-klank') return [st1, 'Is het een Engels werkwoord? De stam is dan het Engelse woord.', "Luister naar de laatste medeklinker in het hele werkwoord. Is die stemloos (trilt je keel niet)? Dan een t."];
-    if (regel === 'vd-geen-ge') return [st1, 'Heeft het werkwoord een voorvoegsel zonder klemtoon (be-, ge-, her-, er-, ont-, ver-)? Dan komt er geen ge- voor.', k.vz ? 'Eindigt het hele werkwoord op -ven of -zen? Kijk dan naar de v of z.' : "Eindigt de stam al op t of d? Zo niet: eindigt de stam op t, k, f, s, ch of p?"];
-    return [st1, 'Wat is de stam? Eindigt die al op een t of d?', "Zo niet: eindigt de stam op t, k, f, s, ch of p?"];
+    if (regel === 'vd-leen-klank') return [st1, 'Is het een Engels werkwoord? De stam is dan het Engelse woord.', "Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort. Is die stemloos (trilt je keel niet)? Dan een t."];
+    if (regel === 'vd-geen-ge') return [st1, 'Heeft het werkwoord een voorvoegsel zonder klemtoon (be-, ge-, her-, er-, ont-, ver-)? Dan komt er geen ge- voor.', k.vz ? 'Eindigt het hele werkwoord op -ven of -zen? Kijk dan naar de v of z.' : "Eindigt de stam al op t of d? Zo niet: eindigt de stam op t, k, f, s, ch, p of x?"];
+    return [st1, 'Wat is de stam? Eindigt die al op een t of d?', "Zo niet: eindigt de stam op t, k, f, s, ch, p of x?"];
   }
   if (s === 'od.e' || s === 'od.kaal') return ['Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.', `Hoort het bij een zelfstandig naamwoord, of staat het los in de zin?${zin.eenHet || s === 'od.e' ? let_(zin.sleutel) : ''}`, s === 'od.kaal' && !zin.eenHet ? 'Het onvoltooid deelwoord is het hele werkwoord + d. Welke letter hoort er dan aan het eind?' : EEN_HET];
-  if (s === 'inf') return [`Welk ander werkwoord staat er in de zin?${let_(zin.sleutel)}`, 'Staat de open plek achteraan, bij dat werkwoord?', 'Welke vorm komt er na zo’n werkwoord?'];
-  if (s === 'gw') return ['Is dit een opdracht zonder onderwerp (geen jij of u erbij)?', 'Wat is de stam (ik …)?', 'Welke vorm hoort bij een opdracht?'];
+  if (s === 'inf') return [/^te$/i.test(zin.sleutel || '') ? 'Staat er ‘te’ vlak voor de open plek?' : `Welk ander werkwoord staat er in de zin?${let_(zin.sleutel)}`, 'Staat de open plek achteraan, bij dat werkwoord?', 'Welke vorm komt er na zo’n werkwoord?'];
+  if (s === 'gw') return [jeNa(zin) ? 'Is dit een opdracht zonder onderwerp? Het ‘je’ achter het werkwoord betekent hier jezelf of jouw.' : 'Is dit een opdracht zonder onderwerp (geen jij of u erbij)?', 'Wat is de stam (ik …)?', 'Welke vorm hoort bij een opdracht?'];
   // bvd: eerst het juiste voltooid deelwoord, dan de -e
-  let vd = 'Wat is het voltooid deelwoord? Zeg: ik heb ge… of: het is ge…';
+  let vd = 'Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …).';
   if (/en$/.test(ww.vormen.vd)) vd += ' Eindigt het op -en? Dan is het een sterk werkwoord.';
   else if (ww.vormen.vd !== zwakVd(ww)) vd += ' Sommige werkwoorden zijn onregelmatig; die leer je los.';
   else if (ww.sch) vd += ' Is het werkwoord scheidbaar? Dan komt de ge- in het midden.';

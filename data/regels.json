@@ -10,7 +10,7 @@
      "Is het een opdracht zonder onderwerp (Pak het boek.)? Dan is het een gebiedende wijs.",
      "Is het de persoonsvorm? Zet de zin in een andere tijd (nu of vroeger), maak hem meervoud of maak er een vraag van. Het werkwoord dat dan van vorm of plek verandert, is de persoonsvorm.",
      "Persoonsvorm? Bepaal de tijd met tijdwoorden (gisteren, vorig jaar, vroeger, nu, morgen) en met de tijd van de andere werkwoorden. Zoek het onderwerp: wie of wat doet het? Is het enkelvoud of meervoud? Is jij, je of u het onderwerp, en staat het voor of achter de persoonsvorm? Betekent je hier jouw?",
-     "Geen persoonsvorm? Gebruik de vervangtruc: zet er een sterk werkwoord in, bijvoorbeeld schrijven. Past schrijven (ik wil schrijven)? Dan is het het hele werkwoord. Past geschreven (ik heb geschreven, de geschreven brief)? Dan is het een voltooid deelwoord. Past schrijvend(e)? Dan is het een onvoltooid deelwoord.",
+     "Geen persoonsvorm? Gebruik de vervangtruc: zet er een sterk werkwoord in, bijvoorbeeld schrijven. Past schrijft of schreef? Dan is het een persoonsvorm. Past schrijven (ik wil schrijven)? Dan is het het hele werkwoord. Past geschreven (ik heb geschreven, de geschreven brief)? Dan is het een voltooid deelwoord. Past schrijvend(e)? Dan is het een onvoltooid deelwoord.",
      "Klinken twee opties hetzelfde (verhuist en verhuisd, verbrandde en verbrande)? Bepaal dan eerst met de vervangtruc welke vorm het is. Daarna weet je welke spelling hoort.",
      "Hoort het voltooid of onvoltooid deelwoord bij een zelfstandig naamwoord (de geschreven brief, de huilende peuter)? Dan moet je straks nog kijken of er een -e achter komt."
     ]
@@ -20,7 +20,7 @@
     "tekst": "De stam is meestal de ik-vorm: ik werk, ik word, ik leef, ik reis. Werkt dat niet (het regent), haal dan -en van het hele werkwoord af en pas de spelling aan.",
     "punten": [
      "Eindigt een Nederlands werkwoord op -ven of -zen (leven, reizen)? In de stam wordt dat een f of s: ik leef, ik reis.",
-     "Een lange aa, ee, oo of uu schrijf je dubbel als er nog een medeklinker achter komt: lopen, ik loop. Bij ie, oe, eu en ui verandert er niets: kiezen, ik kies.",
+     "In de stam schrijf je een lange aa, ee, oo of uu dubbel (ik loop). In het hele werkwoord staat die klank aan het eind van een lettergreep (lo-pen), en dan schrijf je één klinker. Bij ie, oe, eu en ui verandert er niets: kiezen, ik kies.",
      "Een dubbele medeklinker wordt enkel: zetten, ik zet.",
      "Engelse werkwoorden: de stam is het Engelse woord (race, update, crash). Een e blijft staan."
     ]
@@ -32,14 +32,14 @@
      "Tegenwoordige tijd: ik + stam. Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud? Dan stam + t. Eindigt de stam al op t? Dan geen extra t. Is jij of je het onderwerp en staat het achter het werkwoord? Dan komt er geen t bij. Is u het onderwerp? Dan wel een t, ook achteraan. Meervoud: het hele werkwoord.",
      "Zwak of sterk? Zeg: gisteren … ik. Hoor je -te of -de (werkte, woonde)? Dan is het zwak. Verandert de klinker en hoor je geen -te of -de (liep, schreef)? Dan is het sterk. Een paar werkwoorden zijn onregelmatig en leer je los (kocht, dacht, bracht). Voor het voltooid deelwoord zeg je: ik heb ge… en luister of het op -en eindigt (gevraagd, gelachen).",
      "Verleden tijd, zwak werkwoord: eindigt de stam op t, k, f, s, ch, p of x (de letters van 't kofschip)? Dan stam + te(n). Anders stam + de(n). Eindigt het hele werkwoord op -ven of -zen? Kijk dan naar de v of z: -de(n). Eindigt de stam al op t of d? Dan krijg je tt of dd (zette, landde).",
-     "Verleden tijd, sterk werkwoord: de klinker verandert (lopen, liep). Er komt geen extra t bij, ook niet bij jij. Meervoud: + en, en dan de gewone spellingregels (liepen, schreven, lazen, wonnen).",
+     "Verleden tijd, sterk werkwoord: de klinker verandert (lopen, liep). Er komt geen extra t bij, ook niet bij jij. Voor het meervoud zeg je het hardop met wij (wij liepen, wij schreven, wij zaten).",
      "Voltooid deelwoord, zwak werkwoord: ge + stam + t of d, met dezelfde regel van 't kofschip en dezelfde -ven/-zen-regel (geleefd, gereisd). Eindigt de stam al op t of d? Dan komt er niets meer achter (gezet, geland).",
      "Voltooid deelwoord, sterk werkwoord: ge + … + en, soms met een andere klinker (gelopen, geschreven, gebroken). Sommige werkwoorden zijn gemengd (lachen, lachte, gelachen).",
-     "Geen ge-: bij het voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon (betaald, verteld), en bij andere werkwoorden die je niet kunt splitsen en die de klemtoon niet vooraan hebben (voorspeld). Scheidbaar werkwoord (opbellen: ik bel op)? Dan komt de ge- in het midden (opgebeld).",
+     "Geen ge-: bij het voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon (betaald, verteld), en bij samengestelde werkwoorden met voor-, over-, door-, onder-, om- of mis- die je niet kunt splitsen (voorspeld, overlegd). Scheidbaar werkwoord (opbellen: ik bel op)? Dan komt de ge- in het midden (opgebeld).",
      "Voltooid deelwoord bij een zelfstandig naamwoord: + e (de gemaakte afspraak), en schrijf het dan volgens de gewone spellingregels (de gezette koffie). Geen -e als het op -en eindigt (het gebroken glas), en ook niet bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een gekookt ei, gekookt water).",
      "Onvoltooid deelwoord: hele werkwoord + d (lachend). Bij een zelfstandig naamwoord + e (een lachende baby), behalve bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een lachend kind, kokend water).",
      "Gebiedende wijs: de stam, zonder extra t (Word niet boos.).",
-     "Engelse werkwoorden: dezelfde regels, maar je luistert naar de laatste medeklinker in het hele werkwoord (ra-cen: s, dus racete). Is die stemloos, zoals de klanken van 't kofschip of sj (je keel trilt niet)? Dan -te of -t."
+     "Engelse werkwoorden: dezelfde regels, maar je luistert naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (ra-cen: s, dus racete). Is die stemloos, zoals de klanken van 't kofschip of sj (je keel trilt niet)? Dan -te of -t."
     ]
    }
   ]
@@ -250,7 +250,7 @@
    ]
   },
   "vt-leen-klank": {
-   "regel": "Bij een Engels werkwoord is de stam het Engelse woord (race, update, crash). Luister naar de laatste medeklinker in het hele werkwoord (ra-cen: s, sa-ven: v). Is die stemloos, zoals de klanken van 't kofschip of sj (je keel trilt niet)? Dan -te, anders -de.",
+   "regel": "Bij een Engels werkwoord is de stam het Engelse woord (race, update, crash). Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (ra-cen: s, sa-ven: v). Is die stemloos, zoals de klanken van 't kofschip of sj (je keel trilt niet)? Dan -te, anders -de.",
    "voorbeelden": [
     {
      "ww": "racen",
@@ -307,7 +307,7 @@
    ]
   },
   "vt-sterk": {
-   "regel": "Een sterk werkwoord verandert in de verleden tijd van klinker (lopen, liep). Er komt geen -te of -de achter. Meervoud: + en, en dan schrijf je het volgens de gewone spellingregels (liepen, schreven, lazen, wonnen).",
+   "regel": "Een sterk werkwoord verandert in de verleden tijd van klinker (lopen, liep). Er komt geen -te of -de achter. Voor het meervoud zeg je het hardop met wij (wij liepen, wij schreven, wij zaten) en schrijf je het volgens de gewone spellingregels.",
    "voorbeelden": [
     {
      "ww": "lopen",
@@ -358,7 +358,7 @@
    ]
   },
   "vd-t": {
-   "regel": "Voltooid deelwoord van een zwak werkwoord: eindigt de stam op t, k, f, s, ch, p of x? Dan ge + stam + t. Let op: eindigt het hele werkwoord op -ven of -zen, kijk dan naar de v of z.",
+   "regel": "Voltooid deelwoord van een zwak werkwoord: eindigt de stam op t, k, f, s, ch, p of x (de letters van 't kofschip)? Dan ge + stam + t. Eindigt de stam al op een t? Dan komt er niets meer achter. Let op: eindigt het hele werkwoord op -ven of -zen, kijk dan naar de v of z.",
    "voorbeelden": [
     {
      "ww": "maken",
@@ -375,7 +375,7 @@
    ]
   },
   "vd-d": {
-   "regel": "Voltooid deelwoord van een zwak werkwoord: eindigt de stam níet op t, k, f, s, ch, p of x? Dan ge + stam + d.",
+   "regel": "Voltooid deelwoord van een zwak werkwoord: eindigt de stam níet op t, k, f, s, ch, p of x? Dan ge + stam + d. Eindigt de stam al op een d? Dan komt er niets meer achter.",
    "voorbeelden": [
     {
      "ww": "huilen",
@@ -409,7 +409,7 @@
    ]
   },
   "vd-leen-klank": {
-   "regel": "Bij een Engels werkwoord is de stam het Engelse woord (race, like, time). Luister naar de laatste medeklinker in het hele werkwoord. Is die stemloos (je keel trilt niet)? Dan ge + stam + t, anders ge + stam + d.",
+   "regel": "Bij een Engels werkwoord is de stam het Engelse woord (race, like, time). Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort. Is die stemloos (je keel trilt niet)? Dan ge + stam + t, anders ge + stam + d. Eindigt de stam al op t of d? Dan komt er niets meer achter (geprint, gedownload).",
    "voorbeelden": [
     {
      "ww": "racen",
@@ -449,7 +449,7 @@
    ]
   },
   "vd-geen-ge": {
-   "regel": "Heeft het werkwoord het voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon (beTAlen, verTELlen)? Dan komt er geen ge- voor het voltooid deelwoord. Let op: bij verven, geven en beven is dat geen voorvoegsel (geverfd, gegeven, gebeefd). Ook andere werkwoorden die je niet kunt splitsen en die de klemtoon niet vooraan hebben, krijgen geen ge- (voorspellen, voorspeld).",
+   "regel": "Heeft het werkwoord het voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon (beTAlen, verTELlen)? Dan komt er geen ge- voor het voltooid deelwoord. Let op: bij verven, geven en beven is dat geen voorvoegsel (geverfd, gegeven, gebeefd). Ook samengestelde werkwoorden met voor-, over-, door-, onder-, om- of mis- die je niet kunt splitsen, krijgen geen ge- (voorspellen, voorspeld; overleggen, overlegd).",
    "voorbeelden": [
     {
      "ww": "betalen",
@@ -466,7 +466,7 @@
    ]
   },
   "vd-sterk-geen-ge": {
-   "regel": "Heeft het werkwoord het voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon? Dan komt er geen ge- voor. Een sterk werkwoord eindigt dan vaak op -en.",
+   "regel": "Heeft het werkwoord het voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon? Dan komt er geen ge- voor. Bij een sterk werkwoord eindigt het voltooid deelwoord op -en.",
    "voorbeelden": [
     {
      "ww": "beginnen",
@@ -693,7 +693,7 @@
    ]
   },
   "bvd-stam-t": {
-   "regel": "Maak eerst het voltooid deelwoord. Zet er dan alleen een -e achter; er komt geen extra t bij (verwacht, de verwachte regen; verwachtte is de verleden tijd).",
+   "regel": "Maak eerst het voltooid deelwoord (verwacht). Zet er dan een -e achter, geen -te (de verwachte regen; verwachtte is de verleden tijd). Daarna gelden de gewone spellingregels (de gezette koffie).",
    "voorbeelden": [
     {
      "ww": "verwachten",

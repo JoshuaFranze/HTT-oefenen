@@ -33,7 +33,7 @@ for (const v of lijst) {
     `**Regel:** ${v.regel}  `,
     `**Uitleg:** ${v.uitleg.kort}  `,
     ...v.uitleg.stappen.map((s, i) => `Stap ${i + 1}: ${s}  `),
-    ...Object.entries(v.uitleg.perAfleider).map(([, t]) => `Bij een fout antwoord: ${t}  `),
+    ...Object.entries(v.uitleg.perAfleider).map(([, t]) => `Bij deze afleider: ${t}  `),
     `**Onthoud:** ${v.uitleg.onthoud}  `,
     ...v.hints.map((h, i) => `**Hint ${i + 1}:** ${h.replace(/\n/g, ' / ')}  `),
     '',
