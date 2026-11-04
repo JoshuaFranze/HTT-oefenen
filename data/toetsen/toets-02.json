@@ -1766,14 +1766,14 @@
     }
    ],
    "uitleg": {
-    "kort": "updaten is een Engels werkwoord. De stam is het Engelse woord: update. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (up-da-ten): een t. De t is stemloos, net als de klanken van 't kofschip, dus een t. Het wordt ge + update + t: geüpdatet.",
+    "kort": "updaten is een Engels werkwoord. De stam is het Engelse woord: update. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (up-da-ten): een t. De t zit in 't kofschip, dus een t. Het wordt ge + update + t: geüpdatet.",
     "stappen": [
      "Welke vorm? Er staat al een vorm van hebben, zijn of worden in de zin (‘Heb’), en het werkwoord hoort daarbij. Dus dit is een voltooid deelwoord.",
      "De stam: ik update (het Engelse woord, met de e).",
      "De regel: Bij een Engels werkwoord is de stam het Engelse woord, met de e (update, like, time). Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort. Is die stemloos (je keel trilt niet)? Dan ge + stam + t, anders ge + stam + d. Alleen als de stam zelf op een t of d eindigt (print, download), komt er niets meer achter."
     ],
     "perAfleider": {
-     "geüpdated": "geüpdated: luister nog eens naar de klank. updaten is een Engels werkwoord. De stam is het Engelse woord: update. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (up-da-ten): een t. De t is stemloos, net als de klanken van 't kofschip, dus een t.",
+     "geüpdated": "geüpdated: luister nog eens naar de klank. updaten is een Engels werkwoord. De stam is het Engelse woord: update. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (up-da-ten): een t. De t zit in 't kofschip, dus een t.",
      "geüpdatete": "geüpdatete: na een hulpwerkwoord komt er geen -e achter het voltooid deelwoord."
     },
     "onthoud": "Bij Engelse werkwoorden luister je naar de laatste klank van de stam."
@@ -2571,5 +2571,5 @@
    "goed": 0
   }
  ],
- "hash": "60c290af15f0aa0d"
+ "hash": "868c26c6f2b5dc16"
 }

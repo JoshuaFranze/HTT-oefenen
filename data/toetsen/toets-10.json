@@ -49,48 +49,48 @@
    "goed": 2
   },
   {
-   "id": "vt-1106",
-   "ww": "rekenen",
+   "id": "vt-2001",
+   "ww": "bakken",
    "categorie": "vt",
    "slot": "vt.ev",
-   "regel": "vt-de",
+   "regel": "vt-te",
    "instinker": false,
-   "zin": "Gisteren ___ mijn vader samen met mij de kosten van de verbouwing uit.",
-   "antwoord": "rekende",
+   "zin": "Gisteren ___ mijn opa een taart voor de buurt.",
+   "antwoord": "bakte",
    "afleiders": [
     {
-     "vorm": "rekente",
+     "vorm": "bakde",
      "soort": "b",
      "patroon": "vt-kofschip-omgedraaid"
     },
     {
-     "vorm": "rekenden",
+     "vorm": "bakten",
      "soort": "a",
      "patroon": "vt-mv-ipv-ev"
     }
    ],
    "uitleg": {
-    "kort": "De laatste letter van de stam is een n. Die zit niet in 't kofschip, dus -de. Zo krijg je: rekende.",
+    "kort": "De laatste letter van de stam is een k. Die zit in 't kofschip, dus -te. Zo krijg je: bakte.",
     "stappen": [
-     "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘Gisteren’). Het onderwerp is ‘mijn vader’.",
-     "De stam: ik reken.",
-     "De regel: Verleden tijd van een zwak werkwoord: eindigt de stam níet op t, k, f, s, ch, p of x? Dan stam + de, bij meervoud + den. Bij Engelse werkwoorden kijk je naar de klank."
+     "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘Gisteren’). Het onderwerp is ‘mijn opa’.",
+     "De stam: ik bak.",
+     "De regel: Verleden tijd van een zwak werkwoord: eindigt de stam op t, k, f, s, ch, p of x (de letters van 't kofschip)? Dan stam + te, bij meervoud + ten. Let op: eindigt het hele werkwoord op -ven of -zen, kijk dan naar de v of z."
     ],
     "perAfleider": {
-     "rekente": "rekente: kijk nog eens naar 't kofschip. De laatste letter van de stam is een n. Die zit niet in 't kofschip, dus -de.",
-     "rekenden": "rekenden is de vorm voor meervoud. ‘mijn vader’ is enkelvoud."
+     "bakde": "bakde: kijk nog eens naar 't kofschip. De laatste letter van de stam is een k. Die zit in 't kofschip, dus -te.",
+     "bakten": "bakten is de vorm voor meervoud. ‘mijn opa’ is enkelvoud."
     },
-    "onthoud": "Zwak werkwoord en de stam eindigt niet op een letter van 't kofschip? Stam + de. Bij Engelse werkwoorden luister je naar de klank."
+    "onthoud": "Zwak werkwoord en de stam eindigt op een letter van 't kofschip? Stam + te. Bij -ven of -zen kijk je naar de v of z."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
     "• Speelt het zich nu af of in het verleden? Let op ‘Gisteren’.\n• Zeg: gisteren … ik. Hoor je -te of -de? Dan is het een zwak werkwoord.\n• Wat is de stam, en eindigt die op t, k, f, s, ch, p of x? Is het onderwerp meervoud? Dan komt er nog een -n achter.",
-    "Verleden tijd van een zwak werkwoord: eindigt de stam níet op t, k, f, s, ch, p of x? Dan stam + de, bij meervoud + den. Bij Engelse werkwoorden kijk je naar de klank.\nVoorbeeld: De baby huilde de hele nacht."
+    "Verleden tijd van een zwak werkwoord: eindigt de stam op t, k, f, s, ch, p of x (de letters van 't kofschip)? Dan stam + te, bij meervoud + ten. Let op: eindigt het hele werkwoord op -ven of -zen, kijk dan naar de v of z.\nVoorbeeld: Vorig jaar maakte ik een fietstocht door Limburg."
    ],
    "opties": [
-    "rekende",
-    "rekente",
-    "rekenden"
+    "bakte",
+    "bakde",
+    "bakten"
    ],
    "goed": 0
   },
@@ -1354,14 +1354,14 @@
     }
    ],
    "uitleg": {
-    "kort": "racen is een Engels werkwoord. De stam is het Engelse woord: race. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (ra-cen): een s. De s is stemloos, net als de klanken van 't kofschip, dus -te. Zo krijg je: racete.",
+    "kort": "racen is een Engels werkwoord. De stam is het Engelse woord: race. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (ra-cen): een s. De s zit in 't kofschip, dus -te. Zo krijg je: racete.",
     "stappen": [
      "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘Afgelopen zomer’). Het onderwerp is ‘mijn broer’.",
      "De stam: ik race (het Engelse woord, met de e).",
      "De regel: Bij een Engels werkwoord is de stam het Engelse woord (race, update, crash). Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (ra-cen: s, sa-ven: v). Is die stemloos, zoals de klanken van 't kofschip of sj (je keel trilt niet)? Dan -te, anders -de."
     ],
     "perAfleider": {
-     "racede": "racede: luister nog eens naar de klank. racen is een Engels werkwoord. De stam is het Engelse woord: race. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (ra-cen): een s. De s is stemloos, net als de klanken van 't kofschip, dus -te.",
+     "racede": "racede: luister nog eens naar de klank. racen is een Engels werkwoord. De stam is het Engelse woord: race. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (ra-cen): een s. De s zit in 't kofschip, dus -te.",
      "raceten": "raceten is de vorm voor meervoud. ‘mijn broer’ is enkelvoud."
     },
     "onthoud": "Bij Engelse werkwoorden luister je naar de laatste klank van de stam."
@@ -1425,47 +1425,47 @@
    "goed": 1
   },
   {
-   "id": "od-1081",
-   "ww": "vliegen",
+   "id": "od-2019",
+   "ww": "wachten",
    "categorie": "od",
    "slot": "od.e",
    "regel": "od-e",
    "instinker": false,
-   "zin": "Een ___ vogel streek neer op het dak.",
-   "antwoord": "vliegende",
+   "zin": "De ___ gasten kregen een kop thee.",
+   "antwoord": "wachtende",
    "afleiders": [
     {
-     "vorm": "vliegend",
+     "vorm": "wachtend",
      "soort": "a",
      "patroon": "od-e-vergeten"
     },
     {
-     "vorm": "vliegente",
+     "vorm": "wachtente",
      "soort": "b",
      "patroon": "od-t-ipv-d"
     }
    ],
    "uitleg": {
-    "kort": "Het hoort bij het zelfstandig naamwoord ‘vogel’. Er staat ‘een’ voor, maar ‘vogel’ is een de-woord. Dan komt er wel een -e achter. Zo krijg je: vliegende.",
+    "kort": "Het hoort bij het zelfstandig naamwoord ‘gasten’. Er staat ‘de’ voor, dus komt er een -e achter. Zo krijg je: wachtende.",
     "stappen": [
-     "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij het zelfstandig naamwoord ‘vogel’.",
+     "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij het zelfstandig naamwoord ‘gasten’.",
      "De regel: Onvoltooid deelwoord: hele werkwoord + d. Hoort het bij een zelfstandig naamwoord (de huilende peuter)? Dan komt er een -e achter. Behalve bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een huilend kind, kokend water)."
     ],
     "perAfleider": {
-     "vliegend": "vliegend: het hoort bij ‘vogel’. Dan komt er een -e achter.",
-     "vliegente": "vliegente: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent."
+     "wachtend": "wachtend: het hoort bij ‘gasten’. Dan komt er een -e achter.",
+     "wachtente": "wachtente: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent."
     },
     "onthoud": "Onvoltooid deelwoord bij een zelfstandig naamwoord: meestal -ende. Niet bij een, geen of zo'n + het-woord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "• Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\n• Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘vogel’.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "• Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\n• Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘gasten’.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
     "Onvoltooid deelwoord: hele werkwoord + d. Hoort het bij een zelfstandig naamwoord (de huilende peuter)? Dan komt er een -e achter. Behalve bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een huilend kind, kokend water).\nVoorbeeld: De huilende peuter wilde zijn knuffel."
    ],
    "opties": [
-    "vliegend",
-    "vliegente",
-    "vliegende"
+    "wachtend",
+    "wachtente",
+    "wachtende"
    ],
    "goed": 2
   },
@@ -2159,47 +2159,47 @@
    "goed": 1
   },
   {
-   "id": "od-1106",
-   "ww": "kijken",
+   "id": "od-2020",
+   "ww": "smelten",
    "categorie": "od",
-   "slot": "od.kaal",
-   "regel": "od-kaal",
+   "slot": "od.e",
+   "regel": "od-e",
    "instinker": false,
-   "zin": "___ liep het meisje de winkel in.",
-   "antwoord": "Kijkend",
+   "zin": "Ik at snel het ___ ijsje op.",
+   "antwoord": "smeltende",
    "afleiders": [
     {
-     "vorm": "Kijkent",
-     "soort": "b",
-     "patroon": "od-t-ipv-d"
+     "vorm": "smeltend",
+     "soort": "a",
+     "patroon": "od-e-vergeten"
     },
     {
-     "vorm": "Kijkendt",
+     "vorm": "smeltente",
      "soort": "b",
-     "patroon": "od-dt"
+     "patroon": "od-t-ipv-d"
     }
    ],
    "uitleg": {
-    "kort": "Het onvoltooid deelwoord is het hele werkwoord + d: kijken + d = kijkend.",
+    "kort": "Het hoort bij het zelfstandig naamwoord ‘ijsje’. Er staat ‘het’ voor, dus komt er een -e achter. Zo krijg je: smeltende.",
     "stappen": [
-     "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het staat los in de zin en zegt hoe iemand iets doet.",
-     "De regel: Onvoltooid deelwoord: het hele werkwoord + d. Staat het los in de zin (Huilend liep hij weg)? Dan schrijf je het gewoon zo."
+     "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij het zelfstandig naamwoord ‘ijsje’.",
+     "De regel: Onvoltooid deelwoord: hele werkwoord + d. Hoort het bij een zelfstandig naamwoord (de huilende peuter)? Dan komt er een -e achter. Behalve bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een huilend kind, kokend water)."
     ],
     "perAfleider": {
-     "Kijkent": "Kijkent: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent.",
-     "Kijkendt": "Kijkendt: achter het hele werkwoord komt alleen een d."
+     "smeltend": "smeltend: het hoort bij ‘ijsje’. Dan komt er een -e achter.",
+     "smeltente": "smeltente: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent."
     },
-    "onthoud": "Onvoltooid deelwoord: het hele werkwoord + d."
+    "onthoud": "Onvoltooid deelwoord bij een zelfstandig naamwoord: meestal -ende. Niet bij een, geen of zo'n + het-woord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "• Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\n• Hoort het bij een zelfstandig naamwoord, of staat het los in de zin?\n• Het onvoltooid deelwoord is het hele werkwoord + d. Welke letter hoort er dan aan het eind?",
-    "Onvoltooid deelwoord: het hele werkwoord + d. Staat het los in de zin (Huilend liep hij weg)? Dan schrijf je het gewoon zo.\nVoorbeeld: Huilend liep de peuter naar zijn vader."
+    "• Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\n• Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘ijsje’.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "Onvoltooid deelwoord: hele werkwoord + d. Hoort het bij een zelfstandig naamwoord (de huilende peuter)? Dan komt er een -e achter. Behalve bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een huilend kind, kokend water).\nVoorbeeld: De huilende peuter wilde zijn knuffel."
    ],
    "opties": [
-    "Kijkent",
-    "Kijkend",
-    "Kijkendt"
+    "smeltend",
+    "smeltende",
+    "smeltente"
    ],
    "goed": 1
   },
@@ -2340,36 +2340,36 @@
    "goed": 0
   },
   {
-   "id": "gw-1070",
-   "ww": "kiezen",
+   "id": "gw-1054",
+   "ww": "geven",
    "categorie": "gw",
    "slot": "gw",
    "regel": "gw",
    "instinker": false,
-   "zin": "___ een boek dat bij het weer past.",
-   "antwoord": "Kies",
+   "zin": "___ een compliment aan de kok.",
+   "antwoord": "Geef",
    "afleiders": [
     {
-     "vorm": "Kiest",
+     "vorm": "Geeft",
      "soort": "a",
      "patroon": "gw-met-t"
     },
     {
-     "vorm": "Kiez",
+     "vorm": "Geev",
      "soort": "b",
-     "patroon": "gw-z-gehouden"
+     "patroon": "gw-v-gehouden"
     }
    ],
    "uitleg": {
-    "kort": "De gebiedende wijs is de stam: kies.",
+    "kort": "De gebiedende wijs is de stam: geef.",
     "stappen": [
      "Welke vorm? Dit is een opdracht zonder onderwerp. Dat heet de gebiedende wijs.",
-     "De stam: ik kies.",
+     "De stam: ik geef.",
      "De regel: Een gebiedende wijs is een opdracht zonder onderwerp. Het is de stam (bij zijn: wees). Eindigt de stam op t, dan staat die t er gewoon (Zet de stoel neer). Staat er u bij (Komt u binnen), dan is het geen gebiedende wijs met alleen de stam, maar een vorm met t."
     ],
     "perAfleider": {
-     "Kiest": "Kiest is de vorm voor hij of zij. Een opdracht zonder onderwerp schrijf je met alleen de stam.",
-     "Kiez": "Kiez: de stam schrijf je met een s (kies), niet met een z."
+     "Geeft": "Geeft is de vorm voor hij of zij. Een opdracht zonder onderwerp schrijf je met alleen de stam.",
+     "Geev": "Geev: de stam schrijf je met een f (geef), niet met een v."
     },
     "onthoud": "Een opdracht schrijf je met alleen de stam."
    },
@@ -2379,9 +2379,9 @@
     "Een gebiedende wijs is een opdracht zonder onderwerp. Het is de stam (bij zijn: wees). Eindigt de stam op t, dan staat die t er gewoon (Zet de stoel neer). Staat er u bij (Komt u binnen), dan is het geen gebiedende wijs met alleen de stam, maar een vorm met t.\nVoorbeeld: Werk rustig door tot de bel gaat."
    ],
    "opties": [
-    "Kiest",
-    "Kies",
-    "Kiez"
+    "Geeft",
+    "Geef",
+    "Geev"
    ],
    "goed": 1
   },
@@ -2523,51 +2523,51 @@
    "goed": 0
   },
   {
-   "id": "bvd-1025",
-   "ww": "beloven",
+   "id": "bvd-1133",
+   "ww": "beantwoorden",
    "categorie": "bvd",
    "slot": "bvd.kaal",
    "regel": "bvd-een-het",
    "instinker": true,
-   "zin": "Dat is een ___ cadeau voor mijn nichtje.",
-   "antwoord": "beloofd",
+   "zin": "Ik zocht in mijn mailbox naar een snel ___ bericht.",
+   "antwoord": "beantwoord",
    "afleiders": [
     {
-     "vorm": "beloofde",
+     "vorm": "beantwoorde",
      "soort": "a",
      "patroon": "bvd-e-teveel"
     },
     {
-     "vorm": "belooft",
-     "soort": "a",
+     "vorm": "beantwoort",
+     "soort": "b",
      "patroon": "bvd-t-d-omgedraaid"
     }
    ],
    "uitleg": {
-    "kort": "Het hoort bij een het-woord met ‘een’ ervoor (‘een cadeau’). Dan komt er geen -e achter: beloofd.",
+    "kort": "Het hoort bij een het-woord met ‘een’ ervoor (‘een bericht’). Dan komt er geen -e achter: beantwoord.",
     "stappen": [
-     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘cadeau’. Je gebruikt het als bijvoeglijk naamwoord.",
-     "De stam: ik beloof.",
+     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘bericht’. Je gebruikt het als bijvoeglijk naamwoord.",
+     "De stam: ik beantwoord.",
      "De regel: Voltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor (een gekookt ei, gekookt water): geen -e. Met het ervoor wel (het gekookte ei). Met mijn, dit of het ervoor komt er wel een -e."
     ],
     "perAfleider": {
-     "beloofde": "beloofde: na ‘een’ met een het-woord komt er geen -e achter.",
-     "belooft": "belooft: het voltooid deelwoord is beloofd. Dat eindigt op een d, en die blijft staan."
+     "beantwoorde": "beantwoorde: na ‘een’ met een het-woord komt er geen -e achter.",
+     "beantwoort": "beantwoort: het voltooid deelwoord is beantwoord. Dat eindigt op een d, en die blijft staan."
     },
     "onthoud": "Een, geen of zo'n + het-woord in het enkelvoud: geen -e erachter."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘cadeau’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …). Let op het voorvoegsel be- zonder klemtoon: dan geen ge-.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘bericht’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …). Let op het voorvoegsel be- zonder klemtoon: dan geen ge-.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
     "Voltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor (een gekookt ei, gekookt water): geen -e. Met het ervoor wel (het gekookte ei). Met mijn, dit of het ervoor komt er wel een -e.\nVoorbeeld: Ik eet elke ochtend een gekookt ei."
    ],
    "opties": [
-    "beloofd",
-    "beloofde",
-    "belooft"
+    "beantwoord",
+    "beantwoorde",
+    "beantwoort"
    ],
    "goed": 0
   }
  ],
- "hash": "8879f0fcc614e86e"
+ "hash": "b72c135dab82599e"
 }

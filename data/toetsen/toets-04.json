@@ -1454,7 +1454,7 @@
     ],
     "perAfleider": {
      "gegenoten": "gegenoten: genieten heeft het voorvoegsel ge- (zonder klemtoon). Dan komt er geen ge- voor.",
-     "geniet": "geniet: dat is de stam (of de tegenwoordige tijd). genieten is een sterk werkwoord: het voltooid deelwoord eindigt op -en: genoten."
+     "geniet": "geniet: dat is de stam. genieten is een sterk werkwoord: het voltooid deelwoord eindigt op -en: genoten."
     },
     "onthoud": "Voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon? Dan geen ge-."
    },
@@ -2571,5 +2571,5 @@
    "goed": 1
   }
  ],
- "hash": "9f1112b759cbd8d2"
+ "hash": "ada63cd426ef6f96"
 }

@@ -1,6 +1,6 @@
 // Vervangt gemarkeerde vragen in bestaande toetsen door een ongebruikte vraag uit hetzelfde onderdeel
 // (zelfde soort: instinker of niet), op dezelfde plek en met het goede antwoord op dezelfde positie.
-// De gemarkeerde zinnen gaan uit de zinnenbank (naar data/zinnen/geschrapt.json).
+// De gemarkeerde zinnen gaan uit de zinnenbank (naar data/geschrapt.json).
 //   node tools/vervang.mjs --ids tt-1003,vd-1020
 // Geeft de ids van de nieuwe vragen terug: die moeten nog een (kleine) review krijgen.
 import { readFileSync, writeFileSync, readdirSync, existsSync } from 'node:fs';
@@ -13,8 +13,8 @@ const vormen = lees('data/vormen.json').werkwoorden;
 const regels = lees('data/regels.json');
 
 // 1. zinnen schrappen
-const geschrapt = existsSync(pad('data/zinnen/geschrapt.json')) ? lees('data/zinnen/geschrapt.json') : { uitleg: 'Na review geschrapte zinnen (niet meer gebruiken).', zinnen: [] };
-for (const f of readdirSync(pad('data/zinnen/')).filter((f) => f.endsWith('.json') && f !== 'geschrapt.json')) {
+const geschrapt = existsSync(pad('data/geschrapt.json')) ? lees('data/geschrapt.json') : { uitleg: 'Na review geschrapte zinnen (niet meer gebruiken).', zinnen: [] };
+for (const f of readdirSync(pad('data/zinnen/')).filter((f) => f.endsWith('.json'))) {
   const p = pad('data/zinnen/' + f);
   const d = JSON.parse(readFileSync(p, 'utf8'));
   const weg = d.zinnen.filter((z) => ids.has(z.id));
@@ -23,7 +23,7 @@ for (const f of readdirSync(pad('data/zinnen/')).filter((f) => f.endsWith('.json
   d.zinnen = d.zinnen.filter((z) => !ids.has(z.id));
   writeFileSync(p, '{\n "zinnen": [\n' + d.zinnen.map((x) => '  ' + JSON.stringify(x)).join(',\n') + '\n ]\n}\n');
 }
-writeFileSync(pad('data/zinnen/geschrapt.json'), JSON.stringify(geschrapt, null, 1) + '\n');
+writeFileSync(pad('data/geschrapt.json'), JSON.stringify(geschrapt, null, 1) + '\n');
 
 // 2. toetsen bijwerken
 const dir = pad('data/toetsen/');
@@ -41,7 +41,7 @@ for (const { f, t } of toetsen) {
       if (!ids.has(v.id)) continue;
       const bezet = ww();
       const k = pool.find((p) => p.categorie === v.categorie && p.instinker === v.instinker && !bezet.has(p.ww)) || pool.find((p) => p.categorie === v.categorie && !bezet.has(p.ww));
-      if (!k) throw new Error(`geen vervanging voor ${v.id} in toets ${t.toets}`);
+      if (!k) { console.log(`GEEN VERVANGING: ${v.id} in toets ${t.toets}`); continue; }
       pool.splice(pool.indexOf(k), 1);
       const opties = k.afleiders.map((a) => a.vorm);
       opties.splice(v.goed, 0, k.antwoord);

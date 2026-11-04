@@ -1,6 +1,5 @@
 {
  "zinnen": [
-  {"id":"inf-1001","ww":"antwoorden","slot":"inf","zin":"Ik wil de vraag graag snel ___.","sleutel":"wil"},
   {"id":"inf-1002","ww":"praten","slot":"inf","zin":"We gaan morgen rustig met de buren ___.","sleutel":"gaan"},
   {"id":"inf-1003","ww":"wachten","slot":"inf","zin":"Mijn broer moet nog even op de bus ___.","sleutel":"moet"},
   {"id":"inf-1004","ww":"landen","slot":"inf","zin":"Het vliegtuig gaat over een uur ___.","sleutel":"gaat"},
@@ -11,7 +10,6 @@
   {"id":"inf-1009","ww":"kosten","slot":"inf","zin":"Een nieuwe fiets kan veel ___.","sleutel":"kan"},
   {"id":"inf-1010","ww":"leiden","slot":"inf","zin":"De gids gaat ons door het park ___.","sleutel":"gaat"},
   {"id":"inf-1011","ww":"verwachten","slot":"inf","zin":"We hoeven geen regen te ___.","sleutel":"te"},
-  {"id":"inf-1012","ww":"kleden","slot":"inf","zin":"Mijn zusje wil zich zelf ___.","sleutel":"wil"},
   {"id":"inf-1013","ww":"wieden","slot":"inf","zin":"Mijn opa gaat de tuin ___.","sleutel":"gaat"},
   {"id":"inf-1014","ww":"voeden","slot":"inf","zin":"Wij moeten de vogels in de winter ___.","sleutel":"moeten"},
   {"id":"inf-1015","ww":"spreiden","slot":"inf","zin":"Je moet de boter gelijkmatig ___.","sleutel":"moet"},
@@ -21,10 +19,8 @@
   {"id":"inf-1019","ww":"braden","slot":"inf","zin":"Mijn vader gaat het vlees ___.","sleutel":"gaat"},
   {"id":"inf-1020","ww":"ontmoeten","slot":"inf","zin":"Ik wil graag nieuwe mensen ___.","sleutel":"wil"},
   {"id":"inf-1021","ww":"ontbijten","slot":"inf","zin":"Op zondag mogen we lekker lang ___.","sleutel":"mogen"},
-  {"id":"inf-1022","ww":"zenden","slot":"inf","zin":"De omroep gaat het programma woensdag ___.","sleutel":"gaat"},
   {"id":"inf-1023","ww":"smelten","slot":"inf","zin":"De chocola kan in de zon ___.","sleutel":"kan"},
   {"id":"inf-1024","ww":"bereiden","slot":"inf","zin":"Mijn tante kan heerlijke soep ___.","sleutel":"kan"},
-  {"id":"inf-1025","ww":"verleiden","slot":"inf","zin":"Die geur kan je tot een snack ___.","sleutel":"kan"},
   {"id":"inf-1026","ww":"vinden","slot":"inf","zin":"Ik hoop een leuke stageplek te ___.","sleutel":"te"},
   {"id":"inf-1027","ww":"binden","slot":"inf","zin":"Je moet je veters goed ___.","sleutel":"moet"},
   {"id":"inf-1028","ww":"eten","slot":"inf","zin":"We gaan vanavond bij mijn oma ___.","sleutel":"gaan"},
@@ -33,7 +29,6 @@
   {"id":"inf-1031","ww":"verbinden","slot":"inf","zin":"Je kunt de laptop met wifi ___.","sleutel":"kunt"},
   {"id":"inf-1032","ww":"wachten","slot":"inf","zin":"Wij gaan buiten op je ___.","sleutel":"gaan"},
   {"id":"inf-1033","ww":"antwoorden","slot":"inf","zin":"Je hoeft niet direct te ___.","sleutel":"te"},
-  {"id":"inf-1034","ww":"landen","slot":"inf","zin":"De vlucht kan hier niet ___.","sleutel":"kan"},
   {"id":"inf-1035","ww":"branden","slot":"inf","zin":"De kaarsen moeten de hele avond ___.","sleutel":"moeten"},
   {"id":"inf-1036","ww":"haasten","slot":"inf","zin":"We moeten ons een beetje ___.","sleutel":"moeten"},
   {"id":"inf-1037","ww":"rusten","slot":"inf","zin":"Je moet vandaag lekker ___.","sleutel":"moet"},
@@ -87,14 +82,12 @@
   {"id":"inf-1085","ww":"bloeden","slot":"inf","zin":"De bloemen gaan snel ___.","sleutel":"gaan"},
   {"id":"inf-1086","ww":"houden","slot":"inf","zin":"Je moet je aan de regels ___.","sleutel":"moet"},
   {"id":"inf-1087","ww":"vinden","slot":"inf","zin":"Ik kan mijn sleutels niet ___.","sleutel":"kan"},
-  {"id":"inf-1088","ww":"schelden","slot":"inf","zin":"Je mag niemand ___.","sleutel":"mag"},
   {"id":"inf-1089","ww":"beantwoorden","slot":"inf","zin":"Ik moet de vraag nog ___.","sleutel":"moet"},
   {"id":"inf-1090","ww":"verbranden","slot":"inf","zin":"Het vlees kan snel ___.","sleutel":"kan"},
   {"id":"inf-1091","ww":"wachten","slot":"inf","zin":"De klas moet buiten ___.","sleutel":"moet"},
   {"id":"inf-1092","ww":"praten","slot":"inf","zin":"Wij willen er niet over ___.","sleutel":"willen"},
   {"id":"inf-1093","ww":"landen","slot":"inf","zin":"De piloot gaat hier ___.","sleutel":"gaat"},
   {"id":"inf-1094","ww":"melden","slot":"inf","zin":"Ik ga me morgen ___.","sleutel":"ga"},
-  {"id":"inf-1095","ww":"kleden","slot":"inf","zin":"Ik ga me snel ___.","sleutel":"ga"},
   {"id":"inf-1096","ww":"baden","slot":"inf","zin":"Ik ga de baby ___.","sleutel":"ga"},
   {"id":"inf-1097","ww":"ontbijten","slot":"inf","zin":"We gaan buiten ___.","sleutel":"gaan"},
   {"id":"inf-1098","ww":"antwoorden","slot":"inf","zin":"De leraar zal niet ___.","sleutel":"zal"},
@@ -108,7 +101,6 @@
   {"id":"inf-1106","ww":"slapen","slot":"inf","zin":"De baby moet vroeg ___.","sleutel":"moet"},
   {"id":"inf-1107","ww":"koken","slot":"inf","zin":"Mijn vader wil vanavond ___.","sleutel":"wil"},
   {"id":"inf-1108","ww":"spelen","slot":"inf","zin":"Ik ga na school buiten ___.","sleutel":"ga"},
-  {"id":"inf-1109","ww":"zingen","slot":"inf","zin":"Mijn zus wil een liedje ___.","sleutel":"wil"},
-  {"id":"inf-1110","ww":"klimmen","slot":"inf","zin":"Wij willen deze berg ___.","sleutel":"willen"}
+  {"id":"inf-1109","ww":"zingen","slot":"inf","zin":"Mijn zus wil een liedje ___.","sleutel":"wil"}
  ]
 }

@@ -1319,7 +1319,7 @@
     ],
     "perAfleider": {
      "gevergeten": "gevergeten: vergeten heeft het voorvoegsel ver- (zonder klemtoon). Dan komt er geen ge- voor.",
-     "vergeet": "vergeet: dat is de stam (of de tegenwoordige tijd). vergeten is een sterk werkwoord: het voltooid deelwoord eindigt op -en: vergeten."
+     "vergeet": "vergeet: dat is de stam. vergeten is een sterk werkwoord: het voltooid deelwoord eindigt op -en: vergeten."
     },
     "onthoud": "Voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon? Dan geen ge-."
    },
@@ -2718,14 +2718,14 @@
     }
    ],
    "uitleg": {
-    "kort": "deleten is een Engels werkwoord. De stam is het Engelse woord: delete. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (de-le-ten): een t. De t is stemloos, net als de klanken van 't kofschip, dus een t. Het wordt ge + delete + t: gedeletet.",
+    "kort": "deleten is een Engels werkwoord. De stam is het Engelse woord: delete. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (de-le-ten): een t. De t zit in 't kofschip, dus een t. Het wordt ge + delete + t: gedeletet.",
     "stappen": [
      "Welke vorm? Er staat al een vorm van hebben, zijn of worden in de zin (‘heb’), en het werkwoord hoort daarbij. Dus dit is een voltooid deelwoord.",
      "De stam: ik delete (het Engelse woord, met de e).",
      "De regel: Bij een Engels werkwoord is de stam het Engelse woord, met de e (update, like, time). Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort. Is die stemloos (je keel trilt niet)? Dan ge + stam + t, anders ge + stam + d (geüpdatet, getimed). Alleen als de stam zelf op een t of d eindigt (print, download), komt er niets meer achter."
     ],
     "perAfleider": {
-     "gedeleted": "gedeleted: luister nog eens naar de klank. deleten is een Engels werkwoord. De stam is het Engelse woord: delete. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (de-le-ten): een t. De t is stemloos, net als de klanken van 't kofschip, dus een t.",
+     "gedeleted": "gedeleted: luister nog eens naar de klank. deleten is een Engels werkwoord. De stam is het Engelse woord: delete. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (de-le-ten): een t. De t zit in 't kofschip, dus een t.",
      "gedeletetd": "gedeletetd: er komt maar één letter achter de stam, een t óf een d. Niet allebei."
     },
     "onthoud": "Bij Engelse werkwoorden luister je naar de laatste klank van de stam."
@@ -2994,14 +2994,14 @@
     }
    ],
    "uitleg": {
-    "kort": "updaten is een Engels werkwoord. De stam is het Engelse woord: update. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (up-da-ten): een t. De t is stemloos, net als de klanken van 't kofschip, dus -te. Zo krijg je: updatete.",
+    "kort": "updaten is een Engels werkwoord. De stam is het Engelse woord: update. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (up-da-ten): een t. De t zit in 't kofschip, dus -te. Zo krijg je: updatete.",
     "stappen": [
      "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘Afgelopen nacht’). Het onderwerp is ‘mijn laptop’.",
      "De stam: ik update (het Engelse woord, met de e).",
      "De regel: Bij een Engels werkwoord is de stam het Engelse woord (race, update, crash). Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (ra-cen: s, sa-ven: v). Is die stemloos, zoals de klanken van 't kofschip of sj (je keel trilt niet)? Dan -te, anders -de."
     ],
     "perAfleider": {
-     "updatede": "updatede: luister nog eens naar de klank. updaten is een Engels werkwoord. De stam is het Engelse woord: update. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (up-da-ten): een t. De t is stemloos, net als de klanken van 't kofschip, dus -te.",
+     "updatede": "updatede: luister nog eens naar de klank. updaten is een Engels werkwoord. De stam is het Engelse woord: update. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (up-da-ten): een t. De t zit in 't kofschip, dus -te.",
      "updateten": "updateten is de vorm voor meervoud. ‘mijn laptop’ is enkelvoud."
     },
     "onthoud": "Bij Engelse werkwoorden luister je naar de laatste klank van de stam."
@@ -3617,5 +3617,5 @@
    "goed": 1
   }
  ],
- "hash": "bb0f73d5d4a55946"
+ "hash": "3b5aa5d6dc1f2d8c"
 }

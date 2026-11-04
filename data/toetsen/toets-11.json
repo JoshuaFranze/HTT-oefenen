@@ -920,36 +920,36 @@
    "goed": 0
   },
   {
-   "id": "gw-1016",
-   "ww": "kleden",
+   "id": "gw-1001",
+   "ww": "melden",
    "categorie": "gw",
    "slot": "gw",
    "regel": "gw-d",
    "instinker": true,
-   "zin": "___ de kinderen warm voor het schaatsen.",
-   "antwoord": "Kleed",
+   "zin": "___ het bij de balie als er iets kwijt is.",
+   "antwoord": "Meld",
    "afleiders": [
     {
-     "vorm": "Kleedt",
+     "vorm": "Meldt",
      "soort": "a",
      "patroon": "gw-met-t"
     },
     {
-     "vorm": "Kleet",
+     "vorm": "Melt",
      "soort": "b",
      "patroon": "gw-d-als-t"
     }
    ],
    "uitleg": {
-    "kort": "De gebiedende wijs is de stam. Er komt geen t bij. De stam is kleed, met een d: kleed.",
+    "kort": "De gebiedende wijs is de stam. Er komt geen t bij. De stam is meld, met een d: meld.",
     "stappen": [
      "Welke vorm? Dit is een opdracht zonder onderwerp. Dat heet de gebiedende wijs.",
-     "De stam: ik kleed.",
+     "De stam: ik meld.",
      "De regel: Een gebiedende wijs is de stam, zonder extra t. Ook als de stam op d eindigt."
     ],
     "perAfleider": {
-     "Kleedt": "Kleedt is de vorm voor hij of zij. Een opdracht zonder onderwerp schrijf je met alleen de stam.",
-     "Kleet": "Kleet: je hoort een t, maar de stam is kleed, met een d."
+     "Meldt": "Meldt is de vorm voor hij of zij. Een opdracht zonder onderwerp schrijf je met alleen de stam.",
+     "Melt": "Melt: je hoort een t, maar de stam is meld, met een d."
     },
     "onthoud": "Een opdracht schrijf je met alleen de stam, ook bij een stam op d."
    },
@@ -959,9 +959,9 @@
     "Een gebiedende wijs is de stam, zonder extra t. Ook als de stam op d eindigt.\nVoorbeeld: Word nou niet meteen boos."
    ],
    "opties": [
-    "Kleedt",
-    "Kleed",
-    "Kleet"
+    "Meldt",
+    "Meld",
+    "Melt"
    ],
    "goed": 1
   },
@@ -1537,14 +1537,14 @@
     }
    ],
    "uitleg": {
-    "kort": "liken is een Engels werkwoord. De stam is het Engelse woord: like. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (li-ken): een k. De k is stemloos, net als de klanken van 't kofschip, dus een t. Het wordt ge + like + t: geliket.",
+    "kort": "liken is een Engels werkwoord. De stam is het Engelse woord: like. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (li-ken): een k. De k zit in 't kofschip, dus een t. Het wordt ge + like + t: geliket.",
     "stappen": [
      "Welke vorm? Er staat al een vorm van hebben, zijn of worden in de zin (‘Heb’), en het werkwoord hoort daarbij. Dus dit is een voltooid deelwoord.",
      "De stam: ik like (het Engelse woord, met de e).",
      "De regel: Bij een Engels werkwoord is de stam het Engelse woord, met de e (update, like, time). Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort. Is die stemloos (je keel trilt niet)? Dan ge + stam + t, anders ge + stam + d (geüpdatet, getimed). Alleen als de stam zelf op een t of d eindigt (print, download), komt er niets meer achter."
     ],
     "perAfleider": {
-     "geliked": "geliked: luister nog eens naar de klank. liken is een Engels werkwoord. De stam is het Engelse woord: like. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (li-ken): een k. De k is stemloos, net als de klanken van 't kofschip, dus een t.",
+     "geliked": "geliked: luister nog eens naar de klank. liken is een Engels werkwoord. De stam is het Engelse woord: like. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (li-ken): een k. De k zit in 't kofschip, dus een t.",
      "geliketd": "geliketd: er komt maar één letter achter de stam, een t óf een d. Niet allebei."
     },
     "onthoud": "Bij Engelse werkwoorden luister je naar de laatste klank van de stam."
@@ -2478,48 +2478,48 @@
    "goed": 1
   },
   {
-   "id": "bvd-1008",
-   "ww": "bestellen",
+   "id": "bvd-2004",
+   "ww": "organiseren",
    "categorie": "bvd",
    "slot": "bvd.kaal",
    "regel": "bvd-een-het",
    "instinker": true,
-   "zin": "Op de mat lag een net ___ boek.",
-   "antwoord": "besteld",
+   "zin": "Ze gaf een goed ___ feest.",
+   "antwoord": "georganiseerd",
    "afleiders": [
     {
-     "vorm": "bestelde",
+     "vorm": "georganiseerde",
      "soort": "a",
      "patroon": "bvd-e-teveel"
     },
     {
-     "vorm": "bestelt",
-     "soort": "a",
+     "vorm": "georganiseert",
+     "soort": "b",
      "patroon": "bvd-t-d-omgedraaid"
     }
    ],
    "uitleg": {
-    "kort": "Het hoort bij een het-woord met ‘een’ ervoor (‘een boek’). Dan komt er geen -e achter: besteld.",
+    "kort": "Het hoort bij een het-woord met ‘een’ ervoor (‘een feest’). Dan komt er geen -e achter: georganiseerd.",
     "stappen": [
-     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘boek’. Je gebruikt het als bijvoeglijk naamwoord.",
-     "De stam: ik bestel.",
+     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘feest’. Je gebruikt het als bijvoeglijk naamwoord.",
+     "De stam: ik organiseer.",
      "De regel: Voltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor (een gekookt ei, gekookt water): geen -e. Met het ervoor wel (het gekookte ei). Met mijn, dit of het ervoor komt er wel een -e."
     ],
     "perAfleider": {
-     "bestelde": "bestelde: na ‘een’ met een het-woord komt er geen -e achter.",
-     "bestelt": "bestelt: het voltooid deelwoord is besteld. Dat eindigt op een d, en die blijft staan."
+     "georganiseerde": "georganiseerde: na ‘een’ met een het-woord komt er geen -e achter.",
+     "georganiseert": "georganiseert: het voltooid deelwoord is georganiseerd. Dat eindigt op een d, en die blijft staan."
     },
     "onthoud": "Een, geen of zo'n + het-woord in het enkelvoud: geen -e erachter."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘boek’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …). Let op het voorvoegsel be- zonder klemtoon: dan geen ge-.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘feest’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …).\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
     "Voltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor (een gekookt ei, gekookt water): geen -e. Met het ervoor wel (het gekookte ei). Met mijn, dit of het ervoor komt er wel een -e.\nVoorbeeld: Ik eet elke ochtend een gekookt ei."
    ],
    "opties": [
-    "bestelde",
-    "besteld",
-    "bestelt"
+    "georganiseerde",
+    "georganiseerd",
+    "georganiseert"
    ],
    "goed": 1
   },
@@ -2570,5 +2570,5 @@
    "goed": 0
   }
  ],
- "hash": "f538003c3dac843e"
+ "hash": "bacc2771c7851401"
 }

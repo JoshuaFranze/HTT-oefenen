@@ -1241,93 +1241,93 @@
    "goed": 2
   },
   {
-   "id": "od-1012",
-   "ww": "springen",
+   "id": "od-2008",
+   "ww": "schaatsen",
    "categorie": "od",
    "slot": "od.kaal",
    "regel": "od-een-het",
    "instinker": true,
-   "zin": "In de tuin zat een ___ konijn.",
-   "antwoord": "springend",
+   "zin": "Op de ijsbaan zag ik een ___ jongetje.",
+   "antwoord": "schaatsend",
    "afleiders": [
     {
-     "vorm": "springende",
+     "vorm": "schaatsende",
      "soort": "a",
      "patroon": "od-e-teveel"
     },
     {
-     "vorm": "springent",
+     "vorm": "schaatsent",
      "soort": "b",
      "patroon": "od-t-ipv-d"
     }
    ],
    "uitleg": {
-    "kort": "Het hoort bij een het-woord met ‘een’ ervoor (‘een konijn’). Dan komt er geen -e achter: springend.",
+    "kort": "Het hoort bij een het-woord met ‘een’ ervoor (‘een jongetje’). Dan komt er geen -e achter: schaatsend.",
     "stappen": [
-     "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij ‘een konijn’.",
+     "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij ‘een jongetje’.",
      "De regel: Onvoltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor (een lachend kind, kokend water): geen -e. Met het ervoor wel (het lachende kind). Met mijn, dit of het ervoor komt er wel een -e."
     ],
     "perAfleider": {
-     "springende": "springende: na ‘een’ met een het-woord komt er geen -e achter.",
-     "springent": "springent: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent."
+     "schaatsende": "schaatsende: na ‘een’ met een het-woord komt er geen -e achter.",
+     "schaatsent": "schaatsent: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent."
     },
     "onthoud": "Een, geen of zo'n + het-woord in het enkelvoud: geen -e erachter."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "• Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\n• Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘konijn’.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "• Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\n• Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘jongetje’.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
     "Onvoltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor (een lachend kind, kokend water): geen -e. Met het ervoor wel (het lachende kind). Met mijn, dit of het ervoor komt er wel een -e.\nVoorbeeld: Ik hoorde een huilend kind in de trein."
    ],
    "opties": [
-    "springende",
-    "springent",
-    "springend"
+    "schaatsende",
+    "schaatsent",
+    "schaatsend"
    ],
    "goed": 2
   },
   {
-   "id": "bvd-1001",
-   "ww": "maken",
+   "id": "bvd-2012",
+   "ww": "verwachten",
    "categorie": "bvd",
-   "slot": "bvd.kaal",
-   "regel": "bvd-een-het",
+   "slot": "bvd.e",
+   "regel": "bvd-stam-t",
    "instinker": true,
-   "zin": "Op de tafel lag een ___ plan voor de tuin.",
-   "antwoord": "gemaakt",
+   "zin": "Voor de ___ storm sloten we de ramen.",
+   "antwoord": "verwachte",
    "afleiders": [
     {
-     "vorm": "gemaakte",
+     "vorm": "verwachtte",
      "soort": "a",
-     "patroon": "bvd-e-teveel"
+     "patroon": "bvd-vt-gelijk"
     },
     {
-     "vorm": "gemaakd",
+     "vorm": "verwachde",
      "soort": "b",
      "patroon": "bvd-t-d-omgedraaid"
     }
    ],
    "uitleg": {
-    "kort": "Het hoort bij een het-woord met ‘een’ ervoor (‘een plan’). Dan komt er geen -e achter: gemaakt.",
+    "kort": "Verwachten heeft het voorvoegsel ver- (zonder klemtoon), dus er komt geen ge- bij. Het voltooid deelwoord is verwacht. Daar komt een -e achter, geen -te: verwachte.",
     "stappen": [
-     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘plan’. Je gebruikt het als bijvoeglijk naamwoord.",
-     "De stam: ik maak.",
-     "De regel: Voltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor (een gekookt ei, gekookt water): geen -e. Met het ervoor wel (het gekookte ei). Met mijn, dit of het ervoor komt er wel een -e."
+     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘storm’. Je gebruikt het als bijvoeglijk naamwoord.",
+     "De stam: ik verwacht.",
+     "De regel: Maak eerst het voltooid deelwoord (verwacht). Zet er dan een -e achter, geen -te. Daarna gelden de gewone spellingregels (de gezette koffie)."
     ],
     "perAfleider": {
-     "gemaakte": "gemaakte: na ‘een’ met een het-woord komt er geen -e achter.",
-     "gemaakd": "gemaakd: het voltooid deelwoord is gemaakt. Dat eindigt op een t, en die blijft staan."
+     "verwachtte": "verwachtte is de verleden tijd (hij verwachtte). Hier hoort het voltooid deelwoord bij een zelfstandig naamwoord: verwacht + e.",
+     "verwachde": "verwachde: het voltooid deelwoord is verwacht. Dat eindigt op een t, en die blijft staan."
     },
-    "onthoud": "Een, geen of zo'n + het-woord in het enkelvoud: geen -e erachter."
+    "onthoud": "Eerst het voltooid deelwoord maken, dan alleen een -e erachter."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘plan’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …).\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
-    "Voltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor (een gekookt ei, gekookt water): geen -e. Met het ervoor wel (het gekookte ei). Met mijn, dit of het ervoor komt er wel een -e.\nVoorbeeld: Ik eet elke ochtend een gekookt ei."
+    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘storm’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …). Let op het voorvoegsel ver- zonder klemtoon: dan geen ge-.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "Maak eerst het voltooid deelwoord (verwacht). Zet er dan een -e achter, geen -te. Daarna gelden de gewone spellingregels (de gezette koffie).\nVoorbeeld: We fietsten over de goed verlichte weg naar huis."
    ],
    "opties": [
-    "gemaakt",
-    "gemaakte",
-    "gemaakd"
+    "verwachte",
+    "verwachtte",
+    "verwachde"
    ],
    "goed": 0
   },
@@ -1931,48 +1931,48 @@
    "goed": 1
   },
   {
-   "id": "vt-1061",
-   "ww": "branden",
+   "id": "vt-1065",
+   "ww": "beven",
    "categorie": "vt",
    "slot": "vt.mv",
-   "regel": "vt-stam-d",
+   "regel": "vt-vz",
    "instinker": true,
-   "zin": "De lampen ___ gisteravond de hele nacht in de tuin.",
-   "antwoord": "brandden",
+   "zin": "Toen ik klein was, ___ de honden van de buren bij elk vuurwerk.",
+   "antwoord": "beefden",
    "afleiders": [
     {
-     "vorm": "branden",
-     "soort": "a",
-     "patroon": "vt-tt-gelijk"
-    },
-    {
-     "vorm": "brandten",
+     "vorm": "beeften",
      "soort": "b",
      "patroon": "vt-kofschip-omgedraaid"
+    },
+    {
+     "vorm": "beefde",
+     "soort": "a",
+     "patroon": "vt-ev-ipv-mv"
     }
    ],
    "uitleg": {
-    "kort": "branden is een zwak werkwoord en de stam brand eindigt op een d. Die zit niet in 't kofschip, dus -den: brand + den = brandden. Daarom staan er twee d's.",
+    "kort": "beven is een zwak werkwoord dat eindigt op -ven. Haal -en eraf: bev. Dan kijk je naar de v. Die zit niet in 't kofschip, dus -de. Het onderwerp is meervoud, dus er komt nog een -n achter: beefden.",
     "stappen": [
-     "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘gisteravond’). Het onderwerp is ‘De lampen’.",
-     "De stam: ik brand.",
-     "De regel: Zwak werkwoord met een stam op d? Dan stam + de. Zo krijg je twee d's."
+     "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘Toen ik klein was’). Het onderwerp is ‘de honden’.",
+     "De stam: ik beef.",
+     "De regel: Zwak werkwoord dat eindigt op -ven of -zen (leven, reizen)? Haal -en eraf en kijk naar die v of z. Die zitten niet in 't kofschip, dus -de."
     ],
     "perAfleider": {
-     "branden": "branden klinkt hetzelfde, maar dat is de tegenwoordige tijd. Let op ‘gisteravond’: het gebeurde in het verleden.",
-     "brandten": "brandten: kijk nog eens naar 't kofschip. De laatste letter van de stam is een d. Die zit niet in 't kofschip, dus -de. Bij meervoud komt er nog een -n achter."
+     "beeften": "beeften: kijk nog eens naar 't kofschip. beven is een zwak werkwoord dat eindigt op -ven. Haal -en eraf: bev. Dan kijk je naar de v. Die zit niet in 't kofschip, dus -de. Bij meervoud komt er nog een -n achter.",
+     "beefde": "beefde is de vorm voor één persoon of ding. ‘de honden’ is meervoud, dus er komt nog een -n achter."
     },
-    "onthoud": "Zwak werkwoord met een stam op d: + de geeft dd. Dat hoort zo."
+    "onthoud": "Zwak werkwoord op -ven of -zen? Dan -de."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "• Speelt het zich nu af of in het verleden? Let op ‘gisteravond’.\n• Zeg: gisteren … ik. Hoor je -te of -de? Dan is het een zwak werkwoord.\n• Wat is de stam, en eindigt die op t, k, f, s, ch, p of x? Is het onderwerp meervoud? Dan komt er nog een -n achter.",
-    "Zwak werkwoord met een stam op d? Dan stam + de. Zo krijg je twee d's.\nVoorbeeld: Het vliegtuig landde precies op tijd."
+    "• Speelt het zich nu af of in het verleden? Let op ‘Toen ik klein was’.\n• Zeg: gisteren … ik. Hoor je -te of -de? Dan is het een zwak werkwoord.\n• Eindigt het hele werkwoord op -ven of -zen? Kijk dan naar de v of z, niet naar de f of s van de stam.",
+    "Zwak werkwoord dat eindigt op -ven of -zen (leven, reizen)? Haal -en eraf en kijk naar die v of z. Die zitten niet in 't kofschip, dus -de.\nVoorbeeld: Mijn overgrootvader leefde op een boerderij."
    ],
    "opties": [
-    "branden",
-    "brandden",
-    "brandten"
+    "beeften",
+    "beefden",
+    "beefde"
    ],
    "goed": 1
   },
@@ -2115,92 +2115,92 @@
    "goed": 2
   },
   {
-   "id": "od-1060",
-   "ww": "openen",
+   "id": "od-2025",
+   "ww": "praten",
    "categorie": "od",
-   "slot": "od.e",
-   "regel": "od-e",
+   "slot": "od.kaal",
+   "regel": "od-kaal",
    "instinker": false,
-   "zin": "De ___ deuren lieten een koele lucht binnen.",
-   "antwoord": "openende",
+   "zin": "___ liepen we door het bos.",
+   "antwoord": "Pratend",
    "afleiders": [
     {
-     "vorm": "openend",
-     "soort": "a",
-     "patroon": "od-e-vergeten"
-    },
-    {
-     "vorm": "openente",
+     "vorm": "Pratent",
      "soort": "b",
      "patroon": "od-t-ipv-d"
+    },
+    {
+     "vorm": "Pratendt",
+     "soort": "b",
+     "patroon": "od-dt"
     }
    ],
    "uitleg": {
-    "kort": "Het hoort bij het zelfstandig naamwoord ‘deuren’. Er staat ‘de’ voor, dus komt er een -e achter. Zo krijg je: openende.",
+    "kort": "Het onvoltooid deelwoord is het hele werkwoord + d: praten + d = pratend.",
     "stappen": [
-     "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij het zelfstandig naamwoord ‘deuren’.",
-     "De regel: Onvoltooid deelwoord: hele werkwoord + d. Hoort het bij een zelfstandig naamwoord (de huilende peuter)? Dan komt er een -e achter. Behalve bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een huilend kind, kokend water)."
+     "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het staat los in de zin en zegt hoe iemand iets doet.",
+     "De regel: Onvoltooid deelwoord: het hele werkwoord + d. Staat het los in de zin (Huilend liep hij weg)? Dan schrijf je het gewoon zo."
     ],
     "perAfleider": {
-     "openend": "openend: het hoort bij ‘deuren’. Dan komt er een -e achter.",
-     "openente": "openente: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent."
+     "Pratent": "Pratent: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent.",
+     "Pratendt": "Pratendt: achter het hele werkwoord komt alleen een d."
     },
-    "onthoud": "Onvoltooid deelwoord bij een zelfstandig naamwoord: meestal -ende. Niet bij een, geen of zo'n + het-woord."
+    "onthoud": "Onvoltooid deelwoord: het hele werkwoord + d."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "• Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\n• Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘deuren’.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
-    "Onvoltooid deelwoord: hele werkwoord + d. Hoort het bij een zelfstandig naamwoord (de huilende peuter)? Dan komt er een -e achter. Behalve bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een huilend kind, kokend water).\nVoorbeeld: De huilende peuter wilde zijn knuffel."
+    "• Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\n• Hoort het bij een zelfstandig naamwoord, of staat het los in de zin?\n• Het onvoltooid deelwoord is het hele werkwoord + d. Welke letter hoort er dan aan het eind?",
+    "Onvoltooid deelwoord: het hele werkwoord + d. Staat het los in de zin (Huilend liep hij weg)? Dan schrijf je het gewoon zo.\nVoorbeeld: Huilend liep de peuter naar zijn vader."
    ],
    "opties": [
-    "openende",
-    "openend",
-    "openente"
+    "Pratend",
+    "Pratent",
+    "Pratendt"
    ],
    "goed": 0
   },
   {
-   "id": "od-1073",
-   "ww": "sturen",
+   "id": "od-1044",
+   "ww": "landen",
    "categorie": "od",
    "slot": "od.e",
    "regel": "od-e",
    "instinker": false,
-   "zin": "De ___ bestuurder zwaaide naar ons.",
-   "antwoord": "sturende",
+   "zin": "Het ___ vliegtuig maakte veel lawaai.",
+   "antwoord": "landende",
    "afleiders": [
     {
-     "vorm": "sturend",
+     "vorm": "landend",
      "soort": "a",
      "patroon": "od-e-vergeten"
     },
     {
-     "vorm": "sturente",
+     "vorm": "landente",
      "soort": "b",
      "patroon": "od-t-ipv-d"
     }
    ],
    "uitleg": {
-    "kort": "Het hoort bij het zelfstandig naamwoord ‘bestuurder’. Er staat ‘de’ voor, dus komt er een -e achter. Zo krijg je: sturende.",
+    "kort": "Het hoort bij het zelfstandig naamwoord ‘vliegtuig’. Er staat ‘het’ voor, dus komt er een -e achter. Zo krijg je: landende.",
     "stappen": [
-     "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij het zelfstandig naamwoord ‘bestuurder’.",
+     "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij het zelfstandig naamwoord ‘vliegtuig’.",
      "De regel: Onvoltooid deelwoord: hele werkwoord + d. Hoort het bij een zelfstandig naamwoord (de huilende peuter)? Dan komt er een -e achter. Behalve bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een huilend kind, kokend water)."
     ],
     "perAfleider": {
-     "sturend": "sturend: het hoort bij ‘bestuurder’. Dan komt er een -e achter.",
-     "sturente": "sturente: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent."
+     "landend": "landend: het hoort bij ‘vliegtuig’. Dan komt er een -e achter.",
+     "landente": "landente: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent."
     },
     "onthoud": "Onvoltooid deelwoord bij een zelfstandig naamwoord: meestal -ende. Niet bij een, geen of zo'n + het-woord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "• Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\n• Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘bestuurder’.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "• Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\n• Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘vliegtuig’.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
     "Onvoltooid deelwoord: hele werkwoord + d. Hoort het bij een zelfstandig naamwoord (de huilende peuter)? Dan komt er een -e achter. Behalve bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een huilend kind, kokend water).\nVoorbeeld: De huilende peuter wilde zijn knuffel."
    ],
    "opties": [
-    "sturend",
-    "sturende",
-    "sturente"
+    "landend",
+    "landende",
+    "landente"
    ],
    "goed": 1
   },
@@ -2571,5 +2571,5 @@
    "goed": 0
   }
  ],
- "hash": "dc320e93afdf22bf"
+ "hash": "f6f69e6e41da7998"
 }

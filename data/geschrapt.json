@@ -1,0 +1,847 @@
+{
+ "uitleg": "Na review geschrapte zinnen (niet meer gebruiken).",
+ "zinnen": [
+  {
+   "id": "bvd-1001",
+   "ww": "maken",
+   "slot": "bvd.kaal",
+   "zin": "Op de tafel lag een ___ plan voor de tuin.",
+   "sleutel": "plan",
+   "eenHet": true
+  },
+  {
+   "id": "bvd-1006",
+   "ww": "verwachten",
+   "slot": "bvd.kaal",
+   "zin": "Ik heb een ___ pakket in de gang gezet.",
+   "sleutel": "pakket",
+   "eenHet": true
+  },
+  {
+   "id": "bvd-1008",
+   "ww": "bestellen",
+   "slot": "bvd.kaal",
+   "zin": "Op de mat lag een net ___ boek.",
+   "sleutel": "boek",
+   "eenHet": true
+  },
+  {
+   "id": "bvd-1013",
+   "ww": "ontdekken",
+   "slot": "bvd.kaal",
+   "zin": "Dit is een ___ geheim van ons dorp.",
+   "sleutel": "geheim",
+   "eenHet": true
+  },
+  {
+   "id": "bvd-1019",
+   "ww": "uitleggen",
+   "slot": "bvd.kaal",
+   "zin": "Dat is een goed ___ woord.",
+   "sleutel": "woord",
+   "eenHet": true
+  },
+  {
+   "id": "bvd-1025",
+   "ww": "beloven",
+   "slot": "bvd.kaal",
+   "zin": "Dat is een ___ cadeau voor mijn nichtje.",
+   "sleutel": "cadeau",
+   "eenHet": true
+  },
+  {
+   "id": "bvd-1027",
+   "ww": "delen",
+   "slot": "bvd.kaal",
+   "zin": "Zij wonen in een ___ huis met vier mensen.",
+   "sleutel": "huis",
+   "eenHet": true
+  },
+  {
+   "id": "bvd-1028",
+   "ww": "kraken",
+   "slot": "bvd.kaal",
+   "zin": "Het was een ___ huis aan de rand van de stad.",
+   "sleutel": "huis",
+   "eenHet": true
+  },
+  {
+   "id": "bvd-1057",
+   "ww": "aanzetten",
+   "slot": "bvd.e",
+   "zin": "De ___ verwarming maakt het fijn warm.",
+   "sleutel": "verwarming"
+  },
+  {
+   "id": "bvd-1073",
+   "ww": "fietsen",
+   "slot": "bvd.e",
+   "zin": "De ___ kilometers waren heel gezellig.",
+   "sleutel": "kilometers"
+  },
+  {
+   "id": "bvd-1074",
+   "ww": "wandelen",
+   "slot": "bvd.e",
+   "zin": "De ___ uren in het bos deden me goed.",
+   "sleutel": "uren"
+  },
+  {
+   "id": "bvd-1081",
+   "ww": "stoppen",
+   "slot": "bvd.e",
+   "zin": "De ___ bus staat voor de school.",
+   "sleutel": "bus"
+  },
+  {
+   "id": "bvd-1084",
+   "ww": "sturen",
+   "slot": "bvd.e",
+   "zin": "De ___ berichten komen snel aan.",
+   "sleutel": "berichten"
+  },
+  {
+   "id": "bvd-1096",
+   "ww": "studeren",
+   "slot": "bvd.e",
+   "zin": "De ___ vrienden vierden feest.",
+   "sleutel": "vrienden"
+  },
+  {
+   "id": "bvd-1100",
+   "ww": "blussen",
+   "slot": "bvd.e",
+   "zin": "De ___ brand veroorzaakte veel rook.",
+   "sleutel": "brand"
+  },
+  {
+   "id": "bvd-1102",
+   "ww": "zeggen",
+   "slot": "bvd.e",
+   "zin": "De ___ woorden bleven in mijn hoofd.",
+   "sleutel": "woorden"
+  },
+  {
+   "id": "bvd-1107",
+   "ww": "vissen",
+   "slot": "bvd.e",
+   "zin": "De ___ uren aan het water waren rustig.",
+   "sleutel": "uren"
+  },
+  {
+   "id": "bvd-1110",
+   "ww": "voetballen",
+   "slot": "bvd.e",
+   "zin": "De ___ wedstrijden waren spannend.",
+   "sleutel": "wedstrijden"
+  },
+  {
+   "id": "bvd-1112",
+   "ww": "bedoelen",
+   "slot": "bvd.e",
+   "zin": "De ___ bedoeling was duidelijk.",
+   "sleutel": "bedoeling"
+  },
+  {
+   "id": "bvd-1119",
+   "ww": "verdedigen",
+   "slot": "bvd.e",
+   "zin": "De ___ stad bleef overeind.",
+   "sleutel": "stad"
+  },
+  {
+   "id": "bvd-1120",
+   "ww": "opbellen",
+   "slot": "bvd.e",
+   "zin": "De ___ buren stonden snel voor de deur.",
+   "sleutel": "buren"
+  },
+  {
+   "id": "bvd-1136",
+   "ww": "verspillen",
+   "slot": "bvd.kaal",
+   "zin": "Dat was een ___ uur voor niets.",
+   "sleutel": "uur",
+   "eenHet": true
+  },
+  {
+   "id": "bvd-1137",
+   "ww": "bestuderen",
+   "slot": "bvd.kaal",
+   "zin": "Ze las een goed ___ rapport.",
+   "sleutel": "rapport",
+   "eenHet": true
+  },
+  {
+   "id": "bvd-1139",
+   "ww": "verwerken",
+   "slot": "bvd.kaal",
+   "zin": "Ik neem een goed ___ kledingstuk mee.",
+   "sleutel": "kledingstuk",
+   "eenHet": true
+  },
+  {
+   "id": "bvd-1140",
+   "ww": "verplaatsen",
+   "slot": "bvd.kaal",
+   "zin": "Het is een ___ evenement.",
+   "sleutel": "evenement",
+   "eenHet": true
+  },
+  {
+   "id": "bvd-1142",
+   "ww": "rekenen",
+   "slot": "bvd.kaal",
+   "zin": "Dit is een goed ___ voorbeeld.",
+   "sleutel": "voorbeeld",
+   "eenHet": true
+  },
+  {
+   "id": "bvd-1143",
+   "ww": "opladen",
+   "slot": "bvd.e",
+   "zin": "De ___ batterijen liggen in het laatje.",
+   "sleutel": "batterijen"
+  },
+  {
+   "id": "bvd-1148",
+   "ww": "verwarmen",
+   "slot": "bvd.e",
+   "zin": "De ___ kamers voelen behaaglijk.",
+   "sleutel": "kamers"
+  },
+  {
+   "id": "bvd-1149",
+   "ww": "zouten",
+   "slot": "bvd.e",
+   "zin": "De ___ aardappels smaken lekker.",
+   "sleutel": "aardappels"
+  },
+  {
+   "id": "eng-1001",
+   "ww": "downloaden",
+   "slot": "tt.hij",
+   "zin": "Mijn broer ___ elke week een nieuw spel op zijn laptop.",
+   "sleutel": "Mijn broer"
+  },
+  {
+   "id": "eng-1005",
+   "ww": "deleten",
+   "slot": "tt.hij",
+   "zin": "Mijn oma ___ per ongeluk al haar oude foto's.",
+   "sleutel": "Mijn oma"
+  },
+  {
+   "id": "eng-1033",
+   "ww": "smashen",
+   "slot": "tt.jij.na",
+   "zin": "Hoe hard ___ jij de bal bij het badminton?",
+   "sleutel": "jij"
+  },
+  {
+   "id": "eng-1040",
+   "ww": "crashen",
+   "slot": "tt.jij.voor",
+   "zin": "Jij ___ je telefoon vast nooit met zoveel apps, toch?",
+   "sleutel": "Jij"
+  },
+  {
+   "id": "eng-1066",
+   "ww": "dealen",
+   "slot": "vt.ev",
+   "zin": "Vroeger ___ mijn opa graag op de markt met oude spullen.",
+   "sleutel": "mijn opa",
+   "tijd": "Vroeger"
+  },
+  {
+   "id": "eng-1074",
+   "ww": "chatten",
+   "slot": "vt.mv",
+   "zin": "Gisteravond ___ we tot laat met de hele klas.",
+   "sleutel": "we",
+   "tijd": "Gisteravond"
+  },
+  {
+   "id": "eng-1079",
+   "ww": "updaten",
+   "slot": "vd",
+   "zin": "Ik heb mijn laptop vanochtend ___.",
+   "sleutel": "heb"
+  },
+  {
+   "id": "eng-1085",
+   "ww": "liken",
+   "slot": "vd",
+   "zin": "Wie heeft mijn foto ___?",
+   "sleutel": "heeft"
+  },
+  {
+   "id": "eng-1098",
+   "ww": "finishen",
+   "slot": "vd",
+   "zin": "Mijn nicht heeft als tweede ___.",
+   "sleutel": "heeft"
+  },
+  {
+   "id": "eng-1100",
+   "ww": "dribbelen",
+   "slot": "vd",
+   "zin": "Mijn zoon heeft de hele helft ___.",
+   "sleutel": "heeft"
+  },
+  {
+   "id": "eng-1105",
+   "ww": "dealen",
+   "slot": "vd",
+   "zin": "Mijn opa heeft vroeger veel op de markt ___.",
+   "sleutel": "heeft"
+  },
+  {
+   "id": "eng-1121",
+   "ww": "crashen",
+   "slot": "bvd.e",
+   "zin": "De ___ computer staat nog in de kast.",
+   "sleutel": "computer"
+  },
+  {
+   "id": "eng-1123",
+   "ww": "recyclen",
+   "slot": "bvd.e",
+   "zin": "Het ___ papier gaat naar de fabriek.",
+   "sleutel": "papier"
+  },
+  {
+   "id": "eng-1125",
+   "ww": "finishen",
+   "slot": "bvd.e",
+   "zin": "De ___ lopers krijgen een bidon water.",
+   "sleutel": "lopers"
+  },
+  {
+   "id": "eng-1139",
+   "ww": "dealen",
+   "slot": "tt.hij",
+   "zin": "Mijn opa ___ graag op de markt met oude spullen.",
+   "sleutel": "Mijn opa"
+  },
+  {
+   "id": "eng-042",
+   "ww": "updaten",
+   "slot": "bvd.e",
+   "zin": "Ik heb de ___ versie van het rooster gemaild.",
+   "sleutel": "versie"
+  },
+  {
+   "id": "gw-1003",
+   "ww": "melden",
+   "slot": "gw",
+   "zin": "___ gerust even wanneer de bus te laat is."
+  },
+  {
+   "id": "gw-1004",
+   "ww": "melden",
+   "slot": "gw",
+   "zin": "___ vooraf bij de receptie voor de rondleiding."
+  },
+  {
+   "id": "gw-1016",
+   "ww": "kleden",
+   "slot": "gw",
+   "zin": "___ de kinderen warm voor het schaatsen."
+  },
+  {
+   "id": "gw-1019",
+   "ww": "kleden",
+   "slot": "gw",
+   "zin": "___ liever in lagen voor de lange fietstocht."
+  },
+  {
+   "id": "gw-1020",
+   "ww": "kleden",
+   "slot": "gw",
+   "zin": "___ de kleine broer voor het verjaardagsfeestje."
+  },
+  {
+   "id": "gw-1032",
+   "ww": "verbinden",
+   "slot": "gw",
+   "zin": "___ de kabels voorzichtig aan de speaker."
+  },
+  {
+   "id": "gw-1039",
+   "ww": "verbranden",
+   "slot": "gw",
+   "zin": "___ geen afval in de open tuin."
+  },
+  {
+   "id": "gw-1052",
+   "ww": "zenden",
+   "slot": "gw",
+   "zin": "___ de groeten aan oma namens ons allemaal."
+  },
+  {
+   "id": "gw-1070",
+   "ww": "kiezen",
+   "slot": "gw",
+   "zin": "___ een boek dat bij het weer past."
+  },
+  {
+   "id": "gw-1091",
+   "ww": "lezen",
+   "slot": "gw",
+   "zin": "___ een kort gedicht aan het hele gezelschap."
+  },
+  {
+   "id": "inf-1001",
+   "ww": "antwoorden",
+   "slot": "inf",
+   "zin": "Ik wil de vraag graag snel ___.",
+   "sleutel": "wil"
+  },
+  {
+   "id": "inf-1012",
+   "ww": "kleden",
+   "slot": "inf",
+   "zin": "Mijn zusje wil zich zelf ___.",
+   "sleutel": "wil"
+  },
+  {
+   "id": "inf-1022",
+   "ww": "zenden",
+   "slot": "inf",
+   "zin": "De omroep gaat het programma woensdag ___.",
+   "sleutel": "gaat"
+  },
+  {
+   "id": "inf-1025",
+   "ww": "verleiden",
+   "slot": "inf",
+   "zin": "Die geur kan je tot een snack ___.",
+   "sleutel": "kan"
+  },
+  {
+   "id": "inf-1034",
+   "ww": "landen",
+   "slot": "inf",
+   "zin": "De vlucht kan hier niet ___.",
+   "sleutel": "kan"
+  },
+  {
+   "id": "inf-1088",
+   "ww": "schelden",
+   "slot": "inf",
+   "zin": "Je mag niemand ___.",
+   "sleutel": "mag"
+  },
+  {
+   "id": "inf-1095",
+   "ww": "kleden",
+   "slot": "inf",
+   "zin": "Ik ga me snel ___.",
+   "sleutel": "ga"
+  },
+  {
+   "id": "inf-1110",
+   "ww": "klimmen",
+   "slot": "inf",
+   "zin": "Wij willen deze berg ___.",
+   "sleutel": "willen"
+  },
+  {
+   "id": "od-1002",
+   "ww": "huilen",
+   "slot": "od.kaal",
+   "zin": "Bij de ingang stond een ___ meisje.",
+   "sleutel": "meisje",
+   "eenHet": true
+  },
+  {
+   "id": "od-1011",
+   "ww": "kruipen",
+   "slot": "od.kaal",
+   "zin": "Op de mat zat een ___ kind.",
+   "sleutel": "kind",
+   "eenHet": true
+  },
+  {
+   "id": "od-1012",
+   "ww": "springen",
+   "slot": "od.kaal",
+   "zin": "In de tuin zat een ___ konijn.",
+   "sleutel": "konijn",
+   "eenHet": true
+  },
+  {
+   "id": "od-1017",
+   "ww": "koken",
+   "slot": "od.kaal",
+   "zin": "Op het vuur stond een ___ pannetje.",
+   "sleutel": "pannetje",
+   "eenHet": true
+  },
+  {
+   "id": "od-1032",
+   "ww": "werken",
+   "slot": "od.kaal",
+   "zin": "Ik zag een ___ mannetje in de tuin.",
+   "sleutel": "mannetje",
+   "eenHet": true
+  },
+  {
+   "id": "od-1033",
+   "ww": "lopen",
+   "slot": "od.kaal",
+   "zin": "Op het pad kwam een ___ paard ons tegemoet.",
+   "sleutel": "paard",
+   "eenHet": true
+  },
+  {
+   "id": "od-1035",
+   "ww": "glijden",
+   "slot": "od.kaal",
+   "zin": "Op de glijbaan zag ik een ___ kind.",
+   "sleutel": "kind",
+   "eenHet": true
+  },
+  {
+   "id": "od-1039",
+   "ww": "bijten",
+   "slot": "od.kaal",
+   "zin": "Voor het huis zat een ___ hondje.",
+   "sleutel": "hondje",
+   "eenHet": true
+  },
+  {
+   "id": "od-1040",
+   "ww": "leren",
+   "slot": "od.kaal",
+   "zin": "Op school zat een ___ kind.",
+   "sleutel": "kind",
+   "eenHet": true
+  },
+  {
+   "id": "od-1045",
+   "ww": "melden",
+   "slot": "od.e",
+   "zin": "De ___ leerlingen kregen een stempel.",
+   "sleutel": "leerlingen"
+  },
+  {
+   "id": "od-1046",
+   "ww": "antwoorden",
+   "slot": "od.e",
+   "zin": "De ___ student kreeg een compliment.",
+   "sleutel": "student"
+  },
+  {
+   "id": "od-1048",
+   "ww": "verven",
+   "slot": "od.e",
+   "zin": "De ___ schilder zette zijn ladder neer.",
+   "sleutel": "schilder"
+  },
+  {
+   "id": "od-1049",
+   "ww": "durven",
+   "slot": "od.e",
+   "zin": "Een ___ jongen sprong van de steiger.",
+   "sleutel": "jongen"
+  },
+  {
+   "id": "od-1055",
+   "ww": "kloppen",
+   "slot": "od.e",
+   "zin": "Een ___ hart is een goed teken.",
+   "sleutel": "hart"
+  },
+  {
+   "id": "od-1057",
+   "ww": "hopen",
+   "slot": "od.e",
+   "zin": "Met een ___ blik keek ze naar de brief.",
+   "sleutel": "blik"
+  },
+  {
+   "id": "od-1060",
+   "ww": "openen",
+   "slot": "od.e",
+   "zin": "De ___ deuren lieten een koele lucht binnen.",
+   "sleutel": "deuren"
+  },
+  {
+   "id": "od-1063",
+   "ww": "wonen",
+   "slot": "od.e",
+   "zin": "De ___ mensen in de straat kennen elkaar.",
+   "sleutel": "mensen"
+  },
+  {
+   "id": "od-1064",
+   "ww": "leren",
+   "slot": "od.e",
+   "zin": "De ___ studenten gebruiken de bieb veel.",
+   "sleutel": "studenten"
+  },
+  {
+   "id": "od-1072",
+   "ww": "vullen",
+   "slot": "od.e",
+   "zin": "De ___ emmer stond onder de kraan.",
+   "sleutel": "emmer"
+  },
+  {
+   "id": "od-1073",
+   "ww": "sturen",
+   "slot": "od.e",
+   "zin": "De ___ bestuurder zwaaide naar ons.",
+   "sleutel": "bestuurder"
+  },
+  {
+   "id": "od-1075",
+   "ww": "leiden",
+   "slot": "od.e",
+   "zin": "De ___ trainer gaf een tip.",
+   "sleutel": "trainer"
+  },
+  {
+   "id": "od-1077",
+   "ww": "proberen",
+   "slot": "od.e",
+   "zin": "De ___ bakker maakte een nieuw brood.",
+   "sleutel": "bakker"
+  },
+  {
+   "id": "od-1081",
+   "ww": "vliegen",
+   "slot": "od.e",
+   "zin": "Een ___ vogel streek neer op het dak.",
+   "sleutel": "vogel"
+  },
+  {
+   "id": "od-1086",
+   "ww": "kijken",
+   "slot": "od.e",
+   "zin": "De ___ toeschouwers klapten hard.",
+   "sleutel": "toeschouwers"
+  },
+  {
+   "id": "od-1087",
+   "ww": "verwachten",
+   "slot": "od.e",
+   "zin": "De ___ gasten stonden bij de deur.",
+   "sleutel": "gasten"
+  },
+  {
+   "id": "od-1090",
+   "ww": "bestellen",
+   "slot": "od.e",
+   "zin": "De ___ gast wenkte de ober.",
+   "sleutel": "gast"
+  },
+  {
+   "id": "od-1106",
+   "ww": "kijken",
+   "slot": "od.kaal",
+   "zin": "___ liep het meisje de winkel in."
+  },
+  {
+   "id": "od-1108",
+   "ww": "rijden",
+   "slot": "od.kaal",
+   "zin": "___ zong ze een liedje."
+  },
+  {
+   "id": "tt-1005",
+   "ww": "voeden",
+   "slot": "tt.hij",
+   "zin": "Mijn tante ___ de eendjes elke zondag in het park.",
+   "sleutel": "Mijn tante"
+  },
+  {
+   "id": "tt-1095",
+   "ww": "voeden",
+   "slot": "tt.jij.na",
+   "zin": "Hoe vaak ___ jij de vissen?",
+   "sleutel": "jij"
+  },
+  {
+   "id": "tt-025",
+   "ww": "zitten",
+   "slot": "tt.hij",
+   "zin": "Wie ___ er naast jou in de klas?",
+   "sleutel": "Wie"
+  },
+  {
+   "id": "vd-1014",
+   "ww": "veranderen",
+   "slot": "vd",
+   "zin": "Het weer is deze week elke dag ___.",
+   "sleutel": "is"
+  },
+  {
+   "id": "vd-1018",
+   "ww": "verklaren",
+   "slot": "vd",
+   "zin": "De gids heeft de oude schilderijen mooi ___.",
+   "sleutel": "heeft"
+  },
+  {
+   "id": "vd-1030",
+   "ww": "herinneren",
+   "slot": "vd",
+   "zin": "Ik heb me die leuke vakantie nog goed ___.",
+   "sleutel": "heb"
+  },
+  {
+   "id": "vd-1121",
+   "ww": "rekenen",
+   "slot": "vd",
+   "zin": "De kassière heeft de boodschappen snel ___.",
+   "sleutel": "heeft"
+  },
+  {
+   "id": "vt-1008",
+   "ww": "branden",
+   "slot": "vt.ev",
+   "zin": "De kaars ___ gisteravond de hele avond in de woonkamer.",
+   "sleutel": "De kaars",
+   "tijd": "gisteravond"
+  },
+  {
+   "id": "vt-1026",
+   "ww": "zuchten",
+   "slot": "vt.ev",
+   "zin": "Mijn vader ___ vorige zomer diep toen hij de file zag.",
+   "sleutel": "Mijn vader",
+   "tijd": "vorige zomer"
+  },
+  {
+   "id": "vt-1039",
+   "ww": "springen",
+   "slot": "vt.ev",
+   "zin": "Toen je klein was, ___ jij graag in de plassen.",
+   "sleutel": "jij",
+   "tijd": "Toen je klein was"
+  },
+  {
+   "id": "vt-1054",
+   "ww": "zingen",
+   "slot": "vt.ev",
+   "zin": "Wat ___ jij vorige zomer op het kampvuur?",
+   "sleutel": "jij",
+   "tijd": "vorige zomer"
+  },
+  {
+   "id": "vt-1061",
+   "ww": "branden",
+   "slot": "vt.mv",
+   "zin": "De lampen ___ gisteravond de hele nacht in de tuin.",
+   "sleutel": "De lampen",
+   "tijd": "gisteravond"
+  },
+  {
+   "id": "vt-1090",
+   "ww": "dansen",
+   "slot": "vt.ev",
+   "zin": "Mijn nichtje ___ gisteravond de hele avond op het feest.",
+   "sleutel": "Mijn nichtje",
+   "tijd": "gisteravond"
+  },
+  {
+   "id": "vt-1093",
+   "ww": "luisteren",
+   "slot": "vt.ev",
+   "zin": "De klas ___ gisteren stil naar het verhaal van de juf.",
+   "sleutel": "De klas",
+   "tijd": "gisteren"
+  },
+  {
+   "id": "vt-1106",
+   "ww": "rekenen",
+   "slot": "vt.ev",
+   "zin": "Gisteren ___ mijn vader samen met mij de kosten van de verbouwing uit.",
+   "sleutel": "mijn vader",
+   "tijd": "Gisteren"
+  },
+  {
+   "id": "vt-1108",
+   "ww": "zeggen",
+   "slot": "vt.ev",
+   "zin": "Gisteren ___ mijn moeder dat het eten klaar was.",
+   "sleutel": "mijn moeder",
+   "tijd": "Gisteren"
+  },
+  {
+   "id": "vt-1113",
+   "ww": "laten",
+   "slot": "vt.ev",
+   "zin": "Mijn zus ___ vorige week haar fiets bij de winkel.",
+   "sleutel": "Mijn zus",
+   "tijd": "vorige week"
+  },
+  {
+   "id": "vt-1138",
+   "ww": "landen",
+   "slot": "vt.mv",
+   "zin": "De ganzen ___ vanochtend in de wei naast ons huis.",
+   "sleutel": "De ganzen",
+   "tijd": "vanochtend"
+  },
+  {
+   "id": "vt-1139",
+   "ww": "zetten",
+   "slot": "vt.mv",
+   "zin": "Gisteren ___ de buren hun tent op in de tuin.",
+   "sleutel": "de buren",
+   "tijd": "Gisteren"
+  },
+  {
+   "id": "vt-1145",
+   "ww": "vrezen",
+   "slot": "vt.mv",
+   "zin": "Vroeger ___ de dorpelingen de oude stormen.",
+   "sleutel": "de dorpelingen",
+   "tijd": "Vroeger"
+  },
+  {
+   "id": "vt-1147",
+   "ww": "bloeden",
+   "slot": "vt.ev",
+   "zin": "Vroeger ___ mijn neus bij elke warme dag.",
+   "sleutel": "mijn neus",
+   "tijd": "Vroeger"
+  },
+  {
+   "id": "vt-1151",
+   "ww": "spelen",
+   "slot": "vt.mv",
+   "zin": "Vanmiddag ___ de kinderen urenlang buiten in het zand.",
+   "sleutel": "de kinderen",
+   "tijd": "Vanmiddag"
+  },
+  {
+   "id": "vt-1160",
+   "ww": "vechten",
+   "slot": "vt.mv",
+   "zin": "Toen ik klein was, ___ de jongens uit mijn straat om de bal.",
+   "sleutel": "de jongens",
+   "tijd": "Toen ik klein was"
+  },
+  {
+   "id": "vt-012",
+   "ww": "melden",
+   "slot": "vt.ev",
+   "zin": "Gisteren ___ de buurman de inbraak meteen bij de politie.",
+   "sleutel": "de buurman",
+   "tijd": "Gisteren"
+  },
+  {
+   "id": "vt-037",
+   "ww": "hoesten",
+   "slot": "vt.ev",
+   "zin": "Vannacht ___ mijn buurman de hele nacht door.",
+   "sleutel": "mijn buurman",
+   "tijd": "Vannacht"
+  }
+ ]
+}

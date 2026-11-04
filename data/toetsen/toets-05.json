@@ -324,48 +324,48 @@
    "goed": 0
   },
   {
-   "id": "eng-1005",
-   "ww": "deleten",
+   "id": "eng-1009",
+   "ww": "crashen",
    "categorie": "eng",
    "slot": "tt.hij",
    "regel": "tt-t",
    "instinker": false,
-   "zin": "Mijn oma ___ per ongeluk al haar oude foto's.",
-   "antwoord": "deletet",
+   "zin": "Mijn oude laptop ___ steeds als ik een filmpje start.",
+   "antwoord": "crasht",
    "afleiders": [
     {
-     "vorm": "delete",
+     "vorm": "crash",
      "soort": "a",
      "patroon": "tt-t-vergeten"
     },
     {
-     "vorm": "deleted",
+     "vorm": "crashd",
      "soort": "b",
      "patroon": "tt-d-ipv-t"
     }
    ],
    "uitleg": {
-    "kort": "Het onderwerp is enkelvoud (net als hij, zij of het). Dan komt er een t achter de stam: delete + t = deletet.",
+    "kort": "Het onderwerp is enkelvoud (net als hij, zij of het). Dan komt er een t achter de stam: crash + t = crasht.",
     "stappen": [
-     "Welke vorm? Dit is de persoonsvorm in de tegenwoordige tijd. Het onderwerp is ‘Mijn oma’.",
-     "De stam: ik delete (het Engelse woord, met de e).",
+     "Welke vorm? Dit is de persoonsvorm in de tegenwoordige tijd. Het onderwerp is ‘Mijn oude laptop’.",
+     "De stam: ik crash.",
      "De regel: Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud (hij, zij, het, mijn broer, de trein, iemand, dat)? Dan stam + t. Een paar veelgebruikte werkwoorden zijn onregelmatig (hij heeft, hij kan, hij wil, hij is)."
     ],
     "perAfleider": {
-     "delete": "delete is de stam. Bij ‘Mijn oma’ komt er nog een t achter.",
-     "deleted": "deleted: in de tegenwoordige tijd komt er een t achter de stam, geen d."
+     "crash": "crash is de stam. Bij ‘Mijn oude laptop’ komt er nog een t achter.",
+     "crashd": "crashd: in de tegenwoordige tijd komt er een t achter de stam, geen d."
     },
     "onthoud": "Onderwerp jij of je (voor het werkwoord), u, hij, zij, het, of een ander woord voor één persoon of ding: stam + t. Eindigt de stam al op t, dan geen extra t."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "• Wie of wat doet het? Dat is het onderwerp. Let op ‘Mijn oma’.\n• Is het onderwerp enkelvoud of meervoud? En staat het voor of achter het werkwoord?\n• Wat is de stam? Moet er een t bij, of niet?",
+    "• Wie of wat doet het? Dat is het onderwerp. Let op ‘Mijn oude laptop’.\n• Is het onderwerp enkelvoud of meervoud? En staat het voor of achter het werkwoord?\n• Wat is de stam? Moet er een t bij, of niet?",
     "Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud (hij, zij, het, mijn broer, de trein, iemand, dat)? Dan stam + t. Een paar veelgebruikte werkwoorden zijn onregelmatig (hij heeft, hij kan, hij wil, hij is).\nVoorbeeld: Mijn broer werkt in een ziekenhuis."
    ],
    "opties": [
-    "deletet",
-    "delete",
-    "deleted"
+    "crasht",
+    "crash",
+    "crashd"
    ],
    "goed": 0
   },
@@ -874,48 +874,48 @@
    "goed": 1
   },
   {
-   "id": "vd-1018",
-   "ww": "verklaren",
+   "id": "vd-1047",
+   "ww": "antwoorden",
    "categorie": "vd",
    "slot": "vd",
-   "regel": "vd-geen-ge",
+   "regel": "vd-stam-td",
    "instinker": true,
-   "zin": "De gids heeft de oude schilderijen mooi ___.",
-   "antwoord": "verklaard",
+   "zin": "De buurvrouw heeft vriendelijk op mijn groet ___.",
+   "antwoord": "geantwoord",
    "afleiders": [
     {
-     "vorm": "verklaart",
-     "soort": "a",
-     "patroon": "vd-tt-gelijk"
+     "vorm": "geantwoort",
+     "soort": "b",
+     "patroon": "vd-t-d-omgedraaid"
     },
     {
-     "vorm": "geverklaard",
-     "soort": "b",
-     "patroon": "vd-ge-teveel"
+     "vorm": "geantwoorde",
+     "soort": "a",
+     "patroon": "vd-met-e"
     }
    ],
    "uitleg": {
-    "kort": "verklaren heeft het voorvoegsel ver- (zonder klemtoon). Dan komt er geen ge- voor. De laatste letter van de stam (r) zit niet in 't kofschip, dus een d: verklaard.",
+    "kort": "antwoorden is een zwak werkwoord en de stam antwoord eindigt al op een d. Die blijft staan, en er komt niets meer achter: ge + antwoord = geantwoord.",
     "stappen": [
      "Welke vorm? Er staat al een vorm van hebben, zijn of worden in de zin (‘heeft’), en het werkwoord hoort daarbij. Dus dit is een voltooid deelwoord.",
-     "De stam: ik verklaar.",
-     "De regel: Heeft het werkwoord het voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon (beTAlen, verTELlen)? Dan komt er geen ge- voor het voltooid deelwoord. Let op: bij verven, geven en beven is dat geen voorvoegsel (geverfd, gegeven, gebeefd). Ook samengestelde werkwoorden met voor-, over-, door-, onder-, om- of mis- die je niet kunt splitsen, krijgen geen ge- (voorspellen, voorspeld; overleggen, overlegd)."
+     "De stam: ik antwoord.",
+     "De regel: Zwak werkwoord met een stam die al op t of d eindigt? Dan wordt het ge + stam, er komt niets meer achter (gezet, geland)."
     ],
     "perAfleider": {
-     "verklaart": "verklaart klinkt hetzelfde, maar dat is de persoonsvorm (hij verklaart). Er staat al een hulpwerkwoord, dus je zoekt het voltooid deelwoord.",
-     "geverklaard": "geverklaard: verklaren heeft het voorvoegsel ver- (zonder klemtoon). Dan komt er geen ge- voor."
+     "geantwoort": "geantwoort: de stam antwoord eindigt al op een d. Die blijft staan, ook al hoor je een t.",
+     "geantwoorde": "geantwoorde: na een hulpwerkwoord komt er geen -e achter het voltooid deelwoord."
     },
-    "onthoud": "Voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon? Dan geen ge-."
+    "onthoud": "Voltooid deelwoord van een zwak werkwoord met een stam op t of d: ge + stam, er komt niets meer achter."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "• Staat er een hulpwerkwoord (hebben, zijn of worden) in de zin, en hoort het werkwoord daarbij? Let op ‘heeft’.\n• Heeft het werkwoord een voorvoegsel zonder klemtoon (be-, ge-, her-, er-, ont-, ver-)? Dan komt er geen ge- voor.\n• Eindigt de stam al op t of d? Zo niet: eindigt de stam op t, k, f, s, ch, p of x?",
-    "Heeft het werkwoord het voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon (beTAlen, verTELlen)? Dan komt er geen ge- voor het voltooid deelwoord. Let op: bij verven, geven en beven is dat geen voorvoegsel (geverfd, gegeven, gebeefd). Ook samengestelde werkwoorden met voor-, over-, door-, onder-, om- of mis- die je niet kunt splitsen, krijgen geen ge- (voorspellen, voorspeld; overleggen, overlegd).\nVoorbeeld: Ik heb de rekening al betaald."
+    "• Staat er een hulpwerkwoord (hebben, zijn of worden) in de zin, en hoort het werkwoord daarbij? Let op ‘heeft’.\n• Wat is de stam? Eindigt die al op een t of d?\n• Zo niet: eindigt de stam op t, k, f, s, ch, p of x?",
+    "Zwak werkwoord met een stam die al op t of d eindigt? Dan wordt het ge + stam, er komt niets meer achter (gezet, geland).\nVoorbeeld: Ik heb de fietsen in de schuur gezet."
    ],
    "opties": [
-    "verklaart",
-    "geverklaard",
-    "verklaard"
+    "geantwoort",
+    "geantwoorde",
+    "geantwoord"
    ],
    "goed": 2
   },
@@ -1012,48 +1012,48 @@
    "goed": 0
   },
   {
-   "id": "vt-1093",
-   "ww": "luisteren",
+   "id": "vt-2002",
+   "ww": "wonen",
    "categorie": "vt",
-   "slot": "vt.ev",
+   "slot": "vt.mv",
    "regel": "vt-de",
    "instinker": false,
-   "zin": "De klas ___ gisteren stil naar het verhaal van de juf.",
-   "antwoord": "luisterde",
+   "zin": "Vorig jaar ___ mijn oom en tante nog in Utrecht.",
+   "antwoord": "woonden",
    "afleiders": [
     {
-     "vorm": "luisterte",
+     "vorm": "woonten",
      "soort": "b",
      "patroon": "vt-kofschip-omgedraaid"
     },
     {
-     "vorm": "luisterden",
+     "vorm": "woonde",
      "soort": "a",
-     "patroon": "vt-mv-ipv-ev"
+     "patroon": "vt-ev-ipv-mv"
     }
    ],
    "uitleg": {
-    "kort": "De laatste letter van de stam is een r. Die zit niet in 't kofschip, dus -de. Zo krijg je: luisterde.",
+    "kort": "De laatste letter van de stam is een n. Die zit niet in 't kofschip, dus -de. Het onderwerp is meervoud, dus er komt nog een -n achter: woonden.",
     "stappen": [
-     "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘gisteren’). Het onderwerp is ‘De klas’.",
-     "De stam: ik luister.",
+     "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘Vorig jaar’). Het onderwerp is ‘mijn oom en tante’.",
+     "De stam: ik woon.",
      "De regel: Verleden tijd van een zwak werkwoord: eindigt de stam níet op t, k, f, s, ch, p of x? Dan stam + de, bij meervoud + den. Bij Engelse werkwoorden kijk je naar de klank."
     ],
     "perAfleider": {
-     "luisterte": "luisterte: kijk nog eens naar 't kofschip. De laatste letter van de stam is een r. Die zit niet in 't kofschip, dus -de.",
-     "luisterden": "luisterden is de vorm voor meervoud. ‘De klas’ is enkelvoud."
+     "woonten": "woonten: kijk nog eens naar 't kofschip. De laatste letter van de stam is een n. Die zit niet in 't kofschip, dus -de. Bij meervoud komt er nog een -n achter.",
+     "woonde": "woonde is de vorm voor één persoon of ding. ‘mijn oom en tante’ is meervoud, dus er komt nog een -n achter."
     },
     "onthoud": "Zwak werkwoord en de stam eindigt niet op een letter van 't kofschip? Stam + de. Bij Engelse werkwoorden luister je naar de klank."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "• Speelt het zich nu af of in het verleden? Let op ‘gisteren’.\n• Zeg: gisteren … ik. Hoor je -te of -de? Dan is het een zwak werkwoord.\n• Wat is de stam, en eindigt die op t, k, f, s, ch, p of x? Is het onderwerp meervoud? Dan komt er nog een -n achter.",
+    "• Speelt het zich nu af of in het verleden? Let op ‘Vorig jaar’.\n• Zeg: gisteren … ik. Hoor je -te of -de? Dan is het een zwak werkwoord.\n• Wat is de stam, en eindigt die op t, k, f, s, ch, p of x? Is het onderwerp meervoud? Dan komt er nog een -n achter.",
     "Verleden tijd van een zwak werkwoord: eindigt de stam níet op t, k, f, s, ch, p of x? Dan stam + de, bij meervoud + den. Bij Engelse werkwoorden kijk je naar de klank.\nVoorbeeld: De baby huilde de hele nacht."
    ],
    "opties": [
-    "luisterte",
-    "luisterden",
-    "luisterde"
+    "woonten",
+    "woonde",
+    "woonden"
    ],
    "goed": 2
   },
@@ -2571,5 +2571,5 @@
    "goed": 2
   }
  ],
- "hash": "8a780a8fe01f41a2"
+ "hash": "e75ab40bc143ad44"
 }
