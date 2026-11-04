@@ -1,0 +1,41 @@
+{
+ "regelkaarten": [
+  {
+   "regel": "bvd-e, bvd-een-het, od-e, od-een-het",
+   "ernst": "twijfel",
+   "reden": "'zonder lidwoord' is te ruim geformuleerd. Volgens de ANS vervalt de -e alleen bij een onzijdig enkelvoudig zelfstandig naamwoord na een, geen, zo'n, elk/ieder, veel e.d. of als er helemaal niets voor staat. Bij een bezittelijk of aanwijzend voornaamwoord (mijn, ons, dit, dat) is er ook geen lidwoord, maar komt er wel een -e: mijn geverfde huis, dit gekookte ei, ons lachende kind. Wie de regel letterlijk toepast, schrijft 'mijn geverfd huis'. Beter: 'zonder enig woord ervoor (gekookt water)', of mijn/dit/dat uitdrukkelijk bij 'met het ervoor wel' zetten."
+  },
+  {
+   "regel": "bvd-e, od-e",
+   "ernst": "stijl",
+   "reden": "Inconsistent met bvd-een-het, od-een-het en het stappenplan. Die noemen 'een, geen, zo'n, elk of veel', terwijl bvd-e en od-e alleen 'een, geen of zo'n' noemen. Maak de opsomming overal gelijk."
+  },
+  {
+   "regel": "bvd-stam-t",
+   "ernst": "stijl",
+   "reden": "Eerst staat er 'een -e achter, geen -te', en meteen daarna komt 'de gezette koffie' als voorbeeld, dat wel op -tte eindigt. Dat klopt (gezet + e, waarna de t verdubbelt om de korte klank te houden), maar het kan in één adem verwarren. Zeg het expliciet: 'gezet + e = gezette: de t wordt dubbel om de korte e'."
+  },
+  {
+   "regel": "vd-leen-klank",
+   "ernst": "stijl",
+   "reden": "'de stam is het Engelse woord, met de e' klinkt alsof elke Engelse stam op -e eindigt (crash, check, hack hebben geen e). Beter: 'een e aan het eind blijft staan'. Inhoudelijk klopt de regel (geüpdatet, getimed, geprint, gedownload volgens de Woordenlijst)."
+  },
+  {
+   "regel": "tt-je-bezit",
+   "ernst": "stijl",
+   "reden": "'je + het woord erna' geldt alleen als er één woord volgt. Bij 'je oudere zus' of 'je beste vrienden' is het onderwerp de hele woordgroep. Beter: 'je + het zelfstandig naamwoord erna (je fiets, je oudere zus)'."
+  },
+  {
+   "regel": "tt-t, tt-mv",
+   "ernst": "stijl",
+   "reden": "'zij' staat zowel bij enkelvoud (tt-t) als bij meervoud (tt-mv). Taalkundig klopt dat, maar 'zij (één persoon)' en 'zij (meer personen)' maakt het verschil duidelijker."
+  },
+  {
+   "regel": "gw",
+   "ernst": "stijl",
+   "reden": "'Komt u binnen' heet in de ANS ook een (beleefde) gebiedende wijs, alleen met u en een t. De formulering 'geen gebiedende wijs met alleen de stam, maar een vorm met t' is zorgvuldig en niet fout. 'De gebiedende wijs met u krijgt wel een t' is eenvoudiger."
+  }
+ ],
+ "stappenplan": [],
+ "vragen": []
+}
