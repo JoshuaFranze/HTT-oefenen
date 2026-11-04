@@ -1,0 +1,2575 @@
+{
+ "toets": 19,
+ "titel": "Oefentoets 19",
+ "vragen": [
+  {
+   "id": "tt-1101",
+   "ww": "luisteren",
+   "categorie": "tt",
+   "slot": "tt.jij.na",
+   "regel": "tt-inversie",
+   "instinker": true,
+   "zin": "Naar welke muziek ___ jij het liefst?",
+   "antwoord": "luister",
+   "afleiders": [
+    {
+     "vorm": "luistert",
+     "soort": "a",
+     "patroon": "tt-inversie-t"
+    },
+    {
+     "vorm": "luisterd",
+     "soort": "b",
+     "patroon": "tt-d-achter-stam"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het onderwerp ‘jij’ staat achter het werkwoord. Dan komt er geen t bij: alleen de stam, luister.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de tegenwoordige tijd. Het onderwerp ‘jij’ staat achter het werkwoord.",
+     "De stam: ik luister.",
+     "De regel: Is jij of je het onderwerp, en staat het achter het werkwoord? Dan komt er geen t bij: je schrijft alleen de stam. Eindigt de stam zelf op t (zet jij), dan blijft die t gewoon staan. Is je geen onderwerp (hij vindt je aardig), dan geldt dit niet."
+    ],
+    "perAfleider": {
+     "luistert": "luistert: deze vorm lijkt logisch, maar staat het onderwerp jij of je achter het werkwoord, dan komt er geen t bij.",
+     "luisterd": "luisterd: het onderwerp ‘jij’ staat achter het werkwoord, dus je schrijft alleen de stam."
+    },
+    "onthoud": "Staat het onderwerp jij of je achter het werkwoord? Dan komt er geen t bij."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Wie of wat doet het? Dat is het onderwerp. Let op ‘jij’.\n• Is het onderwerp enkelvoud of meervoud? En staat het voor of achter het werkwoord?\n• Wat is de stam? Moet er een t bij, of niet?",
+    "Is jij of je het onderwerp, en staat het achter het werkwoord? Dan komt er geen t bij: je schrijft alleen de stam. Eindigt de stam zelf op t (zet jij), dan blijft die t gewoon staan. Is je geen onderwerp (hij vindt je aardig), dan geldt dit niet.\nVoorbeeld: Werk jij morgen ook?"
+   ],
+   "opties": [
+    "luistert",
+    "luisterd",
+    "luister"
+   ],
+   "goed": 2
+  },
+  {
+   "id": "vt-1033",
+   "ww": "kijken",
+   "categorie": "vt",
+   "slot": "vt.ev",
+   "regel": "vt-sterk-jij",
+   "instinker": true,
+   "zin": "Welke film ___ jij gisteravond met je zus?",
+   "antwoord": "keek",
+   "afleiders": [
+    {
+     "vorm": "keekt",
+     "soort": "b",
+     "patroon": "vt-sterk-jij-t"
+    },
+    {
+     "vorm": "keken",
+     "soort": "a",
+     "patroon": "vt-mv-ipv-ev"
+    }
+   ],
+   "uitleg": {
+    "kort": "kijken is een sterk werkwoord. In de verleden tijd krijgt jij geen extra t: keek.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘gisteravond’). Het onderwerp is ‘jij’.",
+     "De stam: ik kijk.",
+     "De regel: Een sterk werkwoord krijgt in de verleden tijd bij jij geen extra t (jij liep, jij schreef)."
+    ],
+    "perAfleider": {
+     "keekt": "keekt: deze vorm lijkt logisch, maar in de verleden tijd van een sterk werkwoord krijgt jij geen extra t.",
+     "keken": "keken is de vorm voor meervoud. ‘jij’ is enkelvoud."
+    },
+    "onthoud": "Sterk werkwoord in de verleden tijd: jij krijgt geen extra t."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Speelt het zich nu af of in het verleden? Let op ‘gisteravond’.\n• Zeg: gisteren … ik. Verandert de klinker, en hoor je geen -te of -de? Dan is het een sterk werkwoord. Een paar werkwoorden leer je los.\n• Bij een sterk werkwoord komt er geen -te of -de achter. Is het onderwerp meervoud? Dan komt er -en achter, en schrijf je het volgens de gewone spellingregels.",
+    "Een sterk werkwoord krijgt in de verleden tijd bij jij geen extra t (jij liep, jij schreef).\nVoorbeeld: Liep jij gisteren ook door het park?"
+   ],
+   "opties": [
+    "keekt",
+    "keken",
+    "keek"
+   ],
+   "goed": 2
+  },
+  {
+   "id": "gw-1033",
+   "ww": "scheiden",
+   "categorie": "gw",
+   "slot": "gw",
+   "regel": "gw-d",
+   "instinker": true,
+   "zin": "___ het glas van het papier.",
+   "antwoord": "Scheid",
+   "afleiders": [
+    {
+     "vorm": "Scheidt",
+     "soort": "a",
+     "patroon": "gw-met-t"
+    },
+    {
+     "vorm": "Scheit",
+     "soort": "b",
+     "patroon": "gw-d-als-t"
+    }
+   ],
+   "uitleg": {
+    "kort": "De gebiedende wijs is de stam. Er komt geen t bij. De stam is scheid, met een d: scheid.",
+    "stappen": [
+     "Welke vorm? Dit is een opdracht zonder onderwerp. Dat heet de gebiedende wijs.",
+     "De stam: ik scheid.",
+     "De regel: Een gebiedende wijs is de stam, zonder extra t. Ook als de stam op d eindigt."
+    ],
+    "perAfleider": {
+     "Scheidt": "Scheidt is de vorm voor hij of zij. Een opdracht zonder onderwerp schrijf je met alleen de stam.",
+     "Scheit": "Scheit: je hoort een t, maar de stam is scheid, met een d."
+    },
+    "onthoud": "Een opdracht schrijf je met alleen de stam, ook bij een stam op d."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Is dit een opdracht zonder onderwerp (geen jij of u erbij)?\n• Wat is de stam (ik …)?\n• Welke vorm hoort bij een opdracht?",
+    "Een gebiedende wijs is de stam, zonder extra t. Ook als de stam op d eindigt.\nVoorbeeld: Word nou niet meteen boos."
+   ],
+   "opties": [
+    "Scheid",
+    "Scheidt",
+    "Scheit"
+   ],
+   "goed": 0
+  },
+  {
+   "id": "od-1006",
+   "ww": "lachen",
+   "categorie": "od",
+   "slot": "od.kaal",
+   "regel": "od-een-het",
+   "instinker": true,
+   "zin": "Ik zag bij de bakker een ___ vrouwtje.",
+   "antwoord": "lachend",
+   "afleiders": [
+    {
+     "vorm": "lachende",
+     "soort": "a",
+     "patroon": "od-e-teveel"
+    },
+    {
+     "vorm": "lachent",
+     "soort": "b",
+     "patroon": "od-t-ipv-d"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het hoort bij een het-woord met ‘een’ ervoor (‘een vrouwtje’). Dan komt er geen -e achter: lachend.",
+    "stappen": [
+     "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij ‘een vrouwtje’.",
+     "De regel: Onvoltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor: geen -e. Met het ervoor wel. Met mijn, dit of het ervoor komt er wel een -e."
+    ],
+    "perAfleider": {
+     "lachende": "lachende: na ‘een’ met een het-woord komt er geen -e achter.",
+     "lachent": "lachent: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent."
+    },
+    "onthoud": "Een, geen of zo'n + het-woord in het enkelvoud: geen -e erachter."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\n• Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘vrouwtje’.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "Onvoltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor: geen -e. Met het ervoor wel. Met mijn, dit of het ervoor komt er wel een -e.\nVoorbeeld: Ik hoorde een huilend kind in de trein."
+   ],
+   "opties": [
+    "lachende",
+    "lachent",
+    "lachend"
+   ],
+   "goed": 2
+  },
+  {
+   "id": "tt-046",
+   "ww": "rijden",
+   "categorie": "tt",
+   "slot": "tt.u",
+   "regel": "tt-dt",
+   "instinker": true,
+   "zin": "U ___ na de rotonde gewoon rechtdoor.",
+   "antwoord": "rijdt",
+   "afleiders": [
+    {
+     "vorm": "rijd",
+     "soort": "a",
+     "patroon": "tt-t-vergeten"
+    },
+    {
+     "vorm": "rijden",
+     "soort": "a",
+     "patroon": "tt-mv-ipv-ev"
+    }
+   ],
+   "uitleg": {
+    "kort": "De stam is rijd, met een d. Het onderwerp is u. Dan komt er toch een t achter: rijd + t = rijdt.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de tegenwoordige tijd. Het onderwerp is ‘U’.",
+     "De stam: ik rijd.",
+     "De regel: Eindigt de stam op d? Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud (hij, zij, het)? Dan komt er toch een t achter: dt."
+    ],
+    "perAfleider": {
+     "rijd": "rijd is de stam. Bij u komt er nog een t achter.",
+     "rijden": "rijden is het hele werkwoord. Dat gebruik je bij meervoud, maar ‘u’ is hier enkelvoud."
+    },
+    "onthoud": "Onderwerp jij (voor het werkwoord), u, hij, zij, het, of een ander woord voor één persoon of ding: stam + t. Eindigt de stam op d? Dan krijg je dt."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Wie of wat doet het? Dat is het onderwerp. Let op ‘U’.\n• Is het onderwerp enkelvoud of meervoud? En staat het voor of achter het werkwoord?\n• Wat is de stam? Moet er een t bij, of niet?",
+    "Eindigt de stam op d? Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud (hij, zij, het)? Dan komt er toch een t achter: dt.\nVoorbeeld: Het wordt morgen weer warm."
+   ],
+   "opties": [
+    "rijd",
+    "rijden",
+    "rijdt"
+   ],
+   "goed": 2
+  },
+  {
+   "id": "vd-058",
+   "ww": "tekenen",
+   "categorie": "vd",
+   "slot": "vd",
+   "regel": "vd-d",
+   "instinker": false,
+   "zin": "Mijn zusje heeft een kaart voor oma ___.",
+   "antwoord": "getekend",
+   "afleiders": [
+    {
+     "vorm": "getekent",
+     "soort": "b",
+     "patroon": "vd-t-d-omgedraaid"
+    },
+    {
+     "vorm": "getekende",
+     "soort": "a",
+     "patroon": "vd-met-e"
+    }
+   ],
+   "uitleg": {
+    "kort": "De laatste letter van de stam is een n. Die zit niet in 't kofschip, dus een d. Het wordt ge + teken + d: getekend.",
+    "stappen": [
+     "Welke vorm? Er staat al een vorm van hebben, zijn of worden in de zin (‘heeft’), en het werkwoord hoort daarbij. Dus dit is een voltooid deelwoord.",
+     "De stam: ik teken.",
+     "De regel: Voltooid deelwoord van een zwak werkwoord: eindigt de stam níet op t, k, f, s, ch, p of x? Dan ge + stam + d. Eindigt de stam al op een d? Dan komt er niets meer achter."
+    ],
+    "perAfleider": {
+     "getekent": "getekent: kijk nog eens naar 't kofschip. De laatste letter van de stam is een n. Die zit niet in 't kofschip, dus een d.",
+     "getekende": "getekende: na een hulpwerkwoord komt er geen -e achter het voltooid deelwoord."
+    },
+    "onthoud": "Zwak werkwoord en de stam eindigt niet op een letter van 't kofschip? Ge + stam + d. Eindigt de stam al op d, dan komt er niets bij."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Staat er een hulpwerkwoord (hebben, zijn of worden) in de zin, en hoort het werkwoord daarbij? Let op ‘heeft’.\n• Wat is de stam? Eindigt die al op een t of d?\n• Zo niet: eindigt de stam op t, k, f, s, ch, p of x?",
+    "Voltooid deelwoord van een zwak werkwoord: eindigt de stam níet op t, k, f, s, ch, p of x? Dan ge + stam + d. Eindigt de stam al op een d? Dan komt er niets meer achter.\nVoorbeeld: De baby heeft de hele nacht gehuild."
+   ],
+   "opties": [
+    "getekent",
+    "getekend",
+    "getekende"
+   ],
+   "goed": 1
+  },
+  {
+   "id": "eng-1127",
+   "ww": "posten",
+   "categorie": "eng",
+   "slot": "bvd.kaal",
+   "regel": "bvd-een-het",
+   "instinker": true,
+   "zin": "Op de pagina staat een ___ filmpje van de wedstrijd.",
+   "antwoord": "gepost",
+   "afleiders": [
+    {
+     "vorm": "geposte",
+     "soort": "a",
+     "patroon": "bvd-e-teveel"
+    },
+    {
+     "vorm": "geposd",
+     "soort": "b",
+     "patroon": "bvd-t-d-omgedraaid"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het hoort bij een het-woord met ‘een’ ervoor (‘een filmpje’). Dan komt er geen -e achter: gepost.",
+    "stappen": [
+     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘filmpje’. Je gebruikt het als bijvoeglijk naamwoord.",
+     "De stam: ik post.",
+     "De regel: Voltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor (een gekookt ei, gekookt water): geen -e. Met het ervoor wel (het gekookte ei). Met mijn, dit of het ervoor komt er wel een -e."
+    ],
+    "perAfleider": {
+     "geposte": "geposte: na ‘een’ met een het-woord komt er geen -e achter.",
+     "geposd": "geposd: het voltooid deelwoord is gepost. Dat eindigt op een t, en die blijft staan."
+    },
+    "onthoud": "Een, geen of zo'n + het-woord in het enkelvoud: geen -e erachter."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘filmpje’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …).\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "Voltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor (een gekookt ei, gekookt water): geen -e. Met het ervoor wel (het gekookte ei). Met mijn, dit of het ervoor komt er wel een -e.\nVoorbeeld: Ik eet elke ochtend een gekookt ei."
+   ],
+   "opties": [
+    "geposte",
+    "gepost",
+    "geposd"
+   ],
+   "goed": 1
+  },
+  {
+   "id": "vd-1100",
+   "ww": "schudden",
+   "categorie": "vd",
+   "slot": "vd",
+   "regel": "vd-stam-td",
+   "instinker": true,
+   "zin": "De trainer heeft iedereen de hand ___.",
+   "antwoord": "geschud",
+   "afleiders": [
+    {
+     "vorm": "geschudt",
+     "soort": "b",
+     "patroon": "vd-dt"
+    },
+    {
+     "vorm": "geschudde",
+     "soort": "a",
+     "patroon": "vd-met-e"
+    }
+   ],
+   "uitleg": {
+    "kort": "schudden is een zwak werkwoord en de stam schud eindigt al op een d. Die blijft staan, en er komt niets meer achter: ge + schud = geschud.",
+    "stappen": [
+     "Welke vorm? Er staat al een vorm van hebben, zijn of worden in de zin (‘heeft’), en het werkwoord hoort daarbij. Dus dit is een voltooid deelwoord.",
+     "De stam: ik schud.",
+     "De regel: Zwak werkwoord met een stam die al op t of d eindigt? Dan wordt het ge + stam, er komt niets meer achter (gezet, geland)."
+    ],
+    "perAfleider": {
+     "geschudt": "geschudt: een voltooid deelwoord eindigt nooit op dt.",
+     "geschudde": "geschudde: na een hulpwerkwoord komt er geen -e achter het voltooid deelwoord."
+    },
+    "onthoud": "Voltooid deelwoord van een zwak werkwoord met een stam op t of d: ge + stam, er komt niets meer achter."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Staat er een hulpwerkwoord (hebben, zijn of worden) in de zin, en hoort het werkwoord daarbij? Let op ‘heeft’.\n• Wat is de stam? Eindigt die al op een t of d?\n• Zo niet: eindigt de stam op t, k, f, s, ch, p of x?",
+    "Zwak werkwoord met een stam die al op t of d eindigt? Dan wordt het ge + stam, er komt niets meer achter (gezet, geland).\nVoorbeeld: Ik heb de fietsen in de schuur gezet."
+   ],
+   "opties": [
+    "geschudt",
+    "geschudde",
+    "geschud"
+   ],
+   "goed": 2
+  },
+  {
+   "id": "vd-1021",
+   "ww": "verrassen",
+   "categorie": "vd",
+   "slot": "vd",
+   "regel": "vd-geen-ge",
+   "instinker": true,
+   "zin": "Mijn zus heeft me met een taart ___.",
+   "antwoord": "verrast",
+   "afleiders": [
+    {
+     "vorm": "geverrast",
+     "soort": "b",
+     "patroon": "vd-ge-teveel"
+    },
+    {
+     "vorm": "verraste",
+     "soort": "a",
+     "patroon": "vd-met-e"
+    }
+   ],
+   "uitleg": {
+    "kort": "verrassen heeft het voorvoegsel ver- (zonder klemtoon). Dan komt er geen ge- voor. De laatste letter van de stam (s) zit in 't kofschip, dus een t: verrast.",
+    "stappen": [
+     "Welke vorm? Er staat al een vorm van hebben, zijn of worden in de zin (‘heeft’), en het werkwoord hoort daarbij. Dus dit is een voltooid deelwoord.",
+     "De stam: ik verras.",
+     "De regel: Heeft het werkwoord het voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon (beTAlen, verTELlen)? Dan komt er geen ge- voor het voltooid deelwoord. Let op: bij verven, geven en beven is dat geen voorvoegsel (geverfd, gegeven, gebeefd). Ook samengestelde werkwoorden met voor-, over-, door-, onder-, om- of mis- die je niet kunt splitsen, krijgen geen ge- (voorspellen, voorspeld; overleggen, overlegd)."
+    ],
+    "perAfleider": {
+     "geverrast": "geverrast: verrassen heeft het voorvoegsel ver- (zonder klemtoon). Dan komt er geen ge- voor.",
+     "verraste": "verraste: na een hulpwerkwoord komt er geen -e achter het voltooid deelwoord."
+    },
+    "onthoud": "Voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon? Dan geen ge-."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Staat er een hulpwerkwoord (hebben, zijn of worden) in de zin, en hoort het werkwoord daarbij? Let op ‘heeft’.\n• Heeft het werkwoord een voorvoegsel zonder klemtoon (be-, ge-, her-, er-, ont-, ver-)? Dan komt er geen ge- voor.\n• Eindigt de stam al op t of d? Zo niet: eindigt de stam op t, k, f, s, ch, p of x?",
+    "Heeft het werkwoord het voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon (beTAlen, verTELlen)? Dan komt er geen ge- voor het voltooid deelwoord. Let op: bij verven, geven en beven is dat geen voorvoegsel (geverfd, gegeven, gebeefd). Ook samengestelde werkwoorden met voor-, over-, door-, onder-, om- of mis- die je niet kunt splitsen, krijgen geen ge- (voorspellen, voorspeld; overleggen, overlegd).\nVoorbeeld: Ik heb de rekening al betaald."
+   ],
+   "opties": [
+    "geverrast",
+    "verrast",
+    "verraste"
+   ],
+   "goed": 1
+  },
+  {
+   "id": "eng-1031",
+   "ww": "surfen",
+   "categorie": "eng",
+   "slot": "tt.jij.na",
+   "regel": "tt-inversie",
+   "instinker": true,
+   "zin": "Hoe vaak ___ jij op het internet tijdens de pauze?",
+   "antwoord": "surf",
+   "afleiders": [
+    {
+     "vorm": "surft",
+     "soort": "a",
+     "patroon": "tt-inversie-t"
+    },
+    {
+     "vorm": "surfd",
+     "soort": "b",
+     "patroon": "tt-d-achter-stam"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het onderwerp ‘jij’ staat achter het werkwoord. Dan komt er geen t bij: alleen de stam, surf.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de tegenwoordige tijd. Het onderwerp ‘jij’ staat achter het werkwoord.",
+     "De stam: ik surf.",
+     "De regel: Is jij of je het onderwerp, en staat het achter het werkwoord? Dan komt er geen t bij: je schrijft alleen de stam. Eindigt de stam zelf op t (zet jij), dan blijft die t gewoon staan. Is je geen onderwerp (hij vindt je aardig), dan geldt dit niet."
+    ],
+    "perAfleider": {
+     "surft": "surft: deze vorm lijkt logisch, maar staat het onderwerp jij of je achter het werkwoord, dan komt er geen t bij.",
+     "surfd": "surfd: het onderwerp ‘jij’ staat achter het werkwoord, dus je schrijft alleen de stam."
+    },
+    "onthoud": "Staat het onderwerp jij of je achter het werkwoord? Dan komt er geen t bij."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Wie of wat doet het? Dat is het onderwerp. Let op ‘jij’.\n• Is het onderwerp enkelvoud of meervoud? En staat het voor of achter het werkwoord?\n• Wat is de stam? Moet er een t bij, of niet?",
+    "Is jij of je het onderwerp, en staat het achter het werkwoord? Dan komt er geen t bij: je schrijft alleen de stam. Eindigt de stam zelf op t (zet jij), dan blijft die t gewoon staan. Is je geen onderwerp (hij vindt je aardig), dan geldt dit niet.\nVoorbeeld: Werk jij morgen ook?"
+   ],
+   "opties": [
+    "surft",
+    "surfd",
+    "surf"
+   ],
+   "goed": 2
+  },
+  {
+   "id": "vt-1090",
+   "ww": "dansen",
+   "categorie": "vt",
+   "slot": "vt.ev",
+   "regel": "vt-te",
+   "instinker": false,
+   "zin": "Mijn nichtje ___ gisteravond de hele avond op het feest.",
+   "antwoord": "danste",
+   "afleiders": [
+    {
+     "vorm": "dansde",
+     "soort": "b",
+     "patroon": "vt-kofschip-omgedraaid"
+    },
+    {
+     "vorm": "dansten",
+     "soort": "a",
+     "patroon": "vt-mv-ipv-ev"
+    }
+   ],
+   "uitleg": {
+    "kort": "De laatste letter van de stam is een s. Die zit in 't kofschip, dus -te. Zo krijg je: danste.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘gisteravond’). Het onderwerp is ‘Mijn nichtje’.",
+     "De stam: ik dans.",
+     "De regel: Verleden tijd van een zwak werkwoord: eindigt de stam op t, k, f, s, ch, p of x (de letters van 't kofschip)? Dan stam + te, bij meervoud + ten. Let op: eindigt het hele werkwoord op -ven of -zen, kijk dan naar de v of z."
+    ],
+    "perAfleider": {
+     "dansde": "dansde: kijk nog eens naar 't kofschip. De laatste letter van de stam is een s. Die zit in 't kofschip, dus -te.",
+     "dansten": "dansten is de vorm voor meervoud. ‘Mijn nichtje’ is enkelvoud."
+    },
+    "onthoud": "Zwak werkwoord en de stam eindigt op een letter van 't kofschip? Stam + te. Bij -ven of -zen kijk je naar de v of z."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Speelt het zich nu af of in het verleden? Let op ‘gisteravond’.\n• Zeg: gisteren … ik. Hoor je -te of -de? Dan is het een zwak werkwoord.\n• Wat is de stam, en eindigt die op t, k, f, s, ch, p of x? Is het onderwerp meervoud? Dan komt er nog een -n achter.",
+    "Verleden tijd van een zwak werkwoord: eindigt de stam op t, k, f, s, ch, p of x (de letters van 't kofschip)? Dan stam + te, bij meervoud + ten. Let op: eindigt het hele werkwoord op -ven of -zen, kijk dan naar de v of z.\nVoorbeeld: Vorig jaar maakte ik een fietstocht door Limburg."
+   ],
+   "opties": [
+    "dansde",
+    "dansten",
+    "danste"
+   ],
+   "goed": 2
+  },
+  {
+   "id": "vd-070",
+   "ww": "vullen",
+   "categorie": "vd",
+   "slot": "vd",
+   "regel": "vd-d",
+   "instinker": false,
+   "zin": "Heb je de waterflessen al ___?",
+   "antwoord": "gevuld",
+   "afleiders": [
+    {
+     "vorm": "gevult",
+     "soort": "b",
+     "patroon": "vd-t-d-omgedraaid"
+    },
+    {
+     "vorm": "gevulde",
+     "soort": "a",
+     "patroon": "vd-met-e"
+    }
+   ],
+   "uitleg": {
+    "kort": "De laatste letter van de stam is een l. Die zit niet in 't kofschip, dus een d. Het wordt ge + vul + d: gevuld.",
+    "stappen": [
+     "Welke vorm? Er staat al een vorm van hebben, zijn of worden in de zin (‘Heb’), en het werkwoord hoort daarbij. Dus dit is een voltooid deelwoord.",
+     "De stam: ik vul.",
+     "De regel: Voltooid deelwoord van een zwak werkwoord: eindigt de stam níet op t, k, f, s, ch, p of x? Dan ge + stam + d. Eindigt de stam al op een d? Dan komt er niets meer achter."
+    ],
+    "perAfleider": {
+     "gevult": "gevult: kijk nog eens naar 't kofschip. De laatste letter van de stam is een l. Die zit niet in 't kofschip, dus een d.",
+     "gevulde": "gevulde: na een hulpwerkwoord komt er geen -e achter het voltooid deelwoord."
+    },
+    "onthoud": "Zwak werkwoord en de stam eindigt niet op een letter van 't kofschip? Ge + stam + d. Eindigt de stam al op d, dan komt er niets bij."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Staat er een hulpwerkwoord (hebben, zijn of worden) in de zin, en hoort het werkwoord daarbij? Let op ‘Heb’.\n• Wat is de stam? Eindigt die al op een t of d?\n• Zo niet: eindigt de stam op t, k, f, s, ch, p of x?",
+    "Voltooid deelwoord van een zwak werkwoord: eindigt de stam níet op t, k, f, s, ch, p of x? Dan ge + stam + d. Eindigt de stam al op een d? Dan komt er niets meer achter.\nVoorbeeld: De baby heeft de hele nacht gehuild."
+   ],
+   "opties": [
+    "gevuld",
+    "gevult",
+    "gevulde"
+   ],
+   "goed": 0
+  },
+  {
+   "id": "eng-1001",
+   "ww": "downloaden",
+   "categorie": "eng",
+   "slot": "tt.hij",
+   "regel": "tt-dt",
+   "instinker": true,
+   "zin": "Mijn broer ___ elke week een nieuw spel op zijn laptop.",
+   "antwoord": "downloadt",
+   "afleiders": [
+    {
+     "vorm": "downloat",
+     "soort": "b",
+     "patroon": "tt-d-als-t"
+    },
+    {
+     "vorm": "download",
+     "soort": "a",
+     "patroon": "tt-t-vergeten"
+    }
+   ],
+   "uitleg": {
+    "kort": "De stam is download, met een d. Het onderwerp is enkelvoud (net als hij, zij of het). Dan komt er toch een t achter: download + t = downloadt.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de tegenwoordige tijd. Het onderwerp is ‘Mijn broer’.",
+     "De stam: ik download.",
+     "De regel: Eindigt de stam op d? Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud (hij, zij, het)? Dan komt er toch een t achter: dt."
+    ],
+    "perAfleider": {
+     "downloat": "downloat: je hoort een t, maar de stam is download, met een d. Die d blijft staan.",
+     "download": "download is de stam. Bij ‘Mijn broer’ komt er nog een t achter."
+    },
+    "onthoud": "Onderwerp jij (voor het werkwoord), u, hij, zij, het, of een ander woord voor één persoon of ding: stam + t. Eindigt de stam op d? Dan krijg je dt."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Wie of wat doet het? Dat is het onderwerp. Let op ‘Mijn broer’.\n• Is het onderwerp enkelvoud of meervoud? En staat het voor of achter het werkwoord?\n• Wat is de stam? Moet er een t bij, of niet?",
+    "Eindigt de stam op d? Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud (hij, zij, het)? Dan komt er toch een t achter: dt.\nVoorbeeld: Het wordt morgen weer warm."
+   ],
+   "opties": [
+    "downloadt",
+    "downloat",
+    "download"
+   ],
+   "goed": 0
+  },
+  {
+   "id": "vt-1160",
+   "ww": "vechten",
+   "categorie": "vt",
+   "slot": "vt.mv",
+   "regel": "vt-onregelmatig",
+   "instinker": true,
+   "zin": "Toen ik klein was, ___ de jongens uit mijn straat om de bal.",
+   "antwoord": "vochten",
+   "afleiders": [
+    {
+     "vorm": "vechten",
+     "soort": "a",
+     "patroon": "vt-tt-gelijk"
+    },
+    {
+     "vorm": "vechtten",
+     "soort": "b",
+     "patroon": "vt-zwak-gemaakt"
+    }
+   ],
+   "uitleg": {
+    "kort": "vechten is een onregelmatig werkwoord. De verleden tijd in het meervoud is vochten. Deze vorm leer je los, want hij volgt geen regel.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘Toen ik klein was’). Het onderwerp is ‘de jongens’.",
+     "De stam: ik vecht.",
+     "De regel: Een paar werkwoorden zijn onregelmatig. Hun verleden tijd leer je los, want die volgt geen regel (kopen, kocht; denken, dacht)."
+    ],
+    "perAfleider": {
+     "vechten": "vechten is de tegenwoordige tijd. Let op ‘Toen ik klein was’: het gebeurde in het verleden.",
+     "vechtten": "vechtten: zo zou het gaan bij een zwak werkwoord. vechten verandert in de verleden tijd van klank: vochten."
+    },
+    "onthoud": "Een paar werkwoorden leer je los, zoals kocht, dacht en bracht."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Speelt het zich nu af of in het verleden? Let op ‘Toen ik klein was’.\n• Zeg: gisteren … ik. Verandert de klinker, en hoor je geen -te of -de? Dan is het een sterk werkwoord. Een paar werkwoorden leer je los.\n• Bij een sterk werkwoord komt er geen -te of -de achter. Is het onderwerp meervoud? Dan komt er -en achter, en schrijf je het volgens de gewone spellingregels.",
+    "Een paar werkwoorden zijn onregelmatig. Hun verleden tijd leer je los, want die volgt geen regel (kopen, kocht; denken, dacht).\nVoorbeeld: Ze kocht een nieuwe jas."
+   ],
+   "opties": [
+    "vechten",
+    "vochten",
+    "vechtten"
+   ],
+   "goed": 1
+  },
+  {
+   "id": "bvd-1003",
+   "ww": "redden",
+   "categorie": "bvd",
+   "slot": "bvd.kaal",
+   "regel": "bvd-een-het",
+   "instinker": true,
+   "zin": "Het kind kreeg een ___ konijntje van de brandweer.",
+   "antwoord": "gered",
+   "afleiders": [
+    {
+     "vorm": "geredde",
+     "soort": "a",
+     "patroon": "bvd-e-teveel"
+    },
+    {
+     "vorm": "geret",
+     "soort": "b",
+     "patroon": "bvd-t-d-omgedraaid"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het hoort bij een het-woord met ‘een’ ervoor (‘een konijntje’). Dan komt er geen -e achter: gered.",
+    "stappen": [
+     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘konijntje’. Je gebruikt het als bijvoeglijk naamwoord.",
+     "De stam: ik red.",
+     "De regel: Voltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor (een gekookt ei, gekookt water): geen -e. Met het ervoor wel (het gekookte ei). Met mijn, dit of het ervoor komt er wel een -e."
+    ],
+    "perAfleider": {
+     "geredde": "geredde: na ‘een’ met een het-woord komt er geen -e achter.",
+     "geret": "geret: het voltooid deelwoord is gered. Dat eindigt op een d, en die blijft staan."
+    },
+    "onthoud": "Een, geen of zo'n + het-woord in het enkelvoud: geen -e erachter."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘konijntje’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …).\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "Voltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor (een gekookt ei, gekookt water): geen -e. Met het ervoor wel (het gekookte ei). Met mijn, dit of het ervoor komt er wel een -e.\nVoorbeeld: Ik eet elke ochtend een gekookt ei."
+   ],
+   "opties": [
+    "geredde",
+    "geret",
+    "gered"
+   ],
+   "goed": 2
+  },
+  {
+   "id": "tt-1134",
+   "ww": "plannen",
+   "categorie": "tt",
+   "slot": "tt.ik",
+   "regel": "tt-ik",
+   "instinker": false,
+   "zin": "Ik ___ mijn week altijd op zondag.",
+   "antwoord": "plan",
+   "afleiders": [
+    {
+     "vorm": "plant",
+     "soort": "a",
+     "patroon": "tt-ik-met-t"
+    },
+    {
+     "vorm": "pland",
+     "soort": "b",
+     "patroon": "tt-d-achter-stam"
+    }
+   ],
+   "uitleg": {
+    "kort": "Bij ik schrijf je alleen de stam. Er komt geen t bij: plan.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de tegenwoordige tijd. Het onderwerp is ‘Ik’.",
+     "De stam: ik plan.",
+     "De regel: Bij ik schrijf je alleen de stam. Er komt geen t bij (ik werk, ik zet)."
+    ],
+    "perAfleider": {
+     "plant": "plant: bij ik schrijf je alleen de stam. Er komt geen t bij.",
+     "pland": "pland: bij ik schrijf je alleen de stam."
+    },
+    "onthoud": "Ik + stam. Er komt geen t bij."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Wie of wat doet het? Dat is het onderwerp. Let op ‘Ik’.\n• Is het onderwerp enkelvoud of meervoud? En staat het voor of achter het werkwoord?\n• Wat is de stam? Moet er een t bij, of niet?",
+    "Bij ik schrijf je alleen de stam. Er komt geen t bij (ik werk, ik zet).\nVoorbeeld: Ik werk elke zaterdag in de bakkerij."
+   ],
+   "opties": [
+    "plant",
+    "plan",
+    "pland"
+   ],
+   "goed": 1
+  },
+  {
+   "id": "od-1002",
+   "ww": "huilen",
+   "categorie": "od",
+   "slot": "od.kaal",
+   "regel": "od-een-het",
+   "instinker": true,
+   "zin": "Bij de ingang stond een ___ meisje.",
+   "antwoord": "huilend",
+   "afleiders": [
+    {
+     "vorm": "huilende",
+     "soort": "a",
+     "patroon": "od-e-teveel"
+    },
+    {
+     "vorm": "huilent",
+     "soort": "b",
+     "patroon": "od-t-ipv-d"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het hoort bij een het-woord met ‘een’ ervoor (‘een meisje’). Dan komt er geen -e achter: huilend.",
+    "stappen": [
+     "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij ‘een meisje’.",
+     "De regel: Onvoltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor (een lachend kind, kokend water): geen -e. Met het ervoor wel (het lachende kind). Met mijn, dit of het ervoor komt er wel een -e."
+    ],
+    "perAfleider": {
+     "huilende": "huilende: na ‘een’ met een het-woord komt er geen -e achter.",
+     "huilent": "huilent: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent."
+    },
+    "onthoud": "Een, geen of zo'n + het-woord in het enkelvoud: geen -e erachter."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\n• Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘meisje’.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "Onvoltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor (een lachend kind, kokend water): geen -e. Met het ervoor wel (het lachende kind). Met mijn, dit of het ervoor komt er wel een -e.\nVoorbeeld: Er zat een zingend vogeltje in de boom."
+   ],
+   "opties": [
+    "huilende",
+    "huilend",
+    "huilent"
+   ],
+   "goed": 1
+  },
+  {
+   "id": "tt-066",
+   "ww": "koken",
+   "categorie": "tt",
+   "slot": "tt.hij",
+   "regel": "tt-t",
+   "instinker": false,
+   "zin": "Mijn vader ___ op woensdag altijd soep.",
+   "antwoord": "kookt",
+   "afleiders": [
+    {
+     "vorm": "kook",
+     "soort": "a",
+     "patroon": "tt-t-vergeten"
+    },
+    {
+     "vorm": "kookd",
+     "soort": "b",
+     "patroon": "tt-d-ipv-t"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het onderwerp is enkelvoud (net als hij, zij of het). Dan komt er een t achter de stam: kook + t = kookt.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de tegenwoordige tijd. Het onderwerp is ‘Mijn vader’.",
+     "De stam: ik kook.",
+     "De regel: Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud (hij, zij, het, mijn broer, de trein, iemand, dat)? Dan stam + t. Een paar veelgebruikte werkwoorden zijn onregelmatig (hij heeft, hij kan, hij wil, hij is)."
+    ],
+    "perAfleider": {
+     "kook": "kook is de stam. Bij ‘Mijn vader’ komt er nog een t achter.",
+     "kookd": "kookd: in de tegenwoordige tijd komt er een t achter de stam, geen d."
+    },
+    "onthoud": "Onderwerp jij of je (voor het werkwoord), u, hij, zij, het, of een ander woord voor één persoon of ding: stam + t. Eindigt de stam al op t, dan geen extra t."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Wie of wat doet het? Dat is het onderwerp. Let op ‘Mijn vader’.\n• Is het onderwerp enkelvoud of meervoud? En staat het voor of achter het werkwoord?\n• Wat is de stam? Moet er een t bij, of niet?",
+    "Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud (hij, zij, het, mijn broer, de trein, iemand, dat)? Dan stam + t. Een paar veelgebruikte werkwoorden zijn onregelmatig (hij heeft, hij kan, hij wil, hij is).\nVoorbeeld: Mijn broer werkt in een ziekenhuis."
+   ],
+   "opties": [
+    "kook",
+    "kookt",
+    "kookd"
+   ],
+   "goed": 1
+  },
+  {
+   "id": "bvd-1129",
+   "ww": "ophalen",
+   "categorie": "bvd",
+   "slot": "bvd.e",
+   "regel": "bvd-e",
+   "instinker": false,
+   "zin": "De ___ pakketjes liggen in de gang.",
+   "antwoord": "opgehaalde",
+   "afleiders": [
+    {
+     "vorm": "opgehaaldte",
+     "soort": "b",
+     "patroon": "bvd-te-ipv-de"
+    },
+    {
+     "vorm": "opgehaalte",
+     "soort": "b",
+     "patroon": "bvd-t-d-omgedraaid"
+    }
+   ],
+   "uitleg": {
+    "kort": "Ophalen is scheidbaar, dus de ge- komt in het midden. Het voltooid deelwoord is opgehaald. Het hoort bij ‘pakketjes’. Er staat ‘de’ voor, dus komt er een -e achter. Zo krijg je: opgehaalde.",
+    "stappen": [
+     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘pakketjes’. Je gebruikt het als bijvoeglijk naamwoord.",
+     "De stam: ik haal op.",
+     "De regel: Voltooid deelwoord bij een zelfstandig naamwoord: + e (de gemaakte afspraak). Geen -e als het op -en eindigt (het gebroken glas), en ook niet bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een gekookt ei, gekookt water)."
+    ],
+    "perAfleider": {
+     "opgehaaldte": "opgehaaldte: het voltooid deelwoord is opgehaald, met een d. Daar komt een -e achter, geen -te.",
+     "opgehaalte": "opgehaalte: het voltooid deelwoord is opgehaald. Dat eindigt op een d, en die blijft staan."
+    },
+    "onthoud": "Voltooid deelwoord bij een zelfstandig naamwoord: meestal + e. Niet als het op -en eindigt, en niet bij een, geen of zo'n + het-woord."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘pakketjes’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …). Is het werkwoord scheidbaar? Dan komt de ge- in het midden.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "Voltooid deelwoord bij een zelfstandig naamwoord: + e (de gemaakte afspraak). Geen -e als het op -en eindigt (het gebroken glas), en ook niet bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een gekookt ei, gekookt water).\nVoorbeeld: De gemaakte afspraken staan in mijn agenda."
+   ],
+   "opties": [
+    "opgehaalde",
+    "opgehaaldte",
+    "opgehaalte"
+   ],
+   "goed": 0
+  },
+  {
+   "id": "tt-1066",
+   "ww": "verven",
+   "categorie": "tt",
+   "slot": "tt.hij",
+   "regel": "tt-je-bezit",
+   "instinker": true,
+   "zin": "___ je vader dit weekend de schuur?",
+   "antwoord": "Verft",
+   "afleiders": [
+    {
+     "vorm": "Verf",
+     "soort": "a",
+     "patroon": "tt-t-vergeten"
+    },
+    {
+     "vorm": "Vervt",
+     "soort": "b",
+     "patroon": "tt-v-gehouden"
+    }
+   ],
+   "uitleg": {
+    "kort": "Je betekent hier jouw. Het onderwerp is ‘je vader’: dat is enkelvoud, net als hij. Dus stam + t: verft.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de tegenwoordige tijd. ‘Je’ betekent hier ‘jouw’: het onderwerp is ‘je vader’.",
+     "De stam: ik verf.",
+     "De regel: Betekent je hier jouw? Dan is het onderwerp je + het woord erna (je fiets, je zus). Is dat enkelvoud? Dan stam + t. Bij meervoud (je ouders) gebruik je het hele werkwoord."
+    ],
+    "perAfleider": {
+     "Verf": "Verf is de stam. Bij ‘je vader’ komt er nog een t achter.",
+     "Vervt": "Vervt: de stam schrijf je met een f (verf), niet met een v."
+    },
+    "onthoud": "Betekent je ‘jouw’? Kijk dan naar het woord erna: je fiets is enkelvoud, dus stam + t."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Wie of wat doet het? Dat is het onderwerp. Let op het woord na ‘je’.\n• Is het onderwerp enkelvoud of meervoud? En staat het voor of achter het werkwoord?\n• Wat is de stam? Moet er een t bij, of niet?",
+    "Betekent je hier jouw? Dan is het onderwerp je + het woord erna (je fiets, je zus). Is dat enkelvoud? Dan stam + t. Bij meervoud (je ouders) gebruik je het hele werkwoord.\nVoorbeeld: Wordt je fiets vandaag gemaakt?"
+   ],
+   "opties": [
+    "Verf",
+    "Vervt",
+    "Verft"
+   ],
+   "goed": 2
+  },
+  {
+   "id": "bvd-1060",
+   "ww": "opbouwen",
+   "categorie": "bvd",
+   "slot": "bvd.e",
+   "regel": "bvd-e",
+   "instinker": false,
+   "zin": "De ___ kast staat tegen de muur.",
+   "antwoord": "opgebouwde",
+   "afleiders": [
+    {
+     "vorm": "opgebouwdte",
+     "soort": "b",
+     "patroon": "bvd-te-ipv-de"
+    },
+    {
+     "vorm": "opgebouwte",
+     "soort": "b",
+     "patroon": "bvd-t-d-omgedraaid"
+    }
+   ],
+   "uitleg": {
+    "kort": "Opbouwen is scheidbaar, dus de ge- komt in het midden. Het voltooid deelwoord is opgebouwd. Het hoort bij ‘kast’. Er staat ‘de’ voor, dus komt er een -e achter. Zo krijg je: opgebouwde.",
+    "stappen": [
+     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘kast’. Je gebruikt het als bijvoeglijk naamwoord.",
+     "De stam: ik bouw op.",
+     "De regel: Voltooid deelwoord bij een zelfstandig naamwoord: + e (de gemaakte afspraak). Geen -e als het op -en eindigt (het gebroken glas), en ook niet bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een gekookt ei, gekookt water)."
+    ],
+    "perAfleider": {
+     "opgebouwdte": "opgebouwdte: het voltooid deelwoord is opgebouwd, met een d. Daar komt een -e achter, geen -te.",
+     "opgebouwte": "opgebouwte: het voltooid deelwoord is opgebouwd. Dat eindigt op een d, en die blijft staan."
+    },
+    "onthoud": "Voltooid deelwoord bij een zelfstandig naamwoord: meestal + e. Niet als het op -en eindigt, en niet bij een, geen of zo'n + het-woord."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘kast’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …). Is het werkwoord scheidbaar? Dan komt de ge- in het midden.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "Voltooid deelwoord bij een zelfstandig naamwoord: + e (de gemaakte afspraak). Geen -e als het op -en eindigt (het gebroken glas), en ook niet bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een gekookt ei, gekookt water).\nVoorbeeld: De gemaakte afspraken staan in mijn agenda."
+   ],
+   "opties": [
+    "opgebouwdte",
+    "opgebouwde",
+    "opgebouwte"
+   ],
+   "goed": 1
+  },
+  {
+   "id": "vd-1067",
+   "ww": "aanmelden",
+   "categorie": "vd",
+   "slot": "vd",
+   "regel": "vd-scheidbaar",
+   "instinker": true,
+   "zin": "Ik heb me gisteren voor de cursus ___.",
+   "antwoord": "aangemeld",
+   "afleiders": [
+    {
+     "vorm": "aangemelt",
+     "soort": "b",
+     "patroon": "vd-t-d-omgedraaid"
+    },
+    {
+     "vorm": "aangemelde",
+     "soort": "a",
+     "patroon": "vd-met-e"
+    }
+   ],
+   "uitleg": {
+    "kort": "aanmelden is een scheidbaar werkwoord (ik meld aan). De ge- komt in het midden: aangemeld.",
+    "stappen": [
+     "Welke vorm? Er staat al een vorm van hebben, zijn of worden in de zin (‘heb’), en het werkwoord hoort daarbij. Dus dit is een voltooid deelwoord.",
+     "De stam: ik meld aan.",
+     "De regel: Bij een scheidbaar werkwoord (opbellen: ik bel op) komt de ge- in het midden (opgebeld)."
+    ],
+    "perAfleider": {
+     "aangemelt": "aangemelt: kijk nog eens naar 't kofschip. De laatste letter van de stam is een d. Die zit niet in 't kofschip, dus een d.",
+     "aangemelde": "aangemelde: na een hulpwerkwoord komt er geen -e achter het voltooid deelwoord."
+    },
+    "onthoud": "Scheidbaar werkwoord: de ge- komt in het midden."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Staat er een hulpwerkwoord (hebben, zijn of worden) in de zin, en hoort het werkwoord daarbij? Let op ‘heb’.\n• Kun je het werkwoord splitsen (ik bel op)? Dan is het scheidbaar en komt de ge- in het midden.\n• Heeft het tweede deel al een voorvoegsel zonder klemtoon (be-, ge-, her-, er-, ont-, ver-)? Dan komt er geen ge- bij.",
+    "Bij een scheidbaar werkwoord (opbellen: ik bel op) komt de ge- in het midden (opgebeld).\nVoorbeeld: Heb je de dokter al opgebeld?"
+   ],
+   "opties": [
+    "aangemeld",
+    "aangemelt",
+    "aangemelde"
+   ],
+   "goed": 0
+  },
+  {
+   "id": "inf-1008",
+   "ww": "rusten",
+   "categorie": "inf",
+   "slot": "inf",
+   "regel": "inf",
+   "instinker": true,
+   "zin": "Na het eten willen we even ___.",
+   "antwoord": "rusten",
+   "afleiders": [
+    {
+     "vorm": "rustten",
+     "soort": "a",
+     "patroon": "inf-vt-gelijk"
+    },
+    {
+     "vorm": "rust",
+     "soort": "a",
+     "patroon": "inf-tt"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het hele werkwoord schrijf je zoals in het woordenboek: rusten.",
+    "stappen": [
+     "Welke vorm? Na ‘willen’ komt het hele werkwoord (de infinitief).",
+     "De regel: Na een werkwoord als willen, moeten, kunnen, mogen, gaan, zullen of laten, of na te en om te, komt meestal het hele werkwoord (de infinitief). Staat er achteraan nog hebben, zijn of worden (het moet geverfd worden)? Dan is het een voltooid deelwoord."
+    ],
+    "perAfleider": {
+     "rustten": "rustten klinkt hetzelfde, maar dat is de verleden tijd meervoud. Na ‘willen’ komt het hele werkwoord.",
+     "rust": "rust is een persoonsvorm. Na ‘willen’ komt het hele werkwoord."
+    },
+    "onthoud": "Na willen, moeten, kunnen, mogen, gaan, zullen of te komt meestal het hele werkwoord."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Welk ander werkwoord staat er in de zin? Let op ‘willen’.\n• Staat de open plek achteraan, bij dat werkwoord?\n• Welke vorm komt er na zo’n werkwoord?",
+    "Na een werkwoord als willen, moeten, kunnen, mogen, gaan, zullen of laten, of na te en om te, komt meestal het hele werkwoord (de infinitief). Staat er achteraan nog hebben, zijn of worden (het moet geverfd worden)? Dan is het een voltooid deelwoord.\nVoorbeeld: Ik moet morgen tot vijf uur werken."
+   ],
+   "opties": [
+    "rusten",
+    "rustten",
+    "rust"
+   ],
+   "goed": 0
+  },
+  {
+   "id": "vd-038",
+   "ww": "horen",
+   "categorie": "vd",
+   "slot": "vd",
+   "regel": "vd-d",
+   "instinker": false,
+   "zin": "Heb je het nieuws al ___?",
+   "antwoord": "gehoord",
+   "afleiders": [
+    {
+     "vorm": "gehoort",
+     "soort": "b",
+     "patroon": "vd-t-d-omgedraaid"
+    },
+    {
+     "vorm": "gehoorde",
+     "soort": "a",
+     "patroon": "vd-met-e"
+    }
+   ],
+   "uitleg": {
+    "kort": "De laatste letter van de stam is een r. Die zit niet in 't kofschip, dus een d. Het wordt ge + hoor + d: gehoord.",
+    "stappen": [
+     "Welke vorm? Er staat al een vorm van hebben, zijn of worden in de zin (‘Heb’), en het werkwoord hoort daarbij. Dus dit is een voltooid deelwoord.",
+     "De stam: ik hoor.",
+     "De regel: Voltooid deelwoord van een zwak werkwoord: eindigt de stam níet op t, k, f, s, ch, p of x? Dan ge + stam + d. Eindigt de stam al op een d? Dan komt er niets meer achter."
+    ],
+    "perAfleider": {
+     "gehoort": "gehoort: kijk nog eens naar 't kofschip. De laatste letter van de stam is een r. Die zit niet in 't kofschip, dus een d.",
+     "gehoorde": "gehoorde: na een hulpwerkwoord komt er geen -e achter het voltooid deelwoord."
+    },
+    "onthoud": "Zwak werkwoord en de stam eindigt niet op een letter van 't kofschip? Ge + stam + d. Eindigt de stam al op d, dan komt er niets bij."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Staat er een hulpwerkwoord (hebben, zijn of worden) in de zin, en hoort het werkwoord daarbij? Let op ‘Heb’.\n• Wat is de stam? Eindigt die al op een t of d?\n• Zo niet: eindigt de stam op t, k, f, s, ch, p of x?",
+    "Voltooid deelwoord van een zwak werkwoord: eindigt de stam níet op t, k, f, s, ch, p of x? Dan ge + stam + d. Eindigt de stam al op een d? Dan komt er niets meer achter.\nVoorbeeld: De baby heeft de hele nacht gehuild."
+   ],
+   "opties": [
+    "gehoord",
+    "gehoort",
+    "gehoorde"
+   ],
+   "goed": 0
+  },
+  {
+   "id": "bvd-1056",
+   "ww": "opzetten",
+   "categorie": "bvd",
+   "slot": "bvd.e",
+   "regel": "bvd-spelling",
+   "instinker": true,
+   "zin": "De ___ tent staat naast het bos.",
+   "antwoord": "opgezette",
+   "afleiders": [
+    {
+     "vorm": "opgezede",
+     "soort": "b",
+     "patroon": "bvd-t-d-omgedraaid"
+    },
+    {
+     "vorm": "opgezetten",
+     "soort": "b",
+     "patroon": "bvd-n-teveel"
+    }
+   ],
+   "uitleg": {
+    "kort": "Opzetten is scheidbaar, dus de ge- komt in het midden. Het voltooid deelwoord is opgezet. Er komt een -e achter, en dan pas je de spelling aan (op-ge-zet-te): opgezette.",
+    "stappen": [
+     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘tent’. Je gebruikt het als bijvoeglijk naamwoord.",
+     "De stam: ik zet op.",
+     "De regel: Maak eerst het voltooid deelwoord, zet er een -e achter en schrijf het dan volgens de gewone spellingregels: soms komt er een medeklinker bij (gezet, de gezette koffie), soms gaat er een klinker af (gekleed, de geklede man)."
+    ],
+    "perAfleider": {
+     "opgezede": "opgezede: het voltooid deelwoord is opgezet. Dat eindigt op een t, en die blijft staan.",
+     "opgezetten": "opgezetten: er komt alleen een -e achter, geen -en."
+    },
+    "onthoud": "Eerst het voltooid deelwoord, dan de -e, dan de spelling netjes maken."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘tent’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …). Is het werkwoord scheidbaar? Dan komt de ge- in het midden.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "Maak eerst het voltooid deelwoord, zet er een -e achter en schrijf het dan volgens de gewone spellingregels: soms komt er een medeklinker bij (gezet, de gezette koffie), soms gaat er een klinker af (gekleed, de geklede man).\nVoorbeeld: De vers gezette koffie rook heerlijk."
+   ],
+   "opties": [
+    "opgezede",
+    "opgezetten",
+    "opgezette"
+   ],
+   "goed": 2
+  },
+  {
+   "id": "vt-1082",
+   "ww": "vertellen",
+   "categorie": "vt",
+   "slot": "vt.ev",
+   "regel": "vt-de",
+   "instinker": false,
+   "zin": "Gisteren ___ de gids een mooi verhaal over het kasteel.",
+   "antwoord": "vertelde",
+   "afleiders": [
+    {
+     "vorm": "vertelte",
+     "soort": "b",
+     "patroon": "vt-kofschip-omgedraaid"
+    },
+    {
+     "vorm": "vertelden",
+     "soort": "a",
+     "patroon": "vt-mv-ipv-ev"
+    }
+   ],
+   "uitleg": {
+    "kort": "De laatste letter van de stam is een l. Die zit niet in 't kofschip, dus -de. Zo krijg je: vertelde.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘Gisteren’). Het onderwerp is ‘de gids’.",
+     "De stam: ik vertel.",
+     "De regel: Verleden tijd van een zwak werkwoord: eindigt de stam níet op t, k, f, s, ch, p of x? Dan stam + de, bij meervoud + den. Bij Engelse werkwoorden kijk je naar de klank."
+    ],
+    "perAfleider": {
+     "vertelte": "vertelte: kijk nog eens naar 't kofschip. De laatste letter van de stam is een l. Die zit niet in 't kofschip, dus -de.",
+     "vertelden": "vertelden is de vorm voor meervoud. ‘de gids’ is enkelvoud."
+    },
+    "onthoud": "Zwak werkwoord en de stam eindigt niet op een letter van 't kofschip? Stam + de. Bij Engelse werkwoorden luister je naar de klank."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Speelt het zich nu af of in het verleden? Let op ‘Gisteren’.\n• Zeg: gisteren … ik. Hoor je -te of -de? Dan is het een zwak werkwoord.\n• Wat is de stam, en eindigt die op t, k, f, s, ch, p of x? Is het onderwerp meervoud? Dan komt er nog een -n achter.",
+    "Verleden tijd van een zwak werkwoord: eindigt de stam níet op t, k, f, s, ch, p of x? Dan stam + de, bij meervoud + den. Bij Engelse werkwoorden kijk je naar de klank.\nVoorbeeld: De baby huilde de hele nacht."
+   ],
+   "opties": [
+    "vertelte",
+    "vertelde",
+    "vertelden"
+   ],
+   "goed": 1
+  },
+  {
+   "id": "vd-044",
+   "ww": "verdwijnen",
+   "categorie": "vd",
+   "slot": "vd",
+   "regel": "vd-sterk-geen-ge",
+   "instinker": true,
+   "zin": "Mijn sleutels zijn opeens ___.",
+   "antwoord": "verdwenen",
+   "afleiders": [
+    {
+     "vorm": "geverdwenen",
+     "soort": "b",
+     "patroon": "vd-ge-teveel"
+    },
+    {
+     "vorm": "verdweenen",
+     "soort": "b",
+     "patroon": "vd-sterk-spelling"
+    }
+   ],
+   "uitleg": {
+    "kort": "verdwijnen heeft het voorvoegsel ver- (zonder klemtoon), dus er komt geen ge- voor. Het is een sterk werkwoord: het voltooid deelwoord eindigt op -en: verdwenen.",
+    "stappen": [
+     "Welke vorm? Er staat al een vorm van hebben, zijn of worden in de zin (‘zijn’), en het werkwoord hoort daarbij. Dus dit is een voltooid deelwoord.",
+     "De stam: ik verdwijn.",
+     "De regel: Heeft het werkwoord het voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon? Dan komt er geen ge- voor. Bij een sterk werkwoord eindigt het voltooid deelwoord op -en."
+    ],
+    "perAfleider": {
+     "geverdwenen": "geverdwenen: verdwijnen heeft het voorvoegsel ver- (zonder klemtoon). Dan komt er geen ge- voor.",
+     "verdweenen": "verdweenen: je hoort een lange klank, en de lettergreep is open (ver-dwe-nen). Dan schrijf je één klinker: verdwenen."
+    },
+    "onthoud": "Voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon? Dan geen ge-."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Staat er een hulpwerkwoord (hebben, zijn of worden) in de zin, en hoort het werkwoord daarbij? Let op ‘zijn’.\n• Maak de zin: ik heb … (of: het is …). Eindigt het op -en, of verandert de klinker? Dan is het een sterk, gemengd of onregelmatig werkwoord.\n• Heeft het werkwoord een voorvoegsel zonder klemtoon (be-, ge-, her-, er-, ont-, ver-)? Dan komt er geen ge- voor.",
+    "Heeft het werkwoord het voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon? Dan komt er geen ge- voor. Bij een sterk werkwoord eindigt het voltooid deelwoord op -en.\nVoorbeeld: De les is al begonnen."
+   ],
+   "opties": [
+    "geverdwenen",
+    "verdwenen",
+    "verdweenen"
+   ],
+   "goed": 1
+  },
+  {
+   "id": "vt-1027",
+   "ww": "ontmoeten",
+   "categorie": "vt",
+   "slot": "vt.ev",
+   "regel": "vt-stam-t",
+   "instinker": true,
+   "zin": "Vorig jaar ___ ik mijn beste vriend bij de sportclub.",
+   "antwoord": "ontmoette",
+   "afleiders": [
+    {
+     "vorm": "ontmoetde",
+     "soort": "b",
+     "patroon": "vt-kofschip-omgedraaid"
+    },
+    {
+     "vorm": "ontmoete",
+     "soort": "a",
+     "patroon": "vt-een-t-of-d-te-weinig"
+    }
+   ],
+   "uitleg": {
+    "kort": "ontmoeten is een zwak werkwoord en de stam ontmoet eindigt op een t. Die zit in 't kofschip, dus -te: ontmoet + te = ontmoette. Daarom staan er twee t's.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘Vorig jaar’). Het onderwerp is ‘ik’.",
+     "De stam: ik ontmoet.",
+     "De regel: Zwak werkwoord met een stam op t? Dan stam + te. Zo krijg je twee t's."
+    ],
+    "perAfleider": {
+     "ontmoetde": "ontmoetde: kijk nog eens naar 't kofschip. De laatste letter van de stam is een t. Die zit in 't kofschip, dus -te.",
+     "ontmoete": "ontmoete: hier mist een t. De stam ontmoet eindigt al op een t, en daar komt -te achter."
+    },
+    "onthoud": "Zwak werkwoord met een stam op t: + te geeft tt. Dat hoort zo."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Speelt het zich nu af of in het verleden? Let op ‘Vorig jaar’.\n• Zeg: gisteren … ik. Hoor je -te of -de? Dan is het een zwak werkwoord.\n• Wat is de stam, en eindigt die op t, k, f, s, ch, p of x? Is het onderwerp meervoud? Dan komt er nog een -n achter.",
+    "Zwak werkwoord met een stam op t? Dan stam + te. Zo krijg je twee t's.\nVoorbeeld: Hij zette de vaas op tafel."
+   ],
+   "opties": [
+    "ontmoette",
+    "ontmoetde",
+    "ontmoete"
+   ],
+   "goed": 0
+  },
+  {
+   "id": "vt-1108",
+   "ww": "zeggen",
+   "categorie": "vt",
+   "slot": "vt.ev",
+   "regel": "vt-sterk",
+   "instinker": false,
+   "zin": "Gisteren ___ mijn moeder dat het eten klaar was.",
+   "antwoord": "zei",
+   "afleiders": [
+    {
+     "vorm": "zeit",
+     "soort": "b",
+     "patroon": "vt-sterk-t"
+    },
+    {
+     "vorm": "zeiden",
+     "soort": "a",
+     "patroon": "vt-mv-ipv-ev"
+    }
+   ],
+   "uitleg": {
+    "kort": "zeggen is een sterk werkwoord: in de verleden tijd verandert de klinker, en er komt geen -te of -de achter. Dus: zei.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘Gisteren’). Het onderwerp is ‘mijn moeder’.",
+     "De stam: ik zeg.",
+     "De regel: Een sterk werkwoord verandert in de verleden tijd van klinker (lopen, liep). Er komt geen -te of -de achter. Voor het meervoud zeg je het hardop met wij (wij liepen, wij schreven, wij zaten) en schrijf je het volgens de gewone spellingregels."
+    ],
+    "perAfleider": {
+     "zeit": "zeit: in de verleden tijd van een sterk werkwoord komt er geen extra t bij.",
+     "zeiden": "zeiden is de vorm voor meervoud. ‘mijn moeder’ is enkelvoud."
+    },
+    "onthoud": "Sterk werkwoord in de verleden tijd: de klinker verandert, geen -te of -de."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Speelt het zich nu af of in het verleden? Let op ‘Gisteren’.\n• Zeg: gisteren … ik. Verandert de klinker, en hoor je geen -te of -de? Dan is het een sterk werkwoord. Een paar werkwoorden leer je los.\n• Bij een sterk werkwoord komt er geen -te of -de achter. Is het onderwerp meervoud? Dan komt er -en achter, en schrijf je het volgens de gewone spellingregels.",
+    "Een sterk werkwoord verandert in de verleden tijd van klinker (lopen, liep). Er komt geen -te of -de achter. Voor het meervoud zeg je het hardop met wij (wij liepen, wij schreven, wij zaten) en schrijf je het volgens de gewone spellingregels.\nVoorbeeld: Ze liep gisteren een halve marathon."
+   ],
+   "opties": [
+    "zei",
+    "zeit",
+    "zeiden"
+   ],
+   "goed": 0
+  },
+  {
+   "id": "eng-1097",
+   "ww": "relaxen",
+   "categorie": "eng",
+   "slot": "vd",
+   "regel": "vd-t",
+   "instinker": false,
+   "zin": "Heb je in het weekend een beetje ___?",
+   "antwoord": "gerelaxt",
+   "afleiders": [
+    {
+     "vorm": "gerelaxd",
+     "soort": "b",
+     "patroon": "vd-t-d-omgedraaid"
+    },
+    {
+     "vorm": "gerelaxte",
+     "soort": "a",
+     "patroon": "vd-met-e"
+    }
+   ],
+   "uitleg": {
+    "kort": "relaxen is een Engels werkwoord, maar hier zijn letter en klank hetzelfde. De stam eindigt op x. Die klinkt als ks, en de s zit in 't kofschip. Dus een t. Het wordt ge + relax + t: gerelaxt.",
+    "stappen": [
+     "Welke vorm? Er staat al een vorm van hebben, zijn of worden in de zin (‘Heb’), en het werkwoord hoort daarbij. Dus dit is een voltooid deelwoord.",
+     "De stam: ik relax.",
+     "De regel: Voltooid deelwoord van een zwak werkwoord: eindigt de stam op t, k, f, s, ch, p of x (de letters van 't kofschip)? Dan ge + stam + t. Eindigt de stam al op een t? Dan komt er niets meer achter. Let op: eindigt het hele werkwoord op -ven of -zen, kijk dan naar de v of z."
+    ],
+    "perAfleider": {
+     "gerelaxd": "gerelaxd: kijk nog eens naar 't kofschip. relaxen is een Engels werkwoord, maar hier zijn letter en klank hetzelfde. De stam eindigt op x. Die klinkt als ks, en de s zit in 't kofschip. Dus een t.",
+     "gerelaxte": "gerelaxte: na een hulpwerkwoord komt er geen -e achter het voltooid deelwoord."
+    },
+    "onthoud": "Zwak werkwoord en de stam eindigt op een letter van 't kofschip? Ge + stam + t. Bij -ven of -zen kijk je naar de v of z; eindigt de stam al op t, dan komt er niets bij."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Staat er een hulpwerkwoord (hebben, zijn of worden) in de zin, en hoort het werkwoord daarbij? Let op ‘Heb’.\n• Wat is de stam? Eindigt die al op een t of d?\n• Zo niet: eindigt de stam op t, k, f, s, ch, p of x?",
+    "Voltooid deelwoord van een zwak werkwoord: eindigt de stam op t, k, f, s, ch, p of x (de letters van 't kofschip)? Dan ge + stam + t. Eindigt de stam al op een t? Dan komt er niets meer achter. Let op: eindigt het hele werkwoord op -ven of -zen, kijk dan naar de v of z.\nVoorbeeld: Ik heb vanmiddag mijn huiswerk gemaakt."
+   ],
+   "opties": [
+    "gerelaxd",
+    "gerelaxte",
+    "gerelaxt"
+   ],
+   "goed": 2
+  },
+  {
+   "id": "eng-1006",
+   "ww": "racen",
+   "categorie": "eng",
+   "slot": "tt.hij",
+   "regel": "tt-t",
+   "instinker": false,
+   "zin": "Die jongen ___ elke zondag met zijn buggy over het strand.",
+   "antwoord": "racet",
+   "afleiders": [
+    {
+     "vorm": "race",
+     "soort": "a",
+     "patroon": "tt-t-vergeten"
+    },
+    {
+     "vorm": "raced",
+     "soort": "b",
+     "patroon": "tt-d-ipv-t"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het onderwerp is enkelvoud (net als hij, zij of het). Dan komt er een t achter de stam: race + t = racet.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de tegenwoordige tijd. Het onderwerp is ‘Die jongen’.",
+     "De stam: ik race (het Engelse woord, met de e).",
+     "De regel: Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud (hij, zij, het, mijn broer, de trein, iemand, dat)? Dan stam + t. Een paar veelgebruikte werkwoorden zijn onregelmatig (hij heeft, hij kan, hij wil, hij is)."
+    ],
+    "perAfleider": {
+     "race": "race is de stam. Bij ‘Die jongen’ komt er nog een t achter.",
+     "raced": "raced: in de tegenwoordige tijd komt er een t achter de stam, geen d."
+    },
+    "onthoud": "Onderwerp jij of je (voor het werkwoord), u, hij, zij, het, of een ander woord voor één persoon of ding: stam + t. Eindigt de stam al op t, dan geen extra t."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Wie of wat doet het? Dat is het onderwerp. Let op ‘Die jongen’.\n• Is het onderwerp enkelvoud of meervoud? En staat het voor of achter het werkwoord?\n• Wat is de stam? Moet er een t bij, of niet?",
+    "Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud (hij, zij, het, mijn broer, de trein, iemand, dat)? Dan stam + t. Een paar veelgebruikte werkwoorden zijn onregelmatig (hij heeft, hij kan, hij wil, hij is).\nVoorbeeld: Mijn broer werkt in een ziekenhuis."
+   ],
+   "opties": [
+    "racet",
+    "race",
+    "raced"
+   ],
+   "goed": 0
+  },
+  {
+   "id": "inf-1007",
+   "ww": "haasten",
+   "categorie": "inf",
+   "slot": "inf",
+   "regel": "inf",
+   "instinker": true,
+   "zin": "Je hoeft je echt niet te ___.",
+   "antwoord": "haasten",
+   "afleiders": [
+    {
+     "vorm": "haastten",
+     "soort": "a",
+     "patroon": "inf-vt-gelijk"
+    },
+    {
+     "vorm": "haast",
+     "soort": "a",
+     "patroon": "inf-tt"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het hele werkwoord schrijf je zoals in het woordenboek: haasten.",
+    "stappen": [
+     "Welke vorm? Na ‘te’ komt het hele werkwoord (de infinitief).",
+     "De regel: Na een werkwoord als willen, moeten, kunnen, mogen, gaan, zullen of laten, of na te en om te, komt meestal het hele werkwoord (de infinitief). Staat er achteraan nog hebben, zijn of worden (het moet geverfd worden)? Dan is het een voltooid deelwoord."
+    ],
+    "perAfleider": {
+     "haastten": "haastten klinkt hetzelfde, maar dat is de verleden tijd meervoud. Na ‘te’ komt het hele werkwoord.",
+     "haast": "haast is een persoonsvorm. Na ‘te’ komt het hele werkwoord."
+    },
+    "onthoud": "Na willen, moeten, kunnen, mogen, gaan, zullen of te komt meestal het hele werkwoord."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Staat er ‘te’ vlak voor de open plek?\n• Staat de open plek achteraan, bij dat werkwoord?\n• Welke vorm komt er na zo’n werkwoord?",
+    "Na een werkwoord als willen, moeten, kunnen, mogen, gaan, zullen of laten, of na te en om te, komt meestal het hele werkwoord (de infinitief). Staat er achteraan nog hebben, zijn of worden (het moet geverfd worden)? Dan is het een voltooid deelwoord.\nVoorbeeld: Ik moet morgen tot vijf uur werken."
+   ],
+   "opties": [
+    "haasten",
+    "haastten",
+    "haast"
+   ],
+   "goed": 0
+  },
+  {
+   "id": "gw-1089",
+   "ww": "vriezen",
+   "categorie": "gw",
+   "slot": "gw",
+   "regel": "gw",
+   "instinker": false,
+   "zin": "___ de pas gebakken koekjes gerust in een trommel.",
+   "antwoord": "Vries",
+   "afleiders": [
+    {
+     "vorm": "Vriest",
+     "soort": "a",
+     "patroon": "gw-met-t"
+    },
+    {
+     "vorm": "Vriez",
+     "soort": "b",
+     "patroon": "gw-z-gehouden"
+    }
+   ],
+   "uitleg": {
+    "kort": "De gebiedende wijs is de stam: vries.",
+    "stappen": [
+     "Welke vorm? Dit is een opdracht zonder onderwerp. Dat heet de gebiedende wijs.",
+     "De stam: ik vries.",
+     "De regel: Een gebiedende wijs is een opdracht zonder onderwerp. Het is de stam (bij zijn: wees). Eindigt de stam op t, dan staat die t er gewoon (Zet de stoel neer). Staat er u bij (Komt u binnen), dan is het geen gebiedende wijs met alleen de stam, maar een vorm met t."
+    ],
+    "perAfleider": {
+     "Vriest": "Vriest is de vorm voor hij of zij. Een opdracht zonder onderwerp schrijf je met alleen de stam.",
+     "Vriez": "Vriez: de stam schrijf je met een s (vries), niet met een z."
+    },
+    "onthoud": "Een opdracht schrijf je met alleen de stam."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Is dit een opdracht zonder onderwerp (geen jij of u erbij)?\n• Wat is de stam (ik …)?\n• Welke vorm hoort bij een opdracht?",
+    "Een gebiedende wijs is een opdracht zonder onderwerp. Het is de stam (bij zijn: wees). Eindigt de stam op t, dan staat die t er gewoon (Zet de stoel neer). Staat er u bij (Komt u binnen), dan is het geen gebiedende wijs met alleen de stam, maar een vorm met t.\nVoorbeeld: Werk rustig door tot de bel gaat."
+   ],
+   "opties": [
+    "Vries",
+    "Vriest",
+    "Vriez"
+   ],
+   "goed": 0
+  },
+  {
+   "id": "inf-1059",
+   "ww": "geven",
+   "categorie": "inf",
+   "slot": "inf",
+   "regel": "inf",
+   "instinker": false,
+   "zin": "Ik wil mijn zus een cadeau ___.",
+   "antwoord": "geven",
+   "afleiders": [
+    {
+     "vorm": "geefen",
+     "soort": "b",
+     "patroon": "mv-dubbele-klinker"
+    },
+    {
+     "vorm": "geeft",
+     "soort": "a",
+     "patroon": "inf-tt"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het hele werkwoord schrijf je zoals in het woordenboek: geven.",
+    "stappen": [
+     "Welke vorm? Na ‘wil’ komt het hele werkwoord (de infinitief).",
+     "De regel: Na een werkwoord als willen, moeten, kunnen, mogen, gaan, zullen of laten, of na te en om te, komt meestal het hele werkwoord (de infinitief). Staat er achteraan nog hebben, zijn of worden (het moet geverfd worden)? Dan is het een voltooid deelwoord."
+    ],
+    "perAfleider": {
+     "geefen": "geefen: in geven hoor je een lange klank aan het eind van een lettergreep (ge-ven). Dan schrijf je één klinker. En het hele werkwoord schrijf je met een v.",
+     "geeft": "geeft is een persoonsvorm. Na ‘wil’ komt het hele werkwoord."
+    },
+    "onthoud": "Na willen, moeten, kunnen, mogen, gaan, zullen of te komt meestal het hele werkwoord."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Welk ander werkwoord staat er in de zin? Let op ‘wil’.\n• Staat de open plek achteraan, bij dat werkwoord?\n• Welke vorm komt er na zo’n werkwoord?",
+    "Na een werkwoord als willen, moeten, kunnen, mogen, gaan, zullen of laten, of na te en om te, komt meestal het hele werkwoord (de infinitief). Staat er achteraan nog hebben, zijn of worden (het moet geverfd worden)? Dan is het een voltooid deelwoord.\nVoorbeeld: Ik moet morgen tot vijf uur werken."
+   ],
+   "opties": [
+    "geefen",
+    "geeft",
+    "geven"
+   ],
+   "goed": 2
+  },
+  {
+   "id": "gw-1046",
+   "ww": "branden",
+   "categorie": "gw",
+   "slot": "gw",
+   "regel": "gw-d",
+   "instinker": true,
+   "zin": "___ de amandelen kort in een droge pan.",
+   "antwoord": "Brand",
+   "afleiders": [
+    {
+     "vorm": "Brandt",
+     "soort": "a",
+     "patroon": "gw-met-t"
+    },
+    {
+     "vorm": "Brant",
+     "soort": "b",
+     "patroon": "gw-d-als-t"
+    }
+   ],
+   "uitleg": {
+    "kort": "De gebiedende wijs is de stam. Er komt geen t bij. De stam is brand, met een d: brand.",
+    "stappen": [
+     "Welke vorm? Dit is een opdracht zonder onderwerp. Dat heet de gebiedende wijs.",
+     "De stam: ik brand.",
+     "De regel: Een gebiedende wijs is de stam, zonder extra t. Ook als de stam op d eindigt."
+    ],
+    "perAfleider": {
+     "Brandt": "Brandt is de vorm voor hij of zij. Een opdracht zonder onderwerp schrijf je met alleen de stam.",
+     "Brant": "Brant: je hoort een t, maar de stam is brand, met een d."
+    },
+    "onthoud": "Een opdracht schrijf je met alleen de stam, ook bij een stam op d."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Is dit een opdracht zonder onderwerp (geen jij of u erbij)?\n• Wat is de stam (ik …)?\n• Welke vorm hoort bij een opdracht?",
+    "Een gebiedende wijs is de stam, zonder extra t. Ook als de stam op d eindigt.\nVoorbeeld: Word nou niet meteen boos."
+   ],
+   "opties": [
+    "Brandt",
+    "Brand",
+    "Brant"
+   ],
+   "goed": 1
+  },
+  {
+   "id": "od-1084",
+   "ww": "vallen",
+   "categorie": "od",
+   "slot": "od.e",
+   "regel": "od-e",
+   "instinker": false,
+   "zin": "Het ___ blad dwarrelde in de tuin.",
+   "antwoord": "vallende",
+   "afleiders": [
+    {
+     "vorm": "vallend",
+     "soort": "a",
+     "patroon": "od-e-vergeten"
+    },
+    {
+     "vorm": "vallente",
+     "soort": "b",
+     "patroon": "od-t-ipv-d"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het hoort bij het zelfstandig naamwoord ‘blad’. Er staat ‘het’ voor, dus komt er een -e achter. Zo krijg je: vallende.",
+    "stappen": [
+     "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij het zelfstandig naamwoord ‘blad’.",
+     "De regel: Onvoltooid deelwoord: hele werkwoord + d. Hoort het bij een zelfstandig naamwoord (de huilende peuter)? Dan komt er een -e achter. Behalve bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een huilend kind, kokend water)."
+    ],
+    "perAfleider": {
+     "vallend": "vallend: het hoort bij ‘blad’. Dan komt er een -e achter.",
+     "vallente": "vallente: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent."
+    },
+    "onthoud": "Onvoltooid deelwoord bij een zelfstandig naamwoord: meestal -ende. Niet bij een, geen of zo'n + het-woord."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\n• Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘blad’.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "Onvoltooid deelwoord: hele werkwoord + d. Hoort het bij een zelfstandig naamwoord (de huilende peuter)? Dan komt er een -e achter. Behalve bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een huilend kind, kokend water).\nVoorbeeld: De huilende peuter wilde zijn knuffel."
+   ],
+   "opties": [
+    "vallend",
+    "vallende",
+    "vallente"
+   ],
+   "goed": 1
+  },
+  {
+   "id": "bvd-1123",
+   "ww": "aankleden",
+   "categorie": "bvd",
+   "slot": "bvd.e",
+   "regel": "bvd-spelling",
+   "instinker": true,
+   "zin": "De ___ poppen zitten op de bank.",
+   "antwoord": "aangeklede",
+   "afleiders": [
+    {
+     "vorm": "aangekleedte",
+     "soort": "b",
+     "patroon": "bvd-te-ipv-de"
+    },
+    {
+     "vorm": "aangekleete",
+     "soort": "b",
+     "patroon": "bvd-t-d-omgedraaid"
+    }
+   ],
+   "uitleg": {
+    "kort": "Aankleden is scheidbaar, dus de ge- komt in het midden. Het voltooid deelwoord is aangekleed. Er komt een -e achter, en dan pas je de spelling aan (aan-gek-le-de): aangeklede.",
+    "stappen": [
+     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘poppen’. Je gebruikt het als bijvoeglijk naamwoord.",
+     "De stam: ik kleed aan.",
+     "De regel: Maak eerst het voltooid deelwoord, zet er een -e achter en schrijf het dan volgens de gewone spellingregels: soms komt er een medeklinker bij (gezet, de gezette koffie), soms gaat er een klinker af (gekleed, de geklede man)."
+    ],
+    "perAfleider": {
+     "aangekleedte": "aangekleedte: het voltooid deelwoord is aangekleed, met een d. Daar komt een -e achter, geen -te.",
+     "aangekleete": "aangekleete: het voltooid deelwoord is aangekleed. Dat eindigt op een d, en die blijft staan."
+    },
+    "onthoud": "Eerst het voltooid deelwoord, dan de -e, dan de spelling netjes maken."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘poppen’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …). Is het werkwoord scheidbaar? Dan komt de ge- in het midden.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "Maak eerst het voltooid deelwoord, zet er een -e achter en schrijf het dan volgens de gewone spellingregels: soms komt er een medeklinker bij (gezet, de gezette koffie), soms gaat er een klinker af (gekleed, de geklede man).\nVoorbeeld: De vers gezette koffie rook heerlijk."
+   ],
+   "opties": [
+    "aangekleedte",
+    "aangekleete",
+    "aangeklede"
+   ],
+   "goed": 2
+  },
+  {
+   "id": "tt-034",
+   "ww": "wonen",
+   "categorie": "tt",
+   "slot": "tt.mv",
+   "regel": "tt-mv",
+   "instinker": false,
+   "zin": "Mijn opa en oma ___ al vijftig jaar in hetzelfde huis.",
+   "antwoord": "wonen",
+   "afleiders": [
+    {
+     "vorm": "woonen",
+     "soort": "b",
+     "patroon": "mv-dubbele-klinker"
+    },
+    {
+     "vorm": "woon",
+     "soort": "a",
+     "patroon": "tt-stam-ipv-mv"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het onderwerp is meervoud. Dan gebruik je het hele werkwoord: wonen.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de tegenwoordige tijd. Het onderwerp is ‘Mijn opa en oma’.",
+     "De stam: ik woon.",
+     "De regel: Is het onderwerp meervoud (wij, jullie, zij, de kinderen)? Dan gebruik je het hele werkwoord."
+    ],
+    "perAfleider": {
+     "woonen": "woonen: in wonen hoor je een lange klank aan het eind van een lettergreep (wo-nen). Dan schrijf je één klinker.",
+     "woon": "woon is de stam. Bij meervoud gebruik je het hele werkwoord."
+    },
+    "onthoud": "Meervoud in de tegenwoordige tijd: het hele werkwoord."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Wie of wat doet het? Dat is het onderwerp. Let op ‘Mijn opa en oma’.\n• Is het onderwerp enkelvoud of meervoud? En staat het voor of achter het werkwoord?\n• Wat is de stam? Moet er een t bij, of niet?",
+    "Is het onderwerp meervoud (wij, jullie, zij, de kinderen)? Dan gebruik je het hele werkwoord.\nVoorbeeld: Mijn ouders werken allebei in de zorg."
+   ],
+   "opties": [
+    "wonen",
+    "woonen",
+    "woon"
+   ],
+   "goed": 0
+  },
+  {
+   "id": "tt-1110",
+   "ww": "verplaatsen",
+   "categorie": "tt",
+   "slot": "tt.u",
+   "regel": "tt-u-inversie",
+   "instinker": true,
+   "zin": "Wanneer ___ u de bijeenkomst?",
+   "antwoord": "verplaatst",
+   "afleiders": [
+    {
+     "vorm": "verplaats",
+     "soort": "a",
+     "patroon": "tt-t-vergeten"
+    },
+    {
+     "vorm": "verplaatsd",
+     "soort": "b",
+     "patroon": "tt-d-ipv-t"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het onderwerp is u. Bij u komt er een t achter de stam, ook als u achter het werkwoord staat: verplaatst.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de tegenwoordige tijd. Het onderwerp ‘u’ staat achter het werkwoord.",
+     "De stam: ik verplaats.",
+     "De regel: Is u het onderwerp? Dan komt er een t achter de stam, ook als u achter het werkwoord staat. Een paar werkwoorden zijn onregelmatig (u bent, u mag, u kunt, u zult)."
+    ],
+    "perAfleider": {
+     "verplaats": "verplaats is de stam. Bij u komt er nog een t achter.",
+     "verplaatsd": "verplaatsd: in de tegenwoordige tijd komt er een t achter de stam, geen d."
+    },
+    "onthoud": "Is u het onderwerp? Dan stam + t, ook als u achteraan staat."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Wie of wat doet het? Dat is het onderwerp. Let op ‘u’.\n• Is het onderwerp enkelvoud of meervoud? En staat het voor of achter het werkwoord?\n• Wat is de stam? Moet er een t bij, of niet?",
+    "Is u het onderwerp? Dan komt er een t achter de stam, ook als u achter het werkwoord staat. Een paar werkwoorden zijn onregelmatig (u bent, u mag, u kunt, u zult).\nVoorbeeld: Wordt u al geholpen?"
+   ],
+   "opties": [
+    "verplaats",
+    "verplaatst",
+    "verplaatsd"
+   ],
+   "goed": 1
+  },
+  {
+   "id": "vt-1064",
+   "ww": "melden",
+   "categorie": "vt",
+   "slot": "vt.mv",
+   "regel": "vt-stam-d",
+   "instinker": true,
+   "zin": "De buren ___ gisteren een lekkage bij de gemeente.",
+   "antwoord": "meldden",
+   "afleiders": [
+    {
+     "vorm": "melden",
+     "soort": "a",
+     "patroon": "vt-tt-gelijk"
+    },
+    {
+     "vorm": "meldten",
+     "soort": "b",
+     "patroon": "vt-kofschip-omgedraaid"
+    }
+   ],
+   "uitleg": {
+    "kort": "melden is een zwak werkwoord en de stam meld eindigt op een d. Die zit niet in 't kofschip, dus -den: meld + den = meldden. Daarom staan er twee d's.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘gisteren’). Het onderwerp is ‘De buren’.",
+     "De stam: ik meld.",
+     "De regel: Zwak werkwoord met een stam op d? Dan stam + de. Zo krijg je twee d's."
+    ],
+    "perAfleider": {
+     "melden": "melden klinkt hetzelfde, maar dat is de tegenwoordige tijd. Let op ‘gisteren’: het gebeurde in het verleden.",
+     "meldten": "meldten: kijk nog eens naar 't kofschip. De laatste letter van de stam is een d. Die zit niet in 't kofschip, dus -de. Bij meervoud komt er nog een -n achter."
+    },
+    "onthoud": "Zwak werkwoord met een stam op d: + de geeft dd. Dat hoort zo."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Speelt het zich nu af of in het verleden? Let op ‘gisteren’.\n• Zeg: gisteren … ik. Hoor je -te of -de? Dan is het een zwak werkwoord.\n• Wat is de stam, en eindigt die op t, k, f, s, ch, p of x? Is het onderwerp meervoud? Dan komt er nog een -n achter.",
+    "Zwak werkwoord met een stam op d? Dan stam + de. Zo krijg je twee d's.\nVoorbeeld: Het vliegtuig landde precies op tijd."
+   ],
+   "opties": [
+    "meldden",
+    "melden",
+    "meldten"
+   ],
+   "goed": 0
+  }
+ ],
+ "reserves": [
+  {
+   "id": "tt-047",
+   "ww": "antwoorden",
+   "categorie": "tt",
+   "slot": "tt.jij.na",
+   "regel": "tt-inversie-d",
+   "instinker": true,
+   "zin": "Waarom ___ je niet als ik je iets vraag?",
+   "antwoord": "antwoord",
+   "afleiders": [
+    {
+     "vorm": "antwoordt",
+     "soort": "a",
+     "patroon": "tt-inversie-t"
+    },
+    {
+     "vorm": "antwoort",
+     "soort": "b",
+     "patroon": "tt-d-als-t"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het onderwerp ‘je’ staat achter het werkwoord. Dan komt er geen t bij: alleen de stam. De stam eindigt op een d, en die blijft gewoon staan: antwoord.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de tegenwoordige tijd. Het onderwerp ‘je’ staat achter het werkwoord.",
+     "De stam: ik antwoord.",
+     "De regel: Is jij of je het onderwerp, en staat het achter het werkwoord? Dan komt er geen t bij, ook niet als de stam op d eindigt. Is je geen onderwerp (hij vindt je aardig), dan geldt dit niet."
+    ],
+    "perAfleider": {
+     "antwoordt": "antwoordt: deze vorm lijkt logisch, maar staat het onderwerp jij of je achter het werkwoord, dan komt er geen t bij.",
+     "antwoort": "antwoort: je hoort een t, maar de stam is antwoord, met een d. Die d blijft staan."
+    },
+    "onthoud": "Staat het onderwerp jij of je achter het werkwoord? Dan komt er geen t bij, ook niet bij een stam op d."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Wie of wat doet het? Dat is het onderwerp. Let op ‘je’.\n• Is het onderwerp enkelvoud of meervoud? En staat het voor of achter het werkwoord?\n• Wat is de stam? Moet er een t bij, of niet?",
+    "Is jij of je het onderwerp, en staat het achter het werkwoord? Dan komt er geen t bij, ook niet als de stam op d eindigt. Is je geen onderwerp (hij vindt je aardig), dan geldt dit niet.\nVoorbeeld: Word jij later ook leerkracht?"
+   ],
+   "opties": [
+    "antwoordt",
+    "antwoort",
+    "antwoord"
+   ],
+   "goed": 2
+  },
+  {
+   "id": "tt-007",
+   "ww": "verhuizen",
+   "categorie": "tt",
+   "slot": "tt.hij",
+   "regel": "tt-t",
+   "instinker": true,
+   "zin": "Mijn beste vriendin ___ volgende week naar Groningen.",
+   "antwoord": "verhuist",
+   "afleiders": [
+    {
+     "vorm": "verhuisd",
+     "soort": "a",
+     "patroon": "tt-vd-gelijk"
+    },
+    {
+     "vorm": "verhuizt",
+     "soort": "b",
+     "patroon": "tt-z-gehouden"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het onderwerp is enkelvoud (net als hij, zij of het). Dan komt er een t achter de stam: verhuis + t = verhuist.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de tegenwoordige tijd. Het onderwerp is ‘Mijn beste vriendin’.",
+     "De stam: ik verhuis.",
+     "De regel: Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud (hij, zij, het, mijn broer, de trein, iemand, dat)? Dan stam + t. Een paar veelgebruikte werkwoorden zijn onregelmatig (hij heeft, hij kan, hij wil, hij is)."
+    ],
+    "perAfleider": {
+     "verhuisd": "verhuisd klinkt hetzelfde, maar dat is het voltooid deelwoord. Hier is het de persoonsvorm, en die schrijf je met stam + t.",
+     "verhuizt": "verhuizt: de stam schrijf je met een s (verhuis), niet met een z."
+    },
+    "onthoud": "Onderwerp jij of je (voor het werkwoord), u, hij, zij, het, of een ander woord voor één persoon of ding: stam + t. Eindigt de stam al op t, dan geen extra t."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Wie of wat doet het? Dat is het onderwerp. Let op ‘Mijn beste vriendin’.\n• Is het onderwerp enkelvoud of meervoud? En staat het voor of achter het werkwoord?\n• Wat is de stam? Moet er een t bij, of niet?",
+    "Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud (hij, zij, het, mijn broer, de trein, iemand, dat)? Dan stam + t. Een paar veelgebruikte werkwoorden zijn onregelmatig (hij heeft, hij kan, hij wil, hij is).\nVoorbeeld: Mijn broer werkt in een ziekenhuis."
+   ],
+   "opties": [
+    "verhuisd",
+    "verhuist",
+    "verhuizt"
+   ],
+   "goed": 1
+  },
+  {
+   "id": "vt-013",
+   "ww": "kopen",
+   "categorie": "vt",
+   "slot": "vt.ev",
+   "regel": "vt-onregelmatig",
+   "instinker": true,
+   "zin": "Op de markt ___ ik vorige week een kilo mandarijnen.",
+   "antwoord": "kocht",
+   "afleiders": [
+    {
+     "vorm": "koopte",
+     "soort": "b",
+     "patroon": "vt-zwak-gemaakt"
+    },
+    {
+     "vorm": "kochten",
+     "soort": "a",
+     "patroon": "vt-mv-ipv-ev"
+    }
+   ],
+   "uitleg": {
+    "kort": "kopen is een onregelmatig werkwoord. De verleden tijd is kocht. Deze vorm leer je los, want hij volgt geen regel.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘vorige week’). Het onderwerp is ‘ik’.",
+     "De stam: ik koop.",
+     "De regel: Een paar werkwoorden zijn onregelmatig. Hun verleden tijd leer je los, want die volgt geen regel."
+    ],
+    "perAfleider": {
+     "koopte": "koopte: zo zou het gaan bij een zwak werkwoord. kopen verandert in de verleden tijd van klank: kocht.",
+     "kochten": "kochten is de vorm voor meervoud. ‘ik’ is enkelvoud."
+    },
+    "onthoud": "Een paar werkwoorden leer je los, zoals kocht, dacht en bracht."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Speelt het zich nu af of in het verleden? Let op ‘vorige week’.\n• Zeg: gisteren … ik. Verandert de klinker, en hoor je geen -te of -de? Dan is het een sterk werkwoord. Een paar werkwoorden leer je los.\n• Bij een sterk werkwoord komt er geen -te of -de achter. Is het onderwerp meervoud? Dan komt er -en achter, en schrijf je het volgens de gewone spellingregels.",
+    "Een paar werkwoorden zijn onregelmatig. Hun verleden tijd leer je los, want die volgt geen regel.\nVoorbeeld: Hij dacht dat de winkel al dicht was."
+   ],
+   "opties": [
+    "kocht",
+    "koopte",
+    "kochten"
+   ],
+   "goed": 0
+  },
+  {
+   "id": "vt-1058",
+   "ww": "landen",
+   "categorie": "vt",
+   "slot": "vt.mv",
+   "regel": "vt-stam-d",
+   "instinker": true,
+   "zin": "De vliegtuigen ___ gisteren allemaal op tijd.",
+   "antwoord": "landden",
+   "afleiders": [
+    {
+     "vorm": "landen",
+     "soort": "a",
+     "patroon": "vt-tt-gelijk"
+    },
+    {
+     "vorm": "landten",
+     "soort": "b",
+     "patroon": "vt-kofschip-omgedraaid"
+    }
+   ],
+   "uitleg": {
+    "kort": "landen is een zwak werkwoord en de stam land eindigt op een d. Die zit niet in 't kofschip, dus -den: land + den = landden. Daarom staan er twee d's.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘gisteren’). Het onderwerp is ‘De vliegtuigen’.",
+     "De stam: ik land.",
+     "De regel: Zwak werkwoord met een stam op d? Dan stam + de. Zo krijg je twee d's."
+    ],
+    "perAfleider": {
+     "landen": "landen klinkt hetzelfde, maar dat is de tegenwoordige tijd. Let op ‘gisteren’: het gebeurde in het verleden.",
+     "landten": "landten: kijk nog eens naar 't kofschip. De laatste letter van de stam is een d. Die zit niet in 't kofschip, dus -de. Bij meervoud komt er nog een -n achter."
+    },
+    "onthoud": "Zwak werkwoord met een stam op d: + de geeft dd. Dat hoort zo."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Speelt het zich nu af of in het verleden? Let op ‘gisteren’.\n• Zeg: gisteren … ik. Hoor je -te of -de? Dan is het een zwak werkwoord.\n• Wat is de stam, en eindigt die op t, k, f, s, ch, p of x? Is het onderwerp meervoud? Dan komt er nog een -n achter.",
+    "Zwak werkwoord met een stam op d? Dan stam + de. Zo krijg je twee d's.\nVoorbeeld: Ze meldde zich gisteren ziek."
+   ],
+   "opties": [
+    "landden",
+    "landen",
+    "landten"
+   ],
+   "goed": 0
+  },
+  {
+   "id": "vd-1016",
+   "ww": "verzamelen",
+   "categorie": "vd",
+   "slot": "vd",
+   "regel": "vd-geen-ge",
+   "instinker": true,
+   "zin": "Mijn opa heeft zijn hele leven oude munten ___.",
+   "antwoord": "verzameld",
+   "afleiders": [
+    {
+     "vorm": "verzamelt",
+     "soort": "a",
+     "patroon": "vd-tt-gelijk"
+    },
+    {
+     "vorm": "geverzameld",
+     "soort": "b",
+     "patroon": "vd-ge-teveel"
+    }
+   ],
+   "uitleg": {
+    "kort": "verzamelen heeft het voorvoegsel ver- (zonder klemtoon). Dan komt er geen ge- voor. De laatste letter van de stam (l) zit niet in 't kofschip, dus een d: verzameld.",
+    "stappen": [
+     "Welke vorm? Er staat al een vorm van hebben, zijn of worden in de zin (‘heeft’), en het werkwoord hoort daarbij. Dus dit is een voltooid deelwoord.",
+     "De stam: ik verzamel.",
+     "De regel: Heeft het werkwoord het voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon (beTAlen, verTELlen)? Dan komt er geen ge- voor het voltooid deelwoord. Let op: bij verven, geven en beven is dat geen voorvoegsel (geverfd, gegeven, gebeefd). Ook samengestelde werkwoorden met voor-, over-, door-, onder-, om- of mis- die je niet kunt splitsen, krijgen geen ge- (voorspellen, voorspeld; overleggen, overlegd)."
+    ],
+    "perAfleider": {
+     "verzamelt": "verzamelt klinkt hetzelfde, maar dat is de persoonsvorm (hij verzamelt). Er staat al een hulpwerkwoord, dus je zoekt het voltooid deelwoord.",
+     "geverzameld": "geverzameld: verzamelen heeft het voorvoegsel ver- (zonder klemtoon). Dan komt er geen ge- voor."
+    },
+    "onthoud": "Voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon? Dan geen ge-."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Staat er een hulpwerkwoord (hebben, zijn of worden) in de zin, en hoort het werkwoord daarbij? Let op ‘heeft’.\n• Heeft het werkwoord een voorvoegsel zonder klemtoon (be-, ge-, her-, er-, ont-, ver-)? Dan komt er geen ge- voor.\n• Eindigt de stam al op t of d? Zo niet: eindigt de stam op t, k, f, s, ch, p of x?",
+    "Heeft het werkwoord het voorvoegsel be-, ge-, her-, er-, ont- of ver- zonder klemtoon (beTAlen, verTELlen)? Dan komt er geen ge- voor het voltooid deelwoord. Let op: bij verven, geven en beven is dat geen voorvoegsel (geverfd, gegeven, gebeefd). Ook samengestelde werkwoorden met voor-, over-, door-, onder-, om- of mis- die je niet kunt splitsen, krijgen geen ge- (voorspellen, voorspeld; overleggen, overlegd).\nVoorbeeld: Ik heb de rekening al betaald."
+   ],
+   "opties": [
+    "verzamelt",
+    "verzameld",
+    "geverzameld"
+   ],
+   "goed": 1
+  },
+  {
+   "id": "vd-1133",
+   "ww": "uitloggen",
+   "categorie": "vd",
+   "slot": "vd",
+   "regel": "vd-scheidbaar",
+   "instinker": true,
+   "zin": "Ik heb me op de computer netjes ___.",
+   "antwoord": "uitgelogd",
+   "afleiders": [
+    {
+     "vorm": "uitgelogt",
+     "soort": "b",
+     "patroon": "vd-t-d-omgedraaid"
+    },
+    {
+     "vorm": "uitgelogdt",
+     "soort": "b",
+     "patroon": "vd-dt"
+    }
+   ],
+   "uitleg": {
+    "kort": "uitloggen is een scheidbaar werkwoord (ik log uit). De ge- komt in het midden: uitgelogd.",
+    "stappen": [
+     "Welke vorm? Er staat al een vorm van hebben, zijn of worden in de zin (‘heb’), en het werkwoord hoort daarbij. Dus dit is een voltooid deelwoord.",
+     "De stam: ik log uit.",
+     "De regel: Bij een scheidbaar werkwoord (opbellen: ik bel op) komt de ge- in het midden (opgebeld)."
+    ],
+    "perAfleider": {
+     "uitgelogt": "uitgelogt: kijk nog eens naar 't kofschip. De laatste letter van de stam is een g. Die zit niet in 't kofschip, dus een d.",
+     "uitgelogdt": "uitgelogdt: een voltooid deelwoord eindigt nooit op dt."
+    },
+    "onthoud": "Scheidbaar werkwoord: de ge- komt in het midden."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Staat er een hulpwerkwoord (hebben, zijn of worden) in de zin, en hoort het werkwoord daarbij? Let op ‘heb’.\n• Kun je het werkwoord splitsen (ik bel op)? Dan is het scheidbaar en komt de ge- in het midden.\n• Heeft het tweede deel al een voorvoegsel zonder klemtoon (be-, ge-, her-, er-, ont-, ver-)? Dan komt er geen ge- bij.",
+    "Bij een scheidbaar werkwoord (opbellen: ik bel op) komt de ge- in het midden (opgebeld).\nVoorbeeld: Heb je de dokter al opgebeld?"
+   ],
+   "opties": [
+    "uitgelogt",
+    "uitgelogdt",
+    "uitgelogd"
+   ],
+   "goed": 2
+  },
+  {
+   "id": "od-1055",
+   "ww": "kloppen",
+   "categorie": "od",
+   "slot": "od.e",
+   "regel": "od-e",
+   "instinker": false,
+   "zin": "Een ___ hart is een goed teken.",
+   "antwoord": "kloppende",
+   "afleiders": [
+    {
+     "vorm": "kloppend",
+     "soort": "a",
+     "patroon": "od-e-vergeten"
+    },
+    {
+     "vorm": "kloppente",
+     "soort": "b",
+     "patroon": "od-t-ipv-d"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het hoort bij het zelfstandig naamwoord ‘hart’. Er staat ‘een’ voor, maar ‘hart’ is een de-woord. Dan komt er wel een -e achter. Zo krijg je: kloppende.",
+    "stappen": [
+     "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij het zelfstandig naamwoord ‘hart’.",
+     "De regel: Onvoltooid deelwoord: hele werkwoord + d. Hoort het bij een zelfstandig naamwoord (de huilende peuter)? Dan komt er een -e achter. Behalve bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een huilend kind, kokend water)."
+    ],
+    "perAfleider": {
+     "kloppend": "kloppend: het hoort bij ‘hart’. Dan komt er een -e achter.",
+     "kloppente": "kloppente: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent."
+    },
+    "onthoud": "Onvoltooid deelwoord bij een zelfstandig naamwoord: meestal -ende. Niet bij een, geen of zo'n + het-woord."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\n• Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘hart’.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "Onvoltooid deelwoord: hele werkwoord + d. Hoort het bij een zelfstandig naamwoord (de huilende peuter)? Dan komt er een -e achter. Behalve bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een huilend kind, kokend water).\nVoorbeeld: De huilende peuter wilde zijn knuffel."
+   ],
+   "opties": [
+    "kloppend",
+    "kloppende",
+    "kloppente"
+   ],
+   "goed": 1
+  },
+  {
+   "id": "od-1059",
+   "ww": "rekenen",
+   "categorie": "od",
+   "slot": "od.e",
+   "regel": "od-e",
+   "instinker": false,
+   "zin": "De ___ jongen gebruikte zijn vingers.",
+   "antwoord": "rekenende",
+   "afleiders": [
+    {
+     "vorm": "rekenend",
+     "soort": "a",
+     "patroon": "od-e-vergeten"
+    },
+    {
+     "vorm": "rekenente",
+     "soort": "b",
+     "patroon": "od-t-ipv-d"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het hoort bij het zelfstandig naamwoord ‘jongen’. Er staat ‘de’ voor, dus komt er een -e achter. Zo krijg je: rekenende.",
+    "stappen": [
+     "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij het zelfstandig naamwoord ‘jongen’.",
+     "De regel: Onvoltooid deelwoord: hele werkwoord + d. Hoort het bij een zelfstandig naamwoord (de huilende peuter)? Dan komt er een -e achter. Behalve bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een huilend kind, kokend water)."
+    ],
+    "perAfleider": {
+     "rekenend": "rekenend: het hoort bij ‘jongen’. Dan komt er een -e achter.",
+     "rekenente": "rekenente: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent."
+    },
+    "onthoud": "Onvoltooid deelwoord bij een zelfstandig naamwoord: meestal -ende. Niet bij een, geen of zo'n + het-woord."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\n• Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘jongen’.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "Onvoltooid deelwoord: hele werkwoord + d. Hoort het bij een zelfstandig naamwoord (de huilende peuter)? Dan komt er een -e achter. Behalve bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een huilend kind, kokend water).\nVoorbeeld: De huilende peuter wilde zijn knuffel."
+   ],
+   "opties": [
+    "rekenende",
+    "rekenend",
+    "rekenente"
+   ],
+   "goed": 0
+  },
+  {
+   "id": "inf-1082",
+   "ww": "bewaren",
+   "categorie": "inf",
+   "slot": "inf",
+   "regel": "inf",
+   "instinker": false,
+   "zin": "Je moet de brief goed ___.",
+   "antwoord": "bewaren",
+   "afleiders": [
+    {
+     "vorm": "bewaaren",
+     "soort": "b",
+     "patroon": "mv-dubbele-klinker"
+    },
+    {
+     "vorm": "bewaart",
+     "soort": "a",
+     "patroon": "inf-tt"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het hele werkwoord schrijf je zoals in het woordenboek: bewaren.",
+    "stappen": [
+     "Welke vorm? Na ‘moet’ komt het hele werkwoord (de infinitief).",
+     "De regel: Na een werkwoord als willen, moeten, kunnen, mogen, gaan, zullen of laten, of na te en om te, komt meestal het hele werkwoord (de infinitief). Staat er achteraan nog hebben, zijn of worden (het moet geverfd worden)? Dan is het een voltooid deelwoord."
+    ],
+    "perAfleider": {
+     "bewaaren": "bewaaren: in bewaren hoor je een lange klank aan het eind van een lettergreep (be-wa-ren). Dan schrijf je één klinker.",
+     "bewaart": "bewaart is een persoonsvorm. Na ‘moet’ komt het hele werkwoord."
+    },
+    "onthoud": "Na willen, moeten, kunnen, mogen, gaan, zullen of te komt meestal het hele werkwoord."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Welk ander werkwoord staat er in de zin? Let op ‘moet’.\n• Staat de open plek achteraan, bij dat werkwoord?\n• Welke vorm komt er na zo’n werkwoord?",
+    "Na een werkwoord als willen, moeten, kunnen, mogen, gaan, zullen of laten, of na te en om te, komt meestal het hele werkwoord (de infinitief). Staat er achteraan nog hebben, zijn of worden (het moet geverfd worden)? Dan is het een voltooid deelwoord.\nVoorbeeld: Ik moet morgen tot vijf uur werken."
+   ],
+   "opties": [
+    "bewaren",
+    "bewaaren",
+    "bewaart"
+   ],
+   "goed": 0
+  },
+  {
+   "id": "inf-1055",
+   "ww": "fotograferen",
+   "categorie": "inf",
+   "slot": "inf",
+   "regel": "inf",
+   "instinker": false,
+   "zin": "Je mag hier niet ___.",
+   "antwoord": "fotograferen",
+   "afleiders": [
+    {
+     "vorm": "fotografeeren",
+     "soort": "b",
+     "patroon": "mv-dubbele-klinker"
+    },
+    {
+     "vorm": "fotografeert",
+     "soort": "a",
+     "patroon": "inf-tt"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het hele werkwoord schrijf je zoals in het woordenboek: fotograferen.",
+    "stappen": [
+     "Welke vorm? Na ‘mag’ komt het hele werkwoord (de infinitief).",
+     "De regel: Na een werkwoord als willen, moeten, kunnen, mogen, gaan, zullen of laten, of na te en om te, komt meestal het hele werkwoord (de infinitief). Staat er achteraan nog hebben, zijn of worden (het moet geverfd worden)? Dan is het een voltooid deelwoord."
+    ],
+    "perAfleider": {
+     "fotografeeren": "fotografeeren: in fotograferen hoor je een lange klank aan het eind van een lettergreep (fo-tog-ra-fe-ren). Dan schrijf je één klinker.",
+     "fotografeert": "fotografeert is een persoonsvorm. Na ‘mag’ komt het hele werkwoord."
+    },
+    "onthoud": "Na willen, moeten, kunnen, mogen, gaan, zullen of te komt meestal het hele werkwoord."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Welk ander werkwoord staat er in de zin? Let op ‘mag’.\n• Staat de open plek achteraan, bij dat werkwoord?\n• Welke vorm komt er na zo’n werkwoord?",
+    "Na een werkwoord als willen, moeten, kunnen, mogen, gaan, zullen of laten, of na te en om te, komt meestal het hele werkwoord (de infinitief). Staat er achteraan nog hebben, zijn of worden (het moet geverfd worden)? Dan is het een voltooid deelwoord.\nVoorbeeld: Ik moet morgen tot vijf uur werken."
+   ],
+   "opties": [
+    "fotografeeren",
+    "fotograferen",
+    "fotografeert"
+   ],
+   "goed": 1
+  },
+  {
+   "id": "gw-1091",
+   "ww": "lezen",
+   "categorie": "gw",
+   "slot": "gw",
+   "regel": "gw",
+   "instinker": false,
+   "zin": "___ een kort gedicht aan het hele gezelschap.",
+   "antwoord": "Lees",
+   "afleiders": [
+    {
+     "vorm": "Leest",
+     "soort": "a",
+     "patroon": "gw-met-t"
+    },
+    {
+     "vorm": "Leez",
+     "soort": "b",
+     "patroon": "gw-z-gehouden"
+    }
+   ],
+   "uitleg": {
+    "kort": "De gebiedende wijs is de stam: lees.",
+    "stappen": [
+     "Welke vorm? Dit is een opdracht zonder onderwerp. Dat heet de gebiedende wijs.",
+     "De stam: ik lees.",
+     "De regel: Een gebiedende wijs is een opdracht zonder onderwerp. Het is de stam (bij zijn: wees). Eindigt de stam op t, dan staat die t er gewoon (Zet de stoel neer). Staat er u bij (Komt u binnen), dan is het geen gebiedende wijs met alleen de stam, maar een vorm met t."
+    ],
+    "perAfleider": {
+     "Leest": "Leest is de vorm voor hij of zij. Een opdracht zonder onderwerp schrijf je met alleen de stam.",
+     "Leez": "Leez: de stam schrijf je met een s (lees), niet met een z."
+    },
+    "onthoud": "Een opdracht schrijf je met alleen de stam."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Is dit een opdracht zonder onderwerp (geen jij of u erbij)?\n• Wat is de stam (ik …)?\n• Welke vorm hoort bij een opdracht?",
+    "Een gebiedende wijs is een opdracht zonder onderwerp. Het is de stam (bij zijn: wees). Eindigt de stam op t, dan staat die t er gewoon (Zet de stoel neer). Staat er u bij (Komt u binnen), dan is het geen gebiedende wijs met alleen de stam, maar een vorm met t.\nVoorbeeld: Werk rustig door tot de bel gaat."
+   ],
+   "opties": [
+    "Leest",
+    "Leez",
+    "Lees"
+   ],
+   "goed": 2
+  },
+  {
+   "id": "gw-1083",
+   "ww": "reizen",
+   "categorie": "gw",
+   "slot": "gw",
+   "regel": "gw",
+   "instinker": false,
+   "zin": "___ liever met de trein naar het strand.",
+   "antwoord": "Reis",
+   "afleiders": [
+    {
+     "vorm": "Reist",
+     "soort": "a",
+     "patroon": "gw-met-t"
+    },
+    {
+     "vorm": "Reiz",
+     "soort": "b",
+     "patroon": "gw-z-gehouden"
+    }
+   ],
+   "uitleg": {
+    "kort": "De gebiedende wijs is de stam: reis.",
+    "stappen": [
+     "Welke vorm? Dit is een opdracht zonder onderwerp. Dat heet de gebiedende wijs.",
+     "De stam: ik reis.",
+     "De regel: Een gebiedende wijs is een opdracht zonder onderwerp. Het is de stam (bij zijn: wees). Eindigt de stam op t, dan staat die t er gewoon (Zet de stoel neer). Staat er u bij (Komt u binnen), dan is het geen gebiedende wijs met alleen de stam, maar een vorm met t."
+    ],
+    "perAfleider": {
+     "Reist": "Reist is de vorm voor hij of zij. Een opdracht zonder onderwerp schrijf je met alleen de stam.",
+     "Reiz": "Reiz: de stam schrijf je met een s (reis), niet met een z."
+    },
+    "onthoud": "Een opdracht schrijf je met alleen de stam."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Is dit een opdracht zonder onderwerp (geen jij of u erbij)?\n• Wat is de stam (ik …)?\n• Welke vorm hoort bij een opdracht?",
+    "Een gebiedende wijs is een opdracht zonder onderwerp. Het is de stam (bij zijn: wees). Eindigt de stam op t, dan staat die t er gewoon (Zet de stoel neer). Staat er u bij (Komt u binnen), dan is het geen gebiedende wijs met alleen de stam, maar een vorm met t.\nVoorbeeld: Werk rustig door tot de bel gaat."
+   ],
+   "opties": [
+    "Reist",
+    "Reis",
+    "Reiz"
+   ],
+   "goed": 1
+  },
+  {
+   "id": "eng-1137",
+   "ww": "leasen",
+   "categorie": "eng",
+   "slot": "tt.hij",
+   "regel": "tt-t",
+   "instinker": false,
+   "zin": "Mijn oom ___ elk jaar een andere auto.",
+   "antwoord": "leaset",
+   "afleiders": [
+    {
+     "vorm": "lease",
+     "soort": "a",
+     "patroon": "tt-t-vergeten"
+    },
+    {
+     "vorm": "leased",
+     "soort": "b",
+     "patroon": "tt-d-ipv-t"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het onderwerp is enkelvoud (net als hij, zij of het). Dan komt er een t achter de stam: lease + t = leaset.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de tegenwoordige tijd. Het onderwerp is ‘Mijn oom’.",
+     "De stam: ik lease (het Engelse woord, met de e).",
+     "De regel: Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud (hij, zij, het, mijn broer, de trein, iemand, dat)? Dan stam + t. Een paar veelgebruikte werkwoorden zijn onregelmatig (hij heeft, hij kan, hij wil, hij is)."
+    ],
+    "perAfleider": {
+     "lease": "lease is de stam. Bij ‘Mijn oom’ komt er nog een t achter.",
+     "leased": "leased: in de tegenwoordige tijd komt er een t achter de stam, geen d."
+    },
+    "onthoud": "Onderwerp jij of je (voor het werkwoord), u, hij, zij, het, of een ander woord voor één persoon of ding: stam + t. Eindigt de stam al op t, dan geen extra t."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Wie of wat doet het? Dat is het onderwerp. Let op ‘Mijn oom’.\n• Is het onderwerp enkelvoud of meervoud? En staat het voor of achter het werkwoord?\n• Wat is de stam? Moet er een t bij, of niet?",
+    "Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud (hij, zij, het, mijn broer, de trein, iemand, dat)? Dan stam + t. Een paar veelgebruikte werkwoorden zijn onregelmatig (hij heeft, hij kan, hij wil, hij is).\nVoorbeeld: Mijn broer werkt in een ziekenhuis."
+   ],
+   "opties": [
+    "lease",
+    "leased",
+    "leaset"
+   ],
+   "goed": 2
+  },
+  {
+   "id": "eng-1011",
+   "ww": "timen",
+   "categorie": "eng",
+   "slot": "tt.hij",
+   "regel": "tt-t",
+   "instinker": false,
+   "zin": "De coach ___ elke ronde van het team.",
+   "antwoord": "timet",
+   "afleiders": [
+    {
+     "vorm": "time",
+     "soort": "a",
+     "patroon": "tt-t-vergeten"
+    },
+    {
+     "vorm": "timed",
+     "soort": "b",
+     "patroon": "tt-d-ipv-t"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het onderwerp is enkelvoud (net als hij, zij of het). Dan komt er een t achter de stam: time + t = timet.",
+    "stappen": [
+     "Welke vorm? Dit is de persoonsvorm in de tegenwoordige tijd. Het onderwerp is ‘De coach’.",
+     "De stam: ik time (het Engelse woord, met de e).",
+     "De regel: Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud (hij, zij, het, mijn broer, de trein, iemand, dat)? Dan stam + t. Een paar veelgebruikte werkwoorden zijn onregelmatig (hij heeft, hij kan, hij wil, hij is)."
+    ],
+    "perAfleider": {
+     "time": "time is de stam. Bij ‘De coach’ komt er nog een t achter.",
+     "timed": "timed: in de tegenwoordige tijd komt er een t achter de stam, geen d."
+    },
+    "onthoud": "Onderwerp jij of je (voor het werkwoord), u, hij, zij, het, of een ander woord voor één persoon of ding: stam + t. Eindigt de stam al op t, dan geen extra t."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Wie of wat doet het? Dat is het onderwerp. Let op ‘De coach’.\n• Is het onderwerp enkelvoud of meervoud? En staat het voor of achter het werkwoord?\n• Wat is de stam? Moet er een t bij, of niet?",
+    "Is het onderwerp jij of je (voor het werkwoord), u, of een ander enkelvoud (hij, zij, het, mijn broer, de trein, iemand, dat)? Dan stam + t. Een paar veelgebruikte werkwoorden zijn onregelmatig (hij heeft, hij kan, hij wil, hij is).\nVoorbeeld: Mijn broer werkt in een ziekenhuis."
+   ],
+   "opties": [
+    "timet",
+    "time",
+    "timed"
+   ],
+   "goed": 0
+  },
+  {
+   "id": "bvd-1087",
+   "ww": "veranderen",
+   "categorie": "bvd",
+   "slot": "bvd.e",
+   "regel": "bvd-e",
+   "instinker": false,
+   "zin": "De ___ route is korter.",
+   "antwoord": "veranderde",
+   "afleiders": [
+    {
+     "vorm": "veranderdte",
+     "soort": "b",
+     "patroon": "bvd-te-ipv-de"
+    },
+    {
+     "vorm": "veranderden",
+     "soort": "a",
+     "patroon": "bvd-n-teveel"
+    }
+   ],
+   "uitleg": {
+    "kort": "Veranderen heeft het voorvoegsel ver- (zonder klemtoon), dus er komt geen ge- bij. Het voltooid deelwoord is veranderd. Het hoort bij ‘route’. Er staat ‘de’ voor, dus komt er een -e achter. Zo krijg je: veranderde.",
+    "stappen": [
+     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘route’. Je gebruikt het als bijvoeglijk naamwoord.",
+     "De stam: ik verander.",
+     "De regel: Voltooid deelwoord bij een zelfstandig naamwoord: + e (de gemaakte afspraak). Geen -e als het op -en eindigt (het gebroken glas), en ook niet bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een gekookt ei, gekookt water)."
+    ],
+    "perAfleider": {
+     "veranderdte": "veranderdte: het voltooid deelwoord is veranderd, met een d. Daar komt een -e achter, geen -te.",
+     "veranderden": "veranderden: er komt alleen een -e achter, geen -en."
+    },
+    "onthoud": "Voltooid deelwoord bij een zelfstandig naamwoord: meestal + e. Niet als het op -en eindigt, en niet bij een, geen of zo'n + het-woord."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘route’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …). Let op het voorvoegsel ver- zonder klemtoon: dan geen ge-.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "Voltooid deelwoord bij een zelfstandig naamwoord: + e (de gemaakte afspraak). Geen -e als het op -en eindigt (het gebroken glas), en ook niet bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een gekookt ei, gekookt water).\nVoorbeeld: De gemaakte afspraken staan in mijn agenda."
+   ],
+   "opties": [
+    "veranderdte",
+    "veranderden",
+    "veranderde"
+   ],
+   "goed": 2
+  },
+  {
+   "id": "bvd-1083",
+   "ww": "openen",
+   "categorie": "bvd",
+   "slot": "bvd.e",
+   "regel": "bvd-e",
+   "instinker": false,
+   "zin": "De net ___ winkel zit vol klanten.",
+   "antwoord": "geopende",
+   "afleiders": [
+    {
+     "vorm": "geopendte",
+     "soort": "b",
+     "patroon": "bvd-te-ipv-de"
+    },
+    {
+     "vorm": "geopente",
+     "soort": "b",
+     "patroon": "bvd-t-d-omgedraaid"
+    }
+   ],
+   "uitleg": {
+    "kort": "Het voltooid deelwoord is geopend. Het hoort bij ‘winkel’. Er staat ‘de’ voor, dus komt er een -e achter. Zo krijg je: geopende.",
+    "stappen": [
+     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘winkel’. Je gebruikt het als bijvoeglijk naamwoord.",
+     "De stam: ik open.",
+     "De regel: Voltooid deelwoord bij een zelfstandig naamwoord: + e (de gemaakte afspraak). Geen -e als het op -en eindigt (het gebroken glas), en ook niet bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een gekookt ei, gekookt water)."
+    ],
+    "perAfleider": {
+     "geopendte": "geopendte: het voltooid deelwoord is geopend, met een d. Daar komt een -e achter, geen -te.",
+     "geopente": "geopente: het voltooid deelwoord is geopend. Dat eindigt op een d, en die blijft staan."
+    },
+    "onthoud": "Voltooid deelwoord bij een zelfstandig naamwoord: meestal + e. Niet als het op -en eindigt, en niet bij een, geen of zo'n + het-woord."
+   },
+   "hints": [
+    "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
+    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘winkel’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …).\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "Voltooid deelwoord bij een zelfstandig naamwoord: + e (de gemaakte afspraak). Geen -e als het op -en eindigt (het gebroken glas), en ook niet bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een gekookt ei, gekookt water).\nVoorbeeld: De gemaakte afspraken staan in mijn agenda."
+   ],
+   "opties": [
+    "geopende",
+    "geopendte",
+    "geopente"
+   ],
+   "goed": 0
+  }
+ ],
+ "hash": "87bbd8bd293a6497"
+}

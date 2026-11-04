@@ -1,0 +1,134 @@
+{
+  "markeringen": [
+    {
+      "id": "onthoud:vd-stam-td (vd-005, vd-007, vd-008, vd-009, vd-010, vd-056, eng-002)",
+      "ernst": "fout",
+      "reden": "Onthoud 'Zwak werkwoord met een stam op t of d? Dan komt er niets meer achter.' zegt niet dat het alleen over het voltooid deelwoord gaat. Letterlijk toegepast op gewone werkwoorden geeft het 'hij land', 'het vliegtuig land' en 'gisteren land hij' in plaats van landt/landde. Het botst zo met de dt-regel en met de eigen Onthoud bij tt-dt ('Eindigt de stam op d? Dan krijg je dt'). Voorstel: 'Voltooid deelwoord van een zwak werkwoord met een stam op t of d? Ge + stam, er komt niets meer achter (gezet, geland).'"
+    },
+    {
+      "id": "onthoud:vt-te + vd-t (vt-001, vt-032, vt-031, vt-041, vt-064, vt-069, vt-072, vt-035; vd-069, vd-074, vd-082, vd-080, vd-068, vd-083, vd-064, vd-076, vd-057, vd-036, eng-023, eng-025, eng-020)",
+      "ernst": "fout",
+      "reden": "Onthoud 'Stam + te als de laatste letter in 't kofschip zit.' en 'Ge + stam + t als de laatste letter in 't kofschip zit.' Letterlijk toegepast op gewone werkwoorden op -ven/-zen geeft dat leefte, reiste, gedurft en gereist: de stam is leef/durf/reis, en f en s zitten in 't kofschip. Dat is precies de valkuil die in deze set apart getoetst wordt (vt-vz, vd-vz, vd-001, vd-048, bvd-006, bvd-033). De regelkaart noemt de uitzondering wel ('Let op: -ven of -zen'), maar het zinnetje om te onthouden niet. Voorstel: '... in 't kofschip zit. Bij -ven of -zen kijk je naar de v of z.'"
+    },
+    {
+      "id": "onthoud:vt-de + vd-d (vt-056, vt-036, vt-018, vt-030, vt-034, vt-033, vt-071, vt-075, vt-077, vt-078, vt-058, eng-050, eng-032, eng-019, eng-007; vd-067, vd-086, vd-084, vd-085, vd-071, vd-078, vd-077, vd-079, vd-072, vd-059, eng-016, eng-006, eng-012)",
+      "ernst": "twijfel",
+      "reden": "Onthoud 'Stam + de / Ge + stam + d als de laatste letter niet in 't kofschip zit.' Letterlijk toegepast op de Engelse werkwoorden uit deze set (stam race, update, skate, delete: laatste letter e) geeft racede, geüpdated, geskated en gedeleted, terwijl het goede antwoord racete, geüpdatet, geskatet en gedeletet is. Voorstel: '(Bij Engelse werkwoorden: luister naar de klank.)'"
+    },
+    {
+      "id": "onthoud:bvd-e (28 vragen, o.a. bvd-014, bvd-040, bvd-039, bvd-023, bvd-004)",
+      "ernst": "twijfel",
+      "reden": "Onthoud 'Voltooid deelwoord bij een zelfstandig naamwoord: + e.' Letterlijk toegepast geeft dat 'een gekookte ei', 'een verbouwde pand' en 'de geslotene deur'. Beide uitzonderingen worden in dezelfde set getoetst (bvd-een-het, bvd-sterk). Er bestaan wel aparte Onthouds die dit opvangen. Voorstel: '+ e (niet bij -en, en niet bij een/geen/zo'n + het-woord).'"
+    },
+    {
+      "id": "onthoud:od-e (15 vragen, o.a. od-001, od-010, od-032, od-018, od-020)",
+      "ernst": "twijfel",
+      "reden": "Onthoud 'Onvoltooid deelwoord bij een zelfstandig naamwoord: -ende.' Letterlijk toegepast geeft dat 'een slapende kind' en 'een drijvende blad', en dat wordt getoetst in od-een-het. Voorstel: '... -ende, behalve bij een/geen/zo'n + het-woord.'"
+    },
+    {
+      "id": "regel tt-stam-t + onthoud (tt-023, tt-024, tt-033, tt-055, tt-050)",
+      "ernst": "twijfel",
+      "reden": "'Eindigt de stam al op t? Dan komt er geen tweede t bij.' noemt niet dat het om de tegenwoordige tijd gaat. Dezelfde student leert bij vt-stam-t juist dat zette, praatte en kostte twee t's krijgen. Voorstel: 'Tegenwoordige tijd: eindigt de stam al op t? ...'"
+    },
+    {
+      "id": "regel tt-t, tt-dt + onthoud tt-t/tt-dt",
+      "ernst": "twijfel",
+      "reden": "'jij of je (voor het werkwoord), u, of een ander enkelvoud' en in de Onthoud 'of een ander woord voor één persoon of ding: stam + t'. Strikt genomen valt ik daar ook onder (ik is enkelvoud en één persoon). In de Onthoud staat zij ook zonder 'enkelvoud' erbij (zij werken). Voorstel: 'een ander enkelvoud (niet ik)' en 'hij, zij (één persoon), het'."
+    },
+    {
+      "id": "stappenplan stap 3 (infinitief) + onthoud inf (29 vragen)",
+      "ernst": "twijfel",
+      "reden": "Stappenplan en Onthoud zeggen zonder voorbehoud 'na willen, moeten ... schrijf je het hele werkwoord'. De regelkaart inf zegt terecht 'meestal' en noemt 'het moet geverfd worden'. Letterlijk toegepast op 'Het hek moet ... worden' geeft dat 'verven'. In de Onthoud ontbreekt ook laten, dat in het stappenplan wel staat. Voorstel: neem 'meestal' en de uitzondering met hebben/zijn/worden over."
+    },
+    {
+      "id": "eng-009",
+      "ernst": "twijfel",
+      "reden": "De afleider geraced begint met 'kijk nog eens naar 't kofschip'. Wie dat letterlijk doet, ziet als laatste letter e (of c). Die zit niet in 't kofschip, dus komt diegene juist bij de d uit. De rest van de uitleg (luister naar de klank) klopt. Voorstel bij klankwerkwoorden: 'luister nog eens naar de laatste klank'."
+    },
+    {"id": "eng-048", "ernst": "twijfel", "reden": "Zelfde punt als eng-009: 'kijk nog eens naar 't kofschip' bij deletede. Op de letter (e) kom je juist bij -de uit."},
+    {"id": "eng-026", "ernst": "twijfel", "reden": "Zelfde punt als eng-009 (skatede): op de letter e kom je bij -de uit."},
+    {"id": "eng-005", "ernst": "twijfel", "reden": "Zelfde punt als eng-009 (geüpdated): op de letter e kom je bij d uit."},
+    {"id": "eng-046", "ernst": "twijfel", "reden": "Zelfde punt als eng-009 (geskated)."},
+    {"id": "eng-035", "ernst": "twijfel", "reden": "Zelfde punt als eng-009 (gedeleted)."},
+    {"id": "eng-004", "ernst": "twijfel", "reden": "Zelfde punt als eng-009 (updatede)."},
+    {"id": "eng-013", "ernst": "twijfel", "reden": "Zelfde punt als eng-009 (crashde): de laatste letter is h. Die zit niet in 't kofschip, dus 'kijk naar 't kofschip' leidt naar -de."},
+    {"id": "eng-014", "ernst": "twijfel", "reden": "Zelfde punt als eng-009 (gecrashd): de laatste letter h zit niet in 't kofschip."},
+    {
+      "id": "eng-031",
+      "ernst": "twijfel",
+      "reden": "gesaved klopt, maar de toets 'is de klank stemloos (trilt je keel niet)?' werkt slecht bij de v. Veel Nederlanders spreken saven (en leven, verven) uit met een f-achtige klank. Zij concluderen dan 'stemloos, dus gesavet'. Hetzelfde voorbeeld staat in regel vt-leen-klank ('sa-ven: v'). Voorstel: 'je schrijft het hele werkwoord met een v, net als bij leven, dus d'."
+    },
+    {
+      "id": "regels bvd-e / od-e vs bvd-een-het / od-een-het / stappenplan",
+      "ernst": "stijl",
+      "reden": "bvd-e en od-e (en alle Hint 2-teksten van bvd/od) noemen 'een, geen of zo'n'. bvd-een-het, od-een-het en het stappenplan noemen 'een, geen, zo'n, elk of veel'. Maak het gelijk."
+    },
+    {
+      "id": "inf-018, inf-019, inf-020, inf-002",
+      "ernst": "stijl",
+      "reden": "Hint 2 'Staat er ‘te’ vlak voor de open plek? / Staat de open plek achteraan, bij dat werkwoord?': 'dat werkwoord' verwijst naar te, en te is geen werkwoord. Bij inf-019 en inf-020 staat er ook nog hoeft. Voorstel: 'Staat er te vlak voor de open plek? Welke vorm komt er na te?'"
+    },
+    {
+      "id": "inf (H2 bij 25 vragen)",
+      "ernst": "stijl",
+      "reden": "'Staat de open plek achteraan, bij dat werkwoord?' De open plek staat meestal níet naast dat werkwoord (Mijn ouders gaan volgend jaar de keuken ___). Bedoeld is 'hoort hij bij dat werkwoord'. Voorstel: 'Staat de open plek achteraan, en hoort hij bij dat werkwoord?'"
+    },
+    {
+      "id": "od-kaal (od-022, od-008, od-013, od-023, od-002, od-033, od-007, od-026, od-019)",
+      "ernst": "stijl",
+      "reden": "Hint 2, laatste punt: 'Het onvoltooid deelwoord is het hele werkwoord + d. Welke letter hoort er dan aan het eind?' Daarmee ligt het antwoord al bijna voor."
+    },
+    {
+      "id": "tt-003",
+      "ernst": "stijl",
+      "reden": "In Stap 3 en Hint 3 is het voorbeeld weggelaten, omdat er vindt in staat. Daardoor blijft 'Is je geen onderwerp, dan geldt dit niet.' zonder voorbeeld vaag. Voorstel: neem een ander voorbeeld (hij helpt je graag)."
+    },
+    {
+      "id": "vt-026, vt-050, vt-064, vt-069, vt-072, vt-021, vt-077, vt-033, vt-008",
+      "ernst": "stijl",
+      "reden": "De kofschip-afleider eindigt met 'dus -te' of 'dus -de', terwijl het goede antwoord meervoud is (-ten/-den). Voorstel: 'dus -te(n)' of 'dus -ten'."
+    },
+    {
+      "id": "eng-029, eng-021, eng-015, eng-033, eng-003",
+      "ernst": "stijl",
+      "reden": "De uitleg zegt 'sprinten/posten/chatten/uploaden/downloaden is een zwak werkwoord'. De afleider bij dezelfde vraag zegt '... is een Engels werkwoord, maar hier zijn letter en klank hetzelfde'. Kies één formulering."
+    },
+    {
+      "id": "eng-016, eng-032",
+      "ernst": "stijl",
+      "reden": "De uitleg noemt googelen en scoren 'een Engels werkwoord'. Het stappenplan noemt juist deze twee als werkwoorden die al op z'n Nederlands geschreven worden. Kleine tegenspraak."
+    },
+    {
+      "id": "bvd-036",
+      "ernst": "stijl",
+      "reden": "De afleider verbreden is ook het hele werkwoord. Wie dit kiest, denkt waarschijnlijk aan het hele werkwoord, niet aan '-e + n'. Voorstel: 'verbreden is het hele werkwoord. Hier hoort het voltooid deelwoord + e.'"
+    },
+    {
+      "id": "bvd-038, bvd-042",
+      "ernst": "stijl",
+      "reden": "Hint 2 'Eindigt het op -en? Dan is het een sterk werkwoord.' klopt niet helemaal: gemengde werkwoorden (gelachen, gevouwen, geladen) eindigen ook op -en. De twee punten van de hint zeggen bovendien bijna hetzelfde."
+    },
+    {
+      "id": "vt-006, eng-029",
+      "ernst": "stijl",
+      "reden": "Stap 1 zegt 'verleden tijd (dat zie je aan ‘Vanochtend’)', maar vanochtend kan ook bij de tegenwoordige tijd horen (Vanochtend loop ik ...). Er is geen tweede goed antwoord, want er staat geen vorm in de tegenwoordige tijd tussen de opties. Beter een duidelijker tijdwoord, of verwijs naar 'nog ... toch?'."
+    },
+    {"id": "gw-035", "ernst": "stijl", "reden": "'Durf het gewoon, je kunt het echt.' klinkt wat stroef. Natuurlijker: 'Durf het gewoon te doen' of 'Durf gewoon, je kunt het echt.'"},
+    {"id": "gw-011", "ernst": "stijl", "reden": "'op een laag vuur': gangbaarder is 'op laag vuur'."},
+    {"id": "eng-036", "ernst": "stijl", "reden": "'Dit papier is helemaal gerecycled.' klinkt wat vreemd. Natuurlijker: 'Dit papier is volledig gerecycled.'"},
+    {
+      "id": "od (H2 bij od-e/od-een-het)",
+      "ernst": "stijl",
+      "reden": "'Eindigt het werkwoord op -end?' terwijl de goede optie vaak op -ende eindigt. Voorstel: 'Eindigt het werkwoord op -end of -ende?'"
+    }
+  ],
+  "algemeen": [
+    "Alle 303 sleutels gecontroleerd. Ik heb geen tweede goed antwoord gevonden en geen sleutel die fout is. De Engelse vormen kloppen met de Taalunie-spelling (geüpdatet, updatete, updatet, geskatet, skatete, deletete, gedeletet, geracet, getimed, timede, gesaved, gerecycled, gecrasht, crashte, scande, gescand, jogde, chatte, postte, sprintte, uploadde, uploadt, downloadde, gedownload(e), coacht, zapt, geshopt, gehackt, gecheckt, gemaild, mailde, googelt, gegoogeld, scoorde).",
+    "Automatisch gecontroleerd: elke vraag heeft 3 verschillende opties, de sleutel staat ertussen, en bij elke andere optie staat precies één afleider-uitleg. De uitleg noemt steeds de sleutelvorm. Een zin die met ___ begint, heeft een sleutel met hoofdletter.",
+    "Stap 3- en Hint 3-teksten zijn letterlijk de regelkaart uit regels.json. Bij 15 vragen is een voorbeeld tussen haakjes weggelaten omdat het het antwoord zou verklappen; dat is terecht. In geen enkele Hint 2 of Hint 3 staat een van de opties letterlijk (gecontroleerd), dus de voorbeeldzinnen verklappen niets.",
+    "Het grootste risico zit niet in de vragen zelf, maar in de korte Onthoud-zinnen. Ze laten soms de afbakening weg (welke vorm) of een veelvoorkomende uitzondering (-ven/-zen, Engelse klank, het-woord met een, -en). Wie alleen het Onthoud-zinnetje leert, kan bij een gewoon werkwoord de fout in gaan (hij land, geleeft, gedurft, een gekookte ei). Dat is met een paar woorden op te lossen; zie de markeringen.",
+    "regels.json: de inhoud klopt, maar is op twee plekken net niet scherp genoeg: tt-stam-t noemt de tegenwoordige tijd niet, en tt-t/tt-dt sluiten 'ik' niet uit bij 'een ander enkelvoud'. Het stappenplan zegt bij de infinitief stelliger 'na willen ... het hele werkwoord' dan de regelkaart ('meestal', met het moet geverfd worden).",
+    "Bij Engelse klankwerkwoorden begint de afleider-uitleg standaard met 'kijk nog eens naar 't kofschip'. Bij stammen op een stomme e of op sh wijst kijken naar de letter juist naar het foute antwoord. Beter: 'luister nog eens naar de laatste klank'.",
+    "Toon en niveau zijn rustig en B1. Hint 1 is bij alle 303 vragen gelijk; dat is prima als vaste eerste stap."
+  ]
+}

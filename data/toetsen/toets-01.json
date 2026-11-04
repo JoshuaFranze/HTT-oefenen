@@ -34,7 +34,7 @@
      "gegoogelt": "gegoogelt: kijk nog eens naar 't kofschip. googelen is een Engels werkwoord, maar hier zijn letter en klank hetzelfde. De laatste letter van de stam is een l. Die zit niet in 't kofschip, dus een d.",
      "gegoogeldt": "gegoogeldt: een voltooid deelwoord eindigt nooit op dt."
     },
-    "onthoud": "Ge + stam + d als de laatste letter niet in 't kofschip zit."
+    "onthoud": "Zwak werkwoord en de stam eindigt niet op een letter van 't kofschip? Ge + stam + d. Eindigt de stam al op d, dan komt er niets bij."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -126,7 +126,7 @@
      "maakde": "maakde: kijk nog eens naar 't kofschip. De laatste letter van de stam is een k. Die zit in 't kofschip, dus -te.",
      "maakten": "maakten is de vorm voor meervoud. ‘mijn klas’ is enkelvoud."
     },
-    "onthoud": "Stam + te als de laatste letter in 't kofschip zit."
+    "onthoud": "Zwak werkwoord en de stam eindigt op een letter van 't kofschip? Stam + te. Bij -ven of -zen kijk je naar de v of z."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -171,7 +171,7 @@
      "reist": "reist is een persoonsvorm. Na ‘ga’ komt het hele werkwoord.",
      "reisen": "reisen: het hele werkwoord schrijf je met een z. De s hoort alleen bij de stam (reis)."
     },
-    "onthoud": "Na willen, moeten, kunnen, mogen, gaan, zullen of te komt het hele werkwoord."
+    "onthoud": "Na willen, moeten, kunnen, mogen, gaan, zullen of te komt meestal het hele werkwoord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -214,7 +214,7 @@
      "De regel: Bij een Engels werkwoord is de stam het Engelse woord, met de e (update, like, time). Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort. Is die stemloos (je keel trilt niet)? Dan ge + stam + t, anders ge + stam + d (geüpdatet, getimed). Alleen als de stam zelf op een t of d eindigt (print, download), komt er niets meer achter."
     ],
     "perAfleider": {
-     "geraced": "geraced: kijk nog eens naar 't kofschip. racen is een Engels werkwoord. De stam is het Engelse woord: race. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (ra-cen): een s. De s is stemloos, net als de klanken van 't kofschip, dus een t.",
+     "geraced": "geraced: luister nog eens naar de klank. racen is een Engels werkwoord. De stam is het Engelse woord: race. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (ra-cen): een s. De s is stemloos, net als de klanken van 't kofschip, dus een t.",
      "geracetd": "geracetd: er komt maar één letter achter de stam, een t óf een d. Niet allebei."
     },
     "onthoud": "Bij Engelse werkwoorden luister je naar de laatste klank van de stam."
@@ -355,7 +355,7 @@
      "opgeruimdte": "opgeruimdte: het voltooid deelwoord is opgeruimd, met een d. Daar komt een -e achter, geen -te.",
      "opgeruimte": "opgeruimte: het voltooid deelwoord is opgeruimd. Dat eindigt op een d, en die blijft staan."
     },
-    "onthoud": "Voltooid deelwoord bij een zelfstandig naamwoord: + e."
+    "onthoud": "Voltooid deelwoord bij een zelfstandig naamwoord: meestal + e. Niet als het op -en eindigt, en niet bij een, geen of zo'n + het-woord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -398,7 +398,7 @@
      "De regel: Bij een Engels werkwoord is de stam het Engelse woord (race, update, crash). Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (ra-cen: s, sa-ven: v). Is die stemloos, zoals de klanken van 't kofschip of sj (je keel trilt niet)? Dan -te, anders -de."
     ],
     "perAfleider": {
-     "deletede": "deletede: kijk nog eens naar 't kofschip. deleten is een Engels werkwoord. De stam is het Engelse woord: delete. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (de-le-ten): een t. De t is stemloos, net als de klanken van 't kofschip, dus -te.",
+     "deletede": "deletede: luister nog eens naar de klank. deleten is een Engels werkwoord. De stam is het Engelse woord: delete. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (de-le-ten): een t. De t is stemloos, net als de klanken van 't kofschip, dus -te.",
      "deletet": "deletet is de tegenwoordige tijd. Let op ‘Vorige week’: het gebeurde in het verleden."
     },
     "onthoud": "Bij Engelse werkwoorden luister je naar de laatste klank van de stam."
@@ -447,7 +447,7 @@
      "gekusd": "gekusd: kijk nog eens naar 't kofschip. De laatste letter van de stam is een s. Die zit in 't kofschip, dus een t.",
      "gekuste": "gekuste: na een hulpwerkwoord komt er geen -e achter het voltooid deelwoord."
     },
-    "onthoud": "Ge + stam + t als de laatste letter in 't kofschip zit."
+    "onthoud": "Zwak werkwoord en de stam eindigt op een letter van 't kofschip? Ge + stam + t. Bij -ven of -zen kijk je naar de v of z; eindigt de stam al op t, dan komt er niets bij."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -493,7 +493,7 @@
      "geoefent": "geoefent: kijk nog eens naar 't kofschip. De laatste letter van de stam is een n. Die zit niet in 't kofschip, dus een d.",
      "geoefende": "geoefende: na een hulpwerkwoord komt er geen -e achter het voltooid deelwoord."
     },
-    "onthoud": "Ge + stam + d als de laatste letter niet in 't kofschip zit."
+    "onthoud": "Zwak werkwoord en de stam eindigt niet op een letter van 't kofschip? Ge + stam + d. Eindigt de stam al op d, dan komt er niets bij."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -538,7 +538,7 @@
      "lachend": "lachend: het hoort bij ‘bruid’. Dan komt er een -e achter.",
      "lachente": "lachente: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent."
     },
-    "onthoud": "Onvoltooid deelwoord bij een zelfstandig naamwoord: -ende."
+    "onthoud": "Onvoltooid deelwoord bij een zelfstandig naamwoord: meestal -ende. Niet bij een, geen of zo'n + het-woord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -584,7 +584,7 @@
      "speelte": "speelte: kijk nog eens naar 't kofschip. De laatste letter van de stam is een l. Die zit niet in 't kofschip, dus -de.",
      "speelden": "speelden is de vorm voor meervoud. ‘ik’ is enkelvoud."
     },
-    "onthoud": "Stam + de als de laatste letter niet in 't kofschip zit."
+    "onthoud": "Zwak werkwoord en de stam eindigt niet op een letter van 't kofschip? Stam + de. Bij Engelse werkwoorden luister je naar de klank."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -630,7 +630,7 @@
      "train": "train is de stam. Bij ‘Mijn zus’ komt er nog een t achter.",
      "traind": "traind: in de tegenwoordige tijd komt er een t achter de stam, geen d."
     },
-    "onthoud": "Onderwerp jij of je (voor het werkwoord), u, hij, zij, het, of een ander woord voor één persoon of ding: stam + t."
+    "onthoud": "Onderwerp jij of je (voor het werkwoord), u, hij, zij, het, of een ander woord voor één persoon of ding: stam + t. Eindigt de stam al op t, dan geen extra t."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -722,7 +722,7 @@
      "klopde": "klopde: kijk nog eens naar 't kofschip. De laatste letter van de stam is een p. Die zit in 't kofschip, dus -te.",
      "klopten": "klopten is de vorm voor meervoud. ‘iemand’ is enkelvoud."
     },
-    "onthoud": "Stam + te als de laatste letter in 't kofschip zit."
+    "onthoud": "Zwak werkwoord en de stam eindigt op een letter van 't kofschip? Stam + te. Bij -ven of -zen kijk je naar de v of z."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -768,7 +768,7 @@
      "gerepareert": "gerepareert: kijk nog eens naar 't kofschip. De laatste letter van de stam is een r. Die zit niet in 't kofschip, dus een d.",
      "gerepareerde": "gerepareerde: na een hulpwerkwoord komt er geen -e achter het voltooid deelwoord."
     },
-    "onthoud": "Ge + stam + d als de laatste letter niet in 't kofschip zit."
+    "onthoud": "Zwak werkwoord en de stam eindigt niet op een letter van 't kofschip? Ge + stam + d. Eindigt de stam al op d, dan komt er niets bij."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -859,7 +859,7 @@
      "rustten": "rustten klinkt hetzelfde, maar dat is de verleden tijd meervoud. Na ‘wil’ komt het hele werkwoord.",
      "rust": "rust is een persoonsvorm. Na ‘wil’ komt het hele werkwoord."
     },
-    "onthoud": "Na willen, moeten, kunnen, mogen, gaan, zullen of te komt het hele werkwoord."
+    "onthoud": "Na willen, moeten, kunnen, mogen, gaan, zullen of te komt meestal het hele werkwoord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -903,7 +903,7 @@
     ],
     "perAfleider": {
      "wachten": "wachten klinkt hetzelfde, maar dat is de tegenwoordige tijd. Let op ‘Gisteren’: het gebeurde in het verleden.",
-     "wachtden": "wachtden: kijk nog eens naar 't kofschip. De laatste letter van de stam is een t. Die zit in 't kofschip, dus -te."
+     "wachtden": "wachtden: kijk nog eens naar 't kofschip. De laatste letter van de stam is een t. Die zit in 't kofschip, dus -te. Bij meervoud komt er nog een -n achter."
     },
     "onthoud": "Zwak werkwoord met een stam op t: + te geeft tt. Dat hoort zo."
    },
@@ -951,7 +951,7 @@
      "scante": "scante: kijk nog eens naar 't kofschip. scannen is een Engels werkwoord, maar hier zijn letter en klank hetzelfde. De laatste letter van de stam is een n. Die zit niet in 't kofschip, dus -de.",
      "scanden": "scanden is de vorm voor meervoud. ‘de kassamedewerker’ is enkelvoud."
     },
-    "onthoud": "Stam + de als de laatste letter niet in 't kofschip zit."
+    "onthoud": "Zwak werkwoord en de stam eindigt niet op een letter van 't kofschip? Stam + de. Bij Engelse werkwoorden luister je naar de klank."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -1043,7 +1043,7 @@
      "geleit": "geleit: de stam leid eindigt al op een d. Die blijft staan, ook al hoor je een t.",
      "geleide": "geleide: na een hulpwerkwoord komt er geen -e achter het voltooid deelwoord."
     },
-    "onthoud": "Zwak werkwoord met een stam op t of d? Dan komt er niets meer achter."
+    "onthoud": "Voltooid deelwoord van een zwak werkwoord met een stam op t of d: ge + stam, er komt niets meer achter."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -1088,7 +1088,7 @@
      "bloosen": "bloosen: in blozen hoor je een lange klank aan het eind van een lettergreep (blo-zen). Dan schrijf je één klinker. En het hele werkwoord schrijf je met een z.",
      "bloost": "bloost is een persoonsvorm. Na ‘te’ komt het hele werkwoord."
     },
-    "onthoud": "Na willen, moeten, kunnen, mogen, gaan, zullen of te komt het hele werkwoord."
+    "onthoud": "Na willen, moeten, kunnen, mogen, gaan, zullen of te komt meestal het hele werkwoord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -1127,7 +1127,7 @@
     "kort": "Het hoort bij een het-woord met ‘een’ ervoor (‘een blad’). Dan komt er geen -e achter: drijvend.",
     "stappen": [
      "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij ‘een blad’.",
-     "De regel: Onvoltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder lidwoord (een lachend kind, kokend water): geen -e. Met het ervoor wel (het lachende kind)."
+     "De regel: Onvoltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor (een lachend kind, kokend water): geen -e. Met het ervoor wel (het lachende kind). Met mijn, dit of het ervoor komt er wel een -e."
     ],
     "perAfleider": {
      "drijvende": "drijvende: na ‘een’ met een het-woord komt er geen -e achter.",
@@ -1138,7 +1138,7 @@
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
     "• Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\n• Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘blad’.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
-    "Onvoltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder lidwoord (een lachend kind, kokend water): geen -e. Met het ervoor wel (het lachende kind).\nVoorbeeld: Ik hoorde een huilend kind in de trein."
+    "Onvoltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor (een lachend kind, kokend water): geen -e. Met het ervoor wel (het lachende kind). Met mijn, dit of het ervoor komt er wel een -e.\nVoorbeeld: Ik hoorde een huilend kind in de trein."
    ],
    "opties": [
     "drijvend",
@@ -1179,7 +1179,7 @@
      "geantwoort": "geantwoort: de stam antwoord eindigt al op een d. Die blijft staan, ook al hoor je een t.",
      "geantwoorde": "geantwoorde: na een hulpwerkwoord komt er geen -e achter het voltooid deelwoord."
     },
-    "onthoud": "Zwak werkwoord met een stam op t of d? Dan komt er niets meer achter."
+    "onthoud": "Voltooid deelwoord van een zwak werkwoord met een stam op t of d: ge + stam, er komt niets meer achter."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -1225,7 +1225,7 @@
      "gesmeerdte": "gesmeerdte: het voltooid deelwoord is gesmeerd, met een d. Daar komt een -e achter, geen -te.",
      "gesmeerte": "gesmeerte: het voltooid deelwoord is gesmeerd. Dat eindigt op een d, en die blijft staan."
     },
-    "onthoud": "Voltooid deelwoord bij een zelfstandig naamwoord: + e."
+    "onthoud": "Voltooid deelwoord bij een zelfstandig naamwoord: meestal + e. Niet als het op -en eindigt, en niet bij een, geen of zo'n + het-woord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -1271,7 +1271,7 @@
      "verteldte": "verteldte: het voltooid deelwoord is verteld, met een d. Daar komt een -e achter, geen -te.",
      "vertelden": "vertelden: er komt alleen een -e achter, geen -en."
     },
-    "onthoud": "Voltooid deelwoord bij een zelfstandig naamwoord: + e."
+    "onthoud": "Voltooid deelwoord bij een zelfstandig naamwoord: meestal + e. Niet als het op -en eindigt, en niet bij een, geen of zo'n + het-woord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -1317,7 +1317,7 @@
      "geplakd": "geplakd: kijk nog eens naar 't kofschip. De laatste letter van de stam is een k. Die zit in 't kofschip, dus een t.",
      "geplakte": "geplakte: na een hulpwerkwoord komt er geen -e achter het voltooid deelwoord."
     },
-    "onthoud": "Ge + stam + t als de laatste letter in 't kofschip zit."
+    "onthoud": "Zwak werkwoord en de stam eindigt op een letter van 't kofschip? Ge + stam + t. Bij -ven of -zen kijk je naar de v of z; eindigt de stam al op t, dan komt er niets bij."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -1409,7 +1409,7 @@
      "verkochtte": "verkochtte: hier staat een t te veel. Het voltooid deelwoord is verkocht. Daar komt een -e achter, geen -te.",
      "verkochten": "verkochten: er komt alleen een -e achter, geen -en."
     },
-    "onthoud": "Voltooid deelwoord bij een zelfstandig naamwoord: + e."
+    "onthoud": "Voltooid deelwoord bij een zelfstandig naamwoord: meestal + e. Niet als het op -en eindigt, en niet bij een, geen of zo'n + het-woord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -1547,7 +1547,7 @@
      "geprobeert": "geprobeert: kijk nog eens naar 't kofschip. De laatste letter van de stam is een r. Die zit niet in 't kofschip, dus een d.",
      "geprobeerde": "geprobeerde: na een hulpwerkwoord komt er geen -e achter het voltooid deelwoord."
     },
-    "onthoud": "Ge + stam + d als de laatste letter niet in 't kofschip zit."
+    "onthoud": "Zwak werkwoord en de stam eindigt niet op een letter van 't kofschip? Ge + stam + d. Eindigt de stam al op d, dan komt er niets bij."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -1638,7 +1638,7 @@
      "rijdend": "rijdend: het hoort bij ‘trein’. Dan komt er een -e achter.",
      "rijdente": "rijdente: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent."
     },
-    "onthoud": "Onvoltooid deelwoord bij een zelfstandig naamwoord: -ende."
+    "onthoud": "Onvoltooid deelwoord bij een zelfstandig naamwoord: meestal -ende. Niet bij een, geen of zo'n + het-woord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -1730,7 +1730,7 @@
      "regen": "regen is de stam. Bij ‘Het’ komt er nog een t achter.",
      "regend": "regend: in de tegenwoordige tijd komt er een t achter de stam, geen d."
     },
-    "onthoud": "Onderwerp jij of je (voor het werkwoord), u, hij, zij, het, of een ander woord voor één persoon of ding: stam + t."
+    "onthoud": "Onderwerp jij of je (voor het werkwoord), u, hij, zij, het, of een ander woord voor één persoon of ding: stam + t. Eindigt de stam al op t, dan geen extra t."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -1776,7 +1776,7 @@
      "stopde": "stopde: kijk nog eens naar 't kofschip. De laatste letter van de stam is een p. Die zit in 't kofschip, dus -te.",
      "stopten": "stopten is de vorm voor meervoud. ‘de trein’ is enkelvoud."
     },
-    "onthoud": "Stam + te als de laatste letter in 't kofschip zit."
+    "onthoud": "Zwak werkwoord en de stam eindigt op een letter van 't kofschip? Stam + te. Bij -ven of -zen kijk je naar de v of z."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -1822,7 +1822,7 @@
      "gecheckd": "gecheckd: kijk nog eens naar 't kofschip. checken is een Engels werkwoord, maar hier zijn letter en klank hetzelfde. De laatste letter van de stam is een k. Die zit in 't kofschip, dus een t.",
      "gechecktd": "gechecktd: er komt maar één letter achter de stam, een t óf een d. Niet allebei."
     },
-    "onthoud": "Ge + stam + t als de laatste letter in 't kofschip zit."
+    "onthoud": "Zwak werkwoord en de stam eindigt op een letter van 't kofschip? Ge + stam + t. Bij -ven of -zen kijk je naar de v of z; eindigt de stam al op t, dan komt er niets bij."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -1870,7 +1870,7 @@
      "laatt": "laatt: de stam laat eindigt al op een t. Er komt geen tweede t bij.",
      "laten": "laten is het hele werkwoord. Dat gebruik je bij meervoud, maar ‘Hij’ is hier enkelvoud."
     },
-    "onthoud": "Eindigt de stam al op t? Dan komt er geen tweede t bij."
+    "onthoud": "Tegenwoordige tijd en de stam eindigt al op t? Dan komt er geen tweede t bij."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -1959,7 +1959,7 @@
      "De regel: Zwak werkwoord dat eindigt op -ven of -zen (leven, reizen)? Haal -en eraf en kijk naar die v of z. Die zitten niet in 't kofschip, dus -de."
     ],
     "perAfleider": {
-     "verhuisten": "verhuisten: kijk nog eens naar 't kofschip. verhuizen is een zwak werkwoord dat eindigt op -zen. Haal -en eraf: verhuiz. Dan kijk je naar de z. Die zit niet in 't kofschip, dus -de.",
+     "verhuisten": "verhuisten: kijk nog eens naar 't kofschip. verhuizen is een zwak werkwoord dat eindigt op -zen. Haal -en eraf: verhuiz. Dan kijk je naar de z. Die zit niet in 't kofschip, dus -de. Bij meervoud komt er nog een -n achter.",
      "verhuisde": "verhuisde is de vorm voor één persoon of ding. ‘wij’ is meervoud, dus er komt nog een -n achter."
     },
     "onthoud": "Zwak werkwoord op -ven of -zen? Dan -de."
@@ -2054,7 +2054,7 @@
      "gezed": "gezed: de stam zet eindigt op een t. Die t blijft gewoon staan; je maakt er geen d van.",
      "gezette": "gezette: na een hulpwerkwoord komt er geen -e achter het voltooid deelwoord."
     },
-    "onthoud": "Zwak werkwoord met een stam op t of d? Dan komt er niets meer achter."
+    "onthoud": "Voltooid deelwoord van een zwak werkwoord met een stam op t of d: ge + stam, er komt niets meer achter."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -2145,7 +2145,7 @@
      "hangend": "hangend: het hoort bij ‘takken’. Dan komt er een -e achter.",
      "hangente": "hangente: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent."
     },
-    "onthoud": "Onvoltooid deelwoord bij een zelfstandig naamwoord: -ende."
+    "onthoud": "Onvoltooid deelwoord bij een zelfstandig naamwoord: meestal -ende. Niet bij een, geen of zo'n + het-woord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -2190,7 +2190,7 @@
      "vliegend": "vliegend: het hoort bij ‘vogels’. Dan komt er een -e achter.",
      "vliegente": "vliegente: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent."
     },
-    "onthoud": "Onvoltooid deelwoord bij een zelfstandig naamwoord: -ende."
+    "onthoud": "Onvoltooid deelwoord bij een zelfstandig naamwoord: meestal -ende. Niet bij een, geen of zo'n + het-woord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -2235,7 +2235,7 @@
      "meldden": "meldden klinkt hetzelfde, maar dat is de verleden tijd meervoud. Na ‘moet’ komt het hele werkwoord.",
      "meldt": "meldt is een persoonsvorm. Na ‘moet’ komt het hele werkwoord."
     },
-    "onthoud": "Na willen, moeten, kunnen, mogen, gaan, zullen of te komt het hele werkwoord."
+    "onthoud": "Na willen, moeten, kunnen, mogen, gaan, zullen of te komt meestal het hele werkwoord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -2280,7 +2280,7 @@
      "verbouwt": "verbouwt is een persoonsvorm. Na ‘gaan’ komt het hele werkwoord.",
      "verbouwd": "verbouwd is het voltooid deelwoord. Na ‘gaan’ komt het hele werkwoord."
     },
-    "onthoud": "Na willen, moeten, kunnen, mogen, gaan, zullen of te komt het hele werkwoord."
+    "onthoud": "Na willen, moeten, kunnen, mogen, gaan, zullen of te komt meestal het hele werkwoord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -2415,7 +2415,7 @@
      "De regel: Bij een Engels werkwoord is de stam het Engelse woord (race, update, crash). Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (ra-cen: s, sa-ven: v). Is die stemloos, zoals de klanken van 't kofschip of sj (je keel trilt niet)? Dan -te, anders -de."
     ],
     "perAfleider": {
-     "skatede": "skatede: kijk nog eens naar 't kofschip. skaten is een Engels werkwoord. De stam is het Engelse woord: skate. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (ska-ten): een t. De t is stemloos, net als de klanken van 't kofschip, dus -te.",
+     "skatede": "skatede: luister nog eens naar de klank. skaten is een Engels werkwoord. De stam is het Engelse woord: skate. Luister naar de laatste klank van de stam, zoals je die in het hele werkwoord hoort (ska-ten): een t. De t is stemloos, net als de klanken van 't kofschip, dus -te.",
      "skatet": "skatet is de tegenwoordige tijd. Let op ‘Vroeger’: het gebeurde in het verleden."
     },
     "onthoud": "Bij Engelse werkwoorden luister je naar de laatste klank van de stam."
@@ -2464,7 +2464,7 @@
      "scoorte": "scoorte: kijk nog eens naar 't kofschip. scoren is een Engels werkwoord, maar hier zijn letter en klank hetzelfde. De laatste letter van de stam is een r. Die zit niet in 't kofschip, dus -de.",
      "scoorden": "scoorden is de vorm voor meervoud. ‘de spits’ is enkelvoud."
     },
-    "onthoud": "Stam + de als de laatste letter niet in 't kofschip zit."
+    "onthoud": "Zwak werkwoord en de stam eindigt niet op een letter van 't kofschip? Stam + de. Bij Engelse werkwoorden luister je naar de klank."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
@@ -2571,5 +2571,5 @@
    "goed": 0
   }
  ],
- "hash": "172d52491b3c744b"
+ "hash": "f2782132dc1130ab"
 }

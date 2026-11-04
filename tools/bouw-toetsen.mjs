@@ -192,3 +192,31 @@ if (arg('--trainer')) {
   schrijf(pad('data/trainer.json'), t);
   console.log(`trainer: ${res.length} vragen, hash ${t.hash}`);
 }
+
+// --herbouw: bestaande toetsen en trainer opnieuw opbouwen met dezelfde vragen, volgorde en posities
+// (alleen nodig als de uitleg-sjablonen veranderd zijn). Daarna moet de review opnieuw bevestigd worden.
+if (args.includes('--herbouw')) {
+  const zinnen = new Map(laadZinnen().map((z) => [z.id, z]));
+  const opnieuw = (v) => {
+    const { vraag, problemen } = maakVraag(zinnen.get(v.id), vormen, regels);
+    if (!vraag || problemen.length) throw new Error(`${v.id}: ${problemen.join('; ')}`);
+    return metOpties(vraag, v.goed);
+  };
+  const dir = pad('data/toetsen/');
+  for (const f of readdirSync(dir).filter((f) => /^toets-\d+\.json$/.test(f))) {
+    const t = JSON.parse(readFileSync(new URL(f, dir), 'utf8'));
+    t.vragen = t.vragen.map(opnieuw);
+    t.reserves = t.reserves.map(opnieuw);
+    t.hash = hashVan(t);
+    schrijf(new URL(f, dir), t);
+    console.log(`toets ${t.toets} herbouwd, hash ${t.hash}`);
+  }
+  if (existsSync(pad('data/trainer.json'))) {
+    const tr = lees('data/trainer.json');
+    tr.vragen = tr.vragen.map(opnieuw);
+    tr.hash = createHash('sha256').update(canoniek(tr.vragen)).digest('hex').slice(0, 16);
+    schrijf(pad('data/trainer.json'), tr);
+    console.log(`trainer herbouwd, hash ${tr.hash}`);
+  }
+  index();
+}
