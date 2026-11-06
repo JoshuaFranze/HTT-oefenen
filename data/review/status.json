@@ -1,4 +1,155 @@
 {
  "uitleg": "Reviewstatus per toets. Een toets gaat alleen live als hij hier is goedgekeurd met precies dezelfde hash.",
- "toetsen": {}
+ "toetsen": {
+  "1": {
+   "hash": "f79eb4b3b78dcd16",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "2": {
+   "hash": "868c26c6f2b5dc16",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "3": {
+   "hash": "628df4b2cc5f2f7a",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "4": {
+   "hash": "ada63cd426ef6f96",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "5": {
+   "hash": "e75ab40bc143ad44",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "6": {
+   "hash": "eb26b6d0c429b0fa",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "7": {
+   "hash": "e9bdc0c8f7f33fb3",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "8": {
+   "hash": "f494381d969d4db0",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "9": {
+   "hash": "11ddfa49db0f3a73",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "10": {
+   "hash": "1424a5e0c0235abe",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "11": {
+   "hash": "bacc2771c7851401",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "12": {
+   "hash": "62bf00d361bc21d9",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "13": {
+   "hash": "cb4df0ddcfd5f4ac",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "14": {
+   "hash": "5dc53486766abb56",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "15": {
+   "hash": "83f339b3c5dbd766",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "16": {
+   "hash": "b61be09cb4f0382f",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "17": {
+   "hash": "ab92bc34da64ae59",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "18": {
+   "hash": "bbe3782598e481ce",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "19": {
+   "hash": "6b9c4efd459a6d68",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "20": {
+   "hash": "06d850f9cf40f877",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "21": {
+   "hash": "f6f69e6e41da7998",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "22": {
+   "hash": "ddc3f17bff1a55ad",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "23": {
+   "hash": "43992a3eb0a9ee5a",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "24": {
+   "hash": "c398129bb981da1a",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  },
+  "trainer": {
+   "hash": "3b5aa5d6dc1f2d8c",
+   "goedgekeurd": true,
+   "datum": "2026-11-06",
+   "notitie": "Toets 1-4 en trainer: 5 reviewrondes (blind, zoek de fout, regelcontrole). Toets 5-24: blind en inhoudelijke controle per deel, 119 vragen vervangen en opnieuw gereviewd."
+  }
+ }
 }
