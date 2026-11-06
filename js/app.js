@@ -96,6 +96,8 @@ function dashboard() {
     volgende = `<p class="text-zacht">Je was bezig met oefentoets ${bezig.toets}. Je hebt ${s.beantwoord} van de 40 vragen gedaan.</p><a class="knop knop-primair mt-4" href="#/maak/${bezig.toets}">Verder met toets ${bezig.toets}</a>`;
   } else if (eerstNieuw) {
     volgende = `<p class="text-zacht">Oefentoets ${eerstNieuw.toets} staat voor je klaar sinds ${mooieDatum(eerstNieuw.datum)}.</p><a class="knop knop-primair mt-4" href="#/toets/${eerstNieuw.toets}">Start toets ${eerstNieuw.toets}</a>`;
+  } else if (komend && !vrij.length) {
+    volgende = `<p class="text-zacht">De eerste oefentoets komt op ${mooieDatum(komend.datum)}. Tot die tijd kun je rustig het stappenplan bekijken of alvast wat valkuilen oefenen.</p><div class="flex flex-wrap gap-2 mt-4"><a class="knop knop-zacht" href="#/stappenplan">Bekijk het stappenplan</a><a class="knop knop-rand" href="#/trainer">Valkuilen oefenen</a></div>`;
   } else if (komend) {
     volgende = `<p class="text-zacht">Je hebt alle toetsen gemaakt die nu klaarstaan. Knap! Oefentoets ${komend.toets} komt op ${mooieDatum(komend.datum)}.</p><a class="knop knop-zacht mt-4" href="#/trainer">Intussen even de valkuilen oefenen</a>`;
   } else {

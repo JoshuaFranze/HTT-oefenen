@@ -100,6 +100,7 @@ try {
   await pa.goto(BASE + '?datum=2026-11-08#/');
   await pa.waitForSelector('text=Jouw volgende oefentoets');
   assert.equal(await pa.locator('a.toetskaart').count(), 0);
+  assert.match(await pa.textContent('body'), /De eerste oefentoets komt op maandag 9 november/);
   ok('vóór 9 november is nog geen enkele toets te starten');
 
   await pa.goto(BASE + '?datum=2026-11-10#/toets/1');
