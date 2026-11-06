@@ -66,6 +66,8 @@ async function nepGitHub(route) {
   return json({}, 404);
 }
 
+// vangnet: blijft de test ergens hangen, stop dan na vier minuten met een duidelijke melding
+const waakhond = setTimeout(() => { console.error('✗ e2e-test duurt te lang (hangt ergens)'); process.exit(1); }, 4 * 60 * 1000);
 const browser = await chromium.launch();
 async function apparaat(opties = {}) {
   const ctx = await browser.newContext({ viewport: { width: 1280, height: 900 }, ...opties });
@@ -239,6 +241,8 @@ try {
   console.error('\n✗ e2e-test mislukt:', e.message);
   process.exitCode = 1;
 } finally {
-  await browser.close();
+  clearTimeout(waakhond);
+  await Promise.race([browser.close(), new Promise((r) => setTimeout(r, 5000))]);
   server.close();
+  process.exit(process.exitCode || 0);
 }
