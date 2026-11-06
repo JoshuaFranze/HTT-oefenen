@@ -1,7 +1,7 @@
 // Werkwoordspelling oefenen voor de HTT (4F). Schermen en routering.
 
 import { laadConfig, laadRegels, laadTrainer, laadBlocklist, laadGebouwd, laadToets, actieveVragen } from './data.js';
-import { leesVoortgang, leesInstellingen, schrijfInstellingen, leesGeheim, schrijfGeheim, opslagWerkt, huidigAntwoord, begintOpnieuw, exporteer, importeer, wisAlles } from './storage.js';
+import { leesVoortgang, leesInstellingen, schrijfInstellingen, leesGeheim, schrijfGeheim, neemRwtTokenOver, opslagWerkt, huidigAntwoord, begintOpnieuw, exporteer, importeer, wisAlles } from './storage.js';
 import { startAutoSync, synchroniseer, opStatus, testToken } from './sync.js';
 import { rooster, mooieDatum, vandaag, dagenTussen, maakIcs, testDatumActief } from './rooster.js';
 import { startToets, eindScherm } from './toets.js';
@@ -20,7 +20,9 @@ async function init() {
     return;
   }
   opStatus(toonSync);
+  const overgenomen = neemRwtTokenOver();
   startAutoSync();
+  if (overgenomen) setTimeout(() => melding('Gekoppeld met je account van de RWT-site. Je voortgang wordt nu ook online bewaard.'), 600);
   window.addEventListener('hashchange', route);
   window.addEventListener('htt:gesynchroniseerd', () => {
     if (/^#\/?$|^#\/(instellingen)?$/.test(location.hash || '#/')) route();
@@ -327,7 +329,7 @@ function instellingen() {
       <p>Je voortgang wordt na elk antwoord op dit apparaat bewaard. Koppel je GitHub-account, dan staat alles ook veilig online en kun je op een ander apparaat verder.</p>
       <ol class="stappenlijst mt-3 text-sm">
         <li>Ga op github.com naar Settings, dan Developer settings, dan Personal access tokens, dan Tokens (classic).</li>
-        <li>Maak een token met alleen het vinkje <strong>gist</strong> aan. Hetzelfde token als bij de RWT-site werkt ook.</li>
+        <li>Maak een token met alleen het vinkje <strong>gist</strong> aan. Heb je de RWT-site al gekoppeld op dit apparaat? Dan neemt deze site dat token vanzelf over.</li>
         <li>Plak het token hieronder. Het blijft alleen op dit apparaat.</li>
       </ol>
       <label class="block font-bold mt-4" for="token">GitHub-token</label>

@@ -189,6 +189,23 @@ export function leesGeheim() {
     return { token: '', gistId: '' };
   }
 }
+/**
+ * De RWT-site staat op hetzelfde adres (joshuafranze.github.io), dus de browser deelt de opslag.
+ * Heeft deze site nog geen token maar staat er wel een RWT-token, dan nemen we dat over.
+ * Het token heeft alleen de scope "gist"; deze site schrijft naar een eigen bestand.
+ */
+export function neemRwtTokenOver() {
+  if (leesGeheim().token) return false;
+  try {
+    const rwt = JSON.parse(leesRuw('rwt.instellingen.v1') || '{}');
+    if (rwt.githubToken) {
+      schrijfGeheim({ token: rwt.githubToken });
+      return true;
+    }
+  } catch {}
+  return false;
+}
+
 export function schrijfGeheim(g) {
   schrijfRuw(KEY_GEHEIM, JSON.stringify({ ...leesGeheim(), ...g }));
 }

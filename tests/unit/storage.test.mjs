@@ -77,3 +77,10 @@ test('het token komt nooit in de voortgang terecht', () => {
   assert.ok(!JSON.stringify(S.leesVoortgang()).includes('ghp_geheim'));
   assert.ok(!S.exporteer().includes('ghp_geheim'));
 });
+
+test('het RWT-token wordt overgenomen als deze site er nog geen heeft', () => {
+  mem.set('rwt.instellingen.v1', JSON.stringify({ githubToken: 'ghp_rwt' }));
+  assert.equal(S.neemRwtTokenOver(), true);
+  assert.equal(S.leesGeheim().token, 'ghp_rwt');
+  assert.equal(S.neemRwtTokenOver(), false); // tweede keer: niets te doen
+});
