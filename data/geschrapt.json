@@ -842,6 +842,28 @@
    "zin": "Vannacht ___ mijn buurman de hele nacht door.",
    "sleutel": "mijn buurman",
    "tijd": "Vannacht"
+  },
+  {
+   "id": "bvd-1080",
+   "ww": "rekenen",
+   "slot": "bvd.e",
+   "zin": "De ___ som klopte precies.",
+   "sleutel": "som"
+  },
+  {
+   "id": "bvd-1133",
+   "ww": "beantwoorden",
+   "slot": "bvd.kaal",
+   "zin": "Ik zocht in mijn mailbox naar een snel ___ bericht.",
+   "sleutel": "bericht",
+   "eenHet": true
+  },
+  {
+   "id": "inf-1085",
+   "ww": "bloeden",
+   "slot": "inf",
+   "zin": "De bloemen gaan snel ___.",
+   "sleutel": "gaan"
   }
  ]
 }

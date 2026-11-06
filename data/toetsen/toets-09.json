@@ -1378,48 +1378,48 @@
    "goed": 1
   },
   {
-   "id": "bvd-1080",
-   "ww": "rekenen",
+   "id": "bvd-2015",
+   "ww": "koken",
    "categorie": "bvd",
    "slot": "bvd.e",
    "regel": "bvd-e",
    "instinker": false,
-   "zin": "De ___ som klopte precies.",
-   "antwoord": "gerekende",
+   "zin": "Bij de ___ aardappels eten we sperziebonen.",
+   "antwoord": "gekookte",
    "afleiders": [
     {
-     "vorm": "gerekendte",
+     "vorm": "gekooktte",
      "soort": "b",
-     "patroon": "bvd-te-ipv-de"
+     "patroon": "bvd-extra-t"
     },
     {
-     "vorm": "gerekente",
+     "vorm": "gekookde",
      "soort": "b",
      "patroon": "bvd-t-d-omgedraaid"
     }
    ],
    "uitleg": {
-    "kort": "Het voltooid deelwoord is gerekend. Het hoort bij ‘som’. Er staat ‘de’ voor, dus komt er een -e achter. Zo krijg je: gerekende.",
+    "kort": "Het voltooid deelwoord is gekookt. Het hoort bij ‘aardappels’. Er staat ‘de’ voor, dus komt er een -e achter. Zo krijg je: gekookte.",
     "stappen": [
-     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘som’. Je gebruikt het als bijvoeglijk naamwoord.",
-     "De stam: ik reken.",
+     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘aardappels’. Je gebruikt het als bijvoeglijk naamwoord.",
+     "De stam: ik kook.",
      "De regel: Voltooid deelwoord bij een zelfstandig naamwoord: + e (de gemaakte afspraak). Geen -e als het op -en eindigt (het gebroken glas), en ook niet bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een gekookt ei, gekookt water)."
     ],
     "perAfleider": {
-     "gerekendte": "gerekendte: het voltooid deelwoord is gerekend, met een d. Daar komt een -e achter, geen -te.",
-     "gerekente": "gerekente: het voltooid deelwoord is gerekend. Dat eindigt op een d, en die blijft staan."
+     "gekooktte": "gekooktte: hier staat een t te veel. Het voltooid deelwoord is gekookt. Daar komt een -e achter, geen -te.",
+     "gekookde": "gekookde: het voltooid deelwoord is gekookt. Dat eindigt op een t, en die blijft staan."
     },
     "onthoud": "Voltooid deelwoord bij een zelfstandig naamwoord: meestal + e. Niet als het op -en eindigt, en niet bij een, geen of zo'n + het-woord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘som’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …).\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘aardappels’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …).\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
     "Voltooid deelwoord bij een zelfstandig naamwoord: + e (de gemaakte afspraak). Geen -e als het op -en eindigt (het gebroken glas), en ook niet bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een gekookt ei, gekookt water).\nVoorbeeld: De gemaakte afspraken staan in mijn agenda."
    ],
    "opties": [
-    "gerekendte",
-    "gerekente",
-    "gerekende"
+    "gekooktte",
+    "gekookde",
+    "gekookte"
    ],
    "goed": 2
   },
@@ -2571,5 +2571,5 @@
    "goed": 1
   }
  ],
- "hash": "da4c116a7ad852c0"
+ "hash": "11ddfa49db0f3a73"
 }

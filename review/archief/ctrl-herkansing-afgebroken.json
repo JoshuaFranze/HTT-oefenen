@@ -1,0 +1,79 @@
+{
+  "markeringen": [
+    {
+      "id": "inf-1085",
+      "ernst": "fout",
+      "reden": "Verkeerd werkwoord: bloemen bloeien, ze bloeden niet. 'De bloemen gaan snel bloeden' betekent dat de bloemen bloed verliezen. Vervang door een werkwoord dat op -den eindigt en hier wel past, of kies een andere zin. Bijvoorbeeld 'De wond gaat snel bloeden' (opties bloeden/bloedden/bloedt blijven dan werken)."
+    },
+    {
+      "id": "bvd-1104",
+      "ernst": "fout",
+      "reden": "De uitleg noemt het verkeerde zelfstandig naamwoord: 'Het hoort bij ‘koffer’.' Het bijvoeglijk gebruikte deelwoord hoort bij 'stickers' (De geplakte stickers). Verander dit in: 'Het hoort bij ‘stickers’. Er staat ‘de’ voor, dus komt er een -e achter.'"
+    },
+    {
+      "id": "bvd-1080",
+      "ernst": "twijfel",
+      "reden": "'De gerekende som' is geen gangbaar Nederlands. Gewoon is 'de uitgerekende som' of 'de berekende som'. Een student kan gaan twijfelen of 'gerekend' hier überhaupt kan. Voorstel: 'De uitgerekende som klopte precies' (opties uitgerekendte/uitgerekente/uitgerekende), of een andere zin met gerekend."
+    },
+    {
+      "id": "bvd-1108",
+      "ernst": "stijl",
+      "reden": "'De gedanste stappen kende ik nog' is een vreemde zin: je kent de passen vóórdat je ze danst, en bij dansen zeg je eerder 'passen'. Beter is bijvoorbeeld 'De gedanste tango was prachtig' of een ander zelfstandig naamwoord."
+    },
+    {
+      "id": "eng-1124",
+      "ernst": "stijl",
+      "reden": "'De gecoachte spelers trainen elke zaterdag' is inhoudelijk een beetje leeg, want alle spelers van een team worden gecoacht. Natuurlijker is bijvoorbeeld 'De goed gecoachte spelers wonnen de finale'."
+    },
+    {
+      "id": "bvd-1133",
+      "ernst": "stijl",
+      "reden": "Vreemde situatie: waarom zoek je in je mailbox naar 'een snel beantwoord bericht'? De spelling klopt wel. Natuurlijker: 'Ik kreeg een snel beantwoord bericht terug' of 'Het was een snel beantwoord verzoek'."
+    },
+    {
+      "id": "bvd-1004",
+      "ernst": "stijl",
+      "reden": "'Er staat een gemeld probleem in de lijst van de huismeester' is stroef. Natuurlijker is bijvoorbeeld 'De huismeester loste een gemeld probleem meteen op'."
+    },
+    {
+      "id": "bvd-2002",
+      "ernst": "stijl",
+      "reden": "'Ik las een geleend boek van mijn buurman' is een beetje stroef, al kan het wel. Natuurlijker: 'Ik las een geleend boek uit' of 'Ik las een van mijn buurman geleend boek'."
+    },
+    {
+      "id": "gw-1006",
+      "ernst": "stijl",
+      "reden": "'de verandering van het adres' is omslachtig. Natuurlijker: 'Meld je adreswijziging bij de sportclub' of 'Meld je nieuwe adres bij de sportclub'."
+    },
+    {
+      "id": "gw-1010",
+      "ernst": "stijl",
+      "reden": "'Antwoord ... aan de klas' is een ongebruikelijke combinatie. Natuurlijker: 'Antwoord gewoon in je eigen woorden' (zonder 'aan de klas')."
+    },
+    {
+      "id": "inf-1027",
+      "ernst": "stijl",
+      "reden": "In Nederland zeg je meestal 'je veters strikken' (of 'vastmaken'). 'Veters binden' kan wel, maar klinkt minder alledaags. Als binden moet blijven, kies dan een ander object, bijvoorbeeld 'Je moet de zak goed dichtbinden' of 'een touw goed vastbinden'."
+    },
+    {
+      "id": "od-1079",
+      "ernst": "stijl",
+      "reden": "'Een lopende man bracht de krant' is vreemd, want lopen is hier geen onderscheidend kenmerk. Natuurlijker is bijvoorbeeld 'Een lachende man bracht de krant'. De uitleg over het de-woord met 'een' blijft dan kloppen."
+    },
+    {
+      "id": "od-1053",
+      "ernst": "stijl",
+      "reden": "'De fietsende kinderen belden bij de buurman' is vreemd: belden ze aan terwijl ze fietsten? Bovendien zeg je meestal 'aanbellen'. Natuurlijker: 'De fietsende kinderen zwaaiden naar de buurman'."
+    },
+    {
+      "id": "vt-1065",
+      "ernst": "stijl",
+      "reden": "'bij elk vuurwerk' klinkt niet natuurlijk, want vuurwerk tel je niet. Beter: 'bij vuurwerk' of 'bij elke knal'."
+    },
+    {
+      "id": "eng-1087",
+      "ernst": "stijl",
+      "reden": "De lettergrepen in de uitleg (re-cyc-len) wijken af van de officiële afbreking re-cy-clen (Woordenlijst). Dat verandert de regel niet, maar het is beter om de afbreking correct te geven."
+    }
+  ]
+}

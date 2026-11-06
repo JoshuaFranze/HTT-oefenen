@@ -79,7 +79,6 @@
   {"id":"inf-1082","ww":"bewaren","slot":"inf","zin":"Je moet de brief goed ___.","sleutel":"moet"},
   {"id":"inf-1083","ww":"lachen","slot":"inf","zin":"Mijn zus moet erg ___.","sleutel":"moet"},
   {"id":"inf-1084","ww":"verbouwen","slot":"inf","zin":"Mijn ouders gaan de keuken ___.","sleutel":"gaan"},
-  {"id":"inf-1085","ww":"bloeden","slot":"inf","zin":"De bloemen gaan snel ___.","sleutel":"gaan"},
   {"id":"inf-1086","ww":"houden","slot":"inf","zin":"Je moet je aan de regels ___.","sleutel":"moet"},
   {"id":"inf-1087","ww":"vinden","slot":"inf","zin":"Ik kan mijn sleutels niet ___.","sleutel":"kan"},
   {"id":"inf-1089","ww":"beantwoorden","slot":"inf","zin":"Ik moet de vraag nog ___.","sleutel":"moet"},

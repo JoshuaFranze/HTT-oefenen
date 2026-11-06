@@ -2249,47 +2249,47 @@
    "goed": 2
   },
   {
-   "id": "inf-1085",
-   "ww": "bloeden",
+   "id": "inf-1064",
+   "ww": "leren",
    "categorie": "inf",
    "slot": "inf",
    "regel": "inf",
-   "instinker": true,
-   "zin": "De bloemen gaan snel ___.",
-   "antwoord": "bloeden",
+   "instinker": false,
+   "zin": "Mijn neefje wil vandaag veel ___.",
+   "antwoord": "leren",
    "afleiders": [
     {
-     "vorm": "bloedden",
-     "soort": "a",
-     "patroon": "inf-vt-gelijk"
+     "vorm": "leeren",
+     "soort": "b",
+     "patroon": "mv-dubbele-klinker"
     },
     {
-     "vorm": "bloedt",
+     "vorm": "leert",
      "soort": "a",
      "patroon": "inf-tt"
     }
    ],
    "uitleg": {
-    "kort": "Het hele werkwoord schrijf je zoals in het woordenboek: bloeden.",
+    "kort": "Het hele werkwoord schrijf je zoals in het woordenboek: leren.",
     "stappen": [
-     "Welke vorm? Na ‘gaan’ komt het hele werkwoord (de infinitief).",
+     "Welke vorm? Na ‘wil’ komt het hele werkwoord (de infinitief).",
      "De regel: Na een werkwoord als willen, moeten, kunnen, mogen, gaan, zullen of laten, of na te en om te, komt meestal het hele werkwoord (de infinitief). Staat er achteraan nog hebben, zijn of worden (het moet geverfd worden)? Dan is het een voltooid deelwoord."
     ],
     "perAfleider": {
-     "bloedden": "bloedden klinkt hetzelfde, maar dat is de verleden tijd meervoud. Na ‘gaan’ komt het hele werkwoord.",
-     "bloedt": "bloedt is een persoonsvorm. Na ‘gaan’ komt het hele werkwoord."
+     "leeren": "leeren: in leren hoor je een lange klank aan het eind van een lettergreep (le-ren). Dan schrijf je één klinker.",
+     "leert": "leert is een persoonsvorm. Na ‘wil’ komt het hele werkwoord."
     },
     "onthoud": "Na willen, moeten, kunnen, mogen, gaan, zullen of te komt meestal het hele werkwoord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "• Welk ander werkwoord staat er in de zin? Let op ‘gaan’.\n• Staat de open plek achteraan, bij dat werkwoord?\n• Welke vorm komt er na zo’n werkwoord?",
+    "• Welk ander werkwoord staat er in de zin? Let op ‘wil’.\n• Staat de open plek achteraan, bij dat werkwoord?\n• Welke vorm komt er na zo’n werkwoord?",
     "Na een werkwoord als willen, moeten, kunnen, mogen, gaan, zullen of laten, of na te en om te, komt meestal het hele werkwoord (de infinitief). Staat er achteraan nog hebben, zijn of worden (het moet geverfd worden)? Dan is het een voltooid deelwoord.\nVoorbeeld: Ik moet morgen tot vijf uur werken."
    ],
    "opties": [
-    "bloeden",
-    "bloedden",
-    "bloedt"
+    "leren",
+    "leeren",
+    "leert"
    ],
    "goed": 0
   },
@@ -2569,5 +2569,5 @@
    "goed": 0
   }
  ],
- "hash": "f1286ab0097d76a2"
+ "hash": "c49960df053199d5"
 }

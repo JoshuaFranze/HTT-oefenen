@@ -2523,51 +2523,51 @@
    "goed": 0
   },
   {
-   "id": "bvd-1133",
-   "ww": "beantwoorden",
+   "id": "bvd-2014",
+   "ww": "repareren",
    "categorie": "bvd",
-   "slot": "bvd.kaal",
-   "regel": "bvd-een-het",
-   "instinker": true,
-   "zin": "Ik zocht in mijn mailbox naar een snel ___ bericht.",
-   "antwoord": "beantwoord",
+   "slot": "bvd.e",
+   "regel": "bvd-e",
+   "instinker": false,
+   "zin": "Mijn vader haalde de ___ auto bij de garage.",
+   "antwoord": "gerepareerde",
    "afleiders": [
     {
-     "vorm": "beantwoorde",
-     "soort": "a",
-     "patroon": "bvd-e-teveel"
+     "vorm": "gerepareerdte",
+     "soort": "b",
+     "patroon": "bvd-te-ipv-de"
     },
     {
-     "vorm": "beantwoort",
+     "vorm": "gerepareerte",
      "soort": "b",
      "patroon": "bvd-t-d-omgedraaid"
     }
    ],
    "uitleg": {
-    "kort": "Het hoort bij een het-woord met ‘een’ ervoor (‘een bericht’). Dan komt er geen -e achter: beantwoord.",
+    "kort": "Het voltooid deelwoord is gerepareerd. Het hoort bij ‘auto’. Er staat ‘de’ voor, dus komt er een -e achter. Zo krijg je: gerepareerde.",
     "stappen": [
-     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘bericht’. Je gebruikt het als bijvoeglijk naamwoord.",
-     "De stam: ik beantwoord.",
-     "De regel: Voltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor (een gekookt ei, gekookt water): geen -e. Met het ervoor wel (het gekookte ei). Met mijn, dit of het ervoor komt er wel een -e."
+     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘auto’. Je gebruikt het als bijvoeglijk naamwoord.",
+     "De stam: ik repareer.",
+     "De regel: Voltooid deelwoord bij een zelfstandig naamwoord: + e (de gemaakte afspraak). Geen -e als het op -en eindigt (het gebroken glas), en ook niet bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een gekookt ei, gekookt water)."
     ],
     "perAfleider": {
-     "beantwoorde": "beantwoorde: na ‘een’ met een het-woord komt er geen -e achter.",
-     "beantwoort": "beantwoort: het voltooid deelwoord is beantwoord. Dat eindigt op een d, en die blijft staan."
+     "gerepareerdte": "gerepareerdte: het voltooid deelwoord is gerepareerd, met een d. Daar komt een -e achter, geen -te.",
+     "gerepareerte": "gerepareerte: het voltooid deelwoord is gerepareerd. Dat eindigt op een d, en die blijft staan."
     },
-    "onthoud": "Een, geen of zo'n + het-woord in het enkelvoud: geen -e erachter."
+    "onthoud": "Voltooid deelwoord bij een zelfstandig naamwoord: meestal + e. Niet als het op -en eindigt, en niet bij een, geen of zo'n + het-woord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘bericht’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …). Let op het voorvoegsel be- zonder klemtoon: dan geen ge-.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
-    "Voltooid deelwoord bij een het-woord in het enkelvoud met een, geen, zo'n, elk of veel ervoor, of zonder enig woordje ervoor (een gekookt ei, gekookt water): geen -e. Met het ervoor wel (het gekookte ei). Met mijn, dit of het ervoor komt er wel een -e.\nVoorbeeld: Ik eet elke ochtend een gekookt ei."
+    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘auto’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …).\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "Voltooid deelwoord bij een zelfstandig naamwoord: + e (de gemaakte afspraak). Geen -e als het op -en eindigt (het gebroken glas), en ook niet bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een gekookt ei, gekookt water).\nVoorbeeld: De gemaakte afspraken staan in mijn agenda."
    ],
    "opties": [
-    "beantwoord",
-    "beantwoorde",
-    "beantwoort"
+    "gerepareerde",
+    "gerepareerdte",
+    "gerepareerte"
    ],
    "goed": 0
   }
  ],
- "hash": "b72c135dab82599e"
+ "hash": "1424a5e0c0235abe"
 }

@@ -83,8 +83,8 @@ Kies bij elke zin de juist gespelde werkwoordsvorm (1, 2 of 3). Er is steeds pre
 **eng-2001** — Ik ___ vanavond een serie met mijn zus.  
 1. streamd   2. stream   3. streamen
 
-**bvd-1080** — De ___ som klopte precies.  
-1. gerekendte   2. gerekente   3. gerekende
+**bvd-2015** — Bij de ___ aardappels eten we sperziebonen.  
+1. gekooktte   2. gekookde   3. gekookte
 
 **inf-1026** — Ik hoop een leuke stageplek te ___.  
 1. vindt   2. vinden   3. gevonden
@@ -104,8 +104,8 @@ Kies bij elke zin de juist gespelde werkwoordsvorm (1, 2 of 3). Er is steeds pre
 **gw-1054** — ___ een compliment aan de kok.  
 1. Geeft   2. Geef   3. Geev
 
-**bvd-1133** — Ik zocht in mijn mailbox naar een snel ___ bericht.  
-1. beantwoord   2. beantwoorde   3. beantwoort
+**bvd-2014** — Mijn vader haalde de ___ auto bij de garage.  
+1. gerepareerde   2. gerepareerdte   3. gerepareerte
 
 **gw-1001** — ___ het bij de balie als er iets kwijt is.  
 1. Meldt   2. Meld   3. Melt
@@ -218,8 +218,8 @@ Kies bij elke zin de juist gespelde werkwoordsvorm (1, 2 of 3). Er is steeds pre
 **od-2022** — We merken de ___ prijzen in de winkel.  
 1. stijgend   2. stijgente   3. stijgende
 
-**inf-1085** — De bloemen gaan snel ___.  
-1. bloeden   2. bloedden   3. bloedt
+**inf-1064** — Mijn neefje wil vandaag veel ___.  
+1. leren   2. leeren   3. leert
 
 **bvd-012** — Alle ___ klachten worden serieus bekeken.  
 1. gemelde   2. gemeldte   3. gemelte

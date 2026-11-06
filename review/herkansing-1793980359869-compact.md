@@ -162,11 +162,11 @@ Uitleg: Bij ik schrijf je alleen de stam. Er komt geen t bij: stream.
 – streamd: bij ik schrijf je alleen de stam.  
 – streamen is het hele werkwoord. Dat gebruik je bij meervoud, maar ‘Ik’ is hier enkelvoud.  
 
-**bvd-1080** (bvd) De ___ som klopte precies.  
-1. gerekendte   2. gerekente   3. gerekende → **gerekende**  
-Uitleg: Het voltooid deelwoord is gerekend. Het hoort bij ‘som’. Er staat ‘de’ voor, dus komt er een -e achter. Zo krijg je: gerekende.  
-– gerekendte: het voltooid deelwoord is gerekend, met een d. Daar komt een -e achter, geen -te.  
-– gerekente: het voltooid deelwoord is gerekend. Dat eindigt op een d, en die blijft staan.  
+**bvd-2015** (bvd) Bij de ___ aardappels eten we sperziebonen.  
+1. gekooktte   2. gekookde   3. gekookte → **gekookte**  
+Uitleg: Het voltooid deelwoord is gekookt. Het hoort bij ‘aardappels’. Er staat ‘de’ voor, dus komt er een -e achter. Zo krijg je: gekookte.  
+– gekooktte: hier staat een t te veel. Het voltooid deelwoord is gekookt. Daar komt een -e achter, geen -te.  
+– gekookde: het voltooid deelwoord is gekookt. Dat eindigt op een t, en die blijft staan.  
 
 **inf-1026** (inf) Ik hoop een leuke stageplek te ___.  
 1. vindt   2. vinden   3. gevonden → **vinden**  
@@ -204,11 +204,11 @@ Uitleg: De gebiedende wijs is de stam: geef.
 – Geeft is de vorm voor hij of zij. Een opdracht zonder onderwerp schrijf je met alleen de stam.  
 – Geev: de stam schrijf je met een f (geef), niet met een v.  
 
-**bvd-1133** (bvd, instinker) Ik zocht in mijn mailbox naar een snel ___ bericht.  
-1. beantwoord   2. beantwoorde   3. beantwoort → **beantwoord**  
-Uitleg: Het hoort bij een het-woord met ‘een’ ervoor (‘een bericht’). Dan komt er geen -e achter: beantwoord.  
-– beantwoorde: na ‘een’ met een het-woord komt er geen -e achter.  
-– beantwoort: het voltooid deelwoord is beantwoord. Dat eindigt op een d, en die blijft staan.  
+**bvd-2014** (bvd) Mijn vader haalde de ___ auto bij de garage.  
+1. gerepareerde   2. gerepareerdte   3. gerepareerte → **gerepareerde**  
+Uitleg: Het voltooid deelwoord is gerepareerd. Het hoort bij ‘auto’. Er staat ‘de’ voor, dus komt er een -e achter. Zo krijg je: gerepareerde.  
+– gerepareerdte: het voltooid deelwoord is gerepareerd, met een d. Daar komt een -e achter, geen -te.  
+– gerepareerte: het voltooid deelwoord is gerepareerd. Dat eindigt op een d, en die blijft staan.  
 
 **gw-1001** (gw, instinker) ___ het bij de balie als er iets kwijt is.  
 1. Meldt   2. Meld   3. Melt → **Meld**  
@@ -432,11 +432,11 @@ Uitleg: Het hoort bij het zelfstandig naamwoord ‘prijzen’. Er staat ‘de’
 – stijgend: het hoort bij ‘prijzen’. Dan komt er een -e achter.  
 – stijgente: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent.  
 
-**inf-1085** (inf, instinker) De bloemen gaan snel ___.  
-1. bloeden   2. bloedden   3. bloedt → **bloeden**  
-Uitleg: Het hele werkwoord schrijf je zoals in het woordenboek: bloeden.  
-– bloedden klinkt hetzelfde, maar dat is de verleden tijd meervoud. Na ‘gaan’ komt het hele werkwoord.  
-– bloedt is een persoonsvorm. Na ‘gaan’ komt het hele werkwoord.  
+**inf-1064** (inf) Mijn neefje wil vandaag veel ___.  
+1. leren   2. leeren   3. leert → **leren**  
+Uitleg: Het hele werkwoord schrijf je zoals in het woordenboek: leren.  
+– leeren: in leren hoor je een lange klank aan het eind van een lettergreep (le-ren). Dan schrijf je één klinker.  
+– leert is een persoonsvorm. Na ‘wil’ komt het hele werkwoord.  
 
 **bvd-012** (bvd) Alle ___ klachten worden serieus bekeken.  
 1. gemelde   2. gemeldte   3. gemelte → **gemelde**  
