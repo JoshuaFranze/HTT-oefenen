@@ -864,6 +864,26 @@
    "slot": "inf",
    "zin": "De bloemen gaan snel ___.",
    "sleutel": "gaan"
+  },
+  {
+   "id": "bvd-1108",
+   "ww": "dansen",
+   "slot": "bvd.e",
+   "zin": "De ___ stappen kende ik nog.",
+   "sleutel": "stappen"
+  },
+  {
+   "id": "gw-1010",
+   "ww": "antwoorden",
+   "slot": "gw",
+   "zin": "___ gewoon in eigen woorden aan de klas."
+  },
+  {
+   "id": "od-1053",
+   "ww": "fietsen",
+   "slot": "od.e",
+   "zin": "De ___ kinderen belden bij de buurman.",
+   "sleutel": "kinderen"
   }
  ]
 }

@@ -71,6 +71,8 @@
   {"id": "vt-2009", "ww": "verbouwen", "slot": "vt.mv", "zin": "Vorige maand ___ mijn buren hun keuken.", "sleutel": "mijn buren", "tijd": "Vorige maand"},
   {"id": "vt-2010", "ww": "tekenen", "slot": "vt.ev", "zin": "Vorige week ___ mijn tante een tekening van onze tuin.", "sleutel": "mijn tante", "tijd": "Vorige week"},
   {"id": "gw-2001", "ww": "kiezen", "slot": "gw", "zin": "___ rustig een plek waar je alles goed kunt zien."},
-  {"id": "gw-2002", "ww": "scheiden", "slot": "gw", "zin": "___ het papier en het plastic in twee aparte zakken."}
+  {"id": "gw-2002", "ww": "scheiden", "slot": "gw", "zin": "___ het papier en het plastic in twee aparte zakken."},
+  {"id": "gw-2003", "ww": "verbreden", "slot": "gw", "zin": "___ je kennis en lees eens een boek over een ander land."},
+  {"id": "gw-2004", "ww": "wrijven", "slot": "gw", "zin": "___ de zonnebrandcrème goed uit over je armen."}
  ]
 }

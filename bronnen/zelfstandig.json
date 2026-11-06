@@ -2256,6 +2256,17 @@
    "het": false,
    "de": true
   },
+  "stickers": {
+   "lemmas": [
+    {
+     "lemma": "sticker",
+     "pos": "NOU-C(gender=m,number=sg)"
+    }
+   ],
+   "enkelvoud": false,
+   "het": false,
+   "de": false
+  },
   "stoelen": {
    "lemmas": [
     {

@@ -599,48 +599,48 @@
    "goed": 0
   },
   {
-   "id": "gw-1010",
-   "ww": "antwoorden",
+   "id": "gw-2003",
+   "ww": "verbreden",
    "categorie": "gw",
    "slot": "gw",
    "regel": "gw-d",
    "instinker": true,
-   "zin": "___ gewoon in eigen woorden aan de klas.",
-   "antwoord": "Antwoord",
+   "zin": "___ je kennis en lees eens een boek over een ander land.",
+   "antwoord": "Verbreed",
    "afleiders": [
     {
-     "vorm": "Antwoordt",
+     "vorm": "Verbreedt",
      "soort": "a",
      "patroon": "gw-met-t"
     },
     {
-     "vorm": "Antwoort",
+     "vorm": "Verbreet",
      "soort": "b",
      "patroon": "gw-d-als-t"
     }
    ],
    "uitleg": {
-    "kort": "De gebiedende wijs is de stam. Er komt geen t bij. De stam is antwoord, met een d: antwoord.",
+    "kort": "De gebiedende wijs is de stam. Er komt geen t bij. De stam is verbreed, met een d: verbreed.",
     "stappen": [
-     "Welke vorm? Dit is een opdracht zonder onderwerp. Dat heet de gebiedende wijs.",
-     "De stam: ik antwoord.",
+     "Welke vorm? Dit is een opdracht zonder onderwerp. Dat heet de gebiedende wijs. Het ‘je’ achter het werkwoord hoort bij de opdracht; het is geen onderwerp.",
+     "De stam: ik verbreed.",
      "De regel: Een gebiedende wijs is de stam, zonder extra t. Ook als de stam op d eindigt."
     ],
     "perAfleider": {
-     "Antwoordt": "Antwoordt is de vorm voor hij of zij. Een opdracht zonder onderwerp schrijf je met alleen de stam.",
-     "Antwoort": "Antwoort: je hoort een t, maar de stam is antwoord, met een d."
+     "Verbreedt": "Verbreedt is de vorm voor hij of zij. Een opdracht zonder onderwerp schrijf je met alleen de stam.",
+     "Verbreet": "Verbreet: je hoort een t, maar de stam is verbreed, met een d."
     },
     "onthoud": "Een opdracht schrijf je met alleen de stam, ook bij een stam op d."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "• Is dit een opdracht zonder onderwerp (geen jij of u erbij)?\n• Wat is de stam (ik …)?\n• Welke vorm hoort bij een opdracht?",
+    "• Is dit een opdracht zonder onderwerp? Het ‘je’ achter het werkwoord is geen onderwerp.\n• Wat is de stam (ik …)?\n• Welke vorm hoort bij een opdracht?",
     "Een gebiedende wijs is de stam, zonder extra t. Ook als de stam op d eindigt.\nVoorbeeld: Word nou niet meteen boos."
    ],
    "opties": [
-    "Antwoordt",
-    "Antwoord",
-    "Antwoort"
+    "Verbreedt",
+    "Verbreed",
+    "Verbreet"
    ],
    "goed": 1
   },
@@ -1058,47 +1058,47 @@
    "goed": 0
   },
   {
-   "id": "od-1053",
-   "ww": "fietsen",
+   "id": "od-1083",
+   "ww": "rijden",
    "categorie": "od",
    "slot": "od.e",
    "regel": "od-e",
    "instinker": false,
-   "zin": "De ___ kinderen belden bij de buurman.",
-   "antwoord": "fietsende",
+   "zin": "Een ___ bus stopte voor de school.",
+   "antwoord": "rijdende",
    "afleiders": [
     {
-     "vorm": "fietsend",
+     "vorm": "rijdend",
      "soort": "a",
      "patroon": "od-e-vergeten"
     },
     {
-     "vorm": "fietsente",
+     "vorm": "rijdente",
      "soort": "b",
      "patroon": "od-t-ipv-d"
     }
    ],
    "uitleg": {
-    "kort": "Het hoort bij het zelfstandig naamwoord ‘kinderen’. Er staat ‘de’ voor, dus komt er een -e achter. Zo krijg je: fietsende.",
+    "kort": "Het hoort bij het zelfstandig naamwoord ‘bus’. Er staat ‘een’ voor, maar ‘bus’ is een de-woord. Dan komt er wel een -e achter. Zo krijg je: rijdende.",
     "stappen": [
-     "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij het zelfstandig naamwoord ‘kinderen’.",
+     "Welke vorm? Dit is een onvoltooid deelwoord (hele werkwoord + d). Het hoort bij het zelfstandig naamwoord ‘bus’.",
      "De regel: Onvoltooid deelwoord: hele werkwoord + d. Hoort het bij een zelfstandig naamwoord (de huilende peuter)? Dan komt er een -e achter. Behalve bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een huilend kind, kokend water)."
     ],
     "perAfleider": {
-     "fietsend": "fietsend: het hoort bij ‘kinderen’. Dan komt er een -e achter.",
-     "fietsente": "fietsente: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent."
+     "rijdend": "rijdend: het hoort bij ‘bus’. Dan komt er een -e achter.",
+     "rijdente": "rijdente: een onvoltooid deelwoord is het hele werkwoord + d. Dus -end, niet -ent."
     },
     "onthoud": "Onvoltooid deelwoord bij een zelfstandig naamwoord: meestal -ende. Niet bij een, geen of zo'n + het-woord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "• Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\n• Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘kinderen’.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "• Eindigt het werkwoord op -end? Dan is het een onvoltooid deelwoord.\n• Hoort het bij een zelfstandig naamwoord, of staat het los in de zin? Let op ‘bus’.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
     "Onvoltooid deelwoord: hele werkwoord + d. Hoort het bij een zelfstandig naamwoord (de huilende peuter)? Dan komt er een -e achter. Behalve bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een huilend kind, kokend water).\nVoorbeeld: De huilende peuter wilde zijn knuffel."
    ],
    "opties": [
-    "fietsend",
-    "fietsente",
-    "fietsende"
+    "rijdend",
+    "rijdente",
+    "rijdende"
    ],
    "goed": 2
   },
@@ -2571,5 +2571,5 @@
    "goed": 2
   }
  ],
- "hash": "59b758167ba378ea"
+ "hash": "43992a3eb0a9ee5a"
 }

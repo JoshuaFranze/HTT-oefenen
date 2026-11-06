@@ -331,7 +331,7 @@
    "slot": "vt.mv",
    "regel": "vt-stam-t",
    "instinker": true,
-   "zin": "Na de lange wandeling van gisteren ___ we even op een bankje.",
+   "zin": "Gisteren ___ we na de lange wandeling even op een bankje.",
    "antwoord": "rustten",
    "afleiders": [
     {
@@ -348,19 +348,19 @@
    "uitleg": {
     "kort": "rusten is een zwak werkwoord en de stam rust eindigt op een t. Die zit in 't kofschip, dus -ten: rust + ten = rustten. Daarom staan er twee t's.",
     "stappen": [
-     "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘gisteren’). Het onderwerp is ‘we’.",
+     "Welke vorm? Dit is de persoonsvorm in de verleden tijd (dat zie je aan ‘Gisteren’). Het onderwerp is ‘we’.",
      "De stam: ik rust.",
      "De regel: Zwak werkwoord met een stam op t? Dan stam + te. Zo krijg je twee t's."
     ],
     "perAfleider": {
-     "rusten": "rusten klinkt hetzelfde, maar dat is de tegenwoordige tijd. Let op ‘gisteren’: het gebeurde in het verleden.",
+     "rusten": "rusten klinkt hetzelfde, maar dat is de tegenwoordige tijd. Let op ‘Gisteren’: het gebeurde in het verleden.",
      "rustden": "rustden: kijk nog eens naar 't kofschip. De laatste letter van de stam is een t. Die zit in 't kofschip, dus -te. Bij meervoud komt er nog een -n achter."
     },
     "onthoud": "Zwak werkwoord met een stam op t: + te geeft tt. Dat hoort zo."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "• Speelt het zich nu af of in het verleden? Let op ‘gisteren’.\n• Zeg: gisteren … ik. Hoor je -te of -de? Dan is het een zwak werkwoord.\n• Wat is de stam, en eindigt die op t, k, f, s, ch, p of x? Is het onderwerp meervoud? Dan komt er nog een -n achter.",
+    "• Speelt het zich nu af of in het verleden? Let op ‘Gisteren’.\n• Zeg: gisteren … ik. Hoor je -te of -de? Dan is het een zwak werkwoord.\n• Wat is de stam, en eindigt die op t, k, f, s, ch, p of x? Is het onderwerp meervoud? Dan komt er nog een -n achter.",
     "Zwak werkwoord met een stam op t? Dan stam + te. Zo krijg je twee t's.\nVoorbeeld: Hij zette de vaas op tafel."
    ],
    "opties": [
@@ -2571,5 +2571,5 @@
    "goed": 2
   }
  ],
- "hash": "585dbb9170bc6232"
+ "hash": "c398129bb981da1a"
 }

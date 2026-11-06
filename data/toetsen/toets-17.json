@@ -644,48 +644,48 @@
    "goed": 2
   },
   {
-   "id": "bvd-1108",
-   "ww": "dansen",
+   "id": "bvd-2019",
+   "ww": "schoonmaken",
    "categorie": "bvd",
    "slot": "bvd.e",
    "regel": "bvd-e",
    "instinker": false,
-   "zin": "De ___ stappen kende ik nog.",
-   "antwoord": "gedanste",
+   "zin": "In de ___ keuken ruikt het lekker.",
+   "antwoord": "schoongemaakte",
    "afleiders": [
     {
-     "vorm": "gedanstte",
+     "vorm": "schoongemaaktte",
      "soort": "b",
      "patroon": "bvd-extra-t"
     },
     {
-     "vorm": "gedansde",
+     "vorm": "schoongemaakde",
      "soort": "b",
      "patroon": "bvd-t-d-omgedraaid"
     }
    ],
    "uitleg": {
-    "kort": "Het voltooid deelwoord is gedanst. Het hoort bij ‘stappen’. Er staat ‘de’ voor, dus komt er een -e achter. Zo krijg je: gedanste.",
+    "kort": "Schoonmaken is scheidbaar, dus de ge- komt in het midden. Het voltooid deelwoord is schoongemaakt. Het hoort bij ‘keuken’. Er staat ‘de’ voor, dus komt er een -e achter. Zo krijg je: schoongemaakte.",
     "stappen": [
-     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘stappen’. Je gebruikt het als bijvoeglijk naamwoord.",
-     "De stam: ik dans.",
+     "Welke vorm? Het voltooid deelwoord hoort hier bij het zelfstandig naamwoord ‘keuken’. Je gebruikt het als bijvoeglijk naamwoord.",
+     "De stam: ik maak schoon.",
      "De regel: Voltooid deelwoord bij een zelfstandig naamwoord: + e (de gemaakte afspraak). Geen -e als het op -en eindigt (het gebroken glas), en ook niet bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een gekookt ei, gekookt water)."
     ],
     "perAfleider": {
-     "gedanstte": "gedanstte: hier staat een t te veel. Het voltooid deelwoord is gedanst. Daar komt een -e achter, geen -te.",
-     "gedansde": "gedansde: het voltooid deelwoord is gedanst. Dat eindigt op een t, en die blijft staan."
+     "schoongemaaktte": "schoongemaaktte: hier staat een t te veel. Het voltooid deelwoord is schoongemaakt. Daar komt een -e achter, geen -te.",
+     "schoongemaakde": "schoongemaakde: het voltooid deelwoord is schoongemaakt. Dat eindigt op een t, en die blijft staan."
     },
     "onthoud": "Voltooid deelwoord bij een zelfstandig naamwoord: meestal + e. Niet als het op -en eindigt, en niet bij een, geen of zo'n + het-woord."
    },
    "hints": [
     "Welke vorm of tijd is dit? Let op de woorden om de open plek heen.",
-    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘stappen’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …).\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
+    "• Hoort het werkwoord bij een zelfstandig naamwoord? Let op ‘keuken’.\n• Wat is het voltooid deelwoord? Maak de zin: het is … (of: ik heb …). Is het werkwoord scheidbaar? Dan komt de ge- in het midden.\n• Bij welk zelfstandig naamwoord hoort het? Is dat een het-woord in het enkelvoud, met een, geen of zo’n ervoor of zonder lidwoord? Dan geen -e. Anders wel een -e.",
     "Voltooid deelwoord bij een zelfstandig naamwoord: + e (de gemaakte afspraak). Geen -e als het op -en eindigt (het gebroken glas), en ook niet bij een het-woord in het enkelvoud met een, geen of zo'n ervoor of zonder lidwoord (een gekookt ei, gekookt water).\nVoorbeeld: De gemaakte afspraken staan in mijn agenda."
    ],
    "opties": [
-    "gedanste",
-    "gedanstte",
-    "gedansde"
+    "schoongemaakte",
+    "schoongemaaktte",
+    "schoongemaakde"
    ],
    "goed": 0
   },
@@ -2569,5 +2569,5 @@
    "goed": 0
   }
  ],
- "hash": "c49960df053199d5"
+ "hash": "ab92bc34da64ae59"
 }
